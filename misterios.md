@@ -10,8 +10,8 @@ tags:
 - A origem e o significado dos murmúrios que Klein Moretti ouviu ao recuperar a consciência.
 - A relação entre o [[Ritual de Aumento de Sorte]] realizado na Terra e a transmigração de Zhou Mingrui.
 - A quantidade reduzida de sangue no local da morte de Klein Moretti, apesar do ferimento penetrante na têmpora.
-- A possibilidade de Zhou Mingrui retornar à Terra através da repetição do [[Ritual de Aumento de Sorte]].
 - A cicatrização completa e imediata do ferimento de bala na têmpora de [[Klein Moretti]] sem deixar cicatrizes.
 - O fato de [[Melissa Moretti]], mesmo dormindo no quarto ao lado, não ter ouvido o disparo do [[Revólver de Latão]] na noite da morte de [[Klein Moretti]].
 - A suspeita de [[Klein Moretti]] de que [[Roselle Gustav]] possa ter sido um transmigrador anterior vindo da Terra.
-
+- A natureza do espaço da [[Névoa Cinza]] e a origem das estrelas carmesins.
+- O motivo de o [[Ritual de Aumento de Sorte]] ter conectado as consciências de [[Klein Moretti]], [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]].

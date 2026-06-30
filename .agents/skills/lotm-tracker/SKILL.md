@@ -185,7 +185,7 @@ Organiza a hierarquia e as relações geopolíticas descobertas ao longo da leit
 
 A IA deve operar com **memória externa zero** sobre a obra. Finja desconhecer o enredo, o destino dos personagens, os caminhos e as regras do sistema de magia além do que está explicitamente documentado no vault e no capítulo atual.
 
-### 5.2 Anti-Spoiler Check (Pré-Salvamento)
+### 5.2 Checklists de Pré-Salvamento e Estruturação
 
 Antes de criar ou modificar qualquer nota, o agente DEVE verificar mentalmente:
 
@@ -194,6 +194,7 @@ Antes de criar ou modificar qualquer nota, o agente DEVE verificar mentalmente:
 - [ ] **Sem classificações prematuras:** Tags de organização, caminho ou divindade só são adicionadas se o texto afirmou explicitamente a afiliação.
 - [ ] **Tag checking:** Nenhuma tag adicionada vai além do que o texto atual revela.
 - [ ] **Nomeação conservadora:** Use o nome exato do texto. Não traduza se a tradução oficial não foi apresentada.
+- [ ] **Evolução Narrativa H3:** Se a nota for de um personagem e sua seção `## Evolução narrativa` possuir 3 ou mais parágrafos de texto no total, ela foi obrigatoriamente reestruturada em subseções H3 organizadas por fases lógicas.
 
 ### 5.3 Recusa Consciente
 
@@ -291,7 +292,8 @@ Para cada entidade lida no lazy-read (EXISTENTES), realizar o merge mental:
 
 1. Incorporar as novas informações do capítulo à nota existente.
 2. Respeitar a **Perspectiva Interna** (para personagens) e demais regras de formatação.
-3. Manter o conteúdo final do merge disponível mentalmente para o buffer.
+3. Para notas de personagens: contar o total de parágrafos acumulados na evolução narrativa. Se houver 3 ou mais parágrafos, estruture obrigatoriamente a seção com subseções H3 por fases lógicas.
+4. Manter o conteúdo final do merge disponível mentalmente para o buffer.
 
 ##### 6.1.7 Mapeamento de Mistérios e Hipóteses
 

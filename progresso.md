@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 4 - Adivinhação
+- **Último Capítulo Processado:** Capítulo 5 - Ritual
