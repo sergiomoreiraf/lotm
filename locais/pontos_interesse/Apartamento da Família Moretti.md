@@ -14,6 +14,7 @@ O apartamento de dois quartos em que a família Moretti reside, localizado na [[
 
 - Klein Moretti acorda no quarto após transmigrar para o corpo e descobrir que havia morrido com um tiro na têmpora.
 - Klein Moretti ativa o medidor de gás com um [[Centavo de Cobre]] para iluminar o quarto, realiza a limpeza das marcas de sangue e recupera uma bala alojada na parede.
+- Klein recupera-se da exaustão do ritual de aumento de sorte, alimenta-se e lê suas anotações pessoais de diário para investigar seu passado.
 
 ## Proprietários e Frequentadores
 

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 8 - Uma Nova Era
+- **Último Capítulo Processado:** Capítulo 9 - O Caderno

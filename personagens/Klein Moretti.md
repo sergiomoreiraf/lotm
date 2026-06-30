@@ -31,3 +31,7 @@ Recebe a leitura de tarô que revela "O Tolo" como sua carta do presente. Realiz
 Adota a identidade de [[Klein Moretti|O Tolo]] perante [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]], manifestando um palácio com uma mesa de bronze por meio de sua mente. Aceita testemunhar o comércio de fórmulas Beyonder entre ambos.
 
 Concorda em estabelecer encontros semanais nas segundas-feiras, às três da tarde, permitindo a criação do [[Clube de Tarô]] sob a liderança de seu alter-ego, [[Klein Moretti|O Tolo]]. Ao retornar a seu apartamento físico, aceita sua nova vida como Klein Moretti, decidindo suspender novas tentativas de rituais de sorte devido a dores de cabeça intensas e aos perigos do misticismo.
+
+### Investigando o Passado e o Caderno
+
+Recupera-se do ritual e nota quatro manchas pretas formando um quadrado na mão que depois desaparecem, associando-as às ofertas de alimentos. Decide pesquisar seu diário acadêmico e descobre que seu colega [[Welch McGovern]] adquiriu o [[Caderno da Família Antigonus]] da [[Quarta Época]]. Determina investigar a residência de Welch para desvendar as circunstâncias de seu próprio suicídio, apesar dos perigos que isso possa acarretar.

@@ -11,11 +11,17 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
 
 - [[Continente Norte]]
   - [[Reino Loen]]
+    - [[Midseashire]]
+      - [[Cidade Constant]]
     - [[Cidade Tingen]]
     - [[Backlund]]
     - [[Porto Pritz]]
   - [[Império Intis]]
+  - [[Império Solomon]]
+  - [[Cadeia de Montanhas Hornacis]]
+    - [[Nação da Noite Eterna]]
 - [[Continente Sul]]
+  - [[Império Balam]]
 
 ## Mares e Regiões Marítimas
 

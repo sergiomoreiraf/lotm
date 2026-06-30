@@ -20,3 +20,7 @@ tags:
 - Os mistérios por trás das vinte e duas cartas de papel criadas pelo Imperador [[Roselle Gustav]] e sua ligação com os vinte e dois caminhos do divino.
 - A origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
 - Os segredos e a origem do [[Navio Fantasma da Era Tudor]], que navega sem tripulação visível e cujas paredes de madeira se reparam sozinhas.
+- A origem das quatro manchas pretas em forma de quadrado que surgiram nas costas da mão de [[Klein Moretti]] e sua relação com os alimentos do ritual.
+- O conteúdo secreto e o destino do [[Caderno da Família Antigonus]] da [[Quarta Época]] obtido por [[Welch McGovern]].
+- Os segredos e a sobrevivência dos habitantes da [[Nação da Noite Eterna]] no cume da [[Cadeia de Montanhas Hornacis]].
+- O mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].

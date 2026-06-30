@@ -148,7 +148,7 @@ Mantém a evolução narrativa dos personagens ao longo da leitura.
   > [!NOTE] Exemplo de Condensação Narrativa
   > - **Evite detalhismo:** *"Acorda pontualmente às 6:00 para preparar o desjejum da família. Ela tem 15 anos e frequenta o departamento de Vapor e Maquinaria da [[Escola Técnica de Tingen]] desde julho do ano anterior, sonhando em se tornar uma mecânica. Demonstrando grande habilidade para reparos, conserta o [[Relógio de Bolso de Prata]] de seu pai e ensina Klein a dar corda corretamente. Prepara o desjejum simples e instrui firmemente o irmão a comprar pão fresco (oito libras), carne de carneiro e ervilhas para a vinda de Benson no domingo, antes de caminhar 50 minutos a pé para economizar a passagem de carruagem a caminho de suas aulas."*
   > - **Prefira o formato ultra-condensado:** *"Ela tem 15 anos. Frequenta o departamento de Vapor e Maquinaria da [[Escola Técnica de Tingen]]. Demonstra grande habilidade para reparos."*
-- **Evolução Narrativa Extensa:** Se a seção `## Evolução narrativa` de um personagem acumular 3 ou mais parágrafos de texto (ou descrever eventos de 3 ou mais blocos de capítulos/fases distintas), ela deve ser obrigatoriamente estruturada em subseções H3 organizadas por fases lógicas. As subseções H3 são estágios intermediários antes de uma eventual promoção a MOC, e o conteúdo ainda reside na mesma nota.
+- **Evolução Narrativa Extensa:** Se a seção `## Evolução narrativa` de um personagem acumular 5 ou mais parágrafos de texto (ou descrever eventos de 5 ou mais blocos de capítulos/fases distintas), ela deve ser obrigatoriamente estruturada em subseções H3 organizadas por fases lógicas. As subseções H3 são estágios intermediários antes de uma eventual promoção a MOC, e o conteúdo ainda reside na mesma nota.
 
 - **Formato de Personagem MOC:** Como alternativa para personagens com volume narrativo muito alto, eles podem receber uma pasta dedicada em `personagens/[pasta]/`, onde a nota principal se torna um MOC (Map of Content) com links para subnotas atômicas (ex: `personagens/klein-moretti/`).
 
@@ -194,7 +194,7 @@ Antes de criar ou modificar qualquer nota, o agente DEVE verificar mentalmente:
 - [ ] **Sem classificações prematuras:** Tags de organização, caminho ou divindade só são adicionadas se o texto afirmou explicitamente a afiliação.
 - [ ] **Tag checking:** Nenhuma tag adicionada vai além do que o texto atual revela.
 - [ ] **Nomeação conservadora:** Use o nome exato do texto. Não traduza se a tradução oficial não foi apresentada.
-- [ ] **Evolução Narrativa H3:** Se a nota for de um personagem e sua seção `## Evolução narrativa` possuir 3 ou mais parágrafos de texto no total, ela foi obrigatoriamente reestruturada em subseções H3 organizadas por fases lógicas.
+- [ ] **Evolução Narrativa H3:** Se a nota for de um personagem e sua seção `## Evolução narrativa` possuir 5 ou mais parágrafos de texto no total, ela foi obrigatoriamente reestruturada em subseções H3 organizadas por fases lógicas.
 
 ### 5.3 Recusa Consciente
 
@@ -292,7 +292,7 @@ Para cada entidade lida no lazy-read (EXISTENTES), realizar o merge mental:
 
 1. Incorporar as novas informações do capítulo à nota existente.
 2. Respeitar a **Perspectiva Interna** (para personagens) e demais regras de formatação.
-3. Para notas de personagens: contar o total de parágrafos acumulados na evolução narrativa. Se houver 3 ou mais parágrafos, estruture obrigatoriamente a seção com subseções H3 por fases lógicas.
+3. Para notas de personagens: contar o total de parágrafos acumulados na evolução narrativa. Se houver 5 ou mais parágrafos, estruture obrigatoriamente a seção com subseções H3 por fases lógicas.
 4. Manter o conteúdo final do merge disponível mentalmente para o buffer.
 
 ##### 6.1.7 Mapeamento de Mistérios e Hipóteses

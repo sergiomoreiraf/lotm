@@ -15,3 +15,7 @@ Uma instituição de ensino superior localizada na [[Cidade Tingen]].
 ## Proprietários e Frequentadores
 
 - [[Klein Moretti]]
+- [[Welch McGovern]]
+- [[Naya]]
+- [[Azik]]
+- [[Cohen]]
