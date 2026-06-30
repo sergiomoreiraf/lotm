@@ -1,0 +1,6 @@
+workspace.json
+.prompt*.md
+.obsidian/workspace.json
+
+# Buffer temporário de processamento de capítulos (lotm-tracker)
+.agents/tmp/

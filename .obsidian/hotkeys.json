@@ -1,0 +1,25 @@
+{
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": []
+}
