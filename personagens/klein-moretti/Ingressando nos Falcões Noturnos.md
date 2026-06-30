@@ -16,3 +16,5 @@ Comparece à [[Companhia de Segurança Espinho Negro]] e assina o contrato de ci
 Aprende com [[Dunn Smith]] os detalhes do mito da criação, o simbolismo da lua carmesim para a [[Deusa da Noite Eterna]] e o sistema de Sequências Beyonder. É alertado sobre as formas de perder o controle e a importância da misteriosa [[Ardósia da Blasfêmia]].
 
 Aprende sobre os riscos de perda de controle e a escala de Sequências de 9 a 1. Recebe a diretriz de patrulhar as ruas entre a [[Residência de Welch McGovern]] e sua moradia para tentar recuperar memórias do [[Caderno da Família Antigonus]], além de ler literatura mística no arsenal.
+
+Recebe um adiantamento de doze libras da contadora [[Orianna]] e é autorizado por [[Dunn Smith]] a praticar tiro diariamente no [[Campo de Tiro da Rua Zouteland]], além de obter balas anti-demônio com o [[Velho Neil]]. Ao se apresentar ao [[Velho Neil]] no arsenal, depara-se com cópias do diário de [[Roselle Gustav]] e descobre com surpresa que os símbolos misteriosos foram escritos em caracteres chineses.

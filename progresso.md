@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 19 - Portão Chanis e Artefatos Selados
+- **Último Capítulo Processado:** Capítulo 20 - Chinês

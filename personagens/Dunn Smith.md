@@ -31,4 +31,4 @@ Formaliza a contratação de [[Klein Moretti]] como funcionário civil sob um co
 
 Instrui [[Klein Moretti]] sobre o mito da criação, as cinco formas de perda de controle de um Beyonder e a origem mística das poções. Revela a existência da [[Ardósia da Blasfêmia]] e cita a filosofia do [[Arcebispo Chanis]] sobre a loucura e o dever dos guardiões.
 
-Explica a divisão do pessoal de apoio civil e o funcionamento do [[Portão Chanis]]. Orienta Klein a patrulhar as ruas em busca do diário desaparecido e a ler no arsenal, alertando-o sobre o ex-arcebispo traidor [[Ince Zangwill]], que fugiu com o [[Artefato Selado 0-08]].
+Explica a divisão do pessoal de apoio civil e o funcionamento do [[Portão Chanis]]. Orienta Klein a patrulhar as ruas em busca do diário desaparecido e a ler no arsenal, alertando-o sobre o ex-arcebispo traidor [[Ince Zangwill]], que fugiu com o [[Artefato Selado 0-08]]. Autoriza um adiantamento salarial de doze libras para Klein e emite uma permissão para que ele treine tiro diariamente no [[Campo de Tiro da Rua Zouteland]] e colete munição especial com o [[Velho Neil]].

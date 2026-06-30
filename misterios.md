@@ -12,7 +12,6 @@ tags:
 - A quantidade reduzida de sangue no local da morte de Klein Moretti, apesar do ferimento penetrante na têmpora.
 - A cicatrização completa e imediata do ferimento de bala na têmpora de [[Klein Moretti]] sem deixar cicatrizes.
 - O fato de [[Melissa Moretti]], mesmo dormindo no quarto ao lado, não ter ouvido o disparo do [[Revólver de Latão]] na noite da morte de [[Klein Moretti]].
-- A suspeita de [[Klein Moretti]] de que [[Roselle Gustav]] possa ter sido um transmigrador anterior vindo da Terra.
 - A natureza do espaço da [[Névoa Cinza]] e a origem das estrelas carmesins.
 - O motivo de o [[Ritual de Aumento de Sorte]] realizado ter conectado as consciências de [[Klein Moretti]], [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]].
 - As regras de atuação associadas às poções Beyonder, como a recomendação de que um [[Seq 9 - Espectador|Espectador]] deve agir estritamente como um observador.
@@ -31,3 +30,4 @@ tags:
 - A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
 - Se o mito da criação detalhado é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito antes da Quinta Época.
 - A verdadeira natureza e os perigos do [[Artefato Selado 0-08]], e os motivos pelos quais o ex-arcebispo [[Ince Zangwill]] foi corrompido e fugiu com ele.
+- O motivo pelo qual o consumo de café após as três da tarde propicia a audição de sussurros de existências desconhecidas, conforme relatado por [[Velho Neil]].
