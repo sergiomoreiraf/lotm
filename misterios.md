@@ -29,6 +29,4 @@ tags:
 - A causa por trás dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo, como o caso do denunciante de culto relatado por [[Dunn Smith]].
 - A natureza da força misteriosa que levou [[Welch McGovern]] e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
 - A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
-
-
-
+- O que é o [[Portão Chanis]] e o que ele armazena ou protege no subsolo da [[Companhia de Segurança Espinho Negro]].

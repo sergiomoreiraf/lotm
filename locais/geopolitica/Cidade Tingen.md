@@ -10,7 +10,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 
 ## Evolução narrativa
 
-É o local onde Zhou Mingrui acorda no corpo de Klein Moretti.
+É o local onde Zhou Mingrui acorda no corpo de Klein Moretti. É revelado que as forças de segurança de misticismo local são divididas entre três unidades oficiais: Unidade Sete ([[Falcões Noturnos]]), Unidade Seis ([[Punidores Mandatários]]) e Unidade Cinco ([[Mente Coletiva da Maquinaria]]).
 
 ## Locais e Pontos de Interesse
 
@@ -18,6 +18,9 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - **Rua Daffodil:** Rua que se cruza com a Rua Cruz de Ferro.
 - **Rua Besik:** Rua da cidade onde se localiza o [[Hound Pub]].
 - **Rua Zouteland:** Rua da cidade onde se localiza a [[Companhia de Segurança Espinho Negro]].
+- **Rua Luar Vermelho:** Rua localizada logo atrás da Rua Zouteland, onde fica a Catedral de Santa Selena.
+- **Região do Indus Dourado:** Área sob jurisdição da Unidade Sete dos Falcões Noturnos.
 - [[Universidade Khoy]]: Uma das instituições de ensino superior localizadas na cidade.
 - [[Hound Pub]]: Um estabelecimento que serve como ponto de contato secreto para os Falcões Noturnos.
 - [[Companhia de Segurança Espinho Negro]]: Empresa de segurança privada que atua como fachada para os Falcões Noturnos.
+- [[Portão Chanis]]: Instalação de segurança mística secreta localizada sob a Companhia de Segurança Espinho Negro.

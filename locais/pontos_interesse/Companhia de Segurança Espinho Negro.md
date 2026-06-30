@@ -11,8 +11,13 @@ A Companhia de Segurança Espinho Negro é uma empresa de segurança privada loc
 ## Eventos no Local
 
 - Procurada por [[Klein Moretti]] após ser indicado por [[Wright]] como o endereço real do esquadrão mercenário mencionado por [[Dunn Smith]].
+- [[Klein Moretti]] é guiado pela recepcionista [[Rozanne]] ao subsolo e formaliza sua contratação como funcionário civil.
 
 ## Proprietários e Frequentadores
 
 - [[Dunn Smith]] (frequentador/administrador)
+- [[Leonard]] (frequentador)
+- [[Rozanne]] (recepcionista)
+- [[Klein Moretti]] (funcionário civil)
 - [[Falcões Noturnos]] (frequentadores)
+- [[Portão Chanis]] (localizado no subsolo)
