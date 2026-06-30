@@ -50,4 +50,6 @@ Acompanha [[Dunn Smith]] à [[Residência de Welch McGovern]] e passa pelo exame
 
 Recebe o convite formal para trabalhar como funcionário civil dos [[Falcões Noturnos]] com um salário semanal de três libras, sob um contrato de cinco anos. Obtém instruções para responder à proposta indo ao [[Hound Pub]] na Rua Besik para contatar [[Wright]] com uma frase secreta.
 
+### Ingressando nos Falcões Noturnos
 
+Analisa os prós e contras e decide aceitar a proposta de Dunn Smith. Utiliza uma carruagem pública para ir ao [[Hound Pub]] na Rua Besik, onde é direcionado pelo bartender [[Wright]] para a [[Companhia de Segurança Espinho Negro]] na Rua Zouteland.

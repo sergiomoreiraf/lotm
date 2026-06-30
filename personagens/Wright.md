@@ -12,3 +12,5 @@ O proprietário do [[Hound Pub]], localizado na Rua Besik, na [[Cidade Tingen]].
 ## Evolução narrativa
 
 Mencionado por [[Dunn Smith]] como o contato que [[Klein Moretti]] deve procurar caso decida ingressar como funcionário civil.
+
+É procurado por [[Klein Moretti]] em seu estabelecimento e, após ouvir a indicação de [[Dunn Smith]], direciona o jovem para o segundo andar do N° 36 da Rua Zouteland.

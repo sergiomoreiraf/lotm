@@ -5,5 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 15
-
+- **Último Capítulo Processado:** Capítulo 16 - A Companhia de Segurança Espinho Negro
