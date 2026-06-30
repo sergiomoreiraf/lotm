@@ -6,7 +6,7 @@ tags:
 # Mistérios em Aberto
 
 - A causa e as circunstâncias da morte original de Klein Moretti e a origem do [[Revólver de Latão]] em seu quarto.
-- O significado e a origem da mensagem escrita em língua Hermes: "Todos morrerão, inclusive eu".
+- O significado e a origem da mensagem escrita em língua [[Hermes]]: "Todos morrerão, inclusive eu".
 - A origem e o significado dos murmúrios que Klein Moretti ouviu ao recuperar a consciência.
 - A relação entre o [[Ritual de Aumento de Sorte]] realizado na Terra e a transmigração de Zhou Mingrui.
 - A quantidade reduzida de sangue no local da morte de Klein Moretti, apesar do ferimento penetrante na têmpora.
@@ -15,3 +15,5 @@ tags:
 - A suspeita de [[Klein Moretti]] de que [[Roselle Gustav]] possa ter sido um transmigrador anterior vindo da Terra.
 - A natureza do espaço da [[Névoa Cinza]] e a origem das estrelas carmesins.
 - O motivo de o [[Ritual de Aumento de Sorte]] ter conectado as consciências de [[Klein Moretti]], [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]].
+- As regras de atuação associadas às poções Beyonder, como a recomendação de que um [[Seq 9 - Espectador|Espectador]] deve agir estritamente como um observador.
+- A origem e o conteúdo completo da [[Ardósia da Blasfêmia]] da qual derivam os nomes e fórmulas das poções.

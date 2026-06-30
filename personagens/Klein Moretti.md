@@ -3,6 +3,7 @@ tags:
   - personagem
 aliases:
   - Zhou Mingrui
+  - O Tolo
 ---
 
 # Klein Moretti
@@ -13,7 +14,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 
 ### Renascimento e Primeiros Dias
 
-Acorda em seu quarto sentindo dores de cabeça excruciantes e percebe que transmigrou para o corpo de Klein Moretti. Descobre um ferimento de tiro em sua têmpora esquerda e uma mensagem escrita em língua Hermes no seu caderno afirmando que todos morrerão.
+Acorda em seu quarto sentindo dores de cabeça excruciantes e percebe que transmigrou para o corpo de Klein Moretti. Descobre um ferimento de tiro em sua têmpora esquerda e uma mensagem escrita em língua [[Hermes]] no seu caderno afirmando que todos morrerão.
 
 Verifica que o ferimento na têmpora esquerda está se regenerando rapidamente e realiza a limpeza das manchas de sangue no quarto e em si mesmo. Encontra a bala deflagrada alojada na parede, inspeciona o [[Revólver de Latão]] e decide tentar o [[Ritual de Aumento de Sorte]] na esperança de retornar à Terra.
 
@@ -24,3 +25,7 @@ Constata a cicatrização completa do ferimento na cabeça e esconde o [[Revólv
 Decide realizar o ritual de aumento de sorte e sai para comprar ingredientes levando o [[Revólver de Latão]] oculto. Compra pão na [[Padaria Smyrin]] e, ao se deparar com a adivinhação de tarô na praça, aceita uma consulta gratuita com uma [[Treinadora de Animais|Adivinha de Tarô]] após suspeitar que [[Roselle Gustav]] era um transmigrador.
 
 Recebe a leitura de tarô que revela "O Tolo" como sua carta do presente. Realiza o [[Ritual de Aumento de Sorte]] em sua residência, transportando seu espírito para a [[Névoa Cinza]] e invocando [[Audrey Hall]] e [[Alger Wilson]] ao tocar em estrelas carmesins.
+
+### Assumindo a Identidade de O Tolo
+
+Adota a identidade de [[Klein Moretti|O Tolo]] perante [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]], manifestando um palácio com uma mesa de bronze por meio de sua mente. Aceita testemunhar o comércio de fórmulas Beyonder entre ambos.
