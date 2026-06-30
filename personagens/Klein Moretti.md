@@ -29,3 +29,5 @@ Recebe a leitura de tarô que revela "O Tolo" como sua carta do presente. Realiz
 ### Assumindo a Identidade de O Tolo
 
 Adota a identidade de [[Klein Moretti|O Tolo]] perante [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]], manifestando um palácio com uma mesa de bronze por meio de sua mente. Aceita testemunhar o comércio de fórmulas Beyonder entre ambos.
+
+Concorda em estabelecer encontros semanais nas segundas-feiras, às três da tarde, permitindo a criação do [[Clube de Tarô]] sob a liderança de seu alter-ego, [[Klein Moretti|O Tolo]]. Ao retornar a seu apartamento físico, aceita sua nova vida como Klein Moretti, decidindo suspender novas tentativas de rituais de sorte devido a dores de cabeça intensas e aos perigos do misticismo.

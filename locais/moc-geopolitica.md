@@ -13,6 +13,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
   - [[Reino Loen]]
     - [[Cidade Tingen]]
     - [[Backlund]]
+    - [[Porto Pritz]]
   - [[Império Intis]]
 - [[Continente Sul]]
 
