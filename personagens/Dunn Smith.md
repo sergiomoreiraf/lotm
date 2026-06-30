@@ -28,3 +28,5 @@ Supervisiona o exame de [[Klein Moretti]] conduzido por [[Daly]] na [[Residênci
 Apresenta o convite formal a [[Klein Moretti]] para juntar-se à equipe civil dos [[Falcões Noturnos]], detalhando as condições contratuais, benefícios e as razões da confidencialidade do grupo. Fornece um método secreto de contato através de [[Wright]] no [[Hound Pub]].
 
 Formaliza a contratação de [[Klein Moretti]] como funcionário civil sob um contrato confidencial de cinco anos e explica a jurisdição geopolítica da divisão de esquadrões sobrenaturais na [[Cidade Tingen]].
+
+Instrui [[Klein Moretti]] sobre o mito da criação, as cinco formas de perda de controle de um Beyonder e a origem mística das poções. Revela a existência da [[Ardósia da Blasfêmia]] e cita a filosofia do [[Arcebispo Chanis]] sobre a loucura e o dever dos guardiões.

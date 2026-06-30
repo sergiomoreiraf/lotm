@@ -30,3 +30,4 @@ tags:
 - A natureza da força misteriosa que levou [[Welch McGovern]] e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
 - A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
 - O que é o [[Portão Chanis]] e o que ele armazena ou protege no subsolo da [[Companhia de Segurança Espinho Negro]].
+- Se o mito da criação detalhado é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito antes da Quinta Época.
