@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 18 - Origens e Loucura
+- **Último Capítulo Processado:** Capítulo 19 - Portão Chanis e Artefatos Selados

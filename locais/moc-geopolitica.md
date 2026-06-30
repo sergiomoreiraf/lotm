@@ -13,6 +13,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
   - [[Reino Loen]]
     - [[Condado de Awwa]]
       - [[Cidade Tingen]]
+    - [[Condado de Winter]]
     - [[Midseashire]]
       - [[Cidade Constant]]
     - [[Backlund]]

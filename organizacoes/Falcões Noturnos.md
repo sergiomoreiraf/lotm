@@ -16,6 +16,8 @@ Falcões Noturnos como [[Dunn Smith]] possuem habilidades voltadas à manipulaç
 
 [[Klein Moretti]] decide aceitar o convite para ingressar como funcionário civil e é direcionado pelo contato [[Wright]] para a [[Companhia de Segurança Espinho Negro]], fachada pública da equipe na Cidade Tingen.
 
+Aprende com [[Dunn Smith]] os detalhes do mito da criação, o simbolismo da lua carmesim para a [[Deusa da Noite Eterna]] e o sistema de Sequências Beyonder. É alertado sobre as formas de perder o controle e a importância da misteriosa [[Ardósia da Blasfêmia]].
+
 A equipe de Tingen formaliza a contratação de [[Klein Moretti]] como funcionário civil para auxiliar em traduções e pesquisas históricas.
 
 ## Dinâmicas e Operações
@@ -27,6 +29,7 @@ A equipe de Tingen formaliza a contratação de [[Klein Moretti]] como funcioná
 - **Intermediação de Contato:** Utilizam o [[Hound Pub]] como canal de comunicação indireto e confidencial para novos recrutas na [[Cidade Tingen]].
 - **Fachada Pública:** A equipe da [[Cidade Tingen]] utiliza a [[Companhia de Segurança Espinho Negro]] no segundo andar do N° 36 da Rua Zouteland como cobertura para suas operações e contratações.
 - **Jurisdição e Cobertura:** A Unidade Sete em Tingen é responsável pelos incidentes que ocorrem no norte, oeste e na região do Indus Dourado da cidade.
+- **Divisão da Equipe Civil:** Composta por um contador, um motorista de carruagem (suprimentos) e três funcionários de atendimento e registro (Rozanne, Bredt e [[Velho Neil]]). Estes últimos se revezam no controle do arsenal, arquivos e limpeza, com direito a um dia de folga semanal (exceto aos domingos) e revezamento de turnos noturnos.
 
 ## Estrutura e Hierarquia
 
@@ -34,4 +37,5 @@ A equipe de Tingen formaliza a contratação de [[Klein Moretti]] como funcioná
 - [[Leonard]] — Membro Beyonder da equipe.
 - [[Daly]] — Médium espiritual e colaboradora/especialista associada.
 - [[Rozanne]] — Funcionária civil e recepcionista.
+- [[Velho Neil]] — Funcionário civil encarregado do arsenal e registros.
 - [[Klein Moretti]] — Funcionário civil e tradutor histórico.

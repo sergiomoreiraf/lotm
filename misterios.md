@@ -14,7 +14,7 @@ tags:
 - O fato de [[Melissa Moretti]], mesmo dormindo no quarto ao lado, não ter ouvido o disparo do [[Revólver de Latão]] na noite da morte de [[Klein Moretti]].
 - A suspeita de [[Klein Moretti]] de que [[Roselle Gustav]] possa ter sido um transmigrador anterior vindo da Terra.
 - A natureza do espaço da [[Névoa Cinza]] e a origem das estrelas carmesins.
-- O motivo de o [[Ritual de Aumento de Sorte]] ter conectado as consciências de [[Klein Moretti]], [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]].
+- O motivo de o [[Ritual de Aumento de Sorte]] realizado ter conectado as consciências de [[Klein Moretti]], [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]].
 - As regras de atuação associadas às poções Beyonder, como a recomendação de que um [[Seq 9 - Espectador|Espectador]] deve agir estritamente como um observador.
 - A origem e o conteúdo completo da [[Ardósia da Blasfêmia]] da qual derivam os nomes e fórmulas das poções.
 - Os mistérios por trás das vinte e duas cartas de papel criadas pelo Imperador [[Roselle Gustav]] e sua ligação com os vinte e dois caminhos do divino.
@@ -29,5 +29,5 @@ tags:
 - A causa por trás dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo, como o caso do denunciante de culto relatado por [[Dunn Smith]].
 - A natureza da força misteriosa que levou [[Welch McGovern]] e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
 - A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
-- O que é o [[Portão Chanis]] e o que ele armazena ou protege no subsolo da [[Companhia de Segurança Espinho Negro]].
 - Se o mito da criação detalhado é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito antes da Quinta Época.
+- A verdadeira natureza e os perigos do [[Artefato Selado 0-08]], e os motivos pelos quais o ex-arcebispo [[Ince Zangwill]] foi corrompido e fugiu com ele.
