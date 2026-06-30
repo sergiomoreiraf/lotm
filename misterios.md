@@ -27,3 +27,5 @@ tags:
 - A identidade e as habilidades da especialista que virá para auxiliar [[Klein Moretti]] a recordar suas memórias perdidas.
 - A razão pela qual a norma nesses eventos misteriosos é a morte de todos os envolvidos, e o motivo da sobrevivência de [[Klein Moretti]].
 - A suspeita de [[Klein Moretti]] de estar sendo vigiado secretamente ou usado como isca pela polícia após ser deixado sem proteção imediata.
+- O significado e a causa do pesadelo extremamente lúcido e lógico de [[Klein Moretti]] envolvendo [[Dunn Smith]].
+- O motivo da presença física de [[Dunn Smith]] no corredor do [[Apartamento da Família Moretti]] de madrugada.
