@@ -19,3 +19,5 @@ Em um pesadelo de [[Klein Moretti]], lidera as investigações, localiza o [[Rev
 
 Apresenta-se como um Falcão Noturno e explica que entrou no sonho de Klein para guiar seus pensamentos e avaliar sua perda de memória. Conduz Klein em uma carruagem policial até a [[Residência de Welch McGovern]] para ser examinado por uma especialista, revelando que o [[Caderno da Família Antigonus]] desapareceu da cena do crime.
 
+Supervisiona o exame de [[Klein Moretti]] conduzido por [[Daly]] na [[Residência de Welch McGovern]]. Convida Klein a juntar-se aos [[Falcões Noturnos]] como funcionário civil ou a tornar-se um Beyonder, alertando-o de que muitos membros da equipe perdem o controle.
+

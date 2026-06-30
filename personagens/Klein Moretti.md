@@ -44,5 +44,7 @@ Esconde o [[Revólver de Latão]] sob o estrado de sua cama por precaução cont
 
 Experiencia um pesadelo lúcido sobre ser interrogado e capturado por [[Dunn Smith]]. Ao acordar de madrugada, depara-se com o próprio inspetor vigiando o corredor de seu prédio sob a luz do luar.
 
-Descobre que [[Dunn Smith]] é um Falcão Noturno que guiou seu sonho e percebe que sua mente resistiu à invasão. Aceita acompanhar o inspetor à [[Residência de Welch McGovern]] para ser examinado pela [[Médium Espiritual do Condado de Awwa]], decidindo cooperar após saber do desaparecimento do [[Caderno da Família Antigonus]].
+Descobre que [[Dunn Smith]] é um Falcão Noturno que guiou seu sonho e percebe que sua mente resistiu à invasão. Aceita acompanhar o inspetor à [[Residência de Welch McGovern]] para ser examinado por [[Daly|Médium Espiritual do Condado de Awwa]], decidindo cooperar após saber do desaparecimento do [[Caderno da Família Antigonus]].
+
+Acompanha [[Dunn Smith]] à [[Residência de Welch McGovern]] e passa pelo exame mediúnico de [[Daly]], resistindo aos efeitos indutores e fingindo amnésia total. Recebe a proposta de ingressar na equipe como funcionário civil ou tornar-se um Beyonder, sendo alertado sobre os riscos de perda de controle.
 

@@ -24,8 +24,9 @@ tags:
 - O conteúdo secreto do [[Caderno da Família Antigonus]] da [[Quarta Época]] obtido por [[Welch McGovern]], e o seu paradeiro após desaparecer misteriosamente da [[Residência de Welch McGovern]].
 - Os segredos e a sobrevivência dos habitantes da [[Nação da Noite Eterna]] no cume da [[Cadeia de Montanhas Hornacis]].
 - O mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].
-- O resultado e o andamento do exame mediúnico planejado de [[Klein Moretti]] pela [[Médium Espiritual do Condado de Awwa]].
 - A razão pela qual a norma nesses eventos misteriosos é a morte de todos os envolvidos, e o motivo da sobrevivência de [[Klein Moretti]].
 - O motivo pelo qual a mente de [[Klein Moretti]] manteve a lucidez e foi capaz de resistir e controlar a invasão de sonho feita por [[Dunn Smith]].
 - A causa por trás dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo, como o caso do denunciante de culto relatado por [[Dunn Smith]].
+- A natureza da força misteriosa que levou [[Welch McGovern]] e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
+
 
