@@ -18,3 +18,5 @@ tags:
 - As regras de atuação associadas às poções Beyonder, como a recomendação de que um [[Seq 9 - Espectador|Espectador]] deve agir estritamente como um observador.
 - A origem e o conteúdo completo da [[Ardósia da Blasfêmia]] da qual derivam os nomes e fórmulas das poções.
 - Os mistérios por trás das vinte e duas cartas de papel criadas pelo Imperador [[Roselle Gustav]] e sua ligação com os vinte e dois caminhos do divino.
+- A origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
+- Os segredos e a origem do [[Navio Fantasma da Era Tudor]], que navega sem tripulação visível e cujas paredes de madeira se reparam sozinhas.

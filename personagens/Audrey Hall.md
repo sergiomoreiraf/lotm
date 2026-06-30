@@ -21,3 +21,7 @@ Encontra [[Klein Moretti|O Tolo]] e [[Alger Wilson]] na [[Névoa Cinza]], expres
 ### Fundação do Clube de Tarô
 
 Sugere a regularização dos encontros semanais e a adoção de codinomes baseados nos Arcanos Maiores do tarô, assumindo a identidade de [[Audrey Hall|Justiça]] como membro fundador do [[Clube de Tarô]].
+
+### O Batismo de O Pritz
+
+Retorna do transe da [[Névoa Cinza]] em seu quarto em [[Backlund]], lidando com o estilhaçamento do seu espelho de bronze. Acompanha seu pai, [[Conde Hall]], ao [[Porto Pritz]] e presencia o batismo de [[O Pritz]] pela comitiva real.

@@ -11,3 +11,5 @@ Uma importante cidade portuária localizada no [[Reino Loen]], no [[Continente N
 ## Evolução narrativa
 
 Mencionada por [[Alger Wilson|O Enforcado]] como a localização do [[Bar Warrior & Sea]], ponto escolhido para o recebimento do [[Sangue de Tubarão Fantasma]] negociado com [[Audrey Hall|Justiça]].
+
+Sedia o lançamento e o teste inaugural do encouraçado de ferro [[O Pritz]] na Base da Marinha Real, na Ilha Oak, com a presença da comitiva real da [[Família Augustus]], incluindo o rei [[George III]] e o primeiro-ministro [[Aguesid Negan]].

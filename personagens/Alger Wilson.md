@@ -20,3 +20,7 @@ Encontra [[Klein Moretti|O Tolo]] e [[Audrey Hall]] na [[Névoa Cinza]], onde de
 ### Fundação do Clube de Tarô
 
 Aceita estabelecer as reuniões regulares e adota o codinome de [[Alger Wilson|O Enforcado]] no recém-fundado [[Clube de Tarô]]. Fornece o endereço do [[Bar Warrior & Sea]] no [[Porto Pritz]] para o recebimento do ingrediente místico e discorre sobre adivinhação e o tarô.
+
+### O Navio Fantasma da Era Tudor
+
+Retorna à realidade no [[Mar Sonia]] a bordo do [[Navio Fantasma da Era Tudor]], testemunhando a absorção de um estranho cristal hexagonal em sua mão. Estrangula o capitão do navio fantasma com força física descomunal e escamas ilusórias nas mãos, lançando-o ao mar e mentindo para seu companheiro de tripulação da [[Igreja do Senhor das Tempestades]] que o cativo havia fugido.
