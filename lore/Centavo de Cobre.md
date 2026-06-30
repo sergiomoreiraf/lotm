@@ -11,4 +11,4 @@ A moeda mais básica em circulação no [[Reino Loen]], cunhada em bronze com a 
 ## Detalhes do Conceito
 
 - **Poder de compra:** Equivalente a cerca de três a quatro yuans na Terra.
-- **Uso comum:** Utilizada no cotidiano para transações básicas e pequenos pagamentos, como a ativação do medidor de gás no [[Apartamento de Klein Moretti]].
+- **Uso comum:** Utilizada no cotidiano para transações básicas e pequenos pagamentos, como a ativação do medidor de gás no [[Apartamento da Família Moretti]].

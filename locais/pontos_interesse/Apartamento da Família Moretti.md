@@ -2,11 +2,13 @@
 tags:
   - local/estabelecimento/residencial
   - regiao/continente-norte
+aliases:
+  - Apartamento de Klein Moretti
 ---
 
-# Apartamento de Klein Moretti
+# Apartamento da Família Moretti
 
-O apartamento de dois quartos em que Klein Moretti reside com seus irmãos, localizado na [[Cidade Tingen]].
+O apartamento de dois quartos em que a família Moretti reside, localizado na [[Cidade Tingen]].
 
 ## Eventos no Local
 
@@ -16,6 +18,6 @@ O apartamento de dois quartos em que Klein Moretti reside com seus irmãos, loca
 ## Proprietários e Frequentadores
 
 - [[Klein Moretti]]
-- Benson Moretti
-- Melissa Moretti
+- [[Benson Moretti]]
+- [[Melissa Moretti]]
 - Sr. Franky

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 2 - Ritual
+- **Último Capítulo Processado:** Capítulo 3 - Melissa
