@@ -18,5 +18,15 @@ Falcões Noturnos como [[Dunn Smith]] possuem habilidades voltadas à manipulaç
 
 - **Controle de Membros:** O ingresso na organização acarreta a perda de liberdade pessoal significativa.
 - **Riscos Ocupacionais:** Cerca de um quarto dos incidentes anuais investigados pela equipe envolvem Beyonders que perderam o controle, incluindo integrantes do próprio grupo.
+- **Estrutura de Contratação:** O cargo de funcionário civil possui contrato de cinco anos, com plantões contínuos sem fins de semana livres (escala de três funcionários em serviço simultâneo). O salário inicial é de duas libras e dez solis, acrescido de dez solis de segurança e confidencialidade.
+- **Diretriz de Confidencialidade:** O segredo sobre o misticismo é mantido sob a premissa de que a fé e o medo causam problemas adicionais, e a disseminação do conhecimento induziria o caos e a imitação.
+- **Intermediação de Contato:** Utilizam o [[Hound Pub]] como canal de comunicação indireto e confidencial para novos recrutas na [[Cidade Tingen]].
+
+## Estrutura e Hierarquia
+
+- [[Dunn Smith]] — Inspetor de polícia e líder da equipe na [[Cidade Tingen]].
+- [[Daly]] — Médium espiritual e colaboradora/especialista associada.
+
+
 
 

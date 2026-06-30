@@ -21,3 +21,6 @@ Apresenta-se como um Falcão Noturno e explica que entrou no sonho de Klein para
 
 Supervisiona o exame de [[Klein Moretti]] conduzido por [[Daly]] na [[Residência de Welch McGovern]]. Convida Klein a juntar-se aos [[Falcões Noturnos]] como funcionário civil ou a tornar-se um Beyonder, alertando-o de que muitos membros da equipe perdem o controle.
 
+Apresenta o convite formal a [[Klein Moretti]] para juntar-se à equipe civil dos [[Falcões Noturnos]], detalhando as condições contratuais, benefícios e as razões da confidencialidade do grupo. Fornece um método secreto de contato através de [[Wright]] no [[Hound Pub]].
+
+

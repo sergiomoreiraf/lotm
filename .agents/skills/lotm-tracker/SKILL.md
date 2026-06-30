@@ -293,7 +293,9 @@ Para cada entidade lida no lazy-read (EXISTENTES), realizar o merge mental:
 1. Incorporar as novas informações do capítulo à nota existente.
 2. Respeitar a **Perspectiva Interna** (para personagens) e demais regras de formatação.
 3. Para notas de personagens: contar o total de parágrafos acumulados na evolução narrativa. Se houver 5 ou mais parágrafos, estruture obrigatoriamente a seção com subseções H3 por fases lógicas.
-4. Manter o conteúdo final do merge disponível mentalmente para o buffer.
+4. Verificar se a nota existente omitiu alguma seção estrutural recomendada por seu respectivo template (ex: `## Estrutura e Hierarquia` para organizações ou `## Proprietários e Frequentadores` para pontos de interesse). Se houver dados (novos ou existentes) aplicáveis, essa seção deve ser recriada e populada.
+5. Manter o conteúdo final do merge disponível mentalmente para o buffer.
+
 
 ##### 6.1.7 Mapeamento de Mistérios e Hipóteses
 

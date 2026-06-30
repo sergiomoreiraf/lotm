@@ -48,3 +48,6 @@ Descobre que [[Dunn Smith]] é um Falcão Noturno que guiou seu sonho e percebe 
 
 Acompanha [[Dunn Smith]] à [[Residência de Welch McGovern]] e passa pelo exame mediúnico de [[Daly]], resistindo aos efeitos indutores e fingindo amnésia total. Recebe a proposta de ingressar na equipe como funcionário civil ou tornar-se um Beyonder, sendo alertado sobre os riscos de perda de controle.
 
+Recebe o convite formal para trabalhar como funcionário civil dos [[Falcões Noturnos]] com um salário semanal de três libras, sob um contrato de cinco anos. Obtém instruções para responder à proposta indo ao [[Hound Pub]] na Rua Besik para contatar [[Wright]] com uma frase secreta.
+
+

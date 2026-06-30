@@ -28,5 +28,7 @@ tags:
 - O motivo pelo qual a mente de [[Klein Moretti]] manteve a lucidez e foi capaz de resistir e controlar a invasão de sonho feita por [[Dunn Smith]].
 - A causa por trás dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo, como o caso do denunciante de culto relatado por [[Dunn Smith]].
 - A natureza da força misteriosa que levou [[Welch McGovern]] e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
+- A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
+
 
 
