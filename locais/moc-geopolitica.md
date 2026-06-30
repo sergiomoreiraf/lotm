@@ -12,4 +12,5 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
 - [[Continente Norte]]
   - [[Reino Loen]]
     - [[Cidade Tingen]]
+  - [[Império Intis]]
 - [[Continente Sul]]

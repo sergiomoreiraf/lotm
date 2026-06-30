@@ -13,4 +13,5 @@ tags:
 - A possibilidade de Zhou Mingrui retornar à Terra através da repetição do [[Ritual de Aumento de Sorte]].
 - A cicatrização completa e imediata do ferimento de bala na têmpora de [[Klein Moretti]] sem deixar cicatrizes.
 - O fato de [[Melissa Moretti]], mesmo dormindo no quarto ao lado, não ter ouvido o disparo do [[Revólver de Latão]] na noite da morte de [[Klein Moretti]].
+- A suspeita de [[Klein Moretti]] de que [[Roselle Gustav]] possa ter sido um transmigrador anterior vindo da Terra.
 
