@@ -10,3 +10,5 @@ Um colega de grupo acadêmico e amigo de [[Klein Moretti]] e [[Naya]] na [[Unive
 ## Evolução narrativa
 
 Adquire um caderno antigo datado da [[Quarta Época]] pertencente à [[Família Antigonus]]. Contrata [[Klein Moretti]] e [[Naya]] para ajudarem a decifrar e traduzir o conteúdo histórico do manuscrito.
+
+Falece em sua residência em um suposto caso de suicídio sem sinais de luta, sob circunstâncias misteriosas nas quais bateu com a cabeça contra a parede repetidamente até a morte.

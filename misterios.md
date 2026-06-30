@@ -24,3 +24,5 @@ tags:
 - O conteúdo secreto e o destino do [[Caderno da Família Antigonus]] da [[Quarta Época]] obtido por [[Welch McGovern]].
 - Os segredos e a sobrevivência dos habitantes da [[Nação da Noite Eterna]] no cume da [[Cadeia de Montanhas Hornacis]].
 - O mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].
+- A identidade e as habilidades da especialista que virá para auxiliar [[Klein Moretti]] a recordar suas memórias perdidas.
+- A razão pela qual a norma nesses eventos misteriosos é a morte de todos os envolvidos, e o motivo da sobrevivência de [[Klein Moretti]].

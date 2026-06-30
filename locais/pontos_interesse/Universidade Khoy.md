@@ -18,4 +18,4 @@ Uma instituição de ensino superior localizada na [[Cidade Tingen]].
 - [[Welch McGovern]]
 - [[Naya]]
 - [[Azik]]
-- [[Cohen]]
+- [[Quentin Cohen|Cohen]]

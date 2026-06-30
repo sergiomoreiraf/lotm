@@ -4,11 +4,12 @@ tags:
 aliases:
   - Professor Cohen
   - Professor Associado Sênior Cohen
+  - Cohen
 ---
 
-# Cohen
+# Quentin Cohen
 
-Um professor associado sênior do Departamento de História da [[Universidade Khoy]] e mentor acadêmico de [[Klein Moretti]].
+Um professor associado sênior do Departamento de História da [[Universidade Khoy]] e mentor acadêmico de [[Klein Moretti]], [[Welch McGovern]] e [[Naya]].
 
 ## Evolução narrativa
 

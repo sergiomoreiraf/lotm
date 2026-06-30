@@ -35,3 +35,7 @@ Concorda em estabelecer encontros semanais nas segundas-feiras, às três da tar
 ### Investigando o Passado e o Caderno
 
 Recupera-se do ritual e nota quatro manchas pretas formando um quadrado na mão que depois desaparecem, associando-as às ofertas de alimentos. Decide pesquisar seu diário acadêmico e descobre que seu colega [[Welch McGovern]] adquiriu o [[Caderno da Família Antigonus]] da [[Quarta Época]]. Determina investigar a residência de Welch para desvendar as circunstâncias de seu próprio suicídio, apesar dos perigos que isso possa acarretar.
+
+### Interrogatório Policial
+
+Esconde o [[Revólver de Latão]] no fogão sob pedaços de carvão antes de abrir a porta para o sargento [[Bitsch Mountbatten]] e três inspetores. Durante o questionamento do [[Inspetor de Olhos Afiados]] e do [[Inspetor de Olhos Cinzentos]], finge amnésia recente sobre os fatos para ocultar sua transmigração ao saber que [[Welch McGovern]] e [[Naya]] cometeram suicídio misterioso na residência de Welch. É aconselhado a não deixar a [[Cidade Tingen|Tingen]] e informado que uma especialista virá em dois dias para ajudá-lo a recuperar suas memórias.
