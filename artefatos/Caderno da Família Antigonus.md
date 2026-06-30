@@ -16,3 +16,5 @@ Um manuscrito antigo originado na [[Quarta Época]] e redigido por um membro da 
 ## Histórico e Aparições
 
 - Welch McGovern adquire o caderno e solicita a cooperação de Naya e [[Klein Moretti]] para decifrar e traduzir seu conteúdo.
+- Desaparece misteriosamente da [[Residência de Welch McGovern]] após os suicídios, tornando-se o foco principal da investigação policial e dos [[Falcões Noturnos]].
+

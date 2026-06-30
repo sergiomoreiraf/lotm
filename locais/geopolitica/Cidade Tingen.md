@@ -6,7 +6,8 @@ tags:
 
 # Cidade Tingen
 
-A Cidade Tingen é uma cidade localizada no [[Reino Loen]] no [[Continente Norte]].
+A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen]] no [[Continente Norte]].
+
 
 ## Evolução narrativa
 

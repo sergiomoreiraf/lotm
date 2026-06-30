@@ -43,3 +43,6 @@ Esconde o [[Revólver de Latão]] no fogão sob pedaços de carvão antes de abr
 Esconde o [[Revólver de Latão]] sob o estrado de sua cama por precaução contra uma possível vigilância policial secreta. Prepara uma refeição de carneiro cozido para sua irmã, justificando suas novas habilidades com o falecido [[Welch McGovern]].
 
 Experiencia um pesadelo lúcido sobre ser interrogado e capturado por [[Dunn Smith]]. Ao acordar de madrugada, depara-se com o próprio inspetor vigiando o corredor de seu prédio sob a luz do luar.
+
+Descobre que [[Dunn Smith]] é um Falcão Noturno que guiou seu sonho e percebe que sua mente resistiu à invasão. Aceita acompanhar o inspetor à [[Residência de Welch McGovern]] para ser examinado pela [[Médium Espiritual do Condado de Awwa]], decidindo cooperar após saber do desaparecimento do [[Caderno da Família Antigonus]].
+

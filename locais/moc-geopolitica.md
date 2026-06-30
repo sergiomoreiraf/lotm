@@ -11,11 +11,13 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
 
 - [[Continente Norte]]
   - [[Reino Loen]]
+    - [[Condado de Awwa]]
+      - [[Cidade Tingen]]
     - [[Midseashire]]
       - [[Cidade Constant]]
-    - [[Cidade Tingen]]
     - [[Backlund]]
     - [[Porto Pritz]]
+
   - [[Império Intis]]
   - [[Império Solomon]]
   - [[Cadeia de Montanhas Hornacis]]

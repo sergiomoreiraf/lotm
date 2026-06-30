@@ -21,11 +21,11 @@ tags:
 - A origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
 - Os segredos e a origem do [[Navio Fantasma da Era Tudor]], que navega sem tripulação visível e cujas paredes de madeira se reparam sozinhas.
 - A origem das quatro manchas pretas em forma de quadrado que surgiram nas costas da mão de [[Klein Moretti]] e sua relação com os alimentos do ritual.
-- O conteúdo secreto e o destino do [[Caderno da Família Antigonus]] da [[Quarta Época]] obtido por [[Welch McGovern]].
+- O conteúdo secreto do [[Caderno da Família Antigonus]] da [[Quarta Época]] obtido por [[Welch McGovern]], e o seu paradeiro após desaparecer misteriosamente da [[Residência de Welch McGovern]].
 - Os segredos e a sobrevivência dos habitantes da [[Nação da Noite Eterna]] no cume da [[Cadeia de Montanhas Hornacis]].
 - O mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].
-- A identidade e as habilidades da especialista que virá para auxiliar [[Klein Moretti]] a recordar suas memórias perdidas.
+- O resultado e o andamento do exame mediúnico planejado de [[Klein Moretti]] pela [[Médium Espiritual do Condado de Awwa]].
 - A razão pela qual a norma nesses eventos misteriosos é a morte de todos os envolvidos, e o motivo da sobrevivência de [[Klein Moretti]].
-- A suspeita de [[Klein Moretti]] de estar sendo vigiado secretamente ou usado como isca pela polícia após ser deixado sem proteção imediata.
-- O significado e a causa do pesadelo extremamente lúcido e lógico de [[Klein Moretti]] envolvendo [[Dunn Smith]].
-- O motivo da presença física de [[Dunn Smith]] no corredor do [[Apartamento da Família Moretti]] de madrugada.
+- O motivo pelo qual a mente de [[Klein Moretti]] manteve a lucidez e foi capaz de resistir e controlar a invasão de sonho feita por [[Dunn Smith]].
+- A causa por trás dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo, como o caso do denunciante de culto relatado por [[Dunn Smith]].
+
