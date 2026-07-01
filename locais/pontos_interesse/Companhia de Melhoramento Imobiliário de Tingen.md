@@ -11,6 +11,7 @@ A Companhia de Melhoramento Imobiliário da Cidade de Tingen é uma empresa de m
 ## Eventos no Local
 
 - Os irmãos [[Klein Moretti]], [[Benson Moretti]] e [[Melissa Moretti]] visitam o local para procurar uma residência maior para alugar, sendo atendidos pelo funcionário Scarter e decidindo inspecionar uma casa geminada localizada na [[Cidade Tingen|Rua Daffodil]], Nº 2.
+- Após a inspeção, os irmãos Moretti retornam à companhia habitacional para assinar o contrato de locação da residência na [[Cidade Tingen|Rua Daffodil]], Nº 2.
 
 ## Proprietários e Frequentadores
 

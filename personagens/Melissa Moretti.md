@@ -27,3 +27,5 @@ Janta com seus irmãos na comemoração do novo emprego de Klein, ganhando dele 
 
 Acompanha seus irmãos na busca por uma nova residência em Tingen. Sugere buscar a associação habitacional da classe trabalhadora após indicação de uma vizinha e concorda inicialmente com os regulamentos de Sir Deweyville.
 
+Visita a nova casa na [[Cidade Tingen|Rua Daffodil]], encantando-se com a banheira, e realiza a mudança de pertences com seus irmãos.
+

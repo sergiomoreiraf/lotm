@@ -13,6 +13,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 ## Fases da Narrativa
 
 - [[Perseguido em Tingen]] — Sente-se vigiado por um observador oculto, decide escolher a poção de Vidente após Dunn Smith capturar o invasor de seu quarto, e inicia a busca por uma nova residência com seus irmãos.
+- [[A Nova Residência e a Decisão do Vidente]] — Aluga e realiza a mudança para a residência na Rua Daffodil com seus irmãos, adquire seu traje formal e comunica a Dunn Smith sua escolha do caminho de Vidente.
 
 ## Eventos Arquivados
 

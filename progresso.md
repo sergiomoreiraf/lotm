@@ -5,5 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 29 - Escolha
+- **Último Capítulo Processado:** Capítulo 30 - Novo Começo
 
