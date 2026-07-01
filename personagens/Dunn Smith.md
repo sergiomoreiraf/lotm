@@ -35,5 +35,7 @@ Explica a divisão do pessoal de apoio civil e o funcionamento do [[Portão Chan
 
 Atende [[Klein Moretti]] no escritório e sugere que o perseguidor dele pode ser um investigador particular ou alguém buscando o [[Caderno da Família Antigonus]], instruindo-o a agir de forma natural.
 
+Invade o sonho de [[Klein Moretti]] para alertá-lo sobre a presença de um invasor em seu apartamento, orientando-o a empurrá-lo para o corredor com seu revólver.
 
 É revelado como um [[Seq 7 - Pesadelo|Pesadelo]] de Sequência 7, sendo um dos dois únicos Beyonders deste nível na diocese da [[Cidade Tingen]].
+

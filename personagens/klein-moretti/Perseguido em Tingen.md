@@ -13,3 +13,6 @@ Sente-se vigiado por um observador invisível após sair da [[Universidade Khoy]
 
 Relata a [[Dunn Smith]] que está sendo seguido e recebe instruções para agir normalmente enquanto é vigiado. Pratica tiro no [[Clube de Tiro Zouteland|Campo de Tiro da Rua Zouteland]], recarrega sua arma com balas antidemônios prateadas e retorna ao seu apartamento para comemorar o emprego com [[Benson Moretti]].
 
+Cozinha um jantar comemorativo para a sua família e exercita-se em casa para treinar sua força física. Durante a noite, recebe o aviso de [[Dunn Smith]] em um sonho sobre uma invasão de domicílio e acorda deparando-se com o [[Intruso do Quarto de Klein|intruso]] revistando sua mesa.
+
+

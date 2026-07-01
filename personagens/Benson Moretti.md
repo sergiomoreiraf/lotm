@@ -13,3 +13,6 @@ Viaja a trabalho após sua empresa ter os lucros e quadro de funcionários reduz
 
 Retorna de sua viagem de negócios e comemora o novo emprego de Klein. Ironiza o complexo [[Sistema Monetário do Reino Loen|sistema de moedas]] do Reino Loen.
 
+Planeja negociar a rescisão do contrato de aluguel atual com o senhorio Sr. Franky para buscar uma residência melhor para a família. Comemora a contratação de Klein em um jantar e estuda contabilidade durante a noite.
+
+

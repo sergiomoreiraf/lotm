@@ -22,3 +22,6 @@ Apresenta a Klein uma tartaruga fantoche mecânica construída por ela mesma com
 Surpreende-se com o novo emprego e o adiantamento salarial de [[Klein Moretti]], mas opõe-se à ideia de se mudarem, preocupada em poupar o dinheiro e citando as dificuldades vividas por conhecidos na Rua Inferior como exemplo de prudência.
 
 Debate com Klein sobre a necessidade de poupar dinheiro, citando o longo noivado de sua amiga [[Selena]] como exemplo de cautela financeira. Aceita a realização de uma comemoração simples e compra alimentos na Rua Cruz de Ferro.
+
+Janta com seus irmãos na comemoração do novo emprego de Klein, ganhando dele um pudim de limão, e estuda à noite após a refeição.
+
