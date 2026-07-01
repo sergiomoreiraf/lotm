@@ -35,6 +35,6 @@ tags:
 - A localização e segredos da misteriosa [[Terra Esquecida pelos Deuses]] mencionada por [[Roselle Gustav]] em seu diário.
 - As razões pelas quais caminhos Beyonder como [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] (Sequência 9) e [[Seq 7 - Médium Espiritual|Médium Espiritual]] (Sequência 7) são considerados caminhos incompletos na [[Igreja da Deusa da Noite Eterna]] em comparação ao caminho completo do [[Seq 9 - Sem Sono|Sem Sono]].
 - A causa por trás da sensação de familiaridade inexplicável e o aparente esquecimento do professor [[Azik]] em relação ao nome da família Antigonus.
-- A identidade e os objetivos do observador invisível que seguiu [[Klein Moretti]] após sua saída da [[Universidade Khoy]], bem como a hipótese de que ele teme a Igreja ou possui um histórico sombrio por ter evitado segui-lo para o interior da [[Catedral de Santa Selena]], culminando com a subsequente invasão do quarto de Klein para revistar sua escrivaninha.
+- A razão pela qual o Imperador [[Roselle Gustav]] registrou em seu diário o arrependimento por não ter escolhido os caminhos Beyonder de [[Aprendiz]], [[Saqueador]] ou [[Vidente]].
 
 

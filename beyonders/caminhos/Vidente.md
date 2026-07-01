@@ -9,4 +9,4 @@ Um dos caminhos Beyonder do divino. Foi mencionado no diário de [[Roselle Gusta
 
 ## Sequências Descobertas
 
-- (Nenhuma sequência foi descoberta ainda para este caminho).
+- [[Seq 9 - Vidente]] — Sequência inicial do caminho Beyonder.

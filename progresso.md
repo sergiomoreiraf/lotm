@@ -5,5 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 27 - Jantar dos Irmãos
+- **Último Capítulo Processado:** Capítulo 28 - Vidente
 

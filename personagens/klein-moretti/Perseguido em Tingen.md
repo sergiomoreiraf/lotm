@@ -15,4 +15,6 @@ Relata a [[Dunn Smith]] que está sendo seguido e recebe instruções para agir 
 
 Cozinha um jantar comemorativo para a sua família e exercita-se em casa para treinar sua força física. Durante a noite, recebe o aviso de [[Dunn Smith]] em um sonho sobre uma invasão de domicílio e acorda deparando-se com o [[Intruso do Quarto de Klein|intruso]] revistando sua mesa.
 
+Rende o invasor sob a mira de seu revólver descarregado, fazendo-o recuar até o corredor onde é capturado por Dunn Smith. Recebe de Dunn a oferta de se tornar um Beyonder e decide escolher a poção de Vidente após recordar os arrependimentos de Roselle em seu diário.
+
 
