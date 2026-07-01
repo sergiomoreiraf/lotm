@@ -15,4 +15,6 @@ Retorna de sua viagem de negócios e comemora o novo emprego de Klein. Ironiza o
 
 Planeja negociar a rescisão do contrato de aluguel atual com o senhorio Sr. Franky para buscar uma residência melhor para a família. Comemora a contratação de Klein em um jantar e estuda contabilidade durante a noite.
 
+Acompanha seus irmãos na busca por uma nova residência e explica as dinâmicas sociais e financeiras das companhias de melhoria habitacional de Tingen. Orienta a inspeção de uma casa geminada na [[Cidade Tingen|Rua Daffodil]].
+
 

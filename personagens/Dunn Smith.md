@@ -43,3 +43,5 @@ Invade o sonho de [[Klein Moretti]] para alertá-lo sobre a presença de um inva
 
 Canta o poema da meia-noite para acalmar a família de Klein Moretti e recapturar o intruso. Revela a Klein que o invasor pertence à [[Ordem Secreta]] e explica que o [[Caderno da Família Antigonus]] pertencia a esse grupo. Oferece a Klein a oportunidade de se tornar Beyonder, detalhando as três poções de Sequência 9 disponíveis na Igreja: [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]], [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] e [[Seq 9 - Vidente|Vidente]].
 
+Explica as habilidades não-combativas e de alta erudição da poção de [[Seq 9 - Vidente|Vidente]] e orienta [[Klein Moretti]] a refletir antes de tomar sua decisão definitiva.
+

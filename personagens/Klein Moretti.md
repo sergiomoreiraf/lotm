@@ -15,7 +15,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[Assumindo a Identidade de O Tolo]] — Assume a persona de "O Tolo" perante Audrey e Alger, dando início às reuniões semanais do Clube de Tarô.
 - [[Ingressando nos Falcões Noturnos]] — Aceita a oferta de Dunn Smith e dirige-se à Companhia de Segurança Espinho Negro para começar o novo trabalho.
 - [[Preparação e Diário de Roselle]] — Inicia os treinamentos práticos de tiro, coleta equipamentos no arsenal e descobre que o diário de Roselle foi escrito em chinês.
-- [[Perseguido em Tingen]] — Sente-se vigiado por um observador oculto após sair da Universidade Khoy e busca abrigo na Catedral de Santa Selena para acionar os Falcões Noturnos.
+- [[Perseguido em Tingen]] — Sente-se vigiado por um observador oculto, decide escolher a poção de Vidente após Dunn Smith capturar o invasor de seu quarto, e inicia a busca por uma nova residência com seus irmãos.
 
 ## Resumo de Eventos Arquivados
 

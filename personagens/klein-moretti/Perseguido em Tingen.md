@@ -17,4 +17,6 @@ Cozinha um jantar comemorativo para a sua família e exercita-se em casa para tr
 
 Rende o invasor sob a mira de seu revólver descarregado, fazendo-o recuar até o corredor onde é capturado por Dunn Smith. Recebe de Dunn a oferta de se tornar um Beyonder e decide escolher a poção de Vidente após recordar os arrependimentos de Roselle em seu diário.
 
+Decide formalmente tornar-se um [[Seq 9 - Vidente|Vidente]] e inicia no domingo, junto a seus irmãos, a busca por uma nova moradia. Visita a [[Companhia de Melhoramento Imobiliário de Tingen]] e seleciona uma casa geminada na [[Cidade Tingen|Rua Daffodil]] para inspeção.
+
 

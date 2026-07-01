@@ -25,3 +25,5 @@ Debate com Klein sobre a necessidade de poupar dinheiro, citando o longo noivado
 
 Janta com seus irmãos na comemoração do novo emprego de Klein, ganhando dele um pudim de limão, e estuda à noite após a refeição.
 
+Acompanha seus irmãos na busca por uma nova residência em Tingen. Sugere buscar a associação habitacional da classe trabalhadora após indicação de uma vizinha e concorda inicialmente com os regulamentos de Sir Deweyville.
+
