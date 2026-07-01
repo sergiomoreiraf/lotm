@@ -16,8 +16,9 @@ Uma das divindades ortodoxas do [[Continente Norte]].
 ## Símbolos e Dogmas
 
 - Adorada por meio de sua respectiva instituição, a [[Igreja da Deusa da Noite Eterna]].
-- Associada à lua carmesim, símbolo de sua alcunha de Dama do Carmesim, que de acordo com o mito da criação se originou de um dos olhos do [[O Criador|Criador]].
+- Associada à lua carmesim, símbolo de sua alcunha de Dama do Carmesim, que de acordo com o [[Mito da Criação]] se originou de um dos olhos do [[O Criador|Criador]].
+- Nos registros pré-históricos de sua igreja, acordou no final da [[Segunda Época]].
 
 ## Relações Divinas
 
-- De acordo com registros da Terceira Época, auxiliou a humanidade a sobreviver ao Cataclismo junto com o [[Senhor das Tempestades]] e o [[Eterno Sol Ardente]].
+- De acordo com registros da [[Terceira Época]], auxiliou a humanidade a sobreviver ao [[Terceira Época|Cataclismo]] junto com o [[Senhor das Tempestades]] e o [[Eterno Sol Ardente]].

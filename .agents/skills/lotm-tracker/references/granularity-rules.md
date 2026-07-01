@@ -57,9 +57,7 @@ bairro-mãe.
 
 ### Registro em Linha do Tempo
 
-Eventos históricos (crises, guerras, conflitos, marcos) criados em
-`historia/eventos/` devem também ser registrados em `historia/linha_do_tempo.md`
-com a data correspondente.
+Eras e Épocas históricas criadas em `historia/eras/` e eventos históricos (crises, guerras, conflitos, marcos) criados em `historia/eventos/` devem também ser registrados em `historia/linha_do_tempo.md` de forma cronológica.
 
 ### Entidades Implícitas (Nomes Compostos)
 

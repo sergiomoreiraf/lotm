@@ -28,6 +28,6 @@ tags:
 - A causa por trás dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo, como o caso do denunciante de culto relatado por [[Dunn Smith]].
 - A natureza da força misteriosa que levou [[Welch McGovern]] e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
 - A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
-- Se o mito da criação detalhado é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito antes da Quinta Época.
+- Se o [[Mito da Criação]] detalhado é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito antes da Quinta Época.
 - A verdadeira natureza e os perigos do [[Artefato Selado 0-08]], e os motivos pelos quais o ex-arcebispo [[Ince Zangwill]] foi corrompido e fugiu com ele.
 - O motivo pelo qual o consumo de café após as três da tarde propicia a audição de sussurros de existências desconhecidas, conforme relatado por [[Velho Neil]].

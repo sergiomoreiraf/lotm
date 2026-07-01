@@ -213,6 +213,15 @@ Antes de salvar qualquer arquivo no cofre, o agente DEVE verificar de forma rigo
 - [ ] **Inexistência de Links Fantasmas:** Garantir que nenhum link interno em formato `[[Nota]]` aponte para um arquivo que não exista fisicamente no cofre (a menos que a nota correspondente seja criada no mesmo turno de execução).
 - [ ] **Formatos de Aliases:** Garantir que todos os links internos que façam referência a termos ou aliases de outras notas usem estritamente o formato `[[Nome Real da Nota|Alias]]`. É terminantemente proibido o uso do formato `[[Alias]]` diretamente como link interno.
 
+### 5.6 Checklist de Retenção de Lore e Estruturação (Metacognição Pré-Buffer)
+
+Antes de consolidar o buffer de escrita temporário na FASE 1, o agente DEVE responder mentalmente:
+
+- [ ] **Mecânicas e Regras:** Algum conceito geral do sistema de misticismo, leis da magia ou regras de poções foi explicado detalhadamente? Garanti que ele possui nota dedicada em `lore/`?
+- [ ] **Eras e Linha do Tempo:** Algum período histórico (Era/Época) foi citado como origem ou cenário de eventos? Criei a nota da Era correspondente e atualizei `historia/linha_do_tempo.md`?
+- [ ] **Isolamento de Exposição:** Evitei registrar detalhes teóricos e conceituais do mundo *exclusivamente* na evolução narrativa do personagem que os explicou? (Ex: o conceito vai para `lore/`, e o personagem apenas ganha a menção de que explicou o conceito).
+- [ ] **Entidades Pai Implícitas:** Se mencionei uma instituição ou local composto (ex: *Igreja do Senhor das Tempestades*), validei se a entidade principal (*Senhor das Tempestades*) está criada e linkada?
+
 ### 6. Protocolo de Resumo de Capítulos (Lazy Loaded)
 
 Ao receber o comando "gere o resumo para o próximo capítulo", todo o ciclo de processamento deve ser **delegado a um subprocessador** (executor isolado do contexto principal, como um sub-agente ou processo secundário, dependendo da plataforma). O subprocessador executa as fases abaixo e retorna apenas um resumo compacto ao loop principal.
@@ -255,8 +264,8 @@ O conteúdo retornado da web deve ser limpo de forma a reter apenas o texto narr
 
 Antes de prosseguir, aplicar o filtro de **mudança de estado narrativo** sobre cada entidade identificada:
 
-- **Mudança de estado (deve ser lida e atualizada):** Personagem agiu/tomou decisão/recebeu revelação; local foi palco de evento/teve descrição expandida; artefato foi usado/exibiu novo poder; organização ganhou novo membro/nova regra.
-- **Apenas citada (ignorar, sem merge):** Menção passiva sem nova informação ("ele foi até a cidade", "ela lembrou do artefato", "passou pela igreja").
+- **Mudança de estado (deve ser lida e atualizada):** Personagem agiu/tomou decisão/recebeu revelação; local foi palco de evento/teve descrição expandida; artefato foi usado/exibiu novo poder; organização ganhou novo membro/nova regra; conceito de lore ou mecânica mística explicada em detalhes (como mitos históricos, regras de poções, riscos de perda de controle).
+- **Apenas citada (ignorar, sem merge):** Menção passiva sem nova informação ("ele foi até a cidade", "ela lembrou do artefato", "passou pela igreja", "falou rapidamente do perigo").
 
 Entidades apenas citadas **não** devem ser lidas nem atualizadas.
 

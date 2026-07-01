@@ -16,14 +16,14 @@ Falcões Noturnos como [[Dunn Smith]] possuem habilidades voltadas à manipulaç
 
 [[Klein Moretti]] decide aceitar o convite para ingressar como funcionário civil e é direcionado pelo contato [[Wright]] para a [[Companhia de Segurança Espinho Negro]], fachada pública da equipe na Cidade Tingen.
 
-Aprende com [[Dunn Smith]] os detalhes do mito da criação, o simbolismo da lua carmesim para a [[Deusa da Noite Eterna]] e o sistema de Sequências Beyonder. É alertado sobre as formas de perder o controle e a importância da misteriosa [[Ardósia da Blasfêmia]].
+Aprende com [[Dunn Smith]] os detalhes do [[Mito da Criação]], o simbolismo da lua carmesim para a [[Deusa da Noite Eterna]] e o sistema de Sequências Beyonder. É alertado sobre as formas de [[Perda de Controle|perder o controle]] e a importância da misteriosa [[Ardósia da Blasfêmia]].
 
 A equipe de Tingen formaliza a contratação de [[Klein Moretti]] como funcionário civil para auxiliar em traduções e pesquisas históricas.
 
 ## Dinâmicas e Operações
 
 - **Controle de Membros:** O ingresso na organização acarreta a perda de liberdade pessoal significativa.
-- **Riscos Ocupacionais:** Cerca de um quarto dos incidentes anuais investigados pela equipe envolvem Beyonders que perderam o controle, incluindo integrantes do próprio grupo.
+- **Riscos Ocupacionais:** Cerca de um quarto dos incidentes anuais investigados pela equipe envolvem Beyonders que sofreram [[Perda de Controle|perda de controle]], incluindo integrantes do próprio grupo.
 - **Estrutura de Contratação:** O cargo de funcionário civil possui contrato de cinco anos, com plantões contínuos sem fins de semana livres (escala de três funcionários em serviço simultâneo). O salário inicial é de duas libras e dez solis, acrescido de dez solis de segurança e confidencialidade.
 - **Diretriz de Confidencialidade:** O segredo sobre o misticismo é mantido sob a premissa de que a fé e o medo causam problemas adicionais, e a disseminação do conhecimento induziria o caos e a imitação.
 - **Intermediação de Contato:** Utilizam o [[Hound Pub]] como canal de comunicação indireto e confidencial para novos recrutas na [[Cidade Tingen]].
