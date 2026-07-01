@@ -25,7 +25,7 @@ onde criar ou rotear uma nota.
 | Cabalas ocultas, seitas, ordens clandestinas | `organizacoes/` | `#organizacao/secreta` | |
 | Famílias nobres, reais, facções ou grupos | `organizacoes/` | `#organizacao/oficial` ou `#organizacao/secreta` | |
 | Personagens (nota única) | `personagens/` | `#personagem` | |
-| Personagens MOC (pasta dedicada) | `personagens/[pasta]/` | `#personagem/moc` (MOC) / `#personagem/[nome]` (subnotas) | |
+| Personagens MOC (pasta dedicada) | `personagens/[pasta]/` | `#personagem/moc` (MOC) / `#personagem/[nome]` (subnotas) / `#personagem/moc/arquivado` (MOC arquivado) | MOC de arquivados fica em `personagens/[pasta]/archived/` |
 | Divindades e deuses | `deuses/` | `#deus`, `#deus/ortodoxo`, `#deus/antigo` ou `#deus/herege` | |
 | Artefatos, itens mágicos, objetos selados | `artefatos/` | `#artefato` | Criar mesmo se citados indiretamente ou de forma provisória |
 | Caminhos Beyonder | `beyonders/caminhos/` | `#caminho` | |

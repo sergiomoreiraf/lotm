@@ -46,6 +46,7 @@ existentes.
 | `#personagem` | Personagens da obra (nota única com narrativa própria) | |
 | `#personagem/[nome]` | Subnotas de personagem MOC (ex: `#personagem/klein`) | |
 | `#personagem/moc` | Nota de personagem que funciona como MOC (Map of Content) | |
+| `#personagem/moc/arquivado` | MOC secundário contendo links para as subnotas arquivadas do personagem | |
 | `#regiao/continente-norte` | Região geopolítica do norte | |
 | `#regiao/continente-sul` | Região geopolítica do sul | |
 

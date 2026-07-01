@@ -157,7 +157,8 @@ Mantém a evolução narrativa dos personagens ao longo da leitura.
   - As subnotas na pasta ativa usam a tag `#personagem/[nome]` (ex: `#personagem/klein`).
   - Os links no MOC usam o formato `[[Sub-nota]]` (sem caminho de pasta, apenas o nome da nota), com mini-descrições de 1 linha após cada link.
   - Subnotas movidas para `archived/` dentro da pasta do personagem **devem ser ignoradas**.
-  - A MOC pode conter uma seção `## Resumo de Eventos Arquivados` com resumos condensados de subnotas que foram movidas para `archived/`.
+  - A MOC principal contém uma seção `## Eventos Arquivados` com o link `-[[[Nome do Personagem] (Arquivado)|Ver Eventos Arquivados]]` apenas se houver notas arquivadas.
+  - O MOC de Notas Arquivadas (MOC Secundário) fica em `personagens/[pasta]/archived/[Nome] (Arquivado).md`, usa a tag `#personagem/moc/arquivado` e contém a lista com links e resumos (1 a 3 frases) das notas arquivadas.
   - **Divisão de Subnota Ativa por Tamanho:** A subnota ativa (fora de `archived/`) não deve crescer indefinidamente. Se a seção `## Evolução narrativa` da subnota ativa atual atingir **5 ou mais parágrafos**, ela não deve mais ser atualizada. O agente deve criar uma nova subnota ativa na pasta do personagem para os novos eventos (com nome de arco descritivo) e adicionar o link correspondente no MOC, deixando a subnota anterior intocada na pasta ativa (para que seja arquivada manualmente depois via `lotm-archiver`).
 
 **Template para Personagem de nota única** (template padrão para um novo personagem):
@@ -290,11 +291,11 @@ Com base na lista filtrada de entidades com mudança de estado, o agente deve:
    - **Entidades Implícitas:** Ao criar entidades com nomes compostos (ex: `Universidade de Backlund`), crie também a nota da entidade-pai implícita (`Backlund`).
 
 4. **Regra de Personagem MOC:** Durante o lazy-read, ao processar uma nota de personagem:
-   - Se a nota possuir a tag `#personagem/moc`, ela é tratada como MOC. O agente deve:
-     - **Ler a nota MOC** — contém a seção `## Fases da Narrativa` com links para subnotas ativas e, se houver, a seção `## Resumo de Eventos Arquivados`.
-     - **Ignorar completamente subnotas dentro de diretórios `archived/`** — não verificar existência, não ler, não atualizar. Elas são invisíveis para o tracker.
-     - **Subnotas ativas** (fora de `archived/`) — aplicar lazy-read normal: se houver mudança de estado narrativo, ler e fazer merge.
-   - Se a nota usar a tag `#personagem` (padrão), aplicar lazy-read normal sem restrições.
+    - Se a nota possuir a tag `#personagem/moc`, ela é tratada como MOC. O agente deve:
+      - **Ler a nota MOC** — contém a seção `## Fases da Narrativa` com links para subnotas ativas e, se houver, a seção `## Eventos Arquivados` (com o link para o MOC de arquivados).
+      - **Ignorar completamente subnotas dentro de diretórios `archived/`** — não verificar existência, não ler, não atualizar. Elas são invisíveis para o tracker.
+      - **Subnotas ativas** (fora de `archived/`) — aplicar lazy-read normal: se houver mudança de estado narrativo, ler e fazer merge.
+    - Se a nota usar a tag `#personagem` (padrão), aplicar lazy-read normal sem restrições.
 
 ##### 6.1.6 Merge Mental
 

@@ -14,6 +14,7 @@ aliases:
 - [[Subnota 1]] — <!-- Mini-descrição de 1 frase do arco narrativo. -->
 - [[Subnota 2]] — <!-- Mini-descrição de 1 frase do arco narrativo. -->
 
-## Resumo de Eventos Arquivados
+## Eventos Arquivados
 
-- **[Arco Arquivado]:** <!-- Resumo condensado de 1 a 3 frases dos eventos principais. -->
+<!-- Esta seção e o link abaixo só devem existir se o personagem tiver pelo menos uma nota arquivada. -->
+- [[[Nome] (Arquivado)|Ver Eventos Arquivados]]

@@ -9,7 +9,7 @@ A polícia de Tingen interroga Klein sobre as mortes misteriosas de seus colegas
 
 ## Evolução narrativa
 
-Esconde o [[Revólver de Latão]] no fogão sob pedaços de carvão antes de abrir a porta para o sargento [[Bitsch Mountbatten]] e três inspetores. Durante o questionamento do [[Inspetor de Olhos Afiados]] e do [[Dunn Smith|Inspetor de Olhos Cinzentos]], finge amnésia recente sobre os fatos para ocultar sua transmigração ao saber que [[Welch McGovern]] e [[Naya]] cometeram suicídio misterioso na residência de Welch. É aconselhado a não deixar a [[Cidade Tingen|Tingen]] e informado que uma especialista virá em dois dias para ajudá-lo a recuperar suas memórias.
+Esconde o [[Revólver de Latão]] no fogão sob pedaços de carvão antes de abrir a porta para o sargento [[Bitsch Mountbatten]] e três inspetores. Durante o questionamento do [[Dunn Smith|Inspetor de Olhos Cinzentos]], finge amnésia recente sobre os fatos para ocultar sua transmigração ao saber que [[Welch McGovern]] e [[Naya]] cometeram suicídio misterioso na residência de Welch. É aconselhado a não deixar a [[Cidade Tingen|Tingen]] e informado que uma especialista virá em dois dias para ajudá-lo a recuperar suas memórias.
 
 Esconde o [[Revólver de Latão]] sob o estrado de sua cama por precaução contra uma possível vigilância policial secreta. Prepara uma refeição de carneiro cozido para sua irmã, justificando suas novas habilidades com o falecido [[Welch McGovern]].
 

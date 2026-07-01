@@ -49,6 +49,7 @@ A nota principal (mesmo nome de arquivo) é reescrita como MOC:
 
 - **Tag:** Alterar de `#personagem` para `#personagem/moc`.
 - **Seção `## Fases da Narrativa`:** Listar cada subnota criada com link `[[Sub-nota]]` e mini-descrição de 1 frase.
+- **Sem seção de arquivados:** Como não há notas arquivadas no momento da promoção, o MOC secundário de arquivados e o link para ele no MOC Principal **não** devem ser criados. Eles serão criados sob demanda posteriormente pela skill `lotm-archiver`.
 - **Remover** a seção `## Evolução narrativa` original (o conteúdo foi migrado para as subnotas).
 - **Preservar** a descrição introdutória do personagem.
 - **Preservar** o campo `aliases` no frontmatter, se existente.
