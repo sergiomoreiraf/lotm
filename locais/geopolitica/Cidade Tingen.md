@@ -20,6 +20,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - **Rua Zouteland:** Rua da cidade onde se localizam a [[Companhia de Segurança Espinho Negro]] e o [[Campo de Tiro da Rua Zouteland]] no Nº 3.
 - **Rua Luar Vermelho:** Rua localizada logo atrás da Rua Zouteland, onde fica a Catedral de Santa Selena.
 - **Região do Indus Dourado:** Área sob jurisdição da Unidade Sete dos Falcões Noturnos.
+- **Burgo Norte:** Distrito residencial ou subúrbio da cidade mencionado por [[Rozanne]] como um local propício para alugar bangalôs de classe média.
 - [[Universidade Khoy]]: Uma das instituições de ensino superior localizadas na cidade.
 - [[Hound Pub]]: Um estabelecimento que serve como ponto de contato secreto para os Falcões Noturnos.
 - [[Companhia de Segurança Espinho Negro]]: Empresa de segurança privada que atua como fachada para os Falcões Noturnos.

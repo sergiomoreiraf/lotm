@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 21 - Chinês
+- **Último Capítulo Processado:** Capítulo 22 - A Sequência Inicial
