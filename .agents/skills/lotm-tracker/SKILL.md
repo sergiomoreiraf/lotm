@@ -158,6 +158,7 @@ Mantém a evolução narrativa dos personagens ao longo da leitura.
   - Os links no MOC usam o formato `[[Sub-nota]]` (sem caminho de pasta, apenas o nome da nota), com mini-descrições de 1 linha após cada link.
   - Subnotas movidas para `archived/` dentro da pasta do personagem **devem ser ignoradas**.
   - A MOC pode conter uma seção `## Resumo de Eventos Arquivados` com resumos condensados de subnotas que foram movidas para `archived/`.
+  - **Divisão de Subnota Ativa por Tamanho:** A subnota ativa (fora de `archived/`) não deve crescer indefinidamente. Se a seção `## Evolução narrativa` da subnota ativa atual atingir **5 ou mais parágrafos**, ela não deve mais ser atualizada. O agente deve criar uma nova subnota ativa na pasta do personagem para os novos eventos (com nome de arco descritivo) e adicionar o link correspondente no MOC, deixando a subnota anterior intocada na pasta ativa (para que seja arquivada manualmente depois via `lotm-archiver`).
 
 **Template para Personagem de nota única** (template padrão para um novo personagem):
 
@@ -301,7 +302,9 @@ Para cada entidade lida no lazy-read (EXISTENTES), realizar o merge mental:
 
 1. Incorporar as novas informações do capítulo à nota existente.
 2. Respeitar a **Perspectiva Interna** (para personagens) e demais regras de formatação.
-3. Para notas de personagens: contar o total de parágrafos acumulados na evolução narrativa. Se houver 5 ou mais parágrafos, estruture obrigatoriamente a seção com subseções H3 por fases lógicas.
+3. Para notas de personagens:
+   - Se for um personagem de **nota única** (tag `#personagem`), e a evolução narrativa acumular 5 ou mais parágrafos, estruture obrigatoriamente com subseções H3.
+   - Se for uma subnota ativa de **personagem MOC** (tag `#personagem/[nome]`), e a evolução narrativa acumular 5 ou mais parágrafos, **não** use H3. Em vez disso, aplique a regra de **Divisão de Subnota Ativa por Tamanho** (crie uma nova subnota ativa para os novos eventos e adicione seu link no MOC).
 4. Verificar se a nota existente omitiu alguma seção estrutural recomendada por seu respectivo template (ex: `## Estrutura e Hierarquia` para organizações ou `## Proprietários e Frequentadores` para pontos de interesse). Se houver dados (novos ou existentes) aplicáveis, essa seção deve ser recriada e populada.
 5. Manter o conteúdo final do merge disponível mentalmente para o buffer.
 
@@ -346,9 +349,9 @@ Escrever **todas** as alterações em um único batch:
 5. `diario_de_roselle.md` — aplicar alterações registradas no buffer, se houver.
 6. `locais/moc-geopolitica.md` — atualizar se novas localidades foram adicionadas.
 
-##### 6.1.10 Manter Buffer como Recibo de Undo
+##### 6.1.10 Deletar Buffer Temporário (Obrigatório)
 
-**Não remover o buffer imediatamente.** O buffer `.agents/tmp/cap-XX-buffer.md` deve ser mantido como recibo de undo. Ele só será removido no início do processamento do **próximo capítulo** (quando o novo buffer `cap-YY-buffer.md` for criado), permitindo recuperação em caso de falha parcial do batch write.
+Após concluir com sucesso todas as gravações do batch write, o agente DEVE deletar imediatamente o arquivo de buffer temporário `<vault>/.agents/tmp/cap-XX-buffer.md`. Isso evita acúmulo de arquivos desnecessários no cofre, reduz o consumo de tokens em execuções futuras e impede a contaminação de contexto com dados de capítulos anteriores.
 
 ##### 6.1.11 Retornar Resumo Compacto
 

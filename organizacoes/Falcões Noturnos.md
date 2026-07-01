@@ -34,7 +34,7 @@ A equipe de Tingen formaliza a contratação de [[Klein Moretti]] como funcioná
 ## Estrutura e Hierarquia
 
 - [[Dunn Smith]] — Inspetor de polícia e líder da equipe na [[Cidade Tingen]].
-- [[Leonard]] — Membro Beyonder da equipe.
+- [[Leonard Mitchell]] — Membro Beyonder da equipe.
 - [[Daly]] — Médium espiritual e colaboradora/especialista associada.
 - [[Rozanne]] — Funcionária civil e recepcionista.
 - [[Velho Neil]] — Funcionário civil encarregado do arsenal e registros.

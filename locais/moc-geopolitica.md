@@ -18,8 +18,9 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
       - [[Cidade Constant]]
     - [[Backlund]]
     - [[Porto Pritz]]
-
   - [[Império Intis]]
+  - [[Feysac]]
+  - [[Feynapotter]]
   - [[Império Solomon]]
   - [[Cadeia de Montanhas Hornacis]]
     - [[Nação da Noite Eterna]]

@@ -14,7 +14,6 @@ tags:
 - O fato de [[Melissa Moretti]], mesmo dormindo no quarto ao lado, não ter ouvido o disparo do [[Revólver de Latão]] na noite da morte de [[Klein Moretti]].
 - A natureza do espaço da [[Névoa Cinza]] e a origem das estrelas carmesins.
 - O motivo de o [[Ritual de Aumento de Sorte]] realizado ter conectado as consciências de [[Klein Moretti]], [[Audrey Hall]] e [[Alger Wilson]] na [[Névoa Cinza]].
-- As regras de atuação associadas às poções Beyonder, como a recomendação de que um [[Seq 9 - Espectador|Espectador]] deve agir estritamente como um observador.
 - A origem e o conteúdo completo da [[Ardósia da Blasfêmia]] da qual derivam os nomes e fórmulas das poções.
 - Os mistérios por trás das vinte e duas cartas de papel criadas pelo Imperador [[Roselle Gustav]] e sua ligação com os vinte e dois caminhos do divino.
 - A origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
@@ -31,3 +30,6 @@ tags:
 - Se o [[Mito da Criação]] detalhado é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito antes da Quinta Época.
 - A verdadeira natureza e os perigos do [[Artefato Selado 0-08]], e os motivos pelos quais o ex-arcebispo [[Ince Zangwill]] foi corrompido e fugiu com ele.
 - O motivo pelo qual o consumo de café após as três da tarde propicia a audição de sussurros de existências desconhecidas, conforme relatado por [[Velho Neil]].
+- A identidade e os segredos do "sujeito patético perdido e preso na escuridão profunda em meio às tempestades" descoberto por [[Roselle Gustav]], que só se aproxima da realidade nas luas cheias.
+- A identidade e natureza da entidade ou presença oculta com quem [[Leonard Mitchell]] conversa e se comunica em segredo.
+- A localização e segredos da misteriosa [[Terra Esquecida pelos Deuses]] mencionada por [[Roselle Gustav]] em seu diário.

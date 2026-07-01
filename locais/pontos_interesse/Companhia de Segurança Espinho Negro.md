@@ -16,7 +16,7 @@ A Companhia de Segurança Espinho Negro é uma empresa de segurança privada loc
 ## Proprietários e Frequentadores
 
 - [[Dunn Smith]] (frequentador/administrador)
-- [[Leonard]] (frequentador)
+- [[Leonard Mitchell|Leonard]] (frequentador)
 - [[Rozanne]] (recepcionista)
 - [[Klein Moretti]] (funcionário civil)
 - [[Falcões Noturnos]] (frequentadores)
