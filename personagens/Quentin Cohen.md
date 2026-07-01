@@ -16,3 +16,5 @@ Um professor associado sênior do Departamento de História da [[Universidade Kh
 Debate com [[Azik]] defendendo que o advento da Era do Vapor era historicamente inevitável com o progresso científico, minimizando a influência exclusiva das invenções do Imperador [[Roselle Gustav]].
 
 Encontra [[Klein Moretti]] na [[Universidade de Tingen]] durante uma conferência acadêmica com [[Azik]]. Cumprimenta o ex-aluno e elogia sua atitude respeitosa de comparecer pessoalmente para cancelar sua entrevista de trabalho após conseguir um novo emprego.
+
+Diz a [[Azik]] não ter lembranças sobre a palavra raiz da família Antigonus e apressa o colega para uma reunião acadêmica na [[Universidade Khoy]], sugerindo que ele entregue o jornal a [[Klein Moretti]].
