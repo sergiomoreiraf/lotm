@@ -10,3 +10,6 @@ Irmão mais velho de [[Klein Moretti]] e [[Melissa Moretti]]. Trabalha como func
 ## Evolução narrativa
 
 Viaja a trabalho após sua empresa ter os lucros e quadro de funcionários reduzidos devido a crises no [[Continente Sul]].
+
+Retorna de sua viagem de negócios e comemora o novo emprego de Klein. Ironiza o complexo [[Sistema Monetário do Reino Loen|sistema de moedas]] do Reino Loen.
+
