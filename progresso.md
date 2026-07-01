@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 22 - A Sequência Inicial
+- **Último Capítulo Processado:** Capítulo 23 - Bengala e Revólver

@@ -26,3 +26,4 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - [[Companhia de Segurança Espinho Negro]]: Empresa de segurança privada que atua como fachada para os Falcões Noturnos.
 - [[Portão Chanis]]: Instalação de segurança mística secreta localizada sob a Companhia de Segurança Espinho Negro.
 - [[Campo de Tiro da Rua Zouteland]]: Campo de tiro subterrâneo utilizado para o treinamento de tiro dos Falcões Noturnos.
+- [[Roupas e Chapéus Wilker]]: Loja de vestuário de Tingen, localizada na Rua Zouteland.
