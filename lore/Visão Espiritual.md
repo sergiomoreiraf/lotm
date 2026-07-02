@@ -11,6 +11,11 @@ A **Visão Espiritual** é uma das habilidades mais comuns, fáceis de entender 
 
 A técnica é ativada através da Cogitação e de foco visual, permitindo ver espectros, corpos espirituais e auras. Quando ativa, pode causar alterações físicas temporárias no usuário, como o escurecimento profundo das pupilas.
 
+## Limitações e Prática
+
+- **Fadiga e Efeitos Colaterais:** O uso contínuo coloca um grande fardo no Corpo Espiritual, drenando a espiritualidade do usuário. Os efeitos físicos resultantes incluem espasmos na glabela, dores de cabeça, hipersensibilidade, pequenos surtos de alucinações e maior suscetibilidade a ser afetado pelas emoções alheias.
+- **Ativação e Interruptores:** Enquanto o método tradicional requer Cogitação e desvio de atenção consciente para desativar, Beyonders podem utilizar sugestões mentais repetidas durante a Cogitação para configurar "interruptores" físicos simples (por exemplo, bater na glabela de leve duas vezes para ativar ou desativar).
+
 ## Níveis da Espiritualidade Humana
 
 De acordo com a teoria dominante do misticismo, a parte não física do ser humano é dividida em quatro níveis:

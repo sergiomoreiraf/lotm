@@ -48,3 +48,4 @@ tags:
 - O mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].
 - A origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
 - A identidade e natureza do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]].
+- A identidade e natureza da figura humana sem forma avistada por Klein na periferia da luz da sala de alquimia, que desapareceu provocando uma dor aguda em sua glabela.

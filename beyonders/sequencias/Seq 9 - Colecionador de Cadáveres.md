@@ -3,11 +3,16 @@ tags:
   - caminho/sequencia
 aliases:
   - Colecionador de Cadáveres
+  - Coletor de Cadáveres
 ---
 
 # Seq 9 - Colecionador de Cadáveres
 
 Uma sequência Beyonder inicial que pertence ao mesmo caminho de [[Seq 7 - Médium Espiritual|Médium Espiritual]]. É a escolha preferida por cultistas que adoram [[A Morte]] no [[Continente Sul]].
+
+## Ingredientes da Poção
+
+- **Ingredientes Conhecidos:** [[Sapo Maduro Desidratado com Manchas Pretas]]
 
 ## Poderes Conhecidos
 
