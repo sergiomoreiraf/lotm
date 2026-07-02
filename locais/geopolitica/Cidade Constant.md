@@ -13,3 +13,5 @@ Uma das três principais cidades do [[Reino Loen]], localizada em [[Midseashire]
 ## Evolução narrativa
 
 É a cidade de origem de [[Welch McGovern]], onde seu pai atua como banqueiro. Dunn Smith levanta a hipótese de que o pai de Welch teria contratado um investigador particular da localidade para investigar a morte do filho.
+
+Torna-se o local de sepultamento de [[Welch McGovern|Welch]], cujo corpo é trazido de volta pelo pai após o encerramento policial do caso.
