@@ -12,6 +12,7 @@ A sala de alquimia da equipe dos [[Falcões Noturnos]] na [[Cidade Tingen]]. Loc
 
 - [[Klein Moretti]] entra pela primeira vez na sala sob a condução de [[Dunn Smith]].
 - O [[Velho Neil]] prepara a poção de [[Seq 9 - Vidente|Vidente]] para [[Klein Moretti]].
+- [[Klein Moretti]] consome a poção de [[Seq 9 - Vidente|Vidente]], realiza sua primeira Cogitação e aprende a técnica de [[Visão Espiritual]] sob a tutela de [[Velho Neil]].
 
 ## Proprietários e Frequentadores
 

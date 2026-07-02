@@ -14,3 +14,5 @@ Aluga a residência geminada na [[Cidade Tingen|Rua Daffodil]], Nº 2, após Ben
 Veste pela primeira vez seu traje formal composto por smoking e cartola preta comprado por oito libras. Apresenta-se na [[Companhia de Segurança Espinho Negro]] e comunica a [[Dunn Smith]] sua decisão de escolher a poção de [[Seq 9 - Vidente|Vidente]].
 
 Acompanha [[Dunn Smith]] ao subsolo e entra na [[Sala de Alquimia dos Falcões Noturnos]], onde acompanha o [[Velho Neil]] preparar a poção de [[Seq 9 - Vidente|Vidente]].
+
+Consome a poção de [[Seq 9 - Vidente|Vidente]] na [[Sala de Alquimia dos Falcões Noturnos]], sofrendo efeitos colaterais de mania e sussurros misteriosos sobre Hornacis e Flegrea. Controla os efeitos usando a Cogitação sob instrução do [[Velho Neil]] e desperta a [[Visão Espiritual]], percebendo momentaneamente um par de olhos translúcidos no vazio às costas do ancião.
