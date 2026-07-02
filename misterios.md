@@ -13,6 +13,7 @@ tags:
 - A origem e o significado dos murmúrios que Klein ouviu ao recuperar a consciência, bem como a origem das quatro manchas pretas em formato quadrangular em sua mão.
 - A razão pela qual Klein sobreviveu a esse evento misterioso (quando a regra é a morte de todos os envolvidos) e como sua mente manteve a lucidez para resistir à invasão de sonho de [[Dunn Smith]].
 - A origem e o significado dos sussurros "Hornacis... Flegrea..." ouvidos por Klein após consumir a poção de [[Seq 9 - Vidente|Vidente]].
+- A razão de a carta de tarô [[Klein Moretti|O Tolo]] (em versão invertida) reaparecer sistematicamente nas adivinhações de [[Klein Moretti]] referentes ao destino do [[Caderno da Família Antigonus]].
 
 ## O Incidente do Caderno Antigonus
 
@@ -21,6 +22,7 @@ tags:
 - Os segredos e a sobrevivência dos habitantes da [[Nação da Noite Eterna]] no cume da [[Cadeia de Montanhas Hornacis]].
 - A causa por trás da sensação de familiaridade inexplicável e o aparente esquecimento do professor [[Azik]] em relação ao nome da família Antigonus.
 - O motivo de a [[Igreja da Deusa da Noite Eterna]] ter destruído a [[Família Antigonus]] entre o final da [[Quarta Época]] e o início da época atual.
+- A contradição apontada por [[Leonard Mitchell]] sobre os motivos de [[Klein Moretti]] ter sobrevivido e retornado para casa no incidente de Welch McGovern, e por que o caderno não foi destruído no local para apagar pistas.
 
 ## Misticismo e Sistema Beyonder
 

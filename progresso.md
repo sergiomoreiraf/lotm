@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 37 - Clube de Adivinhação
+- **Último Capítulo Processado:** Capítulo 38 - Amador Iniciante
