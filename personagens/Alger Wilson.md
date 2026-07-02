@@ -26,3 +26,7 @@ Navega a bordo do [[Navio Fantasma da Era Tudor]], absorve um cristal hexagonal 
 ### Transação do Espectador
 
 Confirma o recebimento do [[Sangue de Tubarão Fantasma]] fornecido por [[Audrey Hall|Justiça]] e, em cumprimento ao acordo, recita a fórmula e as diretrizes de preparação da poção de [[Seq 9 - Espectador]]. Ao instruir a jovem sobre a cogitação para evitar a perda de controle, recebe uma revelação monumental de [[Klein Moretti|O Tolo]] sobre o segredo de atuar e digerir as poções, comprometendo-se a coletar folhas do diário de [[Roselle Gustav]] para o anfitrião.
+
+### Instrução ao Espectador e Revelações Históricas
+
+Orienta Justiça a manter-se como observadora objetiva e isolada de envolvimento emocional para digerir a poção de Espectador. Compartilha a informação de que o pirata tenente-general Deweyville iniciou uma exploração no extremo leste do Mar Sonia e revela que a família Antigonus foi destruída pela Igreja da Deusa da Noite Eterna.

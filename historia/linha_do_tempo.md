@@ -22,6 +22,7 @@ Cronologia geral dos eventos históricos documentados ao longo da leitura de _Lo
 ## Quarta Época
 
 - **Era dos Deuses:** Período marcado pelo protagonismo e transações secretas envolvendo a [[Família Antigonus]] e a [[Dinastia Tudor]] no [[Império Solomon]], além do surgimento do [[Caderno da Família Antigonus]].
+- **Fim da Época / Início da Quinta:** Destruição da [[Família Antigonus]] pela [[Igreja da Deusa da Noite Eterna]].
 
 ## Quinta Época
 

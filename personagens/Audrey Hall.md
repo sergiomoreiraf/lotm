@@ -29,3 +29,7 @@ Retorna do transe da [[Névoa Cinza]] em seu quarto em [[Backlund]], lidando com
 ### A Fórmula do Espectador
 
 Durante a Reunião do Clube de Tarô, confirma a entrega do [[Sangue de Tubarão Fantasma]] retirado secretamente do cofre de sua família para [[Alger Wilson|O Enforcado]]. Em troca, recebe e memoriza a fórmula e as orientações para a preparação e consumo da poção de [[Seq 9 - Espectador]], ouvindo também o conselho de [[Klein Moretti|O Tolo]] sobre a atuação e digestão de poções.
+
+### Projeção Mental e as Regras de Espectador
+
+Testa com sucesso o método de projeção mental do Tolo em pele de cabra no palácio divino. Recebe de Alger Wilson a orientação de atuar como espectadora absolutamente neutra e objetiva para digerir a poção de Espectador. Compartilha que o governo e a família real de Loen sofrem grande estresse após a derrota na batalha da costa leste de Balam.

@@ -10,7 +10,7 @@ Uma das grandes igrejas ortodoxas do [[Reino Loen]], dedicada à adoração da [
 
 ## Evolução narrativa
 
-Mencionada como uma das igrejas oficiais onde ingressantes podem se tornar Beyonders.
+Mencionada como uma das igrejas oficiais onde ingressantes podem se tornar Beyonders. Historicamente, foi responsável pela destruição da [[Família Antigonus]] entre o final da [[Quarta Época]] e o início da época atual.
 
 ## Estrutura e Hierarquia
 

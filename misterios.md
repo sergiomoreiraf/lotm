@@ -20,6 +20,7 @@ tags:
 - A natureza da força misteriosa que levou Welch e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
 - Os segredos e a sobrevivência dos habitantes da [[Nação da Noite Eterna]] no cume da [[Cadeia de Montanhas Hornacis]].
 - A causa por trás da sensação de familiaridade inexplicável e o aparente esquecimento do professor [[Azik]] em relação ao nome da família Antigonus.
+- O motivo de a [[Igreja da Deusa da Noite Eterna]] ter destruído a [[Família Antigonus]] entre o final da [[Quarta Época]] e o início da época atual.
 
 ## Misticismo e Sistema Beyonder
 
@@ -49,3 +50,5 @@ tags:
 - A origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
 - A identidade e natureza do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]].
 - A identidade e natureza da figura humana sem forma avistada por Klein na periferia da luz da sala de alquimia, que desapareceu provocando uma dor aguda em sua glabela.
+- O objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
+- As circunstâncias e consequências da derrota militar do [[Reino Loen]] na batalha da costa leste de [[Império Balam|Balam]].
