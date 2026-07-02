@@ -36,6 +36,7 @@ tags:
 - O motivo pelo qual o consumo de café após as três da tarde propicia a audição de sussurros de existências desconhecidas, conforme relatado por [[Velho Neil]].
 - A razão pela qual os caminhos Beyonder de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] e [[Seq 7 - Médium Espiritual|Médium Espiritual]] são considerados incompletos na [[Igreja da Deusa da Noite Eterna]] em comparação ao caminho completo do [[Seq 9 - Sem Sono|Sem Sono]].
 - A verdadeira natureza dos sete deuses ortodoxos e a razão de não terem atuado diretamente na realidade desde a [[Quinta Época]], exceto por meio de raros oráculos.
+- A natureza e a causa das agitações invisíveis e da sensação de estar sendo observado por múltiplos pares de olhos quando [[Klein Moretti]] entra em estado de cogitação ou ativa a [[Visão Espiritual]].
 
 ## Segredos de Roselle Gustav
 

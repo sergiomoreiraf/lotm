@@ -28,3 +28,5 @@ Sugere que o caderno da família Antigonus seria um receptáculo do mal e que o 
 
 ### Investigação Particular do Sequestro de Elliott
 Retorna do Portão Chanis e aceita uma comissão privada do mordomo [[Klee]] para encontrar o sequestrado [[Elliott]], filho de [[Vickroy]]. Recruta [[Klein Moretti|Klein]] para auxiliá-lo na busca e no rastreamento do esconderijo dos sequestradores.
+
+Convence o mordomo [[Klee]] a ceder roupas e pertences de [[Elliott]] inventando a mentira de possuírem um animal farejador único. Conduz a investigação de carruagem alugada e, ao chegarem à sala onde estão os sequestradores, prepara-se para neutralizá-los recitando um poema de sua sequência [[Seq 8 - Poeta da Meia-Noite|Poeta da Meia-Noite]].
