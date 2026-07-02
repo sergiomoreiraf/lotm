@@ -9,10 +9,14 @@ Um funcionário civil dos [[Falcões Noturnos]] na [[Cidade Tingen]]. Ele já fo
 
 ## Evolução narrativa
 
-Mencionado por [[Dunn Smith]] como o responsável pelo arsenal, registros e documentos na [[Companhia de Segurança Espinho Negro]].
+### Introdução e Arsenal
 
-Apresenta o arsenal a [[Klein Moretti]], explica sua rotina de evitar café após as três da tarde devido a murmúrios de existências desconhecidas e introduz Klein às pesquisas de decifração do diário de [[Roselle Gustav]].
+Mencionado por [[Dunn Smith]] como o responsável pelo arsenal, registros e documentos na [[Companhia de Segurança Espinho Negro]]. Apresenta o arsenal a [[Klein Moretti]], explica sua rotina de evitar café após as três da tarde devido a murmúrios de existências desconhecidas e introduz Klein às pesquisas de decifração do diário de [[Roselle Gustav]].
 
 Entrega munição comum, [[Balas Antidemônios]], coldre e distintivo para [[Klein Moretti]] no arsenal. Comenta sobre a extinção de dragões, gigantes e elfos no Continente Norte e a consequente diminuição de Beyonders, ironizando a criação de uma associação para proteger tais criaturas.
 
+### Identidade e Misticismo
+
 É revelado por [[Rozanne]] como um [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] (Sequência 9), detentor de grande conhecimento em misticismo e rituais mágicos.
+
+Prepara a poção de [[Seq 9 - Vidente|Vidente]] para [[Klein Moretti]] na [[Sala de Alquimia dos Falcões Noturnos]] utilizando uma fórmula em [[Hermes]]. Explica que a preparação de poções de Sequência 7 ou inferior é simples, sem necessidade de encantamentos ou rituais complexos.

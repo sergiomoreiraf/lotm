@@ -11,3 +11,5 @@ Um antigo império que existiu durante a [[Quarta Época]], também conhecida co
 ## Evolução narrativa
 
 A [[Família Antigonus]] ocupava uma posição de destaque e prestígio em sua corte imperial. Seus governantes utilizavam o título de [[Imperador das Trevas]].
+
+É revelado que a [[Ordem Secreta]] mantém fortes conexões históricas e costumes antigos herdados deste império e de seus nobres corrompidos.

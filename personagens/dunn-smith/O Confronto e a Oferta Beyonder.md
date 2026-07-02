@@ -14,3 +14,5 @@ Canta o poema da meia-noite para acalmar a família de Klein Moretti e recaptura
 Explica as habilidades não-combativas e de alta erudição da poção de [[Seq 9 - Vidente|Vidente]] e orienta [[Klein Moretti]] a refletir antes de tomar sua decisão definitiva.
 
 Ouve a decisão de [[Klein Moretti]] de escolher a poção de [[Seq 9 - Vidente|Vidente]] quando ele retorna ao escritório da companhia de segurança.
+
+Explica a Klein sobre as origens do conhecimento místico e revela as conexões históricas da [[Ordem Secreta]] com o [[Império Solomon]]. Conduz Klein ao subsolo da catedral para iniciar o preparo da poção com o [[Velho Neil]] na [[Sala de Alquimia dos Falcões Noturnos]].

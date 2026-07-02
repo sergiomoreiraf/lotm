@@ -36,5 +36,5 @@ tags:
 - As razões pelas quais caminhos Beyonder como [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] (Sequência 9) e [[Seq 7 - Médium Espiritual|Médium Espiritual]] (Sequência 7) são considerados caminhos incompletos na [[Igreja da Deusa da Noite Eterna]] em comparação ao caminho completo do [[Seq 9 - Sem Sono|Sem Sono]].
 - A causa por trás da sensação de familiaridade inexplicável e o aparente esquecimento do professor [[Azik]] em relação ao nome da família Antigonus.
 - A razão pela qual o Imperador [[Roselle Gustav]] registrou em seu diário o arrependimento por não ter escolhido os caminhos Beyonder de [[Aprendiz]], [[Saqueador]] ou [[Vidente]].
-
-
+- A verdadeira essência do princípio de "digestão" e "atuação" para mitigar os efeitos colaterais das poções Beyonder e evitar a loucura, mencionado por [[Roselle Gustav]] em seu diário.
+- As propriedades e a origem das criaturas extraordinárias cujos materiais compõem poções místicas, como o [[Sangue de Lula Lavos]] e o [[Cristal Aqua Estelar]].
