@@ -31,6 +31,7 @@ tags:
 - As propriedades e a origem das criaturas extraordinárias cujos materiais compõem poções místicas (ex: [[Sangue de Lula Lavos]], [[Cristal Aqua Estelar]]).
 - O motivo pelo qual o consumo de café após as três da tarde propicia a audição de sussurros de existências desconhecidas, conforme relatado por [[Velho Neil]].
 - A razão pela qual os caminhos Beyonder de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] e [[Seq 7 - Médium Espiritual|Médium Espiritual]] são considerados incompletos na [[Igreja da Deusa da Noite Eterna]] em comparação ao caminho completo do [[Seq 9 - Sem Sono|Sem Sono]].
+- A verdadeira natureza dos sete deuses ortodoxos e a razão de não terem atuado diretamente na realidade desde a [[Quinta Época]], exceto por meio de raros oráculos.
 
 ## Segredos de Roselle Gustav
 
@@ -38,6 +39,7 @@ tags:
 - A razão pela qual Roselle registrou em seu diário o arrependimento por não ter escolhido os caminhos Beyonder de [[Aprendiz]], [[Saqueador]] ou [[Vidente]].
 - A identidade e os segredos do "sujeito patético perdido e preso na escuridão profunda em meio às tempestades" descoberto por Roselle, que só se aproxima da realidade nas luas cheias.
 - A localização e segredos da misteriosa [[Terra Esquecida pelos Deuses]] mencionada por Roselle em seu diário.
+- A razão pela qual o Imperador [[Roselle Gustav]] não estabeleceu um sistema de exames públicos para funcionários no [[Império Intis|Império Intis]], e se ele desviou seu foco para outras coisas mais tarde na vida.
 
 ## Entidades, Personagens e Artefatos
 
@@ -52,3 +54,4 @@ tags:
 - A identidade e natureza da figura humana sem forma avistada por Klein na periferia da luz da sala de alquimia, que desapareceu provocando uma dor aguda em sua glabela.
 - O objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
 - As circunstâncias e consequências da derrota militar do [[Reino Loen]] na batalha da costa leste de [[Império Balam|Balam]].
+- A origem do pergaminho marrom-amarelado contendo a fórmula da poção de [[Seq 7 - Navegador|Navegador]] em posse de [[Alger Wilson]].

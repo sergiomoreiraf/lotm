@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 35 - Diário e Comunicação
+- **Último Capítulo Processado:** Capítulo 36 - Uma Pergunta Simples

@@ -30,3 +30,7 @@ Confirma o recebimento do [[Sangue de Tubarão Fantasma]] fornecido por [[Audrey
 ### Instrução ao Espectador e Revelações Históricas
 
 Orienta Justiça a manter-se como observadora objetiva e isolada de envolvimento emocional para digerir a poção de Espectador. Compartilha a informação de que o pirata tenente-general Deweyville iniciou uma exploração no extremo leste do Mar Sonia e revela que a família Antigonus foi destruída pela Igreja da Deusa da Noite Eterna.
+
+### O Pergaminho do Navegador
+
+Opina de forma crítica sobre a ineficiência política dos ministros do [[Reino Loen|Loen]] durante a Reunião do Clube de Tarô. Retorna ao seu corpo físico em um porão subterrâneo e estuda a fórmula da poção de [[Seq 7 - Navegador]] anotada em um pergaminho marrom-amarelado.

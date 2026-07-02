@@ -33,3 +33,7 @@ Durante a Reunião do Clube de Tarô, confirma a entrega do [[Sangue de Tubarão
 ### Projeção Mental e as Regras de Espectador
 
 Testa com sucesso o método de projeção mental do Tolo em pele de cabra no palácio divino. Recebe de Alger Wilson a orientação de atuar como espectadora absolutamente neutra e objetiva para digerir a poção de Espectador. Compartilha que o governo e a família real de Loen sofrem grande estresse após a derrota na batalha da costa leste de Balam.
+
+### Planejamento da Poção e Susie
+
+Relata os problemas administrativos do [[Reino Loen|Loen]] e ouve de [[Klein Moretti|O Tolo]] a sugestão de exames públicos para funcionários. De volta a [[Backlund]], escreve a fórmula da poção de [[Seq 9 - Espectador]] camuflada como anotações de química e elogia sua cadela [[Susie]] por guardar a porta.
