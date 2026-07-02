@@ -25,3 +25,7 @@ Sugere a regularização dos encontros semanais e a adoção de codinomes basead
 ### O Batismo de O Pritz
 
 Retorna do transe da [[Névoa Cinza]] em seu quarto em [[Backlund]], lidando com o estilhaçamento do seu espelho de bronze. Acompanha seu pai, [[Conde Hall]], ao [[Porto Pritz]] e presencia o batismo de [[O Pritz]] pela comitiva real.
+
+### A Fórmula do Espectador
+
+Durante a Reunião do Clube de Tarô, confirma a entrega do [[Sangue de Tubarão Fantasma]] retirado secretamente do cofre de sua família para [[Alger Wilson|O Enforcado]]. Em troca, recebe e memoriza a fórmula e as orientações para a preparação e consumo da poção de [[Seq 9 - Espectador]], ouvindo também o conselho de [[Klein Moretti|O Tolo]] sobre a atuação e digestão de poções.

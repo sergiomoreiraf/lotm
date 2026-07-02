@@ -14,4 +14,4 @@ Backlund é a capital do [[Reino Loen]], localizada no [[Continente Norte]]. É 
 
 ## Locais e Pontos de Interesse
 
-- **Distrito Real:** Um distrito luxuoso que abriga residências de famílias nobres e de alta classe, como a [[Vila da Família Hall]].
+- **Burgo Imperatriz:** Um distrito luxuoso que abriga residências de famílias nobres e de alta classe, como a [[Vila da Família Hall]].

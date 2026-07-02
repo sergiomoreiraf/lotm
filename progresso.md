@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 33 - Conexão
+- **Último Capítulo Processado:** Capítulo 34 - O Método de Atuação

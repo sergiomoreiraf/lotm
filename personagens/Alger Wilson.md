@@ -13,14 +13,16 @@ Alger Wilson é um homem de manto azul-escuro com bordados de raios, que navega 
 
 ### O Encontro na Névoa Cinza
 
-Enquanto navega pelo [[Mar Sonia]] sob uma tempestade com uma garrafa de vidro peculiar, é envolvido por uma luz carmesim que transporta sua consciência para o espaço da [[Névoa Cinza]].
-
-Encontra [[Klein Moretti|O Tolo]] e [[Audrey Hall]] na [[Névoa Cinza]], onde detalha os métodos de se tornar Beyonder por meio de poções e igrejas. Oferece a fórmula de [[Seq 9 - Espectador]] a Audrey em troca de [[Sangue de Tubarão Fantasma]], acordando usar O Tolo como testemunha do comércio.
+Mapeia a consciência para a [[Névoa Cinza]], encontra [[Klein Moretti|O Tolo]] e [[Audrey Hall]], e troca a fórmula de [[Seq 9 - Espectador]] por [[Sangue de Tubarão Fantasma]].
 
 ### Fundação do Clube de Tarô
 
-Aceita estabelecer as reuniões regulares e adota o codinome de [[Alger Wilson|O Enforcado]] no recém-fundado [[Clube de Tarô]]. Fornece o endereço do [[Bar Warrior & Sea]] no [[Porto Pritz]] para o recebimento do ingrediente místico e discorre sobre adivinhação e o tarô.
+Adota o codinome de [[Alger Wilson|O Enforcado]] no [[Clube de Tarô]] e fornece o endereço do [[Bar Warrior & Sea]] no [[Porto Pritz]].
 
 ### O Navio Fantasma da Era Tudor
 
-Retorna à realidade no [[Mar Sonia]] a bordo do [[Navio Fantasma da Era Tudor]], testemunhando a absorção de um estranho cristal hexagonal em sua mão. Estrangula o capitão do navio fantasma com força física descomunal e escamas ilusórias nas mãos, lançando-o ao mar e mentindo para seu companheiro de tripulação da [[Igreja do Senhor das Tempestades]] que o cativo havia fugido.
+Navega a bordo do [[Navio Fantasma da Era Tudor]], absorve um cristal hexagonal na mão e estrangula o capitão capturado, mentindo para seu tripulante da [[Igreja do Senhor das Tempestades]].
+
+### Transação do Espectador
+
+Confirma o recebimento do [[Sangue de Tubarão Fantasma]] fornecido por [[Audrey Hall|Justiça]] e, em cumprimento ao acordo, recita a fórmula e as diretrizes de preparação da poção de [[Seq 9 - Espectador]]. Ao instruir a jovem sobre a cogitação para evitar a perda de controle, recebe uma revelação monumental de [[Klein Moretti|O Tolo]] sobre o segredo de atuar e digerir as poções, comprometendo-se a coletar folhas do diário de [[Roselle Gustav]] para o anfitrião.

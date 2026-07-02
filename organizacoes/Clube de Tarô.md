@@ -13,6 +13,8 @@ Fundado a partir da sugestão de [[Audrey Hall|Justiça]] e [[Alger Wilson|O Enf
 
 Inicia-se a segunda reunião no espaço da [[Névoa Cinza]] em uma segunda-feira às três da tarde. [[Klein Moretti|O Tolo]] realiza o ritual de invocação de quatro passos em sua residência e estabelece a conexão espiritual com [[Audrey Hall|Justiça]] e [[Alger Wilson|O Enforcado]].
 
+Durante a segunda Reunião, conclui-se a transação do [[Sangue de Tubarão Fantasma]] em troca da fórmula de [[Seq 9 - Espectador]] entre [[Audrey Hall|Justiça]] e [[Alger Wilson|O Enforcado]]. Os membros recebem de [[Klein Moretti|O Tolo]] a instrução conceitual de que o poder das poções exige atuação e digestão para evitar o descontrole, e são incumbidos pelo anfitrião de obter páginas do diário de [[Roselle Gustav]].
+
 ## Estrutura e Hierarquia
 
 - [[Klein Moretti|O Tolo]] — Fundador e testemunha dos comércios do clube.

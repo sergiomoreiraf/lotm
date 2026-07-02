@@ -6,7 +6,7 @@ tags:
 
 # Vila da Família Hall
 
-Uma luxuosa residência localizada no Distrito Real de [[Backlund]], capital do [[Reino Loen]]. É a morada de [[Audrey Hall]] e sua família.
+Uma luxuosa residência localizada no Burgo Imperatriz em [[Backlund]], capital do [[Reino Loen]]. É a morada de [[Audrey Hall]] e sua família.
 
 ## Eventos no Local
 
