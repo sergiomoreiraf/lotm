@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 36 - Uma Pergunta Simples
+- **Último Capítulo Processado:** Capítulo 37 - Clube de Adivinhação

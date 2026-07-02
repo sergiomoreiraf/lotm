@@ -25,5 +25,6 @@ A sequência inicial do [[Caminho do Vidente]]. A Igreja possui apenas esta fór
 
 - **Adivinhação Multidisciplinar:** Capacita o Beyonder a aprender astromancia, cartomancia, pêndulos espirituais e vidência (a poção apenas concede a aptidão para o aprendizado dessas técnicas, não o domínio imediato).
 - **Erudição Mística:** Proporciona conhecimentos profundos sobre misticismo, sendo mais erudito que um [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]].
+- **Percepção Espiritual Passiva:** Adquire uma percepção espiritual aguçada que permite sentir de forma passiva anormalidades ou a atmosfera emocional local (semelhante a um Médium Espiritual). Essa habilidade é contínua e não pode ser recusada voluntariamente, o que pode desgastar o usuário com sentimentos externos intensos e exige treinamento de controle.
 - **Inaptidão para Combate Direto:** Não possui habilidades ou meios de combate físico ativo; os rituais mágicos demandam muita preparação e não são adequados para confrontos diretos.
 - **Arrependimento Histórico:** Identificada pelo Imperador [[Roselle Gustav]] em seu diário como um dos caminhos que ele mais se arrependeu de não ter escolhido na juventude.

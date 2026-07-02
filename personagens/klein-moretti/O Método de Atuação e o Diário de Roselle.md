@@ -13,4 +13,7 @@ Durante a Reunião do Clube de Tarô, ativa sua Visão Espiritual com dois toque
 
 Ensina a Justiça e a O Enforcado o método de projeção de pensamentos em pergaminho de pele de cabra para coletar as páginas do diário. Compartilha a informação de que a Ordem Secreta perdeu um caderno da família Antigonus e descobre por Alger Wilson que a família foi destruída pela Igreja da Deusa da Noite Eterna, percebendo o real valor que os Falcões Noturnos dão a este caderno e a razão de seu recrutamento.
 
-Propõe a introdução de exames públicos no [[Reino Loen|Loen]] para selecionar funcionários públicos de forma neutra durante a reunião. Ao retornar ao corpo físico em [[Cidade Tingen|Tingen]], decide iniciar a atuação prática de [[Vidente]] no mundo real utilizando a Visão Espiritual.
+Propõe a introdução de exames públicos no [[Reino Loen|Loen]] para selecionar funcionários públicos de forma neutra durante a reunião. Ao retornar ao corpo físico em [[Cidade Tingen|Tingen]], decide iniciar a atuação prática de [[Seq 9 - Vidente|Vidente]] no mundo real utilizando a Visão Espiritual.
+
+Investiga o trajeto entre a Rua Cruz de Ferro e a casa de Welch tentando localizar o caderno da família Antigonus, mas não encontra pistas sobrenaturais. Ativa a [[Visão Espiritual]] na Rua Cruz de Ferro e é temporariamente afetado pela melancolia local devido à sua alta percepção, decidindo em seguida ingressar no [[Clube de Adivinhação]] para atuar como [[Seq 9 - Vidente|Vidente]].
+

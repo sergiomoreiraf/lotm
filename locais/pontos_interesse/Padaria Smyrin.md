@@ -11,6 +11,7 @@ Estabelecimento comercial especializado na venda de pães e doces, de propriedad
 ## Eventos no Local
 
 - [[Klein Moretti]] compra pão de centeio e conversa com [[Wendy Smyrin]].
+- [[Klein Moretti]] conversa com [[Wendy Smyrin]], que lhe oferece um chá gelado doce experimental para confortar seu abatimento.
 
 ## Proprietários e Frequentadores
 

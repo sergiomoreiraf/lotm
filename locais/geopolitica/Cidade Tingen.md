@@ -14,7 +14,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 
 ## Locais e Pontos de Interesse
 
-- **Rua Cruz de Ferro:** Uma das ruas da cidade, conhecida por abrigar comunidades de baixa renda, a [[Padaria Smyrin]] e o [[Apartamento da Família Moretti]]. Em seu cruzamento com a Rua Daffodil, localiza-se uma praça municipal que abriga apresentações e tendas como a da [[Treinadora de Animais|Adivinha de Tarô]]. Também conhecida como Rua Iron Cross.
+- **Rua Cruz de Ferro:** Uma das ruas da cidade, formada pelas ruas Esquerda, Direita, Superior e Inferior (chamada de Rua Intermediária por seus moradores). Abriga a [[Padaria Smyrin]] e o [[Apartamento da Família Moretti]]. Em seu cruzamento com a Rua Daffodil, localiza-se uma praça municipal que abrigava apresentações do circo itinerante e a tenda da [[Treinadora de Animais|Adivinha de Tarô]]. Também conhecida como Rua Iron Cross.
 - **Rua Daffodil:** Rua que se cruza com a Rua Cruz de Ferro. Abriga a [[Companhia de Melhoramento Imobiliário de Tingen]] e a [[Residência da Família Moretti]] no Nº 2.
 - **Rua Besik:** Rua da cidade onde se localiza o [[Hound Pub]].
 - **Rua Zouteland:** Rua da cidade onde se localizam a [[Companhia de Segurança Espinho Negro]] e o [[Clube de Tiro Zouteland|Campo de Tiro da Rua Zouteland]] no Nº 3.
@@ -28,3 +28,5 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - [[Clube de Tiro Zouteland|Campo de Tiro da Rua Zouteland]]: Campo de tiro subterrâneo utilizado para o treinamento de tiro dos Falcões Noturnos.
 - [[Roupas e Chapéus Wilker]]: Loja de vestuário de Tingen, localizada na Rua Zouteland.
 - [[Catedral de Santa Selena]]: A sede da [[Igreja da Deusa da Noite Eterna]] na cidade, localizada na Rua Luar Vermelho.
+- [[Clube de Adivinhação]]: Estabelecimento comercial e recreativo de adivinhação, situado no segundo andar de um edifício próximo à residência de Welch.
+
