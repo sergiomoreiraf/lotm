@@ -6,7 +6,7 @@ tags:
 
 # Clube de Adivinhação
 
-O **Clube de Adivinhação** é um estabelecimento comercial e recreativo localizado no segundo andar de um edifício na [[Cidade Tingen]], próximo à [[Residência de Welch McGovern]]. Ele funciona como um local de reunião para entusiastas de adivinhação, oferecendo salas de adivinhação, ferramentas, materiais didáticos e palestras mensais de adivinhos famosos, mediante uma taxa anual de adesão.
+O **Clube de Adivinhação** é um estabelecimento comercial e recreativo localizado na Rua Howes, no Burgo Norte da [[Cidade Tingen]], próximo à [[Residência de Welch McGovern]]. Ele funciona como um local de reunião para entusiastas de adivinhação, oferecendo salas de adivinhação, ferramentas, materiais didáticos e palestras mensais de adivinhos famosos, mediante uma taxa anual de adesão.
 
 ## Eventos no Local
 
