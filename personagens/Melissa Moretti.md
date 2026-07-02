@@ -29,3 +29,5 @@ Acompanha seus irmãos na busca por uma nova residência em Tingen. Sugere busca
 
 Visita a nova casa na [[Cidade Tingen|Rua Daffodil]], encantando-se com a banheira, e realiza a mudança de pertences com seus irmãos.
 
+Compra mantimentos usando um soli das economias da família. É persuadida por [[Klein Moretti]] a utilizar carruagens públicas para ir à escola, concordando que o tempo economizado no trajeto seria mais produtivo para seus estudos.
+

@@ -23,6 +23,8 @@ tags:
 - A causa por trás da sensação de familiaridade inexplicável e o aparente esquecimento do professor [[Azik]] em relação ao nome da família Antigonus.
 - O motivo de a [[Igreja da Deusa da Noite Eterna]] ter destruído a [[Família Antigonus]] entre o final da [[Quarta Época]] e o início da época atual.
 - A contradição apontada por [[Leonard Mitchell]] sobre os motivos de [[Klein Moretti]] ter sobrevivido e retornado para casa no incidente de Welch McGovern, e por que o caderno não foi destruído no local para apagar pistas.
+- A especulação de [[Leonard Mitchell]] sobre se o [[Caderno da Família Antigonus]] seria um receptáculo do mal e se o corpo físico de [[Klein Moretti]] estaria sendo usado como incubação ou receptáculo para a descida de uma existência mística.
+
 
 ## Misticismo e Sistema Beyonder
 

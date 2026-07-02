@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 38 - Amador Iniciante
+- **Último Capítulo Processado:** Capítulo 39
