@@ -36,4 +36,8 @@ Testa com sucesso o método de projeção mental do Tolo em pele de cabra no pal
 
 ### Planejamento da Poção e Susie
 
-Relata os problemas administrativos do [[Reino Loen|Loen]] e ouve de [[Klein Moretti|O Tolo]] a sugestão de exames públicos para funcionários. De volta a [[Backlund]], escreve a fórmula da poção de [[Seq 9 - Espectador]] camuflada como anotações de química e elogia sua cadela [[Susie]] por guardar a porta.
+Relata os problemas administrativos do [[Reino Loen|Loen]] e ouve de [[Klein Moretti|O Tolo]] a sugestão de exames públicos para funcionários. De volta a [[Backlund]], escreve a fórmula da poção de [[Seq 9 - Espectador|Espectador]] camuflada como anotações de química e elogia sua cadela [[Susie]] por guardar a porta.
+
+### Consumo da Poção e a Ascensão a Espectadora
+
+Prepara com sucesso a poção de [[Seq 9 - Espectador]] em seu laboratório químico privado. Após sua cadela [[Susie]] invadir o laboratório e beber o primeiro frasco da mistura, utiliza rapidamente o seu conjunto de materiais reserva para produzir uma nova poção e a consome, tornando-se uma Beyonder.

@@ -34,3 +34,7 @@ Orienta Justiça a manter-se como observadora objetiva e isolada de envolvimento
 ### O Pergaminho do Navegador
 
 Opina de forma crítica sobre a ineficiência política dos ministros do [[Reino Loen|Loen]] durante a Reunião do Clube de Tarô. Retorna ao seu corpo físico em um porão subterrâneo e estuda a fórmula da poção de [[Seq 7 - Navegador]] anotada em um pergaminho marrom-amarelado.
+
+### O Capitão do Vingador Azul
+
+Atraca o [[Vingador Azul]] em uma ilha envolta em tempestades além do [[Porto Pritz]]. Declara solenemente a [[Sainz]] seu compromisso de patrulhar os mares em nome do Senhor das Tempestades, enquanto secretamente reflete sobre a ignorância de seus superiores.
