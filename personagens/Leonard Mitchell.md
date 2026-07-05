@@ -31,3 +31,5 @@ Retorna do Portão Chanis e aceita uma comissão privada do mordomo [[Klee]] par
 Convence o mordomo [[Klee]] a ceder roupas e pertences de [[Elliott]] inventando a mentira de possuírem um animal farejador único. Conduz a investigação de carruagem alugada e, ao chegarem à sala onde estão os sequestradores, prepara-se para neutralizá-los recitando um poema de sua sequência [[Seq 8 - Poeta da Meia-Noite|Poeta da Meia-Noite]].
 
 Neutraliza os sequestradores e adormece o refém cantando o poema de sua sequência, imobilizando fisicamente o cúmplice que tentou fugir ao saltar pelo corrimão da escada. Organiza a entrega dos criminosos com a polícia local de patrulha e divide a recompensa de duzentas libras com a equipe, restando dez libras para Klein.
+
+Conduz a carruagem dos Falcões Noturnos até o edifício do cativeiro após a revelação do sonho de Klein e arromba a porta do apartamento suspeito com um soco na fechadura.

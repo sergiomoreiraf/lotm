@@ -10,3 +10,5 @@ Dunn Smith gerencia as operações da unidade de Tingen dos Falcões Noturnos, a
 ## Evolução narrativa
 
 Assina o formulário de despesas de [[Klein Moretti]] e adiciona a solicitação de um pêndulo espiritual de topázio ao orçamento trimestral da Igreja e polícia, admitindo ter esquecido o prazo de solicitação anterior devido ao envolvimento em três investigações complexas em junho. Autoriza o envio de dois Falcões Noturnos para auxiliar o departamento de polícia em um caso com elementos cultistas no Indus Dourado.
+
+Revela-se que, por ser um Sem Sono avançado, necessita de apenas duas horas de sono por dia. Ao receber o aviso de Klein sobre o paradeiro do [[Caderno da Família Antigonus]], lidera uma incursão com [[Frye]], [[Velho Neil]], [[Leonard Mitchell]] e [[Klein Moretti]] ao apartamento em frente ao antigo cativeiro.
