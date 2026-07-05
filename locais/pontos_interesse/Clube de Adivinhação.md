@@ -13,9 +13,13 @@ O **Clube de Adivinhação** é um estabelecimento comercial e recreativo locali
 - [[Klein Moretti]] descobre o clube e entra no estabelecimento para obter informações sobre as condições de adesão, buscando ideias para atuar como [[Seq 9 - Vidente|Vidente]].
 - [[Klein Moretti]] realiza uma adivinhação de tarô com o membro novato [[Glacis]] na Sala Topázio sobre o caderno da família Antigonus, e utiliza sua [[Visão Espiritual]] para alertar Glacis sobre uma possível debilidade em seus pulmões.
 - [[Klein Moretti]] decide ir à tarde para o clube com o dinheiro de sua comissão para iniciar sua atuação, motivado por murmúrios e ilusões resultantes de sua Cogitação e Visão Espiritual.
+- [[Klein Moretti]] formaliza sua filiação pagando cinco libras à secretária [[Angélica Barrehart]], recebe abotoaduras de identificação e assiste a uma preleção de [[Hanass Vincent]] na sala Pedra Lunar.
 
 
 ## Proprietários e Frequentadores
 
 - [[Klein Moretti]]
 - [[Glacis]]
+- [[Angélica Barrehart]] (secretária)
+- [[Hanass Vincent]]
+- [[Edward Steve]]

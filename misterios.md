@@ -42,6 +42,7 @@ tags:
 - A razão pela qual os caminhos Beyonder de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] e [[Seq 7 - Médium Espiritual|Médium Espiritual]] são considerados incompletos na [[Igreja da Deusa da Noite Eterna]] em comparação ao caminho completo do [[Seq 9 - Sem Sono|Sem Sono]].
 - A verdadeira natureza dos sete deuses ortodoxos e a razão de não terem atuado diretamente na realidade desde a [[Quinta Época]], exceto por meio de raros oráculos.
 - A natureza e a causa das agitações invisíveis e da sensação de estar sendo observado por múltiplos pares de olhos quando [[Klein Moretti]] entra em estado de cogitação ou ativa a [[Visão Espiritual]].
+- A origem, natureza e riscos da técnica de adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
 
 ## Segredos de Roselle Gustav
 
@@ -67,3 +68,4 @@ tags:
 - A origem do pergaminho marrom-amarelado contendo a fórmula da poção de [[Seq 7 - Navegador|Navegador]] em posse de [[Alger Wilson]].
 - As consequências e implicações de animais consumirem poções Beyonder, exemplificadas por [[Susie]] ingerir acidentalmente a poção de [[Seq 9 - Espectador]] e passar a exibir comportamentos inteligentes.
 - Os motivos secretos pelos quais [[Alger Wilson]] prefere manter o comando do [[Vingador Azul]] no mar em vez de retornar para assumir posições de prestígio em terra, e o que ele sabe que seus companheiros ignoram.
+- O motivo pelo qual a aura de [[Hanass Vincent]] apresenta um tom vermelho-escuro (preocupação severa) sob a [[Visão Espiritual]] de [[Klein Moretti]], apesar de sua saúde física estar em perfeito estado.
