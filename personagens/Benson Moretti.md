@@ -23,4 +23,6 @@ Acompanha seus irmãos na busca por uma nova residência e explica as dinâmicas
 
 Negocia a redução do aluguel da casa na [[Cidade Tingen|Rua Daffodil]] e a rescisão amigável do contrato de aluguel anterior com o senhorio Franky, realizando a mudança com a família.
 
+Recebe de Klein um bônus de cinco libras e decide comprar livros de contabilidade para estudar e almejar um aumento salarial nos próximos anos. Explica aos irmãos a dinâmica social das visitas formais e informais da classe média.
+
 

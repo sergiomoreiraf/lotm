@@ -35,3 +35,6 @@ Realiza um ritual de adivinhação sob a proteção da [[Igreja da Deusa da Noit
 
 Conversa com [[Klein Moretti]] sobre a probabilidade de a entidade oculta ignorar Klein após a exposição do caderno de Antigonus. Explica a existência de [[Mercados Clandestinos|mercados clandestinos]] de ingredientes Beyonder e revela possuir uma dívida de 30 libras.
 
+### Magia Ritualística e Dívidas
+
+Leva Klein à sua residência nos subúrbios do Burgo Norte para instruí-lo em magia ritualística, onde demonstra o processo utilizando um pergaminho de pele de cabra estruturado como uma nota promissória de trinta libras na tentativa de quitar sua dívida por meios místicos.

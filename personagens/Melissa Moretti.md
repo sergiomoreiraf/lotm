@@ -21,7 +21,7 @@ Apresenta a Klein uma tartaruga fantoche mecânica construída por ela mesma com
 
 Surpreende-se com o novo emprego e o adiantamento salarial de [[Klein Moretti]], mas opõe-se à ideia de se mudarem, preocupada em poupar o dinheiro e citando as dificuldades vividas por conhecidos na Rua Inferior como exemplo de prudência.
 
-Debate com Klein sobre a necessidade de poupar dinheiro, citando o longo noivado de sua amiga [[Selena]] como exemplo de cautela financeira. Aceita a realização de uma comemoração simples e compra alimentos na Rua Cruz de Ferro.
+Debate com Klein sobre a necessidade de poupar dinheiro, citando o longo noivado de sua amiga [[Selena Wood|Selena]] como exemplo de cautela financeira. Aceita a realização de uma comemoração simples e compra alimentos na Rua Cruz de Ferro.
 
 Janta com seus irmãos na comemoração do novo emprego de Klein, ganhando dele um pudim de limão, e estuda à noite após a refeição.
 
@@ -30,4 +30,6 @@ Acompanha seus irmãos na busca por uma nova residência em Tingen. Sugere busca
 Visita a nova casa na [[Cidade Tingen|Rua Daffodil]], encantando-se com a banheira, e realiza a mudança de pertences com seus irmãos.
 
 Compra mantimentos usando um soli das economias da família. É persuadida por [[Klein Moretti]] a utilizar carruagens públicas para ir à escola, concordando que o tempo economizado no trajeto seria mais produtivo para seus estudos.
+
+Concorda em mandar fazer um vestido novo para a comemoração do aniversário de dezesseis anos de sua amiga [[Selena Wood]]. Avisa os irmãos que a vizinha [[Sra. Shaud]] propôs uma visita formal e espera que seu marido advogado sênior conheça o irmão de Selena.
 

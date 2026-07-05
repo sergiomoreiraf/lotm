@@ -14,6 +14,7 @@ A residência geminada de dois andares localizada na [[Cidade Tingen|Rua Daffodi
 ## Eventos no Local
 
 - Os irmãos Moretti realizam a mudança para a nova moradia, organizando seus pertences pessoais nos quartos individuais.
+- A família Moretti realiza um jantar em que planejam suas economias, o aprimoramento profissional de Benson e a compra de um vestido novo para Melissa, além de receberem a proposta de visita de sua nova vizinha [[Sra. Shaud]].
 
 ## Proprietários e Frequentadores
 
