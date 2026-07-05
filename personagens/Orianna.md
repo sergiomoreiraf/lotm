@@ -12,3 +12,6 @@ A contadora da [[Companhia de Segurança Espinho Negro]] na [[Cidade Tingen]]. E
 ## Evolução narrativa
 
 Formaliza o adiantamento salarial de doze libras de [[Klein Moretti]] e compartilha sua experiência de sobrevivência ao serial killer que realizava rituais para o diabo na cidade.
+
+Entrega a comissão de dez libras de [[Klein Moretti]] pela missão de resgate de [[Elliott]], informando-o sobre a divisão dos fundos pagos pelo cliente.
+

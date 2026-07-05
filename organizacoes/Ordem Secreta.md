@@ -12,7 +12,9 @@ Uma organização antiga criada durante a [[Quarta Época]], relacionada ao [[Im
 
 É revelada por [[Dunn Smith]] após a captura de um de seus membros que tentou recuperar o [[Caderno da Família Antigonus]] no [[Apartamento da Família Moretti]]. A organização possuía o caderno, mas perdeu o artefato no mercado de antiguidades devido à negligência de um membro.
 
-Seus membros temporariamente suspenderam buscas ativas ao caderno de Antigonus por não terem certeza de sua importância, reduzindo a ameaça imediata sobre Klein. É confirmado que mantêm costumes antigos herdados do [[Império Solomon]].
+Seus membros temporariamente suspenderam buscas ativas ao caderno de Antigonus por não terem certeza de sua importância, reduzindo a ameaça imediata sobre Klein. É conhecido que mantêm costumes antigos herdados do [[Império Solomon]].
+
+Busca pelo paradeiro de [[Ray Bieber]] na tentativa de recuperar o [[Caderno da Família Antigonus]], após obter informações através de seus extensos canais sobre o mandado de prisão emitido.
 
 ## Funcionamento e Regras
 

@@ -10,6 +10,8 @@ Sangue de coloração azul celestial que emite bolhas ilusórias, sugerindo uma 
 ## Origem/Obtenção
 
 - Extraído da Lula Lavos, uma criatura marinha considerada uma espécie extraordinária mutacionada.
+- O [[Velho Neil]] revela que, além do sangue, os globos oculares, a pele e os tentáculos da Lula Lavos também são materiais místicos valiosos.
+
 
 ## Usos Conhecidos
 

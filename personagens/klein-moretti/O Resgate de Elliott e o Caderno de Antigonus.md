@@ -16,3 +16,6 @@ Comunica o resgate aos policiais de patrulha na rua e retira-se da cena discreta
 Identifica em sonho que o caderno está no apartamento oposto ao cativeiro de [[Elliott]] e reporta o fato a [[Dunn Smith]]. Integra a equipe enviada para investigar o local e, ao deparar-se com o cadáver em decomposição de [[Katy Stefania Bieber|Velha em Cadeira de Balanço]] cercado por larvas, acaba vomitando.
 
 Recupera-se com o auxílio de [[Frye]] e, sob a [[Visão Espiritual]], ouve os murmúrios "Hornacis... Flegrea..." ao sentir um forte déjà vu. Tenta localizar o paradeiro do suspeito [[Ray Bieber]] usando a adivinhação por [[Busca Radiestésica com Vara]] com seu retrato e pertences, mas a tentativa falha devido à interferência de uma força mística.
+
+Recebe sua comissão de dez libras de [[Orianna]] e aprende sobre o [[Sistema Tributário do Reino Loen|sistema de impostos]] do Reino Loen. Descobre com o [[Velho Neil]] a existência de [[Mercados Clandestinos|mercados clandestinos]] de ingredientes Beyonder e decide frequentar o [[Clube de Adivinhação]] à tarde para iniciar sua atuação.
+
