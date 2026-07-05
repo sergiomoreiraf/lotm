@@ -12,6 +12,7 @@ Este repositório é um cofre do **Obsidian** estruturado como um caderno de lei
 - `historia/` — Linha do tempo central, eras e conflitos.
 - `organizacoes/` — Sociedades secretas e agências oficiais.
 - `lore/` — Conceitos gerais (moedas, rituais, idiomas).
+- `resumos/` — Notas de sintetização dos resumos de capítulos.
 
 ## 🤖 Automações Assistidas (`.agents/`)
 

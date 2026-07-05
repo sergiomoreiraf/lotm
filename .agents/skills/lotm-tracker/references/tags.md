@@ -49,6 +49,7 @@ existentes.
 | `#personagem/moc/arquivado` | MOC secundário contendo links para as subnotas arquivadas do personagem | |
 | `#regiao/continente-norte` | Região geopolítica do norte | |
 | `#regiao/continente-sul` | Região geopolítica do sul | |
+| `#resumo` | Notas de sintetização dos resumos de capítulos | |
 
 ---
 

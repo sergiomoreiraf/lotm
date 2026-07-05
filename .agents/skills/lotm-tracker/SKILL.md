@@ -181,6 +181,12 @@ Organiza a hierarquia e as relações geopolíticas descobertas ao longo da leit
 
 > Consulte o template em `references/templates/moc-geopolitico.md`.
 
+### N. Resumos (`resumos/[numero do capítulo] - [título do capítulo].md`)
+
+Armazena a sintetização do resumo do capítulo correspondente com preenchimento de zeros à esquerda para ter obrigatoriamente 4 dígitos no número do capítulo (ex: `resumos/0008 - uma nova era.md`). O conteúdo desta nota é o sumário narrativo de 2-3 parágrafos retornado pelo subagente.
+
+> Consulte o template em `references/templates/resumo.md`.
+
 ## 5. Anti-Spoiler Guardrails
 
 ### 5.1 Tabula Rasa (Reforço)
@@ -337,6 +343,7 @@ Garantir que o diretório `<vault>/.agents/tmp/` exista (criá-lo se necessário
 - [ ] `misterios.md` — <!-- alterações: novos mistérios e/ou remoção de resolvidos -->
 - [ ] `diario_de_roselle.md` — <!-- novas páginas do diário, se aplicável -->
 - [ ] `locais/moc-geopolitica.md` — <!-- atualizações na hierarquia, se aplicável -->
+- [ ] `resumos/XXXX - [Título do Capítulo].md` — <!-- sintetização do resumo (4 dígitos no número do capítulo) -->
 ```
 
 ##### 6.1.9 Batch Write
@@ -349,6 +356,7 @@ Escrever **todas** as alterações em um único batch:
 4. `misterios.md` — aplicar alterações registradas no buffer.
 5. `diario_de_roselle.md` — aplicar alterações registradas no buffer, se houver.
 6. `locais/moc-geopolitica.md` — atualizar se novas localidades foram adicionadas.
+7. `resumos/XXXX - [Título do Capítulo].md` — criar com a sintetização do resumo (4 dígitos no número do capítulo, ex: `0008 - uma nova era`).
 
 ##### 6.1.10 Deletar Buffer Temporário (Obrigatório)
 
