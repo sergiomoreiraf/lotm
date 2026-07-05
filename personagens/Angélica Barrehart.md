@@ -12,3 +12,5 @@ Secretária do [[Clube de Adivinhação]] da [[Cidade Tingen]]. É uma mulher el
 ## Evolução narrativa
 
 Realiza a inscrição de [[Klein Moretti]] como membro do clube mediante a taxa de cinco libras e entrega a ele o recibo e as abotoaduras de identificação gravadas em [[Hermes]]. Registra a tarifa de adivinhação de Klein nos arquivos de membros do clube.
+
+Informa a [[Klein Moretti]] no [[Clube de Adivinhação]] que [[Glacis]] havia se recuperado de sua doença grave e o procurou no clube, descrevendo-o como um médico mágico.

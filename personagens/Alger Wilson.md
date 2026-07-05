@@ -38,3 +38,7 @@ Opina de forma crítica sobre a ineficiência política dos ministros do [[Reino
 ### O Capitão do Vingador Azul
 
 Atraca o [[Vingador Azul]] em uma ilha envolta em tempestades além do [[Porto Pritz]]. Declara solenemente a [[Sainz]] seu compromisso de patrulhar os mares em nome do Senhor das Tempestades, enquanto secretamente reflete sobre a ignorância de seus superiores.
+
+### A Perseguição ao Ouvinte
+
+Navega pelo [[Mar Sonia]] em meio a uma tempestade a bordo do [[Vingador Azul]], ordenando a sua tripulação que persiga o Ouvinte da [[Ordem Aurora]]. Reflete sobre a proximidade da reunião de segunda-feira do [[Clube de Tarô]].

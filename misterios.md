@@ -30,6 +30,7 @@ tags:
 
 - O paradeiro de [[Ray Bieber]] e o motivo pelo qual o [[Caderno da Família Antigonus]] foi enviado para a sua residência.
 - A origem da interferência mística que impede a localização de [[Ray Bieber]] por meio de adivinhação prática como a [[Busca Radiestésica com Vara]].
+- As habilidades, perigos e a origem do [[Artefato Selado 2-049]] pertencente à [[Família Antigonus]], que está sendo escoltado de [[Backlund]] a [[Cidade Tingen|Tingen]] para confirmar o parentesco de [[Ray Bieber]] com a família.
 
 ## Misticismo e Sistema Beyonder
 
@@ -45,6 +46,8 @@ tags:
 - A natureza e a causa das agitações invisíveis e da sensação de estar sendo observado por múltiplos pares de olhos quando [[Klein Moretti]] entra em estado de cogitação ou ativa a [[Visão Espiritual]].
 - A origem, natureza e riscos da técnica de adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
 - A identidade e motivação do boticário impressionante em [[Cidade Tingen|Tingen]] que forneceu um remédio mágico para curar a pneumonia grave de [[Glacis]].
+- A localização e a natureza da residência sagrada do [[O Criador|Criador]] citada por um [[Ouvinte]] da [[Ordem Aurora]].
+- A causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que 'estavam mentindo' ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
 
 
 ## Segredos de Roselle Gustav
