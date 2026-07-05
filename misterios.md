@@ -25,9 +25,9 @@ tags:
 - A contradição apontada por [[Leonard Mitchell]] sobre os motivos de [[Klein Moretti]] ter sobrevivido e retornado para casa no incidente de Welch McGovern, e por que o caderno não foi destruído no local para apagar pistas.
 - A especulação de [[Leonard Mitchell]] sobre se o [[Caderno da Família Antigonus]] seria um receptáculo do mal e se o corpo físico de [[Klein Moretti]] estaria sendo usado como incubação ou receptáculo para a descida de uma existência mística.
 - A causa e o significado de o [[Caderno da Família Antigonus]] ter exercido um foco invisível nas costas de [[Klein Moretti]] durante a ação de resgate, gerando um _déjà vu_ espiritual e um pesadelo revelador envolvendo a carta d'[[Klein Moretti|O Tolo]] sorrindo e a frase em [[Hermes]].
-- A identidade da [[Velha em Cadeira de Balanço|velha senhora]] encontrada morta e em decomposição anormal no apartamento oposto ao antigo cativeiro de [[Elliott]], e os motivos para o calor incomum da lareira acesa no início de julho.
 - A natureza do selo invisível que se dissipou quando [[Leonard Mitchell]] arrombou a porta do apartamento e a causa das larvas em seu corpo brilharem sob a [[Visão Espiritual]] de [[Klein Moretti]].
-
+- O paradeiro de [[Ray Bieber]] e o motivo pelo qual o [[Caderno da Família Antigonus]] foi enviado para a sua residência.
+- A origem da interferência mística que impede a localização de [[Ray Bieber]] por meio de adivinhação prática como a [[Busca Radiestésica com Vara]].
 
 ## Misticismo e Sistema Beyonder
 
