@@ -183,7 +183,7 @@ Organiza a hierarquia e as relações geopolíticas descobertas ao longo da leit
 
 ### N. Resumos (`resumos/[numero do capítulo] - [título do capítulo].md`)
 
-Armazena a sintetização do resumo do capítulo correspondente com preenchimento de zeros à esquerda para ter obrigatoriamente 4 dígitos no número do capítulo (ex: `resumos/0008 - uma nova era.md`). O conteúdo desta nota é o sumário narrativo de 2-3 parágrafos retornado pelo subagente.
+Armazena a sintetização do resumo do capítulo correspondente com preenchimento de zeros à esquerda para ter obrigatoriamente 4 dígitos no número do capítulo (ex: `resumos/0008 - uma nova era.md`). O conteúdo desta nota é o sumário narrativo de 2-3 parágrafos retornado pelo subagente. **Obrigatório:** O sumário deve integrar links internos no formato Obsidian (`[[Nota]]` ou `[[Nota|Alias]]`) para todas as entidades e conceitos criados ou alterados no respectivo capítulo (e que façam parte da narrativa), permitindo a conexão direta do resumo com o restante do cofre.
 
 > Consulte o template em `references/templates/resumo.md`.
 
@@ -369,7 +369,7 @@ O subprocessador retorna ao loop principal um resumo contendo:
 - Número e nome do capítulo processado.
 - Lista de entidades criadas.
 - Lista de entidades alteradas (merge).
-- Sumário narrativo de 2-3 parágrafos.
+- Sumário narrativo de 2-3 parágrafos (obrigatoriamente contendo os links do Obsidian para as entidades e conceitos correspondentes).
 
 ---
 
