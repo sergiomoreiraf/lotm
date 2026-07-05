@@ -18,3 +18,4 @@ Uma sequência Beyonder associada a um caminho incompleto da [[Igreja da Deusa d
 ## Regras de Conduta
 
 - **Máxima:** "Faça o que quiser, mas não faça mal!" — Uma regra de conduta originada da [[Ordem Ascética de Moisés]]. O cumprimento rigoroso e reverente desta máxima minimiza o risco de perda de controle do Beyonder.
+- **Temperança:** Uma característica crítica e necessária para garantir a sobrevivência e longevidade do Beyonder, evitando a ganância durante a prática de magia.

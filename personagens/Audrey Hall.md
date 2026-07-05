@@ -41,3 +41,7 @@ Relata os problemas administrativos do [[Reino Loen|Loen]] e ouve de [[Klein Mor
 ### Consumo da Poção e a Ascensão a Espectadora
 
 Prepara com sucesso a poção de [[Seq 9 - Espectador]] em seu laboratório químico privado. Após sua cadela [[Susie]] invadir o laboratório e beber o primeiro frasco da mistura, utiliza rapidamente o seu conjunto de materiais reserva para produzir uma nova poção e a consome, tornando-se uma Beyonder.
+
+### A Atuação no Banquete
+
+Observa com distanciamento o comportamento e a linguagem corporal de diversos nobres durante um banquete de gala em [[Backlund]], aplicando os princípios da poção de [[Seq 9 - Espectador|Espectador]] até ter sua concentração quebrada ao notar sua cadela [[Susie]] a observando das sombras da varanda.

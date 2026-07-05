@@ -45,7 +45,6 @@ tags:
 - A natureza e a causa das agitações invisíveis e da sensação de estar sendo observado por múltiplos pares de olhos quando [[Klein Moretti]] entra em estado de cogitação ou ativa a [[Visão Espiritual]].
 - A origem, natureza e riscos da técnica de adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
 - A identidade e motivação do boticário impressionante em [[Cidade Tingen|Tingen]] que forneceu um remédio mágico para curar a pneumonia grave de [[Glacis]].
-- A eficácia, os mecanismos e os potenciais riscos ou consequências de realizar magia ritualística para quitar dívidas financeiras ordinárias, conforme tentado por [[Velho Neil]] com uma nota promissória de trinta libras.
 
 
 ## Segredos de Roselle Gustav

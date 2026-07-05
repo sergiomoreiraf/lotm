@@ -18,6 +18,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[Treinamento de Tiro e Misticismo Prático]] — Inicia o treinamento prático com armas de fogo e exercícios físicos, convence Melissa a utilizar carruagens públicas e começa a aprender técnicas de adivinhação prática com o Velho Neil.
 - [[O Resgate de Elliott e o Caderno de Antigonus]] — Resgata o refém Elliott, recebe sua comissão e descobre a conexão espiritual e o foco invisível do caderno de Antigonus após um pesadelo.
 - [[Ingresso no Clube de Adivinhação]] — Associa-se ao clube para atuar como Vidente, interage com membros e desconfia da segurança da adivinhação com espelho mágico de Hanass Vincent.
+- [[A Quitação da Dívida e a Temperança]] — Presencia a resolução da dívida do Velho Neil por meio do achado de uma carteira e aprende que a temperança é vital para a sobrevivência de um Beyonder.
 
 ## Eventos Arquivados
 
