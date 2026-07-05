@@ -38,3 +38,5 @@ Conversa com [[Klein Moretti]] sobre a probabilidade de a entidade oculta ignora
 ### Magia Ritualística e Dívidas
 
 Leva Klein à sua residência nos subúrbios do Burgo Norte para instruí-lo em magia ritualística, onde demonstra o processo utilizando um pergaminho de pele de cabra estruturado como uma nota promissória de trinta libras na tentativa de quitar sua dívida por meios místicos.
+
+Explica as diretrizes de consagração, simbolismos divinos e a numerologia da [[Ordem Ascética de Moisés]], realizando com sucesso o ritual sob as bênçãos da [[Deusa da Noite Eterna]] para liquidar sua dívida.

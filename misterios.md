@@ -37,6 +37,7 @@ tags:
 - A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
 - Se o [[Mito da Criação]] é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito.
 - A verdadeira essência do princípio de "digestão" e "atuação" para mitigar os efeitos colaterais das poções Beyonder e evitar a loucura, mencionado por Roselle.
+- A hipótese de [[Klein Moretti]] de que o cumprimento rigoroso de máximas (como a máxima dos Espreitadores de Mistérios: "Faça o que quiser, mas não faça mal!") corresponde a uma forma de "atuação" para digerir poções Beyonder.
 - As propriedades e a origem das criaturas extraordinárias cujos materiais compõem poções místicas (ex: [[Sangue de Lula Lavos]], [[Cristal Aqua Estelar]]).
 - O motivo pelo qual o consumo de café após as três da tarde propicia a audição de sussurros de existências desconhecidas, conforme relatado por [[Velho Neil]].
 - A razão pela qual os caminhos Beyonder de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] e [[Seq 7 - Médium Espiritual|Médium Espiritual]] são considerados incompletos na [[Igreja da Deusa da Noite Eterna]] em comparação ao caminho completo do [[Seq 9 - Sem Sono|Sem Sono]].

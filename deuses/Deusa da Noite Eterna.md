@@ -18,6 +18,8 @@ Uma das divindades ortodoxas do [[Continente Norte]].
 - Adorada por meio de sua respectiva instituição, a [[Igreja da Deusa da Noite Eterna]].
 - Associada à lua carmesim, símbolo de sua alcunha de Dama do Carmesim, que de acordo com o [[Mito da Criação]] se originou de um dos olhos do [[O Criador|Criador]].
 - Nos registros pré-históricos de sua igreja, acordou no final da [[Segunda Época]].
+- Ervas e essências associadas: rosas, limões, hortelã, flor da lua, baunilha noturna e flor do sono.
+- Magia ritualística direcionada à Deusa utiliza velas de flor da lua e sândalo vermelho-escuro para simbolizar sua identidade como Dama do Carmesim, e velas de baunilha noturna e flor do sono para simbolizar a Noite.
 
 ## Relações Divinas
 

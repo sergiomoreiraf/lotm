@@ -14,3 +14,7 @@ Uma sequência Beyonder associada a um caminho incompleto da [[Igreja da Deusa d
 - **Aptidão a Rituais Místicos:** Habilidade e facilidade para a execução de rituais mágicos e misticismo.
 - **Misticismo Básico:** Compreensão abrangente mas rudimentar de magia, bruxaria, astrologia e outros conhecimentos místicos.
 - **Sensibilidade Sobrenatural:** Percepção acentuada de existências ocultas que se ocultam na matéria, exigindo extremo respeito e cuidado por parte do usuário.
+
+## Regras de Conduta
+
+- **Máxima:** "Faça o que quiser, mas não faça mal!" — Uma regra de conduta originada da [[Ordem Ascética de Moisés]]. O cumprimento rigoroso e reverente desta máxima minimiza o risco de perda de controle do Beyonder.

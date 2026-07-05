@@ -14,4 +14,6 @@ Mencionada por [[Dunn Smith]] como a fonte original das fórmulas obtidas pela I
 
 ## Funcionamento e Regras
 
-Seus membros históricos eram instruídos a fazer o que desejavam sem causar danos. Ao se tornarem Espreitadores de Mistérios, eram proibidos de falar por cinco anos para cultivar o silêncio, foco e concentração mental.
+Seus membros históricos eram instruídos a seguir a máxima "Faça o que quiser, mas não faça mal!". Ao se tornarem Espreitadores de Mistérios, eram proibidos de falar por cinco anos para cultivar o silêncio, foco e concentração mental.
+
+Possuíam uma filosofia numérica na qual acreditavam que todos os objetos eram numéricos, com espiritualidades associadas a cada algarismo (0 como o Caos, 1 como o Criador inicial, 2 como as divindades e o mundo, e 3 como a criação material).
