@@ -43,6 +43,7 @@ tags:
 - A verdadeira natureza dos sete deuses ortodoxos e a razão de não terem atuado diretamente na realidade desde a [[Quinta Época]], exceto por meio de raros oráculos.
 - A natureza e a causa das agitações invisíveis e da sensação de estar sendo observado por múltiplos pares de olhos quando [[Klein Moretti]] entra em estado de cogitação ou ativa a [[Visão Espiritual]].
 - A origem, natureza e riscos da técnica de adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
+- A identidade e motivação do boticário impressionante em [[Cidade Tingen|Tingen]] que forneceu um remédio mágico para curar a pneumonia grave de [[Glacis]].
 
 ## Segredos de Roselle Gustav
 
