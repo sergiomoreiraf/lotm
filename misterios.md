@@ -75,3 +75,4 @@ tags:
 - As consequências e implicações de animais consumirem poções Beyonder, exemplificadas por [[Susie]] ingerir acidentalmente a poção de [[Seq 9 - Espectador]] e passar a exibir comportamentos inteligentes.
 - Os motivos secretos pelos quais [[Alger Wilson]] prefere manter o comando do [[Vingador Azul]] no mar em vez de retornar para assumir posições de prestígio em terra, e o que ele sabe que seus companheiros ignoram.
 - O motivo pelo qual a aura de [[Hanass Vincent]] apresenta um tom vermelho-escuro (preocupação severa) sob a [[Visão Espiritual]] de [[Klein Moretti]], apesar de sua saúde física estar em perfeito estado.
+- O paradeiro do navio de carga Alfalfa no [[Oceano Berserk]] e o destino do noivo de [[Anna]] após zarpar do [[Continente Sul]].

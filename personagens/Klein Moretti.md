@@ -19,6 +19,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Resgate de Elliott e o Caderno de Antigonus]] — Resgata o refém Elliott, recebe sua comissão e descobre a conexão espiritual e o foco invisível do caderno de Antigonus após um pesadelo.
 - [[Ingresso no Clube de Adivinhação]] — Associa-se ao clube para atuar como Vidente, interage com membros e desconfia da segurança da adivinhação com espelho mágico de Hanass Vincent.
 - [[A Quitação da Dívida e a Temperança]] — Presencia a resolução da dívida do Velho Neil por meio do achado de uma carteira e aprende que a temperança é vital para a sobrevivência de um Beyonder.
+- [[A Primeira Cliente do Vidente]] — Atende sua primeira cliente formal no Clube de Adivinhação usando leitura facial e pêndulo espiritual para investigar um desaparecimento no Oceano Berserk.
 
 ## Eventos Arquivados
 
