@@ -10,3 +10,5 @@ Vizinha da [[Residência da Família Moretti]] na [[Cidade Tingen|Rua Daffodil]]
 ## Evolução narrativa
 
 Envia um cartão de visita à residência dos Moretti por meio de sua criada propondo uma visita formal para um domingo à tarde, com o objetivo de conhecer os novos vizinhos.
+
+Realiza a visita à residência dos Moretti, presenteando a família e demonstrando boa educação, embora comente suas convicções baseadas na fé do [[Senhor das Tempestades]] de que meninas não devem ir à escola e sim ser educadas em casa.

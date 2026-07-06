@@ -16,3 +16,5 @@ Convence [[Angélica Barrehart|Angélica]] de que seu diagnóstico anterior de p
 Realiza a adivinhação astrológica para [[Anna]] calculando os números espirituais de [[Joyce Meyer]], percebendo que a montagem fluida do astrolábio indica a digestão de sua poção de [[Seq 9 - Vidente|Vidente]]. Emprega adivinhação de sonhos no Quarto Topázio, visualizando Joyce sobrevivendo a uma calamidade marítima e retornando a uma casa com um moinho de vento.
 
 Durante o sonho, sofre a intrusão de uma visão conturbada de um palácio em ruínas no topo de uma montanha com um trono gigante e vermes transparentes, que suspeita estar conectada ao [[Caderno da Família Antigonus]]. Conclui a adivinhação com precisão ao informar a Anna sobre o retorno de Joyce, recebendo uma nota de um soli.
+
+Garante uma pequena gorjeta a [[Angélica Barrehart|Angélica]] pela indicação e responde de forma enigmática sobre o desejo de [[Glacis]] de vê-lo. Em casa, conforta [[Melissa Moretti|Melissa]] sobre a postura preconceituosa da vizinha [[Sra. Shaud]] baseada na fé do [[Senhor das Tempestades]] e, à noite, questiona em seu diário em mandarim o motivo de a atuação ser o segredo para digerir poções.
