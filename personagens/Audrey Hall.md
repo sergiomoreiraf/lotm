@@ -45,3 +45,8 @@ Prepara com sucesso a poção de [[Seq 9 - Espectador]] em seu laboratório quí
 ### A Atuação no Banquete
 
 Observa com distanciamento o comportamento e a linguagem corporal de diversos nobres durante um banquete de gala em [[Backlund]], aplicando os princípios da poção de [[Seq 9 - Espectador|Espectador]] até ter sua concentração quebrada ao notar sua cadela [[Susie]] a observando das sombras da varanda.
+
+### O Reconhecimento no Clube de Tarô
+
+Participa da Reunião de Tarô após consumir a poção de [[Seq 9 - Espectador|Espectador]], exibindo uma aura serena semelhante a um lago límpido. Sua ascensão é notada por [[Klein Moretti|O Tolo]], que visualiza a constelação mística do Dragão Gigante manifestada no espaldar de sua cadeira.
+

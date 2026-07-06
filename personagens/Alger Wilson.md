@@ -42,3 +42,8 @@ Atraca o [[Vingador Azul]] em uma ilha envolta em tempestades além do [[Porto P
 ### A Perseguição ao Ouvinte
 
 Navega pelo [[Mar Sonia]] em meio a uma tempestade a bordo do [[Vingador Azul]], ordenando a sua tripulação que persiga o Ouvinte da [[Ordem Aurora]]. Reflete sobre a proximidade da reunião de segunda-feira do [[Clube de Tarô]].
+
+### A Reunião e a Ascensão de Justiça
+
+Tranca-se na cabine do [[Navio Fantasma da Era Tudor]] para proteção e ingressa na reunião do [[Clube de Tarô]]. Surpreende-se com a rápida velocidade de ascensão de [[Audrey Hall|Justiça]] ao caminho do [[Seq 9 - Espectador|Espectador]].
+

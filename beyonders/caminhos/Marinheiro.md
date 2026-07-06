@@ -5,7 +5,7 @@ tags:
 
 # Caminho do Marinheiro
 
-Um dos caminhos Beyonder do divino. É o caminho associado à [[Igreja do Senhor das Tempestades]] e concede habilidades marítimas e de combate na água.
+Um dos caminhos Beyonder do divino. É o caminho associado à [[Igreja do Senhor das Tempestades]] e concede habilidades marítimas e de combate na água. Possui a **Tempestade de Vento** como seu símbolo místico.
 
 ## Sequências Descobertas
 

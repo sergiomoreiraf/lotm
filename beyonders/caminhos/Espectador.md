@@ -5,7 +5,7 @@ tags:
 
 # Caminho do Espectador
 
-Um dos vinte e dois caminhos Beyonder. Focado em habilidades da mente, observação e análise comportamental.
+Um dos vinte e dois caminhos Beyonder. Focado em habilidades da mente, observação e análise comportamental. Possui o **Dragão Gigante** como seu símbolo místico.
 
 ## Sequências Descobertas
 

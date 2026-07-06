@@ -48,7 +48,8 @@ tags:
 - A identidade e motivação do boticário impressionante em [[Cidade Tingen|Tingen]] que forneceu um remédio mágico para curar a pneumonia grave de [[Glacis]].
 - A localização e a natureza da residência sagrada do [[O Criador|Criador]] citada por um [[Ouvinte]] da [[Ordem Aurora]].
 - A causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que 'estavam mentindo' ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
-
+- A eficácia e segurança do método modificado de magia ritualística de [[Klein Moretti|Klein]] direcionado a si mesmo ("O Tolo que não pertence a esta era...") para servir de caixa de mensagens offline na [[Névoa Cinza]].
+- O significado e a origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) que surgem nas costas das cadeiras do [[Clube de Tarô]] à medida que os membros sobem de nível ou ativam suas habilidades Beyonder.
 
 ## Segredos de Roselle Gustav
 
