@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 61 - Símbolo Estranho
+- **Último Capítulo Processado:** Capítulo 62 - A Sugestão do Vidente

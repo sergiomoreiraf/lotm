@@ -44,7 +44,7 @@ tags:
 - A verdadeira natureza dos sete deuses ortodoxos e a razão de não terem atuado diretamente na realidade desde a [[Quinta Época]], exceto por meio de raros oráculos.
 - A natureza e a causa das agitações invisíveis e da sensação de estar sendo observado por múltiplos pares de olhos quando [[Klein Moretti]] entra em estado de cogitação ou ativa a [[Visão Espiritual]].
 - A origem, natureza e riscos da técnica de adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
-- A identidade e motivação do boticário impressionante em [[Cidade Tingen|Tingen]] que forneceu um remédio mágico para curar a pneumonia grave de [[Glacis]].
+- A verdadeira motivação e afiliação de [[Lawson Darkwade]], o boticário de Tingen que forneceu um remédio de [[Lenburg]] para curar a pneumonia de [[Glacis]].
 - A localização e a natureza da residência sagrada do [[O Criador|Criador]] citada por um [[Ouvinte]] da [[Ordem Aurora]].
 - A causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que 'estavam mentindo' ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
 - A eficácia e segurança do método modificado de magia ritualística de [[Klein Moretti|Klein]] direcionado a si mesmo ("O Tolo que não pertence a esta era...") para servir de caixa de mensagens offline na [[Névoa Cinza]].

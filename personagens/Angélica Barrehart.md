@@ -16,3 +16,6 @@ Realiza a inscrição de [[Klein Moretti]] como membro do clube mediante a taxa 
 Informa a [[Klein Moretti]] no [[Clube de Adivinhação]] que [[Glacis]] havia se recuperado de sua doença grave e o procurou no clube, descrevendo-o como um médico mágico.
 
 Questiona Klein sobre a precisão de seu diagnóstico a Glacis e é convencida de que ele utilizou técnicas de leitura facial. Após receber dele conselhos para expressar suas emoções deprimidas e testemunhar sua misteriosa demonstração de adivinhação com pêndulo de topázio, passa a vê-lo como confiável e o recomenda à cliente [[Anna]] para uma consulta de adivinhação.
+
+Klein a examina com a [[Visão Espiritual]] e percebe que as cores emocionais cinzentas de sua aura se dissiparam bastante, substituídas por uma cor semelhante à luz solar. Ela expressa sincera gratidão pelas sugestões dele, relatando sentir-se relaxada e feliz após um ano de angústia.
+
