@@ -52,3 +52,7 @@ Participa da Reunião de Tarô após consumir a poção de [[Seq 9 - Espectador|
 
 Apresenta uma página do diário de Roselle. Compreende o [[Método de Atuação|método de atuação]] através da analogia do castelo e convite explicada pelo Tolo, e compromete-se a buscar informações sobre a [[Família Antigonus]].
 
+### O Aprendizado Místico e o Ritual de Licença
+
+Aprende sobre as duas [[Ardósia da Blasfêmia|Ardósias da Blasfêmia]] e as sequências subsequentes de seu caminho, [[Seq 8 - Telepata]] e [[Seq 7 - Psiquiatra]]. Questiona sobre os efeitos de poções em animais e concorda em testar o ritual de licença proposto por [[Klein Moretti|O Tolo]].
+

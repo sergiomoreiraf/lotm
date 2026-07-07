@@ -34,7 +34,7 @@ tags:
 
 ## Misticismo e Sistema Beyonder
 
-- A origem e o conteúdo completo da [[Ardósia da Blasfêmia]] da qual derivam os nomes e fórmulas das poções.
+- A origem e o conteúdo completo da [[Ardósia da Blasfêmia]] da qual derivam os nomes e fórmulas das poções, da qual se revelou a existência de ao menos duas versões e a retenção de seus segredos pelas sete igrejas ortodoxas.
 - A verdade e o mecanismo por trás do princípio místico de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
 - Se o [[Mito da Criação]] é literal e historicamente real ou se reflete um acordo político-teológico entre as principais Igrejas após séculos de conflito.
 - As propriedades e a origem das criaturas extraordinárias cujos materiais compõem poções místicas (ex: [[Sangue de Lula Lavos]], [[Cristal Aqua Estelar]]).
@@ -74,8 +74,8 @@ tags:
 - O objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
 - As circunstâncias e consequências da derrota militar do [[Reino Loen]] na batalha da costa leste de [[Império Balam|Balam]].
 - A origem do pergaminho marrom-amarelado contendo a fórmula da poção de [[Seq 7 - Navegador|Navegador]] em posse de [[Alger Wilson]].
-- As consequências e implicações de animais consumirem poções Beyonder, exemplificadas por [[Susie]] ingerir acidentalmente a poção de [[Seq 9 - Espectador]] e passar a exibir comportamentos inteligentes.
 - Os motivos secretos pelos quais [[Alger Wilson]] prefere manter o comando do [[Vingador Azul]] no mar em vez de retornar para assumir posições de prestígio em terra, e o que ele sabe que seus companheiros ignoram.
 - O motivo pelo qual a aura de [[Hanass Vincent]] apresenta um tom vermelho-escuro (preocupação severa) sob a [[Visão Espiritual]] de [[Klein Moretti]], apesar de sua saúde física estar em perfeito estado.
 - A origem e o significado da visão conturbada obtida por [[Klein Moretti]] durante sua adivinhação de sonhos no Quarto Topázio, retratando um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
 - A causa por trás do surto repentino e violento de loucura e assassinatos mútuos ocorrido entre os tripulantes e passageiros do navio Alfalfa no [[Oceano Berserk]].
+- A localização e a real influência dos [[Alquimistas da Psicologia]], cujas pistas locais foram perdidas após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].

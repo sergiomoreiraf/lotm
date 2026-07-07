@@ -21,6 +21,8 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Quitação da Dívida e a Temperança]] — Presencia a resolução da dívida do Velho Neil por meio do achado de uma carteira e aprende que a temperança é vital para a sobrevivência de um Beyonder.
 - [[A Primeira Cliente do Vidente]] — Atende sua primeira cliente formal no Clube de Adivinhação usando leitura facial e pêndulo espiritual para investigar um desaparecimento no Oceano Berserk.
 - [[A Hipótese de Atuação e as Cinzas da Análise]] — Organiza suas suposições sobre atuação e o ritual de sorte em notas secretas que depois queima, decidindo indagar Quentin Cohen sobre a cordilheira Hornacis.
+- [[O Encantamento e o Ritual de Licença]] — Conduz a reunião do Clube de Tarô, obtém dados históricos sobre a família Antigonus e propõe um experimento ritualístico com seu encantamento em Hermes.
+
 
 ## Eventos Arquivados
 

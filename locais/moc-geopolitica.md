@@ -30,5 +30,6 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
 ## Mares e Regiões Marítimas
 
 - [[Mar Sonia]]
+  - [[Ilha Sonia]]
 - [[Oceano Berserk]]
 - [[Mar da Névoa]]
