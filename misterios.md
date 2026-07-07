@@ -14,6 +14,8 @@ tags:
 - A razão pela qual Klein sobreviveu a esse evento misterioso (quando a regra é a morte de todos os envolvidos) e como sua mente manteve a lucidez para resistir à invasão de sonho de [[Dunn Smith]].
 - A origem e o significado dos sussurros "Hornacis... Flegrea..." ouvidos por Klein após consumir a poção de [[Seq 9 - Vidente|Vidente]].
 - A razão de a carta de tarô [[Klein Moretti|O Tolo]] (em versão invertida) reaparecer sistematicamente nas adivinhações de [[Klein Moretti]] referentes ao destino do [[Caderno da Família Antigonus]].
+- O significado do símbolo formado no espaldar de sua cadeira no palácio da névoa cinza, que combina um Olho Sem Pupila (segredo) e linhas contorcidas (mudança), ambos de forma incompleta e sobreposta.
+- A origem e o design do magnífico palácio de bronze, mesa e cadeiras acima da névoa cinza, e se eles são uma criação subconsciente de Klein ou o reflexo de alguma estrutura real.
 
 ## O Incidente do Caderno Antigonus
 
@@ -27,7 +29,6 @@ tags:
 - A causa e o significado de o [[Caderno da Família Antigonus]] ter exercido um foco invisível nas costas de [[Klein Moretti]] durante a ação de resgate, gerando um _déjà vu_ espiritual e um pesadelo revelador envolvendo a carta d'[[Klein Moretti|O Tolo]] sorrindo e a frase em [[Hermes]].
 - A existência de uma ligação mística contínua entre o [[Caderno da Família Antigonus]] e [[Klein Moretti]] que possa forçar coincidências ou atrai-lo de volta às pistas do artefato.
 - A natureza do selo invisível que se dissipou quando [[Leonard Mitchell]] arrombou a porta do apartamento e a causa das larvas em seu corpo brilharem sob a [[Visão Espiritual]] de [[Klein Moretti]].
-
 - O paradeiro de [[Ray Bieber]] e o motivo pelo qual o [[Caderno da Família Antigonus]] foi enviado para a sua residência.
 - A origem da interferência mística que impede a localização de [[Ray Bieber]] por meio de adivinhação prática como a [[Busca Radiestésica com Vara]].
 - As habilidades, perigos e a origem do [[Artefato Selado 2-049]] pertencente à [[Família Antigonus]], que está sendo escoltado de [[Backlund]] a [[Cidade Tingen|Tingen]] para confirmar o parentesco de [[Ray Bieber]] com a família.
@@ -48,6 +49,7 @@ tags:
 - A causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que 'estavam mentindo' ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
 - A eficácia e segurança do método modificado de magia ritualística de [[Klein Moretti|Klein]] direcionado a si mesmo ("O Tolo que não pertence a esta era...") para servir de caixa de mensagens offline na [[Névoa Cinza]].
 - O significado e a origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) que surgem nas costas das cadeiras do [[Clube de Tarô]] à medida que os membros sobem de nível ou ativam suas habilidades Beyonder.
+- A causa do aumento global na atividade e surgimento de novas organizações secretas e Beyonders nas últimas décadas.
 
 ## Segredos de Roselle Gustav
 

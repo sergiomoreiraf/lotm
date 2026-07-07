@@ -5,5 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 60 - O Encantamento
-
+- **Último Capítulo Processado:** Capítulo 61 - Símbolo Estranho

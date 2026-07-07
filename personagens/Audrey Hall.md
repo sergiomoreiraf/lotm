@@ -56,3 +56,6 @@ Apresenta uma página do diário de Roselle. Compreende o [[Método de Atuação
 
 Aprende sobre as duas [[Ardósia da Blasfêmia|Ardósias da Blasfêmia]] e as sequências subsequentes de seu caminho, [[Seq 8 - Telepata]] e [[Seq 7 - Psiquiatra]]. Questiona sobre os efeitos de poções em animais e concorda em testar o ritual de licença proposto por [[Klein Moretti|O Tolo]].
 
+### A Divindade de O Tolo e a Vigilância de Susie
+
+Reconhece nas descrições de [[Klein Moretti|O Tolo]] o status divino equivalente aos sete deuses ortodoxos, aceitando testar seu ritual, e relata que sua influência sobre os parlamentares para a aprovação dos exames públicos foi bem-sucedida. Ao retornar a [[Backlund]], percebe sua cadela [[Susie]] a observando das sombras.
