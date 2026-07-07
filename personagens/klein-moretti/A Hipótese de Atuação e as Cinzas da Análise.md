@@ -15,3 +15,5 @@ Analisa as falhas estruturais de seu ritual de sorte (como a ausência da fase d
 
 Pratica magia ritualística e formula um encantamento modificado direcionado a si mesmo como "O Tolo que não pertence a esta era" para receber mensagens na [[Névoa Cinza]]. No [[Clube de Tarô]], identifica a ascensão de [[Audrey Hall|Justiça]] e visualiza as constelações do Dragão Gigante e da Tempestade de Vento nas cadeiras de Justiça e de [[Alger Wilson|O Enforcado]].
 
+Decifra três páginas do diário de Roselle, analisando sua escolha pela classe de [[Erudito]] e a confirmação histórica do método de atuação. Utiliza a analogia de um castelo guardado e de um convite para explicar a Audrey Hall e Alger Wilson a mecânica da digestão de poções Beyonder, solicitando em retorno informações sobre a [[Família Antigonus]].
+

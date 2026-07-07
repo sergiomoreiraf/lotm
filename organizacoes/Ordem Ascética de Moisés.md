@@ -12,6 +12,8 @@ Uma organização antiga de misticismo que persistia em preceitos morais rígido
 
 Mencionada por [[Dunn Smith]] como a fonte original das fórmulas obtidas pela Igreja para a sequência [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]].
 
+Forneceu a sequência incompleta de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] à [[Igreja do Deus do Artesanato]], conforme revelado no diário do Imperador [[Roselle Gustav]].
+
 ## Funcionamento e Regras
 
 Seus membros históricos eram instruídos a seguir a máxima "Faça o que quiser, mas não faça mal!". Ao se tornarem Espreitadores de Mistérios, eram proibidos de falar por cinco anos para cultivar o silêncio, foco e concentração mental.

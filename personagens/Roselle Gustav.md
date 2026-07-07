@@ -17,3 +17,5 @@ Teve suas realizações históricas e sua ascensão política como cônsul e imp
 Seu diário pessoal, escrito em caracteres chineses e mantido em cópias sob custódia dos Falcões Noturnos, é apresentado a [[Klein Moretti]] pelo [[Velho Neil]] para decifração.
 
 Em trechos de seu diário decifrados, revela arrependimento por não escolher os caminhos Aprendiz, Vidente ou Saqueador. Afirma que o segredo das poções reside em digeri-las através da atuação, detalha conflitos com Feysac, Loen e Feynapotter, e relata a descoberta de uma entidade silenciosa nas tempestades e o envio de navios à Terra Esquecida pelos Deuses.
+
+Selecionou a classe inicial de [[Erudito]] fornecida pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] por ser um caminho completo e para resgatar seus conhecimentos científicos da Terra. Navegou a bordo do [[Black King]] pelo [[Mar da Névoa]] ao lado de [[Grimm]] e [[Edwards]], e casou-se com [[Matilda Abel]] da [[Família Abel]]. Iniciou a atitude de atuar conforme a classe, orientado por [[Zaratul]], suavizando os murmúrios caóticos em sua mente.

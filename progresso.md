@@ -5,5 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 58
+- **Último Capítulo Processado:** Capítulo 59 - Origens de Roselle
 

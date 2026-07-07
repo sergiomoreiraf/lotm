@@ -47,3 +47,5 @@ Navega pelo [[Mar Sonia]] em meio a uma tempestade a bordo do [[Vingador Azul]],
 
 Tranca-se na cabine do [[Navio Fantasma da Era Tudor]] para proteção e ingressa na reunião do [[Clube de Tarô]]. Surpreende-se com a rápida velocidade de ascensão de [[Audrey Hall|Justiça]] ao caminho do [[Seq 9 - Espectador|Espectador]].
 
+Apresenta duas páginas do diário de Roselle. Aprende sobre a digestão da poção através da analogia do convite revelada pelo Tolo, e prontifica-se a pagar seu débito imediatamente transmitindo relatos sobre a [[Família Antigonus]].
+
