@@ -95,6 +95,12 @@ tags:
 <!-- Parágrafos cronológicos e fluidos relatando a evolução do personagem neste arco: ações diretas, decisões cruciais, revelações. Sem marcadores de capítulo. -->
 ```
 
+### 9. Chamar Automaticamente a Skill lotm-archiver
+
+Após concluir com sucesso todos os passos de promoção (reescrita do MOC principal e criação de todas as subnotas atômicas), se houver mais de uma fase criada, o agente **DEVE** invocar imediatamente a skill `lotm-archiver` utilizando o caminho da nota principal MOC que acabou de ser gerada. 
+
+Isso garantirá que todas as fases mais antigas sejam automaticamente movidas para `archived/`, que seus resumos ordenados sejam gerados na nota de arquivados correspondente, e que a MOC principal mantenha apenas a última fase ativa, completando a estrutura final limpa do personagem de uma única vez.
+
 ## Checklist de Verificação de Qualidade
 
 Após executar a promoção, o agente DEVE verificar mentalmente:
@@ -108,3 +114,4 @@ Após executar a promoção, o agente DEVE verificar mentalmente:
 - [ ] **Descrição introdutória preservada:** O parágrafo inicial do personagem não foi perdido.
 - [ ] **Pasta personagem foi criada:** `personagens/[pasta]/` existe com as subnotas dentro.
 - [ ] **Proibição de marcadores:** Nenhuma subnota contém "Capítulo X:" no texto narrativo.
+- [ ] **Chamar lotm-archiver:** A skill `lotm-archiver` foi invocada com sucesso em seguida para arquivar e resumir as fases anteriores (se houver mais de uma).

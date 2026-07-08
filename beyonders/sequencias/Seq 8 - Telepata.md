@@ -7,7 +7,7 @@ aliases:
 
 # Seq 8 - Telepata
 
-Uma poção de Sequência 8 do [[Caminho do Espectador]] focada em habilidades telepáticas e mentais.
+Uma poção de Sequência 8 do [[Caminho do Espectador|Espectador]] focada em habilidades telepáticas e mentais.
 
 ## Poderes Conhecidos
 

@@ -3,6 +3,7 @@ tags:
   - artefato
 aliases:
   - Rei Negro
+  - Trono Negro
 ---
 
 # Black King

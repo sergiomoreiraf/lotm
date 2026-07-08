@@ -5,7 +5,7 @@ tags:
 
 # Erudito
 
-Uma sequência Beyonder inicial associada ao caminho completo da [[Igreja do Deus do Artesanato]] (atualmente [[Igreja do Deus do Vapor e da Maquinaria]]). Foi a classe escolhida pelo Imperador [[Roselle Gustav]] na sua juventude.
+Uma sequência Beyonder inicial associada ao caminho completo da [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] (atualmente [[Igreja do Deus do Vapor e da Maquinaria]]). Foi a classe escolhida pelo Imperador [[Roselle Gustav]] na sua juventude.
 
 ## Poderes Conhecidos
 

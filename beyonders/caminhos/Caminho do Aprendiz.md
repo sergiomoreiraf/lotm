@@ -1,6 +1,8 @@
 ---
 tags:
   - caminho
+aliases:
+  - Aprendiz
 ---
 
 # Caminho do Aprendiz

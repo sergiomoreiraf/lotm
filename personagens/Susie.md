@@ -5,7 +5,7 @@ tags:
 
 # Susie
 
-Uma cadela golden retriever de estimação da família de [[Audrey Hall]], que reside no Burgo Imperatriz em [[Backlund]]. Tornou-se uma Beyonder do [[Caminho do Espectador|Caminho do Espectador]].
+Uma cadela golden retriever de estimação da família de [[Audrey Hall]], que reside no Burgo Imperatriz em [[Backlund]]. Tornou-se uma Beyonder do [[Caminho do Espectador]].
 
 ## Evolução narrativa
 

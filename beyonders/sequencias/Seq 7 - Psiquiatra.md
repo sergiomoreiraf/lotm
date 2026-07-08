@@ -8,7 +8,7 @@ aliases:
 
 # Seq 7 - Psiquiatra
 
-Uma poção de Sequência 7 do [[Caminho do Espectador]] focada em habilidades psíquicas e tratamento de distúrbios da mente. Era chamada anteriormente de Analista de Psique.
+Uma poção de Sequência 7 do [[Caminho do Espectador|Espectador]] focada em habilidades psíquicas e tratamento de distúrbios da mente. Era chamada anteriormente de Analista de Psique.
 
 ## Poderes Conhecidos
 

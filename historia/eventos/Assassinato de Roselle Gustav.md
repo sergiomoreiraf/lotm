@@ -2,7 +2,7 @@
 tags:
   - historia/conflito
 ---
-
+ 
 # Assassinato de Roselle Gustav
 
 O assassinato do Imperador [[Roselle Gustav]], encerrando seu domínio imperial sobre o [[Império Intis]].

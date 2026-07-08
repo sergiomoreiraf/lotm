@@ -48,8 +48,13 @@ Toda nota deve obrigatoriamente possuir o campo `tags` no topo, com hierarquia d
 >
 > Resumo: se as tags compartilham o mesmo prefixo hierárquico (`deus/...`, `local/...`), use só a mais profunda. Se os prefixos são diferentes (`deus/...` vs. `regiao/...`), ambas podem coexistir sem problema.
 
-O campo `aliases` é **opcional**. Se presente e não vazio, deve conter termos alternativos relevantes como:
+O campo `aliases` é **opcional**, com uma exceção obrigatória:
 
+- **Mapeamento de H1 Mapeado:** Se o título H1 principal de uma nota (ex: `# Caminho do Espectador`) for diferente do nome físico do arquivo (ex: `Espectador.md`), o título H1 **deve obrigatoriamente** ser declarado como um alias no frontmatter YAML.
+
+Se presente e não vazio, deve conter termos alternativos relevantes como:
+
+- O próprio H1 da nota (se este for diferente do nome do arquivo).
 - Tradução técnica (ex: "Cadeias de Markov" -> `Markov Chain`)
 - Abreviação (ex: "Hidden Markov Models" -> `HMMs`)
 

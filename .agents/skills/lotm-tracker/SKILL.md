@@ -220,6 +220,7 @@ Antes de salvar qualquer arquivo no cofre, o agente DEVE verificar de forma rigo
 
 - [ ] **Inexistência de Links Fantasmas:** Garantir que nenhum link interno em formato `[[Nota]]` aponte para um arquivo que não exista fisicamente no cofre (a menos que a nota correspondente seja criada no mesmo turno de execução).
 - [ ] **Formatos de Aliases:** Garantir que todos os links internos que façam referência a termos ou aliases de outras notas usem estritamente o formato `[[Nome Real da Nota|Alias]]`. É terminantemente proibido o uso do formato `[[Alias]]` diretamente como link interno.
+- [ ] **Mapeamento de H1 em Aliases:** Garantir que se o título H1 principal da nota criada/modificada for diferente do nome físico do arquivo (ex: H1 `# Caminho do Espectador` em `Espectador.md`), o título H1 esteja obrigatoriamente listado na propriedade `aliases` do frontmatter YAML.
 
 ### 5.6 Checklist de Retenção de Lore e Estruturação (Metacognição Pré-Buffer)
 

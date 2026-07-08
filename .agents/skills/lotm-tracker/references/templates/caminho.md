@@ -1,6 +1,7 @@
 ---
 tags:
   - caminho
+aliases:
 ---
 
 # Caminho do [Nome]

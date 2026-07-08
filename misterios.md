@@ -54,7 +54,7 @@ tags:
 ## Segredos de Roselle Gustav
 
 - Os mistérios por trás das vinte e duas cartas de papel criadas pelo Imperador [[Roselle Gustav]] e sua ligação com os vinte e dois caminhos do divino.
-- A razão pela qual Roselle registrou em seu diário o arrependimento por não ter escolhido os caminhos Beyonder de [[Aprendiz]], [[Saqueador]] ou [[Vidente]].
+- A razão pela qual Roselle registrou em seu diário o arrependimento por não ter escolhido os caminhos Beyonder de [[Caminho do Aprendiz|Aprendiz]], [[Caminho do Saqueador|Saqueador]] ou [[Caminho do Vidente|Vidente]].
 - A identidade e os segredos do "sujeito patético perdido e preso na escuridão profunda em meio às tempestades" descoberto por Roselle, que só se aproxima da realidade nas luas cheias.
 - A localização e segredos da misteriosa [[Terra Esquecida pelos Deuses]] mencionada por Roselle em seu diário.
 - A razão pela qual o Imperador [[Roselle Gustav]] não estabeleceu um sistema de exames públicos para funcionários no [[Império Intis|Império Intis]], e se ele desviou seu foco para outras coisas mais tarde na vida.

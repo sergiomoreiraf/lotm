@@ -29,13 +29,13 @@ De acordo com a teoria dominante do misticismo, a parte não física do ser huma
 
 As cores e brilhos observados na aura revelam o estado de saúde física e as emoções do alvo:
 
-| Cor | Significado Físico (Corpo Etérico) | Significado Emocional (Projeção Astral) |
-|---|---|---|
-| Vermelho | Membros e mobilidade | Paixão e excitação |
-| Roxo | Cabeça e cérebro | Espiritualidade ativa e distanciamento |
-| Laranja | Sistema excretor | Calor e satisfação |
-| Amarelo | Sistema digestório | Felicidade e extroversão |
-| Verde | Sistema circulatório e regulatório | Calma e paz |
-| Azul | Sistema nervoso e garganta | Frieza e quietude de pensamento |
-| Branco | Equilíbrio e saúde | Brilho e desejo de melhora |
-| Escuro | Doença ou fraqueza | Preocupação, tristeza e silêncio |
+| Cor      | Significado Físico (Corpo Etérico) | Significado Emocional (Projeção Astral) |
+| -------- | ---------------------------------- | --------------------------------------- |
+| Vermelho | Membros e mobilidade               | Paixão e excitação                      |
+| Roxo     | Cabeça e cérebro                   | Espiritualidade ativa e distanciamento  |
+| Laranja  | Sistema excretor                   | Calor e satisfação                      |
+| Amarelo  | Sistema digestório                 | Felicidade e extroversão                |
+| Verde    | Sistema circulatório e regulatório | Calma e paz                             |
+| Azul     | Sistema nervoso e garganta         | Frieza e quietude de pensamento         |
+| Branco   | Equilíbrio e saúde                 | Brilho e desejo de melhora              |
+| Escuro   | Doença ou fraqueza                 | Preocupação, tristeza e silêncio        |

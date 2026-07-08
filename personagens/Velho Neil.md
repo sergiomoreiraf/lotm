@@ -1,44 +1,16 @@
 ---
 tags:
-  - personagem
+  - personagem/moc
 ---
 
 # Velho Neil
 
 Um funcionário civil dos [[Falcões Noturnos]] na [[Cidade Tingen]]. Ele já foi um membro formal da equipe, mas devido à idade avançada e saúde debilitada, não pôde ser promovido e foi retirado das investigações de campo. Ele optou por permanecer trabalhando no arsenal, guardando documentos e registros em vez de se aposentar ou se tornar um Guardião interno.
 
-## Evolução narrativa
+## Fases da Narrativa
 
-### Introdução e Arsenal
+- [[Magia Ritualística e Dívidas]] — Neil ensina magia ritualística a Klein e resolve sua dívida financeira por sorte mágica.
 
-Mencionado por [[Dunn Smith]] como o responsável pelo arsenal, registros e documentos na [[Companhia de Segurança Espinho Negro]]. Apresenta o arsenal a [[Klein Moretti]], explica sua rotina de evitar café após as três da tarde devido a murmúrios de existências desconhecidas e introduz Klein às pesquisas de decifração do diário de [[Roselle Gustav]].
+## Eventos Arquivados
 
-Entrega munição comum, [[Balas Antidemônios]], coldre e distintivo para [[Klein Moretti]] no arsenal. Comenta sobre a extinção de dragões, gigantes e elfos no Continente Norte e a consequente diminuição de Beyonders, ironizando a criação de uma associação para proteger tais criaturas.
-
-### Identidade e Misticismo
-
-É revelado por [[Rozanne]] como um [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] (Sequência 9), detentor de grande conhecimento em misticismo e rituais mágicos.
-
-Prepara a poção de [[Seq 9 - Vidente|Vidente]] para [[Klein Moretti]] na [[Sala de Alquimia dos Falcões Noturnos]] utilizando uma fórmula em [[Hermes]]. Explica que a preparação de poções de Sequência 7 ou inferior é simples, sem necessidade de encantamentos ou rituais complexos.
-
-Orienta [[Klein Moretti]] no consumo da poção de [[Seq 9 - Vidente|Vidente]] e o instrui nos primeiros passos da Cogitação para estabilizar os efeitos iniciais. Ensina a técnica de [[Visão Espiritual]] a Klein, detalhando a teoria do Corpo Espiritual, Projeção Astral, Corpo do Coração e da Mente, e Corpo Etérico, além do significado das cores das auras. Reage calmamente ao ser alertado por Klein sobre a presença de um par de olhos translúcidos às suas costas, instruindo-o a ignorá-los.
-
-Orienta [[Klein Moretti]] sobre os efeitos físicos e alucinações temporárias resultantes da fadiga do Corpo Espiritual, ensinando-o a configurar um interruptor mental por meio de dois toques na glabela para ativar e desativar a [[Visão Espiritual]]. Determina que Klein repouse e vá à tarde investigar pistas sobre o [[Caderno da Família Antigonus]] na Rua Cruz de Ferro.
-
-Recebe [[Klein Moretti]] para dar continuidade às aulas de misticismo prático. Ensina a adivinhação por [[Radiestesia de Pêndulo|radiestesia de pêndulo]] e as bases do [[Simbolismo|simbolismo]] das constelações, sugerindo que ele solicite ao Capitão [[Dunn Smith]] um pêndulo oficial de topázio e financiamento para ingressar no [[Clube de Adivinhação]] a fim de atuar monitorando cultistas.
-
-### A Busca por Ray Bieber
-
-Substituído temporariamente no arsenal por Kenley, integra a expedição ao apartamento suspeito. No local, ativa sua percepção espiritual e atesta a ausência de pessoas ou resquícios mágicos ativos.
-
-Realiza um ritual de adivinhação sob a proteção da [[Igreja da Deusa da Noite Eterna|Deusa da Noite Eterna]] para desenhar com precisão o retrato do fugitivo [[Ray Bieber]]. Ao retornar à companhia com [[Klein Moretti]], teoriza que uma entidade mística teria enviado o caderno a Bieber para apagar pistas e evitar que a investigação o localizasse.
-
-Conversa com [[Klein Moretti]] sobre a probabilidade de a entidade oculta ignorar Klein após a exposição do caderno de Antigonus. Explica a existência de [[Mercados Clandestinos|mercados clandestinos]] de ingredientes Beyonder e revela possuir uma dívida de 30 libras.
-
-### Magia Ritualística e Dívidas
-
-Leva Klein à sua residência nos subúrbios do Burgo Norte para instruí-lo em magia ritualística, onde demonstra o processo utilizando um pergaminho de pele de cabra estruturado como uma nota promissória de trinta libras na tentativa de quitar sua dívida por meios místicos.
-
-Explica as diretrizes de consagração, simbolismos divinos e a numerologia da [[Ordem Ascética de Moisés]], realizando com sucesso o ritual sob as bênçãos da [[Deusa da Noite Eterna]] para liquidar sua dívida.
-
-Explica a Klein que a estruturação de encantamentos exige o uso da linguagem [[Hermes]] e que optou por não manter criados em casa para salvaguardar suas atividades místicas. Encontra e devolve a carteira perdida de [[Sir Deweyville]], recebendo uma recompensa de trinta libras que quita sua nota promissória, e adverte que a temperança é uma virtude vital para a longevidade de um [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]].
+- [[Velho Neil (Arquivado)|Ver Eventos Arquivados]]

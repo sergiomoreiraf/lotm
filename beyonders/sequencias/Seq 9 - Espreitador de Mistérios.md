@@ -7,7 +7,7 @@ aliases:
 
 # Seq 9 - Espreitador de Mistérios
 
-Uma sequência Beyonder associada a um caminho incompleto da [[Igreja da Deusa da Noite Eterna]]. É a classe mística à qual [[Velho Neil]] pertence, servindo também como o nome da fórmula de sua poção, obtida originalmente da [[Ordem Ascética de Moisés]]. Foi também oferecida como escolha inicial ao Imperador [[Roselle Gustav]] pela [[Igreja do Deus do Artesanato]], que a obteve da [[Ordem Ascética de Moisés]].
+Uma sequência Beyonder associada a um caminho incompleto da [[Igreja da Deusa da Noite Eterna]]. É a classe mística à qual [[Velho Neil]] pertence, servindo também como o nome da fórmula de sua poção, obtida originalmente da [[Ordem Ascética de Moisés]]. Foi também oferecida como escolha inicial ao Imperador [[Roselle Gustav]] pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]], que a obteve da [[Ordem Ascética de Moisés]].
 
 ## Poderes Conhecidos
 
