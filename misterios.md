@@ -50,6 +50,8 @@ tags:
 - A eficácia e segurança do método modificado de magia ritualística de [[Klein Moretti|Klein]] direcionado a si mesmo ("O Tolo que não pertence a esta era...") para servir de caixa de mensagens offline na [[Névoa Cinza]].
 - O significado e a origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) que surgem nas costas das cadeiras do [[Clube de Tarô]] à medida que os membros sobem de nível ou ativam suas habilidades Beyonder.
 - A causa do aumento global na atividade e surgimento de novas organizações secretas e Beyonders nas últimas décadas.
+- A causa dos murmúrios disformes e das dores de cabeça sentidos por [[Klein Moretti]] no momento em que os rituais a O Tolo são executados, bem como o surgimento temporário dos quatro pontos pretos nas costas de sua mão.
+
 
 ## Segredos de Roselle Gustav
 
@@ -79,5 +81,6 @@ tags:
 - Os motivos secretos pelos quais [[Alger Wilson]] prefere manter o comando do [[Vingador Azul]] no mar em vez de retornar para assumir posições de prestígio em terra, e o que ele sabe que seus companheiros ignoram.
 - O motivo pelo qual a aura de [[Hanass Vincent]] apresenta um tom vermelho-escuro (preocupação severa) sob a [[Visão Espiritual]] de [[Klein Moretti]], apesar de sua saúde física estar em perfeito estado.
 - A origem e o significado da visão conturbada obtida por [[Klein Moretti]] durante sua adivinhação de sonhos no Quarto Topázio, retratando um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
-- A causa por trás do surto repentino e violento de loucura e assassinatos mútuos ocorrido entre os tripulantes e passageiros do navio Alfalfa no [[Oceano Berserk]], e se o jovem [[Tris]], anteriormente aclamado como o herói sobrevivente, foi na verdade o mentor oculto por trás do incidente anormal.
+- O paradeiro de [[Tris]] em [[Cidade Tingen|Tingen]] após fugir do [[Porto de Enmat]], seus objetivos na cidade e a extensão de sua afiliação com a [[Ordem da Teosofia]].
 - A localização e a real influência dos [[Alquimistas da Psicologia]], cujas pistas locais foram perdidas após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].
+- A existência de segredos adicionais ou perigos ocultos remanescentes do Imperador de Sangue e da Dinastia Tudor a bordo do [[Vingador Azul]], e qual a sua real influência sobre [[Alger Wilson]].

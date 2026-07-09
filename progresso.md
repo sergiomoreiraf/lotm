@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 63 - Interpretação dos Sonhos
+- **Último Capítulo Processado:** Capítulo 64 - Magia Ritualística
