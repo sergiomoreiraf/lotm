@@ -23,3 +23,5 @@ Seus membros possuem grande capacidade de ocultamento e tendem a abandonar opera
 ## Estrutura e Hierarquia
 
 - [[Intruso do Quarto de Klein]] — Agente enviado para recuperar o Caderno da Família Antigonus em Tingen.
+
+É suspeita de ter fortes laços com a [[Família Zaratul]], a linhagem que originalmente estabeleceu o [[Caminho do Vidente]].

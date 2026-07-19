@@ -14,3 +14,5 @@ Viaja a bordo do navio de carga Alfalfa pelo [[Oceano Berserk]] vindo do [[Conti
 É revelado através da adivinhação e da espiritualidade de [[Joyce Meyer]] como o principal suspeito por trás do massacre repentino e anormal a bordo do navio Alfalfa, onde anteriormente era considerado um herói por salvar sobreviventes.
 
 É identificado pelos [[Falcões Noturnos]] de [[Cidade Tingen|Tingen]] como um Beyonder suspeito de ser um [[Seq 8 - Instigador|Instigador]] de Sequência 8, possivelmente ligado à [[Ordem da Teosofia]]. Após viajar do [[Porto de Enmat]] para Tingen, torna-se alvo de um mandado de prisão interno, estando com paradeiro desconhecido.
+
+Ao comparar suas ações com o comportamento do [[Seq 8 - Trapaceiro|Trapaceiro]], [[Klein Moretti]] deduz que a tragédia no Alfalfa orquestrada por Tris não foi um simples crime, mas sim um método ritualístico de atuação para digerir a poção de [[Seq 8 - Instigador|Instigador]].

@@ -16,3 +16,5 @@ Alger Wilson é um homem de manto azul-escuro com bordados de raios, que navega 
 ## Eventos Arquivados
 
 - [[Alger Wilson (Arquivado)|Ver Eventos Arquivados]]
+
+É suspeito por [[Klein Moretti]] de ser um [[Seq 7 - Navegador|Navegador]] (ou no mínimo um [[Seq 8 - Raivoso|Guardião da Tempestade]]), indicando que ele é provavelmente um membro dos Punidores Mandatários ou um pirata secretamente absorvido pela Igreja do Senhor das Tempestades.
