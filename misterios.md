@@ -47,7 +47,7 @@ tags:
 - A verdadeira motivação e afiliação de [[Lawson Darkwade]], o boticário de Tingen que forneceu um remédio de [[Lenburg]] para curar a pneumonia de [[Glacis]].
 - A localização e a natureza da residência sagrada do [[O Criador|Criador]] citada por um [[Ouvinte]] da [[Ordem Aurora]].
 - A causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que 'estavam mentindo' ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
-- A eficácia e segurança do método modificado de magia ritualística de [[Klein Moretti|Klein]] direcionado a si mesmo ("O Tolo que não pertence a esta era...") para servir de caixa de mensagens offline na [[Névoa Cinza]].
+- Os limites do controle de [[Klein Moretti]] sobre a [[Névoa Cinza]], sendo capaz de responder preces e transmitir mensagens para [[Audrey Hall]] e [[Alger Wilson]], mas incapaz de utilizar diretamente os poderes do espaço para conceder feitiços ou manipular o mundo físico.
 - O significado e a origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) que surgem nas costas das cadeiras do [[Clube de Tarô]] à medida que os membros sobem de nível ou ativam suas habilidades Beyonder.
 - A causa do aumento global na atividade e surgimento de novas organizações secretas e Beyonders nas últimas décadas.
 - A causa dos murmúrios disformes e das dores de cabeça sentidos por [[Klein Moretti]] no momento em que os rituais a O Tolo são executados, bem como o surgimento temporário dos quatro pontos pretos nas costas de sua mão.

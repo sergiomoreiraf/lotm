@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 66 - Seita Demoníaca
+- **Último Capítulo Processado:** Capítulo 67

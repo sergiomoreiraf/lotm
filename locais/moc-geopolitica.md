@@ -34,5 +34,6 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
 - [[Mar Sonia]]
   - [[Ilha Sonia]]
   - [[Arquipélago de Rorsted]]
+    - [[Cidade da Generosidade]]
 - [[Oceano Berserk]]
 - [[Mar da Névoa]]
