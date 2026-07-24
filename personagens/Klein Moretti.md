@@ -13,6 +13,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 ## Fases da Narrativa
 
 - [[O Encantamento e o Ritual de Licença]] — Conduz a reunião do Clube de Tarô, obtém dados históricos sobre a família Antigonus e propõe um experimento ritualístico com seu encantamento em Hermes.
+- [[Organizações Secretas e a Seita Demoníaca]] — Categoriza historicamente as organizações secretas do mundo místico e aprende sobre a Seita Demoníaca e a Demônia Primordial.
 
 ## Eventos Arquivados
 

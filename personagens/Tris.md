@@ -16,3 +16,6 @@ Viaja a bordo do navio de carga Alfalfa pelo [[Oceano Berserk]] vindo do [[Conti
 É identificado pelos [[Falcões Noturnos]] de [[Cidade Tingen|Tingen]] como um Beyonder suspeito de ser um [[Seq 8 - Instigador|Instigador]] de Sequência 8, possivelmente ligado à [[Ordem da Teosofia]]. Após viajar do [[Porto de Enmat]] para Tingen, torna-se alvo de um mandado de prisão interno, estando com paradeiro desconhecido.
 
 Ao comparar suas ações com o comportamento do [[Seq 8 - Trapaceiro|Trapaceiro]], [[Klein Moretti]] deduz que a tragédia no Alfalfa orquestrada por Tris não foi um simples crime, mas sim um método ritualístico de atuação para digerir a poção de [[Seq 8 - Instigador|Instigador]].
+
+Foge de um apartamento na Rua Cruz de Ferro Inferior em [[Cidade Tingen|Tingen]] usando habilidades de ocultação de [[Seq 9 - Assassino|Assassino]] e encontra uma emissária da [[Seita Demoníaca]] no porto. Recebe a fórmula e os ingredientes para avançar a [[Seq 7 - Bruxa|Bruxa]], descobrindo que o avanço de sequência o transformará em uma mulher.
+

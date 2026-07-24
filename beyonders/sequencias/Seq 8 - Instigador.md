@@ -5,8 +5,9 @@ tags:
 
 # Seq 8 - Instigador
 
-A poção de Sequência 8 cujos poderes estão associados à indução e provocação de comportamentos destrutivos ou conflitos interpessoais. 
+A poção de Sequência 8 do [[Caminho do Assassino]] que avança a partir de [[Seq 9 - Assassino]] e precede [[Seq 7 - Bruxa]]. É compartilhada pela [[Seita Demoníaca]] e pela [[Ordem da Teosofia]].
 
 ## Poderes Conhecidos
 
-- **Instigação:** Capacidade de influenciar mental e emocionalmente outros indivíduos, incitando-os a realizar ações violentas ou autodestrutivas (conforme demonstrado por [[Tris]] ao provocar o massacre mútuo entre passageiros e tripulantes a bordo do navio Alfalfa).
+- **Instigação e Manipulação do Mal:** Capacidade de induzir e desencadear desejos malignos no fundo do coração das pessoas, causando contradições, incitando conflitos interpessoais e provocando massacres sangrentos (como demonstrado por [[Tris]] no navio Alfalfa).
+
