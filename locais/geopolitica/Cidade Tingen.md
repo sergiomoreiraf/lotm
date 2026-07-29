@@ -32,4 +32,5 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - [[Roupas e Chapéus Wilker]]: Loja de vestuário de Tingen, localizada na Rua Zouteland.
 - [[Catedral de Santa Selena]]: A sede da [[Igreja da Deusa da Noite Eterna]] na cidade, localizada na Rua Luar Vermelho.
 - [[Clube de Adivinhação]]: Estabelecimento comercial e recreativo de adivinhação, situado no segundo andar de um edifício próximo à residência de Welch.
+- [[Bar do Dragão Maligno]]: Bar e mercado subterrâneo de misticismo situado na zona do porto de Tingen, administrado por [[Swain]].
 

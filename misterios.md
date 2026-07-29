@@ -82,6 +82,7 @@ tags:
 - Os motivos secretos pelos quais [[Alger Wilson]] prefere manter o comando do [[Vingador Azul]] no mar em vez de retornar para assumir posições de prestígio em terra, e o que ele sabe que seus companheiros ignoram.
 - O motivo pelo qual a aura de [[Hanass Vincent]] apresenta um tom vermelho-escuro (preocupação severa) sob a [[Visão Espiritual]] de [[Klein Moretti]], apesar de sua saúde física estar em perfeito estado.
 - A origem e o significado da visão conturbada obtida por [[Klein Moretti]] durante sua adivinhação de sonhos no Quarto Topázio, retratando um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
-- O paradeiro de [[Tris]] após obter a fórmula de [[Seq 7 - Bruxa|Bruxa]] com a [[Seita Demoníaca]], e os objetivos futuros do culto na [[Cidade Tingen]].
+- O paradeiro de [[Tris]] após escapar do cerco da [[Mente Coletiva da Maquinaria]] no [[Bar do Dragão Maligno]], tendo obtido a fórmula de [[Seq 7 - Bruxa|Bruxa]] com a [[Seita Demoníaca]].
 - A localização e a real influência dos [[Alquimistas da Psicologia]], cujas pistas locais foram perdidas após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].
 - A existência de segredos adicionais ou perigos ocultos remanescentes do Imperador de Sangue e da Dinastia Tudor a bordo do [[Vingador Azul]], e qual a sua real influência sobre [[Alger Wilson]].
+- A causa pela qual a percepção espiritual inata e distorcida de [[Ademisaul]] identificou o "cheiro da morte" em [[Klein Moretti]] e o motivo de seus olhos sangrarem ao tentar encarar diretamente a aura mística de Klein.

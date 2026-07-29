@@ -1,0 +1,16 @@
+---
+tags:
+  - personagem/klein
+---
+
+# O Mercado Subterrâneo e o Monstro Ademisaul
+
+[[Klein Moretti]] visita o mercado subterrâneo de misticismo no [[Bar do Dragão Maligno]], testemunha o aparato militar mobilizado contra [[Tris]] e presencia a sobrecarga espiritual de [[Ademisaul]].
+
+## Evolução narrativa
+
+Após avisar [[Benson Moretti]] e [[Melissa Moretti]] que jantaria na [[Companhia de Segurança Espinho Negro]], Klein viaja com o [[Velho Neil]] de carruagem pública até a zona do porto da [[Cidade Tingen|Cidade de Tingen]]. Ao se aproximar do [[Bar do Dragão Maligno]], avista um atirador equipado com um [[Rifle de Pressão a Vapor]] e descobre por um guarda que a [[Mente Coletiva da Maquinaria]] montou um cerco para capturar o [[Tris|Instigador Tris]], que tentara comprar materiais no mercado após ter sido denunciado por [[Joyce Meyer]], mas Tris conseguiu fugir rapidamente.
+
+Ao entrar no mercado subterrâneo mantido nos fundos do bar por [[Swain]], Klein é abordado por [[Ademisaul]], um órfão apelidado de "monstro" que possui percepção espiritual inata e distorcida. Ademisaul ri maniacamente e afirma sentir em Klein "o cheiro da morte", mas sofre um colapso doloroso com sangramento nos olhos ao encarar a aura mística incomum de Klein.
+
+Aprende com Neil sobre a [[Seq 9 - Monstro|Sequência 9 Monstro]] e sobre a [[Escola de Pensamento da Vida]]. Enquanto Neil vai acertar dívidas com Swain, Klein explora as barracas de misticismo e reconhece a busca de um comprador por "dentes de vaca paeonol", ingrediente suplementar da poção de [[Seq 9 - Espectador|Espectador]].

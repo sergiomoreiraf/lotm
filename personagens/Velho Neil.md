@@ -10,6 +10,7 @@ Um funcionário civil dos [[Falcões Noturnos]] na [[Cidade Tingen]]. Ele já fo
 ## Fases da Narrativa
 
 - [[Magia Ritualística e Dívidas]] — Neil ensina magia ritualística a Klein e resolve sua dívida financeira por sorte mágica.
+- [[O Mercado Subterrâneo do Porto]] — Leva Klein ao Bar do Dragão Maligno, ensina sobre Swain, Ademisaul e a Escola de Pensamento da Vida, e quita suas contas.
 
 ## Eventos Arquivados
 

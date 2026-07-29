@@ -19,3 +19,5 @@ Ao comparar suas ações com o comportamento do [[Seq 8 - Trapaceiro|Trapaceiro]
 
 Foge de um apartamento na Rua Cruz de Ferro Inferior em [[Cidade Tingen|Tingen]] usando habilidades de ocultação de [[Seq 9 - Assassino|Assassino]] e encontra uma emissária da [[Seita Demoníaca]] no porto. Recebe a fórmula e os ingredientes para avançar a [[Seq 7 - Bruxa|Bruxa]], descobrindo que o avanço de sequência o transformará em uma mulher.
 
+Tenta adquirir materiais adicionais no mercado subterrâneo do [[Bar do Dragão Maligno]], mas é reconhecido por um informante devido à denúncia prestada por [[Joyce Meyer]]. Consegue escapar em altíssima velocidade antes que o cerco armado desdobrado pela [[Mente Coletiva da Maquinaria]] — equipado inclusive com um [[Rifle de Pressão a Vapor]] — se fechasse sobre ele.
+
