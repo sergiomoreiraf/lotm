@@ -16,6 +16,7 @@ tags:
 - A razão de a carta de tarô [[Klein Moretti|O Tolo]] (em versão invertida) reaparecer sistematicamente nas adivinhações de [[Klein Moretti]] referentes ao destino do [[Caderno da Família Antigonus]].
 - O significado do símbolo formado no espaldar de sua cadeira no palácio da névoa cinza, que combina um Olho Sem Pupila (segredo) e linhas contorcidas (mudança), ambos de forma incompleta e sobreposta.
 - A origem e o design do magnífico palácio de bronze, mesa e cadeiras acima da névoa cinza, e se eles são uma criação subconsciente de Klein ou o reflexo de alguma estrutura real.
+- A causa pela qual o ritual de quatro passos no sentido anti-horário e a ascensão à névoa cinza são capazes de anular e conceder imunidade temporária contra o efeito assimilador de marionete do [[Artefato Selado 2-049]].
 
 ## O Incidente do Caderno Antigonus
 
@@ -31,7 +32,6 @@ tags:
 - A natureza do selo invisível que se dissipou quando [[Leonard Mitchell]] arrombou a porta do apartamento e a causa das larvas em seu corpo brilharem sob a [[Visão Espiritual]] de [[Klein Moretti]].
 - A origem da interferência mística que impediu temporariamente a localização de [[Ray Bieber]] antes de sua transformação no armazém do porto.
 - As habilidades, perigos e a origem do [[Artefato Selado 2-049]] pertencente à [[Família Antigonus]], que chegou a [[Cidade Tingen|Tingen]] escoltado de [[Backlund]], exigindo dos Beyonders a execução contínua de movimentos físicos repetitivos (como dobrar o braço) para sinalizar preservação da consciência e evitar danos fatais.
-- A sobrevivência e o estado de [[Klein Moretti]] ao ser exposto diretamente ao alcance do [[Artefato Selado 2-049]] com a tampa do baú rompida e o braço de madeira estendido, enquanto todos os demais [[Falcões Noturnos]] encontram-se incapacitados ou desacordados.
 - A natureza do efeito ou preço místico sofrido por [[Dunn Smith]] ao cerrar os olhos e invocar cobras e contorções disformes sob a própria pele para induzir paralisia em [[Ray Bieber]].
 
 ## Misticismo e Sistema Beyonder
@@ -52,12 +52,12 @@ tags:
 - O significado e a origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) que surgem nas costas das cadeiras do [[Clube de Tarô]] à medida que os membros sobem de nível ou ativam suas habilidades Beyonder.
 - A causa do aumento global na atividade e surgimento de novas organizações secretas e Beyonders nas últimas décadas.
 - A causa dos murmúrios disformes e das dores de cabeça sentidos por [[Klein Moretti]] no momento em que os rituais a O Tolo são executados, bem como o surgimento temporário dos quatro pontos pretos nas costas de sua mão.
+- O motivo pelo qual a [[Ordem Secreta]] possui a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais.
 
 ## Segredos de Roselle Gustav
 
 - Os mistérios por trás das vinte e duas cartas de papel criadas pelo Imperador [[Roselle Gustav]] e sua ligação com os vinte e dois caminhos do divino.
 - A razão pela qual o Imperador [[Roselle Gustav]] sentiu extremo arrependimento por não ter escolhido os caminhos Beyonder de [[Caminho do Aprendiz|Aprendiz]], [[Caminho do Saqueador|Saqueador]] ou [[Caminho do Vidente|Vidente]] devido a um aviso de [[Zaratul]].
-- Os verdadeiros nomes e fórmulas das poções de Sequência 8 e 7 do [[Caminho do Vidente]], bem como o motivo de estarem ocultos ou perdidos nos arquivos dos Falcões Noturnos.
 - As ramificações completas e a influência da misteriosa [[Família Zaratul]] e sua possível sobrevivência e conexão contínua com a [[Ordem Secreta]].
 - A identidade e os segredos do "sujeito patético perdido e preso na escuridão profunda em meio às tempestades" descoberto por Roselle, que só se aproxima da realidade nas luas cheias.
 - A localização e segredos da misteriosa [[Terra Esquecida pelos Deuses]] mencionada por Roselle em seu diário.

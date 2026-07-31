@@ -18,6 +18,7 @@ Trata-se de um boneco de madeira articulado com o tamanho da palma da mão human
 - É classificado como um Artefato Selado de Grau 2, indicando que é perigoso e deve ser usado com cuidado e moderação.
 - Causa um efeito gradual de desaceleração mental e motora ("dança do robô / lentidão") em alvos humanoides a até 5 metros de distância. A ausência de intervenção externa (como um empurrão de um companheiro para despertar a consciência) transforma a vítima em um zumbi.
 - Prioriza alvos mais próximos e, quando cercado por ao menos 3 pessoas, não afeta transeuntes fora do raio de 5 metros.
+- **Pausa de Assimilação:** Apresenta um intervalo de pausa imediata e não influencia repetidamente a mesma pessoa que conseguiu libertar-se ou romper a assimilação de seu controle.
 - **Modo Berserk:** Na presença de sangue, aura ou cheiro de um descendente da [[Família Antigonus]], o artefato agita-se violentamente no baú, amplifica suas habilidades e passa a afetar até 2 pessoas simultaneamente.
 - Possui capacidade de rastreamento místico, atuando como uma bússola viva para guiar custodiantes até descendentes ou relíquias da [[Família Antigonus]].
 - Assimila gradualmente os seres vivos em seu raio de influência, convertendo-os em marionetes/bonecos de tamanho humano caso não sejam despertados a tempo.
@@ -30,6 +31,7 @@ Trata-se de um boneco de madeira articulado com o tamanho da palma da mão human
 - Guia a equipe dos [[Falcões Noturnos]] em carruagem até um armazém no porto de [[Cidade Tingen|Tingen]]. É reencapsulado e selado no baú por Aiur Harson com auxílio de Borgia e Lorotta, sendo arremessado a 10 metros de distância durante a emboscada da [[Ordem Secreta]] para evitar a assimilação da equipe.
 - Entra em estado de agitação frenética batendo contra a estrutura interna de seu baú selado após o grito de pânico do invasor da [[Ordem Secreta]] e o surgimento de uma respiração sufocante vinda do armazém.
 - Durante o confronto no porto, o baú é atingido por um disparo de [[Aiur Harson]] para ser afastado de [[Ray Bieber]] transformado, sofrendo ranhuras na estrutura. Após a explosão do monstro, a tampa do baú é rompida, permitindo que o braço marrom magro se estenda e passe a desacelerar os pensamentos de [[Klein Moretti]], que se encontra a 2-3 metros de distância.
+- Tem seu efeito de assimilação rompido por [[Klein Moretti]] através do ritual de ascensão à [[Névoa Cinza]]. É utilizado involuntariamente como armadilha por Klein, que força o [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] a esquivar-se para dentro de seu raio de 5 metros, congelando os movimentos do invasor e permitindo a Klein alvejá-lo.
 
 ## Nível de Periculosidade
 
