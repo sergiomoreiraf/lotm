@@ -18,6 +18,8 @@ Busca pelo paradeiro de [[Ray Bieber]] na tentativa de recuperar o [[Caderno da 
 
 Rastreia a equipe dos [[Falcões Noturnos]] até o armazém do porto de [[Cidade Tingen|Tingen]], onde um de seus agentes tenta interceptar a adivinhação radiestésica de [[Klein Moretti]] e dispara uma bola de fogo ilusória para emboscar o grupo.
 
+Envia dois de seus integrantes com rostos pintados de palhaço para recuperar o caderno no armazém do porto: um deles atua como distração com os poderes de [[Palhaço]], enquanto o outro invade o telhado do armazém e encontra um horror que o faz soltar um grito de pavor absoluto antes de ser silenciado.
+
 ## Funcionamento e Regras
 
 Seus membros possuem grande capacidade de ocultamento e tendem a abandonar operações de resgate que consideram de alto risco se a recuperação do item não for extremamente vital, priorizando a própria sobrevivência.

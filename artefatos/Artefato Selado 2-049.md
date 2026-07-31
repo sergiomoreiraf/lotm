@@ -28,6 +28,7 @@ Trata-se de um boneco de madeira articulado com o tamanho da palma da mão human
 - Chega a [[Cidade Tingen|Tingen]] escoltado por [[Lorotta]], [[Aiur Harson]] e [[Borgia]]. Sua aproximação exige que os Beyonders executem continuamente um movimento físico repetitivo de dobrar e estender o braço para sinalizar a preservação da consciência.
 - Entra em modo berserk ao chegar ao antigo apartamento de [[Ray Bieber]], desacelerando simultaneamente [[Klein Moretti]] e [[Dunn Smith]] antes de ser libertado de seu baú por [[Aiur Harson]].
 - Guia a equipe dos [[Falcões Noturnos]] em carruagem até um armazém no porto de [[Cidade Tingen|Tingen]]. É reencapsulado e selado no baú por Aiur Harson com auxílio de Borgia e Lorotta, sendo arremessado a 10 metros de distância durante a emboscada da [[Ordem Secreta]] para evitar a assimilação da equipe.
+- Entra em estado de agitação frenética batendo contra a estrutura interna de seu baú selado após o grito de pânico do invasor da [[Ordem Secreta]] e o surgimento de uma respiração sufocante vinda do armazém.
 
 ## Nível de Periculosidade
 

@@ -32,6 +32,8 @@ tags:
 - O paradeiro de [[Ray Bieber]] e o motivo pelo qual o [[Caderno da Família Antigonus]] foi enviado para a sua residência.
 - A origem da interferência mística que impede a localização de [[Ray Bieber]] por meio de adivinhação prática como a [[Busca Radiestésica com Vara]].
 - As habilidades, perigos e a origem do [[Artefato Selado 2-049]] pertencente à [[Família Antigonus]], que chegou a [[Cidade Tingen|Tingen]] escoltado de [[Backlund]], exigindo dos Beyonders a execução contínua de movimentos físicos repetitivos (como dobrar o braço) para sinalizar preservação da consciência e evitar danos fatais.
+- A causa do grito de terror absoluto emitido pelo invasor da [[Ordem Secreta]] ao entrar no armazém e a origem da respiração pesada e sufocante que emergiu das profundezas do local.
+- O motivo pelo qual o [[Artefato Selado 2-049]] entrou em agitação frenética dentro de seu baú ao escutar a movimentação e a respiração no armazém.
 
 ## Misticismo e Sistema Beyonder
 
@@ -89,5 +91,3 @@ tags:
 - A causa dos tremores antinaturais no corpo da jovem de vestido branco-acinzentado vista por [[Klein Moretti]] ao desembarcar na [[Rua Daffodil]], que afirmou apenas estar 'muito cansada'.
 - A verdadeira origem e o motivo pelo qual o [[Artefato Selado 2-049]] é um boneco de madeira vivo articulado com rosto de palhaço, e por que a presença de sangue ou aura da [[Família Antigonus]] o faz entrar em estado berserk.
 - O motivo pelo qual o [[Artefato Selado 2-049]] assimila os seres vivos em seu raio de influência transformando-os gradualmente em marionetes/bonecos vivos caso não sejam despertados a tempo por terceiros.
-- A identidade do agente da [[Ordem Secreta]] que tentou interceptar a adivinhação de [[Klein Moretti]] e atacou a equipe dos [[Falcões Noturnos]] com uma bola de fogo ilusória na área do porto de [[Cidade Tingen|Tingen]].
-
