@@ -17,4 +17,4 @@ Torna-se alvo de interesse da [[Ordem Secreta]], que busca interceptá-lo para o
 
 Sofre perda de controle dos poderes Beyonder e sofre uma mutação monstruosa no armazém do porto, transformando-se em um humanoide aberrante de mais de dois metros com pele branco-acinzentada, secreções podres e ossos expostos. Mostra-se imune a disparos convencionais e balas antidemônios (que viram vermes ao perfurá-lo). Teve o [[Caderno da Família Antigonus]] engolido em suas vísceras, o qual é arrancado por [[Lorotta]] durante o combate, desencadeando o derretimento e a explosão de seu corpo em massa de carne podre.
 
-
+Teve os restos mortais de carne esmagada e ossos brancos espalhados examinados por [[Dunn Smith]], que deduz que a perda de controle ocorreu porque ele tentava absorver o poder do caderno por meio de um ritual antigo que exigia sono profundo em isolamento, sendo despertado prematuramente pela chegada dos [[Falcões Noturnos]].

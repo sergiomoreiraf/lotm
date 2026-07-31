@@ -90,3 +90,6 @@ tags:
 - A causa dos tremores antinaturais no corpo da jovem de vestido branco-acinzentado vista por [[Klein Moretti]] ao desembarcar na [[Rua Daffodil]], que afirmou apenas estar 'muito cansada'.
 - A verdadeira origem e o motivo pelo qual o [[Artefato Selado 2-049]] é um boneco de madeira vivo articulado com rosto de palhaço, e por que a presença de sangue ou aura da [[Família Antigonus]] o faz entrar em estado berserk.
 - O motivo pelo qual o [[Artefato Selado 2-049]] assimila os seres vivos em seu raio de influência transformando-os gradualmente em marionetes/bonecos vivos caso não sejam despertados a tempo por terceiros.
+- O significado e a origem das duas pequenas rachaduras carmesim que surgiram sob os olhos pretos sem pupila da marionete de madeira do [[Artefato Selado 2-049]] ao ser reencapsulada em seu baú selado após o combate.
+- A natureza dos segredos mantidos por [[Leonard Mitchell]], que revelou a [[Klein Moretti]] ter observado seu [[Ritual de Aumento de Sorte]] e sua imunidade a 2-049, afirmando que existem pessoas especiais no mundo "como você... e eu".
+

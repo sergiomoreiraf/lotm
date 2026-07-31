@@ -18,3 +18,5 @@ Na carruagem, tranquiliza Klein quanto ao nível de perigo do artefato e auxilia
 Combate o [[Palhaço]] da [[Ordem Secreta]] com golpes de boxe e esquivas, e manifesta uma habilidade mística de olhos negros que invoca mãos invisíveis para prender os tornozelos do oponente durante o tiroteio.
 
 Ativa a Visão Mística com pupilas cinzentas e incolores para localizar a fraqueza mística no corpo de [[Ray Bieber]] transformado. Aproveitando a paralisia induzida por [[Dunn Smith]], desfere um soco devastador na virilha do monstro e arranca o [[Caderno da Família Antigonus]] de suas vísceras, sendo nocauteada pela explosão resultante da criatura.
+
+Recupera os sentidos após receber a medicação [[Olhar da Deusa]] trazida por [[Borgia]]. Observa com tom irônico a fúria violenta de [[Ray Bieber]] ao ser despertado de seu ritual antes do tempo e auxilia no reencapsulamento do [[Artefato Selado 2-049]].

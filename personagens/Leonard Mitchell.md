@@ -45,3 +45,4 @@ Guia a carruagem seguindo as direções apontadas por 2-049 até o porto de [[Ci
 
 Dispara uma bala antidemônios diretamente na testa de [[Ray Bieber]] transformado, descobrindo que o ferimento gera apenas vermes gordos no local atingido. Declama poemas de sono em conjunto com [[Aiur Harson]] e sofre sangramento facial em resposta ao grito místico da criatura, desabando ferido no chão após a explosão do monstro.
 
+Recupera-se rapidamente ingerindo o remédio [[Olhar da Deusa]] e aborda [[Klein Moretti]] em particular, revelando ter presenciado seus movimentos no [[Ritual de Aumento de Sorte]] e sua imunidade a 2-049, afirmando de forma enigmática que existem pessoas especiais no mundo como eles. É encarregado de permanecer no armazém isolando a cena do crime.

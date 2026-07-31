@@ -19,3 +19,5 @@ Puxa o 2-049 repetidamente de volta na carruagem enquanto o artefato indica a di
 Durante o confronto com a [[Ordem Secreta]] no porto, declama poemas de [[Seq 8 - Poeta da Meia-Noite|Poeta da Meia-Noite]] para entorpecer os inimigos e atinge a barriga do [[Palhaço]] ao se desconcentrar brevemente com o grito aterrorizado vindo do interior do armazém.
 
 Declama poemas de tranquilização em sintonia com [[Leonard Mitchell]] contra [[Ray Bieber]], mas sofre sangramento nos olhos, nariz e lábios devido ao grito estridente da aberração. Dispara contra o baú do [[Artefato Selado 2-049]] para empurrá-lo a dez metros de distância e afastá-lo de Ray Bieber, caindo gravemente ferido pela explosão final da criatura.
+
+Recebe o remédio [[Olhar da Deusa]] trazido por [[Klein Moretti]] a partir do bolso de [[Borgia]], recuperando sua agilidade e auxiliando na recolocação do [[Artefato Selado 2-049]] em seu baú selado. Concorda com a decisão de depositar o artefato e o [[Caderno da Família Antigonus]] temporariamente atrás do [[Portão Chanis]] em [[Cidade Tingen|Tingen]].
