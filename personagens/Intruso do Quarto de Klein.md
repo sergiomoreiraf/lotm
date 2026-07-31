@@ -14,3 +14,5 @@ Membro esquelético da [[Ordem Secreta]] que veste terno preto justo com botões
 Invade o quarto de [[Klein Moretti]] na calada da noite e é avistado por ele procurando por algo na escrivaninha.
 
 É rendido por [[Klein Moretti]] sob a mira de um revólver e levado até o corredor, onde tenta escapar, mas acaba capturado e interrogado em sonho por [[Dunn Smith]]. É revelado como um membro esquelético da [[Ordem Secreta]] enviado para recuperar o [[Caderno da Família Antigonus]].
+
+Aproveitando a distração da equipe com o armazém no porto, incendia um pedaço de papel em um chicote de fogo preto para queimar o próprio tornozelo e romper as algemas invisíveis de [[Dunn Smith]]. Executa uma acrobacia para trás, transfere a ferida de seu estômago e a bala de prata para seu braço esquerdo e escapa na direção oposta ao porto.

@@ -29,11 +29,10 @@ tags:
 - A causa e o significado de o [[Caderno da Família Antigonus]] ter exercido um foco invisível nas costas de [[Klein Moretti]] durante a ação de resgate, gerando um _déjà vu_ espiritual e um pesadelo revelador envolvendo a carta d'[[Klein Moretti|O Tolo]] sorrindo e a frase em [[Hermes]].
 - A existência de uma ligação mística contínua entre o [[Caderno da Família Antigonus]] e [[Klein Moretti]] que possa forçar coincidências ou atrai-lo de volta às pistas do artefato.
 - A natureza do selo invisível que se dissipou quando [[Leonard Mitchell]] arrombou a porta do apartamento e a causa das larvas em seu corpo brilharem sob a [[Visão Espiritual]] de [[Klein Moretti]].
-- O paradeiro de [[Ray Bieber]] e o motivo pelo qual o [[Caderno da Família Antigonus]] foi enviado para a sua residência.
-- A origem da interferência mística que impede a localização de [[Ray Bieber]] por meio de adivinhação prática como a [[Busca Radiestésica com Vara]].
+- A origem da interferência mística que impediu temporariamente a localização de [[Ray Bieber]] antes de sua transformação no armazém do porto.
 - As habilidades, perigos e a origem do [[Artefato Selado 2-049]] pertencente à [[Família Antigonus]], que chegou a [[Cidade Tingen|Tingen]] escoltado de [[Backlund]], exigindo dos Beyonders a execução contínua de movimentos físicos repetitivos (como dobrar o braço) para sinalizar preservação da consciência e evitar danos fatais.
-- A causa do grito de terror absoluto emitido pelo invasor da [[Ordem Secreta]] ao entrar no armazém e a origem da respiração pesada e sufocante que emergiu das profundezas do local.
-- O motivo pelo qual o [[Artefato Selado 2-049]] entrou em agitação frenética dentro de seu baú ao escutar a movimentação e a respiração no armazém.
+- A sobrevivência e o estado de [[Klein Moretti]] ao ser exposto diretamente ao alcance do [[Artefato Selado 2-049]] com a tampa do baú rompida e o braço de madeira estendido, enquanto todos os demais [[Falcões Noturnos]] encontram-se incapacitados ou desacordados.
+- A natureza do efeito ou preço místico sofrido por [[Dunn Smith]] ao cerrar os olhos e invocar cobras e contorções disformes sob a própria pele para induzir paralisia em [[Ray Bieber]].
 
 ## Misticismo e Sistema Beyonder
 

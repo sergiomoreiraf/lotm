@@ -43,3 +43,5 @@ Auxilia na prontidão para a chegada do [[Artefato Selado 2-049]] ao desativar o
 
 Guia a carruagem seguindo as direções apontadas por 2-049 até o porto de [[Cidade Tingen|Tingen]]. Sugere que Klein adivinhe se há perigo nos arredores e puxa Klein para se esquivar da bola de fogo ilusória disparada pela [[Ordem Secreta]], posicionando-se a 7 metros do baú do artefato para manter sua guarda.
 
+Dispara uma bala antidemônios diretamente na testa de [[Ray Bieber]] transformado, descobrindo que o ferimento gera apenas vermes gordos no local atingido. Declama poemas de sono em conjunto com [[Aiur Harson]] e sofre sangramento facial em resposta ao grito místico da criatura, desabando ferido no chão após a explosão do monstro.
+

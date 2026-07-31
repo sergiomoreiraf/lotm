@@ -15,4 +15,6 @@ Torna-se alvo de interesse da [[Ordem Secreta]], que busca interceptá-lo para o
 
 É confirmado como um descendente de sangue da [[Família Antigonus]] através da reação berserk apresentada pelo [[Artefato Selado 2-049]] durante a busca na sua antiga residência.
 
+Sofre perda de controle dos poderes Beyonder e sofre uma mutação monstruosa no armazém do porto, transformando-se em um humanoide aberrante de mais de dois metros com pele branco-acinzentada, secreções podres e ossos expostos. Mostra-se imune a disparos convencionais e balas antidemônios (que viram vermes ao perfurá-lo). Teve o [[Caderno da Família Antigonus]] engolido em suas vísceras, o qual é arrancado por [[Lorotta]] durante o combate, desencadeando o derretimento e a explosão de seu corpo em massa de carne podre.
+
 
