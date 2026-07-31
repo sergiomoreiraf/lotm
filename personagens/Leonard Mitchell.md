@@ -41,3 +41,5 @@ Conduz a carruagem dos Falcões Noturnos até o edifício do cativeiro após a r
 
 Auxilia na prontidão para a chegada do [[Artefato Selado 2-049]] ao desativar o torpor de [[Klein Moretti]] com um toque no ombro. Conduz a carruagem da missão a pedido de [[Dunn Smith]] e notifica os funcionários civis a se abrigarem no terceiro andar.
 
+Guia a carruagem seguindo as direções apontadas por 2-049 até o porto de [[Cidade Tingen|Tingen]]. Sugere que Klein adivinhe se há perigo nos arredores e puxa Klein para se esquivar da bola de fogo ilusória disparada pela [[Ordem Secreta]], posicionando-se a 7 metros do baú do artefato para manter sua guarda.
+

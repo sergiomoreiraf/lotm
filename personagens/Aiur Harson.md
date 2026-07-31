@@ -13,3 +13,5 @@ Um Beyonder sênior dos [[Falcões Noturnos]] da diocese de [[Backlund]] pertenc
 ## Evolução narrativa
 
 Integra a comitiva que transporta o [[Artefato Selado 2-049]] de [[Backlund]] para a [[Cidade Tingen|Cidade de Tingen]]. Carrega o baú de metal preto envolvido por barreira mística e confirma que [[Ray Bieber]] é de fato um descendente de sangue da [[Família Antigonus]] ao observar a reação berserk do artefato. Na carruagem, remove as restrições espirituais do baú para permitir o desencapsulamento do boneco de madeira.
+
+Puxa o 2-049 repetidamente de volta na carruagem enquanto o artefato indica a direção do porto de [[Cidade Tingen|Tingen]], reativando em seguida o selo do baú com sua espiritualidade. Diante do armazém, arremessa o baú selado do artefato para longe ao perceber a emboscada da [[Ordem Secreta]], sacando uma fina espada de prata para o combate.
