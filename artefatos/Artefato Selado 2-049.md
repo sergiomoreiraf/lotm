@@ -16,6 +16,7 @@ O Artefato Selado 2-049 é um item místico que pertenceu originalmente à [[Fam
 ## Histórico e Aparições
 
 - [[Dunn Smith]] solicitou à diocese de [[Backlund]] que escoltasse o artefato até [[Cidade Tingen|Tingen]] para ajudar a determinar se [[Ray Bieber]] é descendente da [[Família Antigonus]].
+- Chega a [[Cidade Tingen|Tingen]] e é armazenado na área externa do [[Portão Chanis]]. Sua aproximação exige que os Beyonders executem continuamente um movimento físico repetitivo (como dobrar e estender o braço), cuja interrupção serve como sinalizador imediato de paralisia ou contaminação para que o indivíduo seja resgatado a tempo por seus companheiros.
 
 ## Nível de Periculosidade
 

@@ -33,3 +33,5 @@ Compra mantimentos usando um soli das economias da família. É persuadida por [
 
 Concorda em mandar fazer um vestido novo para a comemoração do aniversário de dezesseis anos de sua amiga [[Selena Wood]]. Avisa os irmãos que a vizinha [[Sra. Shaud]] propôs uma visita formal e espera que seu marido advogado sênior conheça o irmão de Selena.
 
+Recebe seu vestido novo de cor bege feito sob medida pela costureira [[Sra. Rochelle]] por nove solis e cinco centavos. Veste-o imediatamente com entusiasmo discreto sob o pretexto de experimentá-lo e revela ter visitado a [[Loja de Departamentos Harrods]] a convite de suas amigas [[Selena Wood]] e Elizabeth.
+

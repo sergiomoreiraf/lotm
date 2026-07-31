@@ -31,7 +31,7 @@ tags:
 - A natureza do selo invisível que se dissipou quando [[Leonard Mitchell]] arrombou a porta do apartamento e a causa das larvas em seu corpo brilharem sob a [[Visão Espiritual]] de [[Klein Moretti]].
 - O paradeiro de [[Ray Bieber]] e o motivo pelo qual o [[Caderno da Família Antigonus]] foi enviado para a sua residência.
 - A origem da interferência mística que impede a localização de [[Ray Bieber]] por meio de adivinhação prática como a [[Busca Radiestésica com Vara]].
-- As habilidades, perigos e a origem do [[Artefato Selado 2-049]] pertencente à [[Família Antigonus]], que está sendo escoltado de [[Backlund]] a [[Cidade Tingen|Tingen]] para confirmar o parentesco de [[Ray Bieber]] com a família.
+- As habilidades, perigos e a origem do [[Artefato Selado 2-049]] pertencente à [[Família Antigonus]], que chegou a [[Cidade Tingen|Tingen]] escoltado de [[Backlund]], exigindo dos Beyonders a execução contínua de movimentos físicos repetitivos (como dobrar o braço) para sinalizar preservação da consciência e evitar danos fatais.
 
 ## Misticismo e Sistema Beyonder
 

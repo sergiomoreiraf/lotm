@@ -14,7 +14,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 ## Fases da Narrativa
 
 - [[O Confronto e a Oferta Beyonder]] — Lidera a neutralização de um intruso da Ordem Secreta e oferece a Klein a poção de Sequência 9.
-- [[Casos de Tingen e Rotina Administrativa]] — Gerencia as operações da unidade de Tingen, autorizando solicitações de despesas e delegando equipes para investigações.
+- [[Casos de Tingen e Rotina Administrativa]] — Gerencia as operações da unidade de Tingen, autorizando solicitações de despesas, investigando Tris e conduzindo a recepção do Artefato Selado 2-049.
 
 ## Eventos Arquivados
 

@@ -16,3 +16,5 @@ Revela-se que, por ser um Sem Sono avançado, necessita de apenas duas horas de 
 Determina a emissão de um mandado de prisão contra [[Ray Bieber]] e parte com [[Frye]] para investigar o paradeiro do fugitivo em bares locais de [[Cidade Tingen|Tingen]].
 
 Informa a [[Klein Moretti]] que os Falcões Noturnos confirmaram que o [[Caderno da Família Antigonus]] está com [[Ray Bieber]] e que emitiu retratos dele nos jornais. Solicita que a diocese de [[Backlund]] envie o [[Artefato Selado 2-049]] para ajudar a localizar o suspeito, questionando Klein sobre sua escolha pela poção de [[Seq 9 - Vidente|Vidente]] e prometendo contratar um treinador de combate caso o rapaz se torne membro formal.
+
+Relata a [[Klein Moretti]] os detalhes da operação fracassada de seis Beyonders para capturar o [[Tris|Instigador Tris]], destacando a atuação de um adivinho experiente da [[Mente Coletiva da Maquinaria]]. Guia Klein até o subsolo do [[Portão Chanis]] após a chegada do [[Artefato Selado 2-049]] e ordena que realizem sem interrupção um movimento físico contínuo de dobrar o braço para prevenir a contaminação e sinalizar a preservação da lucidez.

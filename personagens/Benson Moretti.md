@@ -25,4 +25,6 @@ Negocia a redução do aluguel da casa na [[Cidade Tingen|Rua Daffodil]] e a res
 
 Recebe de Klein um bônus de cinco libras e decide comprar livros de contabilidade para estudar e almejar um aumento salarial nos próximos anos. Explica aos irmãos a dinâmica social das visitas formais e informais da classe média.
 
+Toma um banho relaxante após percorrer vários bairros a trabalho, brinca afetuosamente com [[Klein Moretti]] sobre o orgulho e o entusiasmo de [[Melissa Moretti]] com seu novo vestido e atende à porta durante a ronda do policial [[Bitsch Mountbatten]].
+
 
