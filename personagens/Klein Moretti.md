@@ -14,7 +14,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 
 - [[O Encantamento e o Ritual de Licença]] — Conduz a reunião do Clube de Tarô, obtém dados históricos sobre a família Antigonus e propõe um experimento ritualístico com seu encantamento em Hermes.
 - [[Organizações Secretas e a Seita Demoníaca]] — Categoriza historicamente as organizações secretas do mundo místico e aprende sobre a Seita Demoníaca e a Demônia Primordial.
-- [[O Mercado Subterrâneo e o Monstro Ademisaul]] — Visita o mercado subterrâneo de misticismo no Bar do Dragão Maligno com o Velho Neil, testemunha o cerco a Tris e presencia a sobrecarga espiritual de Ademisaul.
+- [[O Mercado Subterrâneo e o Monstro Ademisaul]] — Visita o mercado subterrâneo com o Velho Neil, presencia a sobrecarga de Ademisaul, adquire bases para amuletos e investiga uma passageira na Rua Daffodil.
 
 ## Eventos Arquivados
 

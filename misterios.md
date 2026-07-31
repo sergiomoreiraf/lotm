@@ -86,3 +86,4 @@ tags:
 - A localização e a real influência dos [[Alquimistas da Psicologia]], cujas pistas locais foram perdidas após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].
 - A existência de segredos adicionais ou perigos ocultos remanescentes do Imperador de Sangue e da Dinastia Tudor a bordo do [[Vingador Azul]], e qual a sua real influência sobre [[Alger Wilson]].
 - A causa pela qual a percepção espiritual inata e distorcida de [[Ademisaul]] identificou o "cheiro da morte" em [[Klein Moretti]] e o motivo de seus olhos sangrarem ao tentar encarar diretamente a aura mística de Klein.
+- A causa dos tremores antinaturais no corpo da jovem de vestido branco-acinzentado vista por [[Klein Moretti]] ao desembarcar na [[Rua Daffodil]], que afirmou apenas estar 'muito cansada'.
