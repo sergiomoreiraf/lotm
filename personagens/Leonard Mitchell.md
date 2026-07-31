@@ -36,3 +36,8 @@ Convence o mordomo [[Klee]] a ceder roupas e pertences de [[Elliott]] inventando
 Neutraliza os sequestradores e adormece o refém cantando o poema de sua sequência, imobilizando fisicamente o cúmplice que tentou fugir ao saltar pelo corrimão da escada. Organiza a entrega dos criminosos com a polícia local de patrulha e divide a recompensa de duzentas libras com a equipe, restando dez libras para Klein.
 
 Conduz a carruagem dos Falcões Noturnos até o edifício do cativeiro após a revelação do sonho de Klein, arromba a porta do apartamento suspeito com um soco na fechadura e é encarregado de conduzir os trâmites da delegacia com a polícia de patrulha após a descoberta do corpo de [[Katy Stefania Bieber|Katy Bieber]].
+
+### Operação com o Artefato 2-049
+
+Auxilia na prontidão para a chegada do [[Artefato Selado 2-049]] ao desativar o torpor de [[Klein Moretti]] com um toque no ombro. Conduz a carruagem da missão a pedido de [[Dunn Smith]] e notifica os funcionários civis a se abrigarem no terceiro andar.
+

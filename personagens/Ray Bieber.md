@@ -13,3 +13,6 @@ Desaparece de seu apartamento juntamente com o [[Caderno da Família Antigonus]]
 
 Torna-se alvo de interesse da [[Ordem Secreta]], que busca interceptá-lo para obter o caderno da família Antigonus.
 
+É confirmado como um descendente de sangue da [[Família Antigonus]] através da reação berserk apresentada pelo [[Artefato Selado 2-049]] durante a busca na sua antiga residência.
+
+

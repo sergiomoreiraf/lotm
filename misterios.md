@@ -87,3 +87,5 @@ tags:
 - A existência de segredos adicionais ou perigos ocultos remanescentes do Imperador de Sangue e da Dinastia Tudor a bordo do [[Vingador Azul]], e qual a sua real influência sobre [[Alger Wilson]].
 - A causa pela qual a percepção espiritual inata e distorcida de [[Ademisaul]] identificou o "cheiro da morte" em [[Klein Moretti]] e o motivo de seus olhos sangrarem ao tentar encarar diretamente a aura mística de Klein.
 - A causa dos tremores antinaturais no corpo da jovem de vestido branco-acinzentado vista por [[Klein Moretti]] ao desembarcar na [[Rua Daffodil]], que afirmou apenas estar 'muito cansada'.
+- A verdadeira origem e o motivo pelo qual o [[Artefato Selado 2-049]] é um boneco de madeira vivo articulado com rosto de palhaço, e por que a presença de sangue ou aura da [[Família Antigonus]] o faz entrar em estado berserk.
+
