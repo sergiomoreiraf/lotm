@@ -12,3 +12,6 @@ Uma membra dos [[Falcões Noturnos]] na [[Cidade Tingen]], pertencente à sequê
 ## Evolução narrativa
 
 Encontra [[Klein Moretti]] no corredor subterrâneo da [[Companhia de Segurança Espinho Negro]] após encerrar seu turno noturno e o adverte seriamente de que a magia ritualística é extremamente perigosa.
+
+É encontrada por [[Dunn Smith]] jogando cartas Gwent com [[Frye]] na sala de entretenimento da [[Companhia de Segurança Espinho Negro]], recebendo instruções para seguir ao armazém do porto e acionar a polícia local para isolar as vias e tratar das consequências da operação.
+

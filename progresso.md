@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 77 - Palhaço
+- **Último Capítulo Processado:** Capítulo 78 - Um Cadáver
