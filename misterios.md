@@ -96,5 +96,7 @@ tags:
 - A natureza dos segredos mantidos por [[Leonard Mitchell]], que revelou a [[Klein Moretti]] ter observado seu [[Ritual de Aumento de Sorte]] e sua imunidade a 2-049, afirmando que existem pessoas especiais no mundo "como você... e eu".
 - A causa pela qual a mão pálida do cadáver do [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] disparou na sala de necropsia, agarrou o pulso de [[Klein Moretti]], pronunciou repetidamente "Hornacis" e deu origem a uma esfera flutuante de sangue azulado antes de voltar a desfalecer.
 - A natureza e o propósito da marca no pulso do [[Intruso do Quarto de Klein|Palhaço]], que descolou de sua pele e se condensou em uma esfera de sangue azulada flutuante de tamanho de um polegar.
+- A origem, história e segredos das ruínas de construções humanas de mais de mil anos no pico principal da [[Cadeia de Montanhas Hornacis]], documentadas pelo arqueólogo [[John Joseph]] em sua monografia conservada na [[Biblioteca de Deweyville]].
+- As regras e dinâmicas exatas da missão solo de iniciação exigida pela [[Igreja da Deusa da Noite Eterna]] para que um Beyonder se torne um membro oficial dos [[Falcões Noturnos]].
 
 

@@ -33,6 +33,7 @@ Trata-se de um boneco de madeira articulado com o tamanho da palma da mão human
 - Durante o confronto no porto, o baú é atingido por um disparo de [[Aiur Harson]] para ser afastado de [[Ray Bieber]] transformado, sofrendo ranhuras na estrutura. Após a explosão do monstro, a tampa do baú é rompida, permitindo que o braço marrom magro se estenda e passe a desacelerar os pensamentos de [[Klein Moretti]], que se encontra a 2-3 metros de distância.
 - Tem seu efeito de assimilação rompido por [[Klein Moretti]] através do ritual de ascensão à [[Névoa Cinza]]. É utilizado involuntariamente como armadilha por Klein, que força o [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] a esquivar-se para dentro de seu raio de 5 metros, congelando os movimentos do invasor e permitindo a Klein alvejá-lo.
 - É contido e trancado novamente em seu baú de metal por [[Aiur Harson]], [[Borgia]] e [[Lorotta]]. Dentro do baú fechado, alinha sua face de marionete à luz, revelando duas pequenas rachaduras carmesim sob os olhos pretos sem pupila. É encaminhado para guarda temporária no [[Portão Chanis]] de [[Cidade Tingen|Tingen]].
+- É escoltado por [[Lorotta]] e sua equipe de volta à diocese de [[Backlund]] sob ordens da Catedral Sagrada.
 
 ## Nível de Periculosidade
 

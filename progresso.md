@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 79 - Outro Murmúrio
+- **Último Capítulo Processado:** Capítulo 80 - Convite para Banquete

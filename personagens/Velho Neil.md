@@ -11,6 +11,7 @@ Um funcionário civil dos [[Falcões Noturnos]] na [[Cidade Tingen]]. Ele já fo
 
 - [[Magia Ritualística e Dívidas]] — Neil ensina magia ritualística a Klein e resolve sua dívida financeira por sorte mágica.
 - [[O Mercado Subterrâneo do Porto]] — Leva Klein ao Bar do Dragão Maligno, ensina sobre Swain, Ademisaul e a Escola de Pensamento da Vida, e quita suas contas.
+- [[A Moagem do Café e o Ritual de Iniciação]] — Prepara café no arsenal e instrui Klein sobre a aprovação e a missão de iniciação dos Falcões Noturnos.
 
 ## Eventos Arquivados
 

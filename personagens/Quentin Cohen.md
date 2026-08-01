@@ -21,4 +21,4 @@ Diz a [[Azik]] não ter lembranças sobre a palavra raiz da família Antigonus e
 
 É o destinatário de uma carta escrita por [[Klein Moretti]] na qual este solicita informações históricas sobre o pico principal da [[Cadeia de Montanhas Hornacis]].
 
-Envia uma carta em resposta a [[Klein Moretti]] contendo informações históricas sobre a situação do pico principal da [[Cadeia de Montanhas Hornacis]].
+Envia uma carta em resposta a [[Klein Moretti]] expressando condolências pela morte de [[Welch McGovern]] e [[Naya]], e recomendando a monografia do arqueólogo [[John Joseph]] na [[Biblioteca de Deweyville]] sobre as relíquias do [[Cadeia de Montanhas Hornacis|pico principal de Hornacis]].

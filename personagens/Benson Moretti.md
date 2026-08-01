@@ -27,4 +27,6 @@ Recebe de Klein um bônus de cinco libras e decide comprar livros de contabilida
 
 Toma um banho relaxante após percorrer vários bairros a trabalho, brinca afetuosamente com [[Klein Moretti]] sobre o orgulho e o entusiasmo de [[Melissa Moretti]] com seu novo vestido e atende à porta durante a ronda do policial [[Bitsch Mountbatten]].
 
+Estuda contabilidade à noite, recebe orientações de [[Klein Moretti]] para focar seus estudos para concursos em literatura antiga, matemática e lógica, e aceita o convite para o aniversário de [[Selena Wood]].
+
 

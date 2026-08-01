@@ -23,3 +23,4 @@ Um manuscrito antigo originado na [[Quarta Época]] e redigido por um membro da 
 - O suspeito [[Ray Bieber]] desaparece do apartamento levando o caderno consigo, sendo emitida uma ordem de prisão contra ele.
 - Durante o confronto no porto de [[Cidade Tingen|Tingen]], é revelado que [[Ray Bieber]] havia engolido e fundido o caderno antigo em suas vísceras. O manuscrito é resgatado de seu intestino por [[Lorotta]] após uma investida sob a paralisia induzida por [[Dunn Smith]].
 - É recuperado por [[Dunn Smith]] envolto em tecido. Apresenta capa dura de papel preto espesso que não demonstra apodrecimento ou amolecimento apesar das manchas de sangue marrom-amareladas. É destinado à custódia selada atrás do [[Portão Chanis]] da [[Cidade Tingen|Cidade de Tingen]].
+- É transportado por [[Lorotta]] e sua equipe de volta a [[Backlund]] sob instruções da Catedral Sagrada.

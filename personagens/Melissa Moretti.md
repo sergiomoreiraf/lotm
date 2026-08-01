@@ -35,3 +35,5 @@ Concorda em mandar fazer um vestido novo para a comemoração do aniversário de
 
 Recebe seu vestido novo de cor bege feito sob medida pela costureira [[Sra. Rochelle]] por nove solis e cinco centavos. Veste-o imediatamente com entusiasmo discreto sob o pretexto de experimentá-lo e revela ter visitado a [[Loja de Departamentos Harrods]] a convite de suas amigas [[Selena Wood]] e Elizabeth.
 
+Aceita uma mesada de [[Klein Moretti]] destinada à compra de ferramentas e materiais de estudo, e convida seus irmãos para a festa de aniversário de sua amiga [[Selena Wood]].
+
