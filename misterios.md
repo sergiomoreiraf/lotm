@@ -94,5 +94,7 @@ tags:
 - O motivo pelo qual o [[Artefato Selado 2-049]] assimila os seres vivos em seu raio de influência transformando-os gradualmente em marionetes/bonecos vivos caso não sejam despertados a tempo por terceiros.
 - O significado e a origem das duas pequenas rachaduras carmesim que surgiram sob os olhos pretos sem pupila da marionete de madeira do [[Artefato Selado 2-049]] ao ser reencapsulada em seu baú selado após o combate.
 - A natureza dos segredos mantidos por [[Leonard Mitchell]], que revelou a [[Klein Moretti]] ter observado seu [[Ritual de Aumento de Sorte]] e sua imunidade a 2-049, afirmando que existem pessoas especiais no mundo "como você... e eu".
-- A causa pela qual a mão pálida do cadáver do [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] disparou e agarrou com força o pulso de [[Klein Moretti]] na sala de necropsia do subsolo, mesmo após ter a morte confirmada e a maquiagem removida por [[Frye]].
+- A causa pela qual a mão pálida do cadáver do [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] disparou na sala de necropsia, agarrou o pulso de [[Klein Moretti]], pronunciou repetidamente "Hornacis" e deu origem a uma esfera flutuante de sangue azulado antes de voltar a desfalecer.
+- A natureza e o propósito da marca no pulso do [[Intruso do Quarto de Klein|Palhaço]], que descolou de sua pele e se condensou em uma esfera de sangue azulada flutuante de tamanho de um polegar.
+
 

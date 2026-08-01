@@ -20,3 +20,5 @@ Encontra [[Klein Moretti]] na [[Universidade de Tingen]] durante uma conferênci
 Diz a [[Azik]] não ter lembranças sobre a palavra raiz da família Antigonus e apressa o colega para uma reunião acadêmica na [[Universidade Khoy]], sugerindo que ele entregue o jornal a [[Klein Moretti]].
 
 É o destinatário de uma carta escrita por [[Klein Moretti]] na qual este solicita informações históricas sobre o pico principal da [[Cadeia de Montanhas Hornacis]].
+
+Envia uma carta em resposta a [[Klein Moretti]] contendo informações históricas sobre a situação do pico principal da [[Cadeia de Montanhas Hornacis]].

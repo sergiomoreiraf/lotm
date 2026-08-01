@@ -22,5 +22,4 @@ Retorna oculto ao armazém do porto com o rosto pintado com maquiagem de palhaç
 
 É executado no local por [[Klein Moretti]] com um tiro fatal de bala antidemônio na cabeça. Tem seus pertences — incluindo cartas de pôquer, lenços, pedaços de vidro, flores de papel e uma carteira contendo cerca de oitenta libras — revistados pela equipe, sendo seu cadáver encaminhado ao examinador [[Frye]] para identificação.
 
-Tem a maquiagem festiva removida por [[Frye]] na sala de necropsia do subsolo, revelando a face de um homem na faixa dos trinta anos, com cabelos pretos e ponte nasal elevada. Quando [[Klein Moretti]] é deixado a sós na sala e estende a mão para examinar uma marca peculiar em seu pulso, a mão pálida do cadáver dispara subitamente e segura com força o pulso de Klein.
-
+Tem a maquiagem festiva removida por [[Frye]] na sala de necropsia do subsolo, revelando a face de um homem na faixa dos trinta anos, com cabelos pretos e ponte nasal elevada. Quando [[Klein Moretti]] é deixado a sós na sala e estende a mão para examinar uma marca peculiar em seu pulso, a mão pálida do cadáver dispara subitamente, segura o pulso de Klein, abre olhos azuis serenos e murmura três vezes a palavra Hornacis antes de cair inerte. A marca em seu pulso desprende-se e contrai-se em uma esfera flutuante de sangue azulado do tamanho de um polegar.
