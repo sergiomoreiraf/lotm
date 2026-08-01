@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 81 - Erudito de Combate
+- **Último Capítulo Processado:** Capítulo 82 - Loja de Ervas

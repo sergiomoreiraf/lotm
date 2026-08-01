@@ -98,7 +98,9 @@ tags:
 - A natureza e o propósito da marca no pulso do [[Intruso do Quarto de Klein|Palhaço]], que descolou de sua pele e se condensou em uma esfera de sangue azulada flutuante de tamanho de um polegar.
 - A origem, história e segredos das ruínas de construções humanas de mais de mil anos na [[Cadeia de Montanhas Hornacis]], documentadas pelo arqueólogo [[John Joseph]] em sua monografia conservada na [[Biblioteca de Deweyville]].
 - A causa pela qual as ruínas na [[Cadeia de Montanhas Hornacis]] crescem em tamanho ao aproximar-se do pico, mas o próprio cume carece inteiramente de construções humanas, contradizendo as hipóteses arqueológicas e vinculando-se ao palácio avistado por [[Klein Moretti]] em seu sonho.
-- O motivo que levou [[Klein Moretti]] a tocar a glabela para inspecionar [[Sir Deweyville]] com a [[Visão Espiritual]] ao cruzarem-se na [[Biblioteca de Deweyville]], e o que essa observação mística revelará.
 - As regras e dinâmicas exatas da missão solo de iniciação exigida pela [[Igreja da Deusa da Noite Eterna]] para que um Beyonder se torne um membro oficial dos [[Falcões Noturnos]].
+- A causa da instabilidade emocional e dos sérios problemas de sono sofridos por [[Sir Deweyville]], a despeito de sua saúde física impecável constatada pela [[Visão Espiritual]] de [[Klein Moretti]].
+- A origem mística dos símbolos da Noite Eterna e do culto milenar dos habitantes da [[Cadeia de Montanhas Hornacis]], cujas insígnias diferem do [[Emblema Sagrado das Trevas]].
+- Os mistérios e a afiliação real de [[Lawson Darkwade]], cujas práticas medicinais na [[Loja de Ervas Populares de Lawson]] combinam simbologia mística, sangue de galo e pó de múmia.
 
 

@@ -19,3 +19,4 @@ Questiona Klein sobre a precisão de seu diagnóstico a Glacis e é convencida d
 
 Klein a examina com a [[Visão Espiritual]] e percebe que as cores emocionais cinzentas de sua aura se dissiparam bastante, substituídas por uma cor semelhante à luz solar. Ela expressa sincera gratidão pelas sugestões dele, relatando sentir-se relaxada e feliz após um ano de angústia.
 
+Atende [[Bogda Jones|Bogda]] na recepção do clube, sugestiona outros adivinhos durante a ausência de Klein e, após a chegada do protagonista, encaminha o cliente para a Sala Topázio, recebendo a comissão devida ao final da sessão.

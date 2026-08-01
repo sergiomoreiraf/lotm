@@ -13,4 +13,4 @@ Busca o [[Clube de Adivinhação]] deprimida e preocupada devido ao atraso de ma
 
 Fornece a Klein os dados de seu noivo, [[Joyce Meyer]]. Após a adivinhação, recebe a revelação de que seu noivo retornou e corre de volta para sua residência azul-acinzentada no Burgo Leste, encontrando Joyce a salvo e acolhendo-o com um abraço caloroso.
 
-Durante um jantar com amigos, encoraja o jovem [[Bogda]] a realizar uma adivinhação com [[Klein Moretti]] no [[Clube de Adivinhação]] para decidir sobre sua cirurgia hepática, atestando a precisão de Klein.
+Durante um jantar com amigos, encoraja o jovem [[Bogda Jones|Bogda]] a realizar uma adivinhação com [[Klein Moretti]] no [[Clube de Adivinhação]] para decidir sobre sua cirurgia hepática, atestando a precisão de Klein.
