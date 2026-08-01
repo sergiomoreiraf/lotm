@@ -12,6 +12,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 
 ## Fases da Narrativa
 
+- [[Pesquisa Mística e o Pico de Hornacis]] — Aprende sobre a missão solo de iniciação e a Sequência 8 Erudito de Combate, pesquisa ruínas em periódicos na Biblioteca de Deweyville e ativa a Visão Espiritual ao avistar Sir Deweyville.
 - [[O Encantamento e o Ritual de Licença]] — Conduz a reunião do Clube de Tarô, obtém dados históricos sobre a família Antigonus e propõe um experimento ritualístico com seu encantamento em Hermes.
 - [[Organizações Secretas e a Seita Demoníaca]] — Categoriza historicamente as organizações secretas do mundo místico e aprende sobre a Seita Demoníaca e a Demônia Primordial.
 - [[O Mercado Subterrâneo e o Monstro Ademisaul]] — Visita o mercado subterrâneo, presencia a sobrecarga de Ademisaul, descobre a fuga de Tris e é convocado para a operação com o Artefato Selado 2-049.

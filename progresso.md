@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 80 - Convite para Banquete
+- **Último Capítulo Processado:** Capítulo 81 - Erudito de Combate
