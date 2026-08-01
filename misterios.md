@@ -17,6 +17,7 @@ tags:
 - O significado do símbolo formado no espaldar de sua cadeira no palácio da névoa cinza, que combina um Olho Sem Pupila (segredo) e linhas contorcidas (mudança), ambos de forma incompleta e sobreposta.
 - A origem e o design do magnífico palácio de bronze, mesa e cadeiras acima da névoa cinza, e se eles são uma criação subconsciente de Klein ou o reflexo de alguma estrutura real.
 - A causa pela qual o ritual de quatro passos no sentido anti-horário e a ascensão à névoa cinza são capazes de anular e conceder imunidade temporária contra o efeito assimilador de marionete do [[Artefato Selado 2-049]].
+- As novas funções, transformações e capacidades que o espaço místico acima da névoa cinza poderá manifestar à medida que [[Klein Moretti]] avançar para as Sequências 8, 7 ou superiores.
 
 ## O Incidente do Caderno Antigonus
 
@@ -52,7 +53,8 @@ tags:
 - O significado e a origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) que surgem nas costas das cadeiras do [[Clube de Tarô]] à medida que os membros sobem de nível ou ativam suas habilidades Beyonder.
 - A causa do aumento global na atividade e surgimento de novas organizações secretas e Beyonders nas últimas décadas.
 - A causa dos murmúrios disformes e das dores de cabeça sentidos por [[Klein Moretti]] no momento em que os rituais a O Tolo são executados, bem como o surgimento temporário dos quatro pontos pretos nas costas de sua mão.
-- O motivo pelo qual a [[Ordem Secreta]] possui a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais.
+- O motivo pelo qual a [[Ordem Secreta]] possui a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais, sabendo-se que a Ordem Secreta detém o controle dessa linha Beyonder.
+- O processo místico pelo qual a poção não absorvida de um Beyonder que sofre [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido na forma de matéria-prima extraordinária.
 
 ## Segredos de Roselle Gustav
 
@@ -92,4 +94,3 @@ tags:
 - O motivo pelo qual o [[Artefato Selado 2-049]] assimila os seres vivos em seu raio de influência transformando-os gradualmente em marionetes/bonecos vivos caso não sejam despertados a tempo por terceiros.
 - O significado e a origem das duas pequenas rachaduras carmesim que surgiram sob os olhos pretos sem pupila da marionete de madeira do [[Artefato Selado 2-049]] ao ser reencapsulada em seu baú selado após o combate.
 - A natureza dos segredos mantidos por [[Leonard Mitchell]], que revelou a [[Klein Moretti]] ter observado seu [[Ritual de Aumento de Sorte]] e sua imunidade a 2-049, afirmando que existem pessoas especiais no mundo "como você... e eu".
-

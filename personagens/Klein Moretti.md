@@ -17,6 +17,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Mercado Subterrâneo e o Monstro Ademisaul]] — Visita o mercado subterrâneo, presencia a sobrecarga de Ademisaul, descobre a fuga de Tris e é convocado para a operação com o Artefato Selado 2-049.
 - [[A Operação com o Artefato 2-049]] — Participa da operação com os Falcões Noturnos de Backlund, vivencia a desaceleração de 2-049 e presencia a abertura do baú do boneco de madeira.
 - [[A Perda de Controle de Ray Bieber]] — Testemunha a mutação de Ray Bieber, sofre sangramento pelo grito místico e fica exposto ao Artefato Selado 2-049 após a explosão do monstro.
+- [[O Ingresso nos Falcões Noturnos]] — Recebe a proposta formal de Dunn Smith para se tornar um membro oficial dos Falcões Noturnos e esclarece o confronto contra o Palhaço da Ordem Secreta.
 
 ## Eventos Arquivados
 
