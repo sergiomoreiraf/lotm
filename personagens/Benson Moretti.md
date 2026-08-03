@@ -29,4 +29,4 @@ Toma um banho relaxante após percorrer vários bairros a trabalho, brinca afetu
 
 Estuda contabilidade à noite, recebe orientações de [[Klein Moretti]] para focar seus estudos para concursos em literatura antiga, matemática e lógica, e aceita o convite para o aniversário de [[Selena Wood]].
 
-
+É persuadido por [[Melissa Moretti]] e [[Klein Moretti]] a trocar seu terno antigo por um smoking novo de Klein para comparecer ao banquete de aniversário de [[Selena Wood]].
