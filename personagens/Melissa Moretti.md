@@ -38,3 +38,5 @@ Recebe seu vestido novo de cor bege feito sob medida pela costureira [[Sra. Roch
 Aceita uma mesada de [[Klein Moretti]] destinada à compra de ferramentas e materiais de estudo, e convida seus irmãos para a festa de aniversário de sua amiga [[Selena Wood]].
 
 Insiste para que [[Benson Moretti|Benson]] use o smoking novo de [[Klein Moretti]] no banquete de aniversário de [[Selena Wood]], confidenciando a Klein seu desejo de que o irmão mais velho encontre um novo relacionamento.
+
+Recebe de [[Klein Moretti]] um [[Amuletos Místicos|amuleto de prata]] gravado com asas de anjo e o utiliza para ir ao banquete de aniversário de [[Selena Wood]].

@@ -14,3 +14,5 @@ Colega de classe e amiga íntima de [[Melissa Moretti]] na [[Escola Técnica de 
 Seu irmão mais velho, Chris, trabalha como advogado e economiza há mais de quatro anos com a noiva para garantir uma vida estável antes de se casar.
 
 Prepara a celebração de seu aniversário de dezesseis anos, que consiste em um jantar com amigos para conversar e jogar cartas. Convida a família Moretti para o banquete de aniversário em sua residência no domingo.
+
+Comemora seu aniversário de dezesseis anos em um banquete em sua residência no [[Burgo Norte]], usando o [[Amuletos Místicos|amuleto de prata]] presenteado por [[Elizabeth]].
