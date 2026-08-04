@@ -102,4 +102,4 @@ tags:
 - A origem mística dos símbolos da Noite Eterna e do culto milenar dos habitantes da [[Cadeia de Montanhas Hornacis]], cujas insígnias diferem do [[Emblema Sagrado das Trevas]].
 - A verdadeira dimensão da reputação e das atividades clandestinas de [[Lawson Darkwade]], que planeja abandonar a [[Loja de Ervas Populares de Lawson]] ao temer a atenção iminente dos [[Falcões Noturnos]], da [[Mente Coletiva da Maquinaria]] e dos [[Punidores Mandatários]].
 - A natureza do treinamento Beyonder e das fórmulas mágicas detidas por [[Lawson Darkwade]], que seu aprendiz [[Scharmaine]] tenta aprender sem sucesso.
-- A causa e a origem da estranha flutuação espiritual percebida por [[Klein Moretti]] no andar superior da [[Residência da Família Wood]] durante o banquete de aniversário de [[Selena Wood]].
+- A identidade e a natureza da existência maligna de aura verde escura que contaminou e corrompeu a alma de [[Selena Wood]] durante a prática de [[Adivinhação com Espelho Mágico]].

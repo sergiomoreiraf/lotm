@@ -12,6 +12,7 @@ Casa geminada com terraço, varanda e um pequeno gramado frontal, localizada na 
 
 - Palco do banquete de comemoração do aniversário de dezesseis anos de [[Selena Wood]], reunindo a família Moretti, [[Elizabeth]] e outros convidados.
 - Local onde [[Klein Moretti]] percebeu uma estranha flutuação espiritual vinda do andar superior durante a recepção.
+- Palco do ritual de [[Adivinhação com Espelho Mágico]] conduzido por [[Selena Wood]] no andar superior, que atraiu uma entidade sobrenatural e levou [[Klein Moretti]] a montar um altar de [[Magia Ritualística]] no quarto da jovem.
 
 ## Proprietários e Frequentadores
 

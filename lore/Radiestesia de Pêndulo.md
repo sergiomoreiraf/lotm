@@ -14,4 +14,4 @@ Para realizar a adivinhação, escreve-se uma afirmação direta (nunca uma perg
 - **Sentido Anti-horário:** Indica não, fracasso ou má sorte/mal.
 - **Estático:** Indica neutralidade.
 
-É um truque prático e rápido em ambientes desconhecidos para verificar o perigo imediato, como a presença de veneno em alimentos, embora possua respostas binárias e limitadas que não aprofundam a interpretação.
+É um truque prático e rápido em ambientes desconhecidos para verificar perigos imediatos (como a presença de veneno em alimentos ou ameaças sobrenaturais em recintos). Para averiguar perigo sobrenatural em uma sala específica, formula-se uma cogitação estritamente delimitada e repetida sete vezes (ex: "A sala diante de mim tem perigo causado pelo sobrenatural"). Uma rotação rápida e contínua no sentido horário indica a presença confirmada de grave perigo místico no local.

@@ -14,6 +14,7 @@ Um método de adivinhação pertencente à terceira categoria, no qual os espelh
 - **Adivinhação Ortodoxa:** Realizada sob a proteção e oração direcionada a uma das sete divindades ortodoxas (como a [[Deusa da Noite Eterna]]). É considerada segura, embora de difícil obtenção de respostas por pessoas comuns.
 - **Adivinhação Proibida:** Realizada invocando deuses malignos ou existências desconhecidas. É estritamente proibida e monitorada pelas igrejas oficiais devido ao elevado risco de loucura e tragédias.
 - **Diferença para Beyonders:** Enquanto pessoas comuns quebram o espelho e interpretam o simbolismo dos fragmentos, Beyonders de caminhos apropriados podem olhar diretamente no espelho para obter respostas claras.
+- **Indicadores de Contaminação:** Em mais de 90% dos casos perigosos, o praticante oculta a frente do espelho das pessoas ao redor. Sob interferência mística severa, a superfície do espelho se torna completamente escura e deixa de refletir o ambiente real, exibindo apenas a vítima com uma fisionomia fria e diabólica.
 
 ## Protocolo de Preparação Ortodoxa (Exemplo)
 

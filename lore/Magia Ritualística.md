@@ -18,4 +18,5 @@ A magia ritualística é a prática de canalizar e direcionar espiritualidade po
 
 ## Rituais Modificados
 
+- **Magia Ritualística Suspensa:** Técnica de compensação para Beyonders de baixa sequência quando seu próprio poder místico não é suficiente para eliminar ou afastar uma entidade maligna à distância. Exige atrair a vítima contaminada para dentro do círculo de selamento nas imediações do altar, utilizando os materiais simbólicos e as preces da divindade invocada (como as velas representando a Dama do Carmesim e a Imperatriz do Desastre e do Horror da [[Deusa da Noite Eterna]]).
 - **Ritual de Invocação de O Tolo:** Um ritual experimental proposto por [[Klein Moretti|O Tolo]] para servir de canal de comunicação com seus membros. Utiliza uma estrutura modificada em [[Hermes]] direcionada a si mesmo ("O Tolo que não pertence a esta era..."), acompanhada de preces específicas ("Eu rezo por sua ajuda", "Eu oro por sua graça amorosa", "Eu rezo para que você me dê um bom sonho") e ervas correspondentes à lua vermelha (flor da lua) e ao sol (cidra com dedos).
