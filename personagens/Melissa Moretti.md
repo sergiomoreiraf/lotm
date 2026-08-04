@@ -40,3 +40,6 @@ Aceita uma mesada de [[Klein Moretti]] destinada à compra de ferramentas e mate
 Insiste para que [[Benson Moretti|Benson]] use o smoking novo de [[Klein Moretti]] no banquete de aniversário de [[Selena Wood]], confidenciando a Klein seu desejo de que o irmão mais velho encontre um novo relacionamento.
 
 Recebe de [[Klein Moretti]] um [[Amuletos Místicos|amuleto de prata]] gravado com asas de anjo e o utiliza para ir ao banquete de aniversário de [[Selena Wood]].
+
+Observa a saída apressada de [[Elizabeth]] e [[Selena Wood]] da festa e franze a testa ao notar o comportamento ansioso e estranho de Elizabeth.
+

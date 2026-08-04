@@ -103,3 +103,5 @@ tags:
 - A verdadeira dimensão da reputação e das atividades clandestinas de [[Lawson Darkwade]], que planeja abandonar a [[Loja de Ervas Populares de Lawson]] ao temer a atenção iminente dos [[Falcões Noturnos]], da [[Mente Coletiva da Maquinaria]] e dos [[Punidores Mandatários]].
 - A natureza do treinamento Beyonder e das fórmulas mágicas detidas por [[Lawson Darkwade]], que seu aprendiz [[Scharmaine]] tenta aprender sem sucesso.
 - A identidade e a natureza da existência maligna de aura verde escura que contaminou e corrompeu a alma de [[Selena Wood]] durante a prática de [[Adivinhação com Espelho Mágico]].
+- A identidade da pessoa que guiou e introduziu [[Selena Wood]] às práticas de misticismo e à [[Adivinhação com Espelho Mágico]].
+

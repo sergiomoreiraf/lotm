@@ -14,3 +14,6 @@ Ex-colega de escola de [[Melissa Moretti]] e [[Selena Wood]], atualmente aluna d
 Reencontra [[Klein Moretti]] no banquete de aniversário de [[Selena Wood]] e revela que Selena adorou o amuleto de prata comprado por ela no mercado subterrâneo, destacando que a amiga relatou melhora na saúde ao usá-lo.
 
 É alertada por [[Klein Moretti]] sobre o perigo na [[Residência da Família Wood]], presenciando o reflexo corrompido de [[Selena Wood]] no espelho e concordando em ajudar Klein a atraí-la até o altar do ritual.
+
+Sob o pretexto de uma surpresa, conduz [[Selena Wood]] até o quarto, bate na porta com o sinal combinado e assiste Klein puxá-la para dentro. Aguarda nervosamente no corredor até que Klein abra a porta e confirme a solução da contaminação da adivinhação.
+

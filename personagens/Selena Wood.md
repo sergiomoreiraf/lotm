@@ -18,3 +18,6 @@ Prepara a celebração de seu aniversário de dezesseis anos, que consiste em um
 Comemora seu aniversário de dezesseis anos em um banquete em sua residência no [[Burgo Norte]], usando o [[Amuletos Místicos|amuleto de prata]] presenteado por [[Elizabeth]].
 
 Conduz um ritual de [[Adivinhação com Espelho Mágico]] durante seu aniversário e tem sua aura invadida por uma força mística de cor verde escura, gerando uma imagem diabólica no espelho.
+
+É conduzida ao seu quarto por [[Elizabeth]] e puxada para o altar por [[Klein Moretti]], manifestando palidez e unhas afiadas pela corrupção do espelho. É totalmente purificada pelo ritual de [[Magia Ritualística]] de Klein dedicado à [[Deusa da Noite Eterna]], caindo no chão desacordada e frágil enquanto seu espelho de prata se despedaça no tapete.
+
