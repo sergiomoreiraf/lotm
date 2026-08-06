@@ -24,3 +24,5 @@ Tem a aura inspecionada pela [[Visão Espiritual]] de [[Klein Moretti]], que con
 Relata à polícia ser atormentado desde o mês anterior por gemidos e gritos dolorosos noturnos que afetam gravemente seu sono, recebendo [[Klein Moretti]] e a polícia em sua mansão no [[Burgo Indus Dourado]] para investigar o fenômeno místico.
 
 Confirma a [[Klein Moretti]] que os sintomas espirituais o acompanham em viagens ou no sono diurno, concordando em isolar seu quarto para o tratamento psicológico e ignorando que o ressentimento derivava das operárias vitimadas por [[Envenenamento por Chumbo]] na [[Fábrica de Chumbo de Deweyville]] e em suas fábricas de porcelana.
+
+Descobre por [[Klein Moretti]] que seu tormento psicológico decorria da culpa reprimida pela morte da operária [[Hayley Walker]] por [[Envenenamento por Chumbo]]. Indeniza a família da jovem em trezentas libras e promete usar sua fundação para mitigar os danos à saúde dos trabalhadores, fazendo desaparecer a assombração espiritual.

@@ -13,4 +13,6 @@ Inspecciona a mansão de [[Sir Deweyville]] no [[Burgo Indus Dourado]] com a [[V
 
 Apresenta-se como especialista em psicologia da polícia para isolar o quarto do magnata e executa a adivinhação dos sonhos por projeção astral na cogitação.
 
-Contata a memória espiritual das operárias vitimadas por [[Envenenamento por Chumbo]], descobrindo o drama e a morte de [[Hayley]] como a força agregadora que assombra [[Sir Deweyville]].
+Contata a memória espiritual das operárias vitimadas por [[Envenenamento por Chumbo]], descobrindo o drama e a morte de [[Hayley Walker|Hayley]] como a força agregadora que assombra [[Sir Deweyville]].
+
+Instrui [[Sir Deweyville]] a compensar os pais da falecida [[Hayley Walker]] e divulgar os perigos do chumbo nos jornais. Acompanha o pagamento de trezentas libras aos pais da jovem e testemunha a dissipação completa do espírito, justificando os ruídos como histeria coletiva.
