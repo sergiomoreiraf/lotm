@@ -98,14 +98,13 @@ tags:
 - A natureza e o propósito da marca no pulso do [[Intruso do Quarto de Klein|Palhaço]], que descolou de sua pele e se condensou em uma esfera de sangue azulada flutuante de tamanho de um polegar.
 - A origem, história e segredos das ruínas de construções humanas de mais de mil anos na [[Cadeia de Montanhas Hornacis]], documentadas pelo arqueólogo [[John Joseph]] em sua monografia conservada na [[Biblioteca de Deweyville]].
 - A causa pela qual as ruínas na [[Cadeia de Montanhas Hornacis]] crescem em tamanho ao aproximar-se do pico, mas o próprio cume carece inteiramente de construções humanas, contradizendo as hipóteses arqueológicas e vinculando-se ao palácio avistado por [[Klein Moretti]] em seu sonho.
-- A causa da instabilidade emocional e dos sérios problemas de sono sofridos por [[Sir Deweyville]], a despeito de sua saúde física impecável constatada pela [[Visão Espiritual]] de [[Klein Moretti]].
+- A origem do assédio místico, dos gemidos e gritos que atormentam [[Sir Deweyville]] em sua mansão no [[Burgo Indus Dourado]], cuja presença provocou uma intensa reação na percepção espiritual de [[Klein Moretti]] ao entrar no quarto principal.
 - A origem mística dos símbolos da Noite Eterna e do culto milenar dos habitantes da [[Cadeia de Montanhas Hornacis]], cujas insígnias diferem do [[Emblema Sagrado das Trevas]].
 - A verdadeira dimensão da reputação e das atividades clandestinas de [[Lawson Darkwade]], que planeja abandonar a [[Loja de Ervas Populares de Lawson]] ao temer a atenção iminente dos [[Falcões Noturnos]], da [[Mente Coletiva da Maquinaria]] e dos [[Punidores Mandatários]].
 - A natureza do treinamento Beyonder e das fórmulas mágicas detidas por [[Lawson Darkwade]], que seu aprendiz [[Scharmaine]] tenta aprender sem sucesso.
 - A identidade e a natureza da existência maligna de aura verde escura que contaminou e corrompeu a alma de [[Selena Wood]] durante a prática de [[Adivinhação com Espelho Mágico]].
 - A extensão dos rituais clandestinos de adivinhação sombria praticados por [[Hanass Vincent]] no [[Clube de Adivinhação]] e a origem de seu conhecimento sobre o encantamento que evoca o [[O Criador|Verdadeiro Criador]].
 - A causa exata da morte súbita de [[Hanass Vincent]] durante o sono no momento em que [[Dunn Smith]] invadiu seus sonhos, e a relação direta com a visão da cruz gigantesca e do homem pregado de cabeça para baixo representativo do [[O Criador|Verdadeiro Criador]].
-- A identidade e o conteúdo do caso sem urgência aparente encaminhado pela delegacia de polícia, designado por [[Dunn Smith]] como a primeira missão solo de iniciação de [[Klein Moretti]].
 
 
 

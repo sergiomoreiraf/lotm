@@ -5,7 +5,7 @@ tags:
 
 # Sir Deweyville
 
-Um cavaleiro e filantropo influente no [[Reino Loen]], respeitado por criar moradias populares para a classe trabalhadora.
+Um magnata, cavaleiro e grande filantropo do [[Reino Loen]], residente na [[Cidade Tingen]] e fiel da [[Igreja da Deusa da Noite Eterna|Deusa da Noite]]. Construiu sua fortuna a partir de fábricas de chumbo e porcelana, expandindo para aço, carvão, transportes e bancos, e almeja uma vaga no parlamento em [[Backlund]]. Fundou a [[Biblioteca de Deweyville]], o [[Deweyville Trust]] e a [[Fundação de Caridade Deweyville|Fundação de Caridade]].
 
 ## Evolução narrativa
 
@@ -16,3 +16,5 @@ Realiza doações financeiras expressivas que possibilitam a fundação e a expa
 Caminha pelas instalações da [[Biblioteca de Deweyville]] acompanhado por seu mordomo, sendo observado à distância por [[Klein Moretti]], que ativa a [[Visão Espiritual]] ao avistá-lo.
 
 Tem a aura inspecionada pela [[Visão Espiritual]] de [[Klein Moretti]], que constata excelente saúde física, porém grande fragilidade emocional e sérios problemas de sono.
+
+Relata à polícia ser atormentado desde o mês anterior por gemidos e gritos dolorosos noturnos que afetam gravemente seu sono, recebendo [[Klein Moretti]] e a polícia em sua mansão no [[Burgo Indus Dourado]] para investigar o fenômeno místico.

@@ -19,7 +19,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - **Rua Besik:** Rua da cidade onde se localiza o [[Hound Pub]].
 - **Rua Zouteland:** Rua da cidade onde se localizam a [[Companhia de Segurança Espinho Negro]] e o [[Clube de Tiro Zouteland|Campo de Tiro da Rua Zouteland]] no Nº 3.
 - **Rua Luar Vermelho (Rua Luar Carmesim):** Rua localizada logo atrás da Rua Zouteland, onde fica a [[Catedral de Santa Selena]].
-- **Região do Indus Dourado:** Área sob jurisdição da Unidade Sete dos Falcões Noturnos.
+- **[[Burgo Indus Dourado]]:** Distrito residencial abastado da cidade sob jurisdição dos Falcões Noturnos, onde se localiza a [[Residência de Sir Deweyville]].
 - **Burgo Norte:** Distrito residencial ou subúrbio da cidade que abriga a Rua Howes, a Rua Fania, o [[Clube de Adivinhação]] e a [[Residência do Velho Neil]]. Anteriormente mencionado por [[Rozanne]] como um local propício para alugar bangalôs de classe média.
 - **Burgo Leste:** Distrito residencial da cidade. Abriga a Rua Stevens, onde se localiza a residência azul-acinzentada de [[Anna]] e [[Joyce Meyer]] no Nº 8. Também abriga a Rua Vlad, onde fica a [[Loja de Ervas Populares de Lawson]] no Nº 18.
 - **Rua Howes:** Rua localizada no Burgo Norte onde se situa o [[Clube de Adivinhação]].

@@ -2,6 +2,8 @@
 tags:
   - organizacao/oficial
   - regiao/continente-norte
+aliases:
+  - Fundação de Caridade Deweyville
 ---
 
 # Deweyville Trust
