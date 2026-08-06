@@ -25,4 +25,4 @@ Relata à polícia ser atormentado desde o mês anterior por gemidos e gritos do
 
 Confirma a [[Klein Moretti]] que os sintomas espirituais o acompanham em viagens ou no sono diurno, concordando em isolar seu quarto para o tratamento psicológico e ignorando que o ressentimento derivava das operárias vitimadas por [[Envenenamento por Chumbo]] na [[Fábrica de Chumbo de Deweyville]] e em suas fábricas de porcelana.
 
-Descobre por [[Klein Moretti]] que seu tormento psicológico decorria da culpa reprimida pela morte da operária [[Hayley Walker]] por [[Envenenamento por Chumbo]]. Indeniza a família da jovem em trezentas libras e promete usar sua fundação para mitigar os danos à saúde dos trabalhadores, fazendo desaparecer a assombração espiritual.
+Descobre por [[Klein Moretti]] que seu tormento psicológico decorria da culpa reprimida pela morte da operária [[Hayley Walker]] por [[Envenenamento por Chumbo]]. Indeniza a família da jovem em trezentas libras e aceita a justificativa de histeria coletiva, conseguindo adormecer em paz após a cessação dos fenômenos.

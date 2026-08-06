@@ -16,3 +16,5 @@ Informa [[Klein Moretti]] de que ele poderá iniciar suas funções civis na seg
 Comenta com entusiástica curiosidade com [[Klein Moretti]] sobre os detalhes do fracasso da operação conjunta no porto para capturar [[Tris]], sendo interrompida pela chegada de [[Dunn Smith]].
 
 Expressa surpresa ao saber que [[Klein Moretti]] se tornará um membro oficial em apenas um mês, lamenta a escala sobrecarregada de plantões no arsenal após [[Kenley]] se tornar um [[Seq 9 - Sem Sono|Sem Sono]] e Viola mudar de emprego, e brinca com Klein sugerindo que ele se case rapidamente para contratar a esposa como funcionária civil.
+
+É incumbida por [[Dunn Smith]] de realizar a reserva de uma mesa no [[Restaurante do Velho Will]] para a celebração da oficialização de [[Klein Moretti]].

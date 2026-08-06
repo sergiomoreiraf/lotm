@@ -17,3 +17,5 @@ Com a ajuda de [[Susie]] vigiando a porta, realiza o ritual místico no banheiro
 
 Acorda de um sonho onde recebe a resposta "Estou ciente" de [[Klein Moretti|O Tolo]], confirmando o êxito da magia ritualística. Define como prioridades a digestão da poção de [[Seq 9 - Espectador|Espectador]], a busca por membros dos [[Alquimistas da Psicologia]] e a obtenção da fórmula de [[Seq 8 - Telepata|Telepata]].
 
+Retorna ao seu quarto no Burgo Imperatriz, adverte [[Susie]] sobre a conduta adequada de um [[Seq 9 - Espectador|Espectador]] e pondera em tom cômico sobre a aceitação de sua cadela pelo [[Klein Moretti|O Tolo]] na [[Reunião de Tarô]].
+

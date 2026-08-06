@@ -16,3 +16,5 @@ Invade os sonhos de [[Hanass Vincent]] durante a madrugada acompanhado por [[Leo
 Perde a consciência diante da visão divina no sonho de Vincent e desperta muito pálido para descobrir que o suspeito morreu durante o sono.
 
 Entrega a [[Klein Moretti]] o uniforme de inspetor estagiário (credencial 06-254) e o encarrega de investigar o assédio místico sofrido por [[Sir Deweyville]] no [[Burgo Indus Dourado]].
+
+Recebe a confirmação do sucesso da missão de [[Klein Moretti]], debate as condições de trabalho na [[Quinta Época|Era do Vapor e da Maquinaria]], escala [[Kenley]] para relocar a família de [[Hayley Walker]] e organiza um jantar no [[Restaurante do Velho Will]].

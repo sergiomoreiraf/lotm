@@ -19,7 +19,7 @@ Guarda a porta do quarto de [[Audrey Hall]] durante a reunião do Clube de Tarô
 
 Segue [[Audrey Hall]] secretamente até um banquete luxuoso em [[Backlund]] e a observa a partir das sombras da varanda, interrompendo o estado de concentração de sua dona.
 
-Observa [[Audrey Hall]] silenciosamente a partir do canto sombreado da sacada no Burgo Imperatriz, emulando o comportamento de uma observadora atenta.
+Observa [[Audrey Hall]] silenciosamente a partir do canto sombreado da sacada no Burgo Imperatriz, sendo advertida com humor por sua dona sobre como um [[Seq 9 - Espectador|Espectador]] deve observar abertamente.
 
 ### Cumplicidade Beyonder
 
