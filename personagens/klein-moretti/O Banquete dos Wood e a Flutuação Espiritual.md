@@ -17,3 +17,6 @@ Investiga o andar superior com a [[Visão Espiritual]] e a [[Radiestesia de Pên
 
 Conduz o ritual de magia ritualística suspensa no quarto de Selena, selando a área com uma parede espiritual. Com o auxílio de [[Elizabeth]], atrai Selena para o quarto, tranca a porta e purifica a aura verde escura que a corrompia queimando o encanto em pele de cabra, fazendo o espelho de prata se despedaçar. Sofre um grave esgotamento espiritual de cerca de vinte segundos acompanhado de dores intensas na glabela, percebendo que sua atuação como [[Seq 9 - Vidente|Vidente]] digeriu bastante a poção e impediu sua perda de controle imediata.
 
+Instrui [[Elizabeth]] a manter segredo sobre o incidente e sobre seu interesse em misticismo. Obtém o encantamento em [[Hermes]] usado por [[Selena Wood]], descobrindo ter sido ensinado por [[Hanass Vincent]] para evocar a graça do [[O Criador|Verdadeiro Criador]]. Realiza uma adivinhação simplificada no [[Mundo Espiritual]] por meio de [[Cogitação]] usando uma moeda de bronze, confirma que Selena está em segurança, conclui a partida de poker no banquete ganhando seis centavos e decide passar na [[Cidade Tingen|Rua Zouteland]] antes de retornar para casa.
+
+

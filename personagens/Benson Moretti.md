@@ -31,4 +31,5 @@ Estuda contabilidade à noite, recebe orientações de [[Klein Moretti]] para fo
 
 É persuadido por [[Melissa Moretti]] e [[Klein Moretti]] a trocar seu terno antigo por um smoking novo de Klein para comparecer ao banquete de aniversário de [[Selena Wood]].
 
-Recebe um [[Amuletos Místicos|amuleto de prata]] de [[Klein Moretti]], veste seu smoking no banquete de aniversário de [[Selena Wood]] e participa de uma partida de poker com outros convidados.
+Recebe um [[Amuletos Místicos|amuleto de prata]] de [[Klein Moretti]], veste seu smoking no banquete de aniversário de [[Selena Wood]] e participa de uma partida de poker com outros convidados, onde vence acumulando dois solis e oito centavos e comparando o jogo às negociações comerciais.
+

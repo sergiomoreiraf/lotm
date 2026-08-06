@@ -12,3 +12,5 @@ A era histórica atual de _Lord of the Mysteries_. Também conhecida como a **Id
 ## Marcos Históricos da Era
 
 - [[Assassinato de Roselle Gustav]] — Assassinato do imperador em 1198 no [[Palácio Bordo Branco]].
+- Surgimento das primeiras manifestações do culto ao [[O Criador|Verdadeiro Criador]] entre entusiastas de organizações secretas (há cerca de 1000 anos).
+

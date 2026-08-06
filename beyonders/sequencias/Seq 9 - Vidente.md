@@ -29,5 +29,7 @@ A sequência inicial do [[Caminho do Vidente]]. A Igreja possui apenas esta fór
 - **Aferição de Intensidade em Radiestesia Espiritual:** Durante a adivinhação com pêndulo de topázio/prata, a velocidade de rotação do pêndulo indica qualitativamente o grau de intensidade ou o nível de perigo da resposta (característica distintiva da poção em relação a outros Beyonders).
 - **Inaptidão para Combate Direto:** Não possui habilidades ou meios de combate físico ativo; os rituais mágicos demandam muita preparação e não são adequados para confrontos diretos.
 - **Digestão por Atuação:** O exercício ativo da função de Vidente (como em atendimentos de adivinhação) acelera significativamente a digestão da poção. Isso expande a capacidade mística do Beyonder e evita a perda imediata de controle em momentos de exaustão espiritual aguda.
+- **Adivinhação Simplificada no Mundo Espiritual:** Permite realizar adivinhações rápidas em transe curto via [[Cogitação]] lançando uma moeda de bronze enquanto faz um tour pelo [[Mundo Espiritual]], onde a face principal indica afirmação e o verso indica negação.
 - **Arrependimento Histórico:** Identificada pelo Imperador [[Roselle Gustav]] em seu diário como um dos caminhos que ele mais se arrependeu de não ter escolhido na juventude.
+
 

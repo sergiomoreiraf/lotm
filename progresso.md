@@ -5,5 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 86 - Lord of Mysteries – Capítulo 86
-
+- **Último Capítulo Processado:** Capítulo 87 - Lord of Mysteries – Capítulo 87

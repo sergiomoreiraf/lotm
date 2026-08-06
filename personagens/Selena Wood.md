@@ -7,17 +7,18 @@ aliases:
 
 # Selena Wood
 
-Colega de classe e amiga íntima de [[Melissa Moretti]] na [[Escola Técnica de Tingen]]. Tem menos de 16 anos, possui cabelos cor de vinho e profundos olhos castanhos. É descrita como feliz, alegre e extrovertida, vinda de uma família de crentes da [[Igreja da Deusa da Noite Eterna]]. Seu pai é funcionário sênior da filial de Tingen do [[Banco Backlund]] e seu irmão mais velho Chris é um advogado em exercício.
+Colega de classe e amiga íntima de [[Melissa Moretti]] na [[Escola Técnica de Tingen]]. Tem menos de 16 anos, possui cabelos cor de vinho e profundos olhos castanhos. É descrita como feliz, alegre e extrovertida, vinda de uma família de crentes da [[Igreja da Deusa da Noite Eterna]]. Seu pai é funcionário sênior da filial de Tingen do [[Banco Backlund]] e seu irmão mais velho [[Chris Wood|Chris]] é um advogado em exercício.
 
 ## Evolução narrativa
 
-Seu irmão mais velho, Chris, trabalha como advogado e economiza há mais de quatro anos com a noiva para garantir uma vida estável antes de se casar.
+### O Incidente da Adivinhação com Espelho Mágico
 
-Prepara a celebração de seu aniversário de dezesseis anos, que consiste em um jantar com amigos para conversar e jogar cartas. Convida a família Moretti para o banquete de aniversário em sua residência no domingo.
+Seu irmão mais velho, [[Chris Wood]], trabalha como advogado e economiza há mais de quatro anos com a noiva para garantir uma vida estável antes de se casar.
 
-Comemora seu aniversário de dezesseis anos em um banquete em sua residência no [[Burgo Norte]], usando o [[Amuletos Místicos|amuleto de prata]] presenteado por [[Elizabeth]].
+Prepara a celebração de seu aniversário de dezesseis anos, convidando a família Moretti para o banquete em sua residência no [[Burgo Norte]].
 
-Conduz um ritual de [[Adivinhação com Espelho Mágico]] durante seu aniversário e tem sua aura invadida por uma força mística de cor verde escura, gerando uma imagem diabólica no espelho.
+Comemora seu aniversário de dezesseis anos usando o [[Amuletos Místicos|amuleto de prata]] presenteado por [[Elizabeth]], conduzindo um ritual de [[Adivinhação com Espelho Mágico]] no qual sua aura é invadida por uma força mística verde escura que gera uma imagem diabólica no espelho.
 
-É conduzida ao seu quarto por [[Elizabeth]] e puxada para o altar por [[Klein Moretti]], manifestando palidez e unhas afiadas pela corrupção do espelho. É totalmente purificada pelo ritual de [[Magia Ritualística]] de Klein dedicado à [[Deusa da Noite Eterna]], caindo no chão desacordada e frágil enquanto seu espelho de prata se despedaça no tapete.
+É conduzida ao quarto por [[Elizabeth]] e puxada por [[Klein Moretti]], sendo purificada pelo ritual de [[Magia Ritualística]] dedicado à [[Deusa da Noite Eterna]] e caindo desacordada enquanto o espelho se despedaça no tapete.
 
+Acorda sem memórias da corrupção mística, acreditando ter desmaiado ao quebrar o espelho no tapete. Revela a [[Elizabeth]] que aprendeu o encantamento com [[Hanass Vincent]] e recita a fórmula que evoca o [[O Criador|Verdadeiro Criador]], prometendo não mais praticar rituais fora das divindades ortodoxas.

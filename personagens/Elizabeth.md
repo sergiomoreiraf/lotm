@@ -17,3 +17,6 @@ Reencontra [[Klein Moretti]] no banquete de aniversário de [[Selena Wood]] e re
 
 Sob o pretexto de uma surpresa, conduz [[Selena Wood]] até o quarto, bate na porta com o sinal combinado e assiste Klein puxá-la para dentro. Aguarda nervosamente no corredor até que Klein abra a porta e confirme a solução da contaminação da adivinhação.
 
+Ouve as revelações de [[Selena Wood]] após ela acordar do desmaio, obtém o encantamento em [[Hermes]] que evoca o [[O Criador|Verdadeiro Criador]] e o transmite a [[Klein Moretti]], prometendo guardar segredo sobre o interesse dele por misticismo.
+
+

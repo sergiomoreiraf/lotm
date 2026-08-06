@@ -41,5 +41,6 @@ Insiste para que [[Benson Moretti|Benson]] use o smoking novo de [[Klein Moretti
 
 Recebe de [[Klein Moretti]] um [[Amuletos Místicos|amuleto de prata]] gravado com asas de anjo e o utiliza para ir ao banquete de aniversário de [[Selena Wood]].
 
-Observa a saída apressada de [[Elizabeth]] e [[Selena Wood]] da festa e franze a testa ao notar o comportamento ansioso e estranho de Elizabeth.
+Observa a saída apressada de [[Elizabeth]] e [[Selena Wood]] da festa e franze a testa ao notar o comportamento ansioso e estranho de Elizabeth, mantendo sua preferência por máquinas e lógica em relação a mistério e instinto.
+
 

@@ -17,3 +17,6 @@ Demonstra a técnica ortodoxa de [[Adivinhação com Espelho Mágico]] dedicada 
 
 Viaja ao [[Porto de Enmat]] para ministrar uma palestra para uma organização de adivinhação local.
 
+Ensinou adivinhação sombria secretamente a [[Selena Wood]] no [[Clube de Adivinhação]], transmitindo o encantamento em [[Hermes]] que evoca a graça do [[O Criador|Verdadeiro Criador]].
+
+
