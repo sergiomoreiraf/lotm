@@ -67,6 +67,9 @@ tags:
 - A identidade e os segredos do navio [[Black King]] comandado por Roselle, e que tipo de tesouros ele alegou ter deixado nas extremidades do [[Mar da Névoa]].
 - A causa e natureza da infecção que acometeu [[Grimm]] durante a exploração na ilha sem nome no [[Mar da Névoa]].
 - Os detalhes e objetivos da [[Ordem Ascética de Moisés]] ao fornecer uma sequência incompleta à Igreja, e o papel de [[Zaratul]] na disseminação do [[Método de Atuação|método de atuação]] para Roselle.
+- A verdadeira razão por trás do nome da [[Ardósia da Blasfêmia]], incluindo quem foi a entidade blasfemada e quem a criou.
+- A natureza do perigoso Artefato Selado pertencente à [[Família Antigonus]] retido pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] que [[Zaratul]] desejava roubar com auxílio de Roselle.
+
 
 ## Entidades, Personagens e Artefatos
 

@@ -18,3 +18,6 @@ Sua origem remonta à [[Terceira Época|Época do Cataclismo]] e está associada
 
 É confirmado que [[Ray Bieber]] é um descendente direto de sua linhagem de sangue, cuja presença ou aura provoca a agitação berserk do [[Artefato Selado 2-049]].
 
+Possuía um perigoso Artefato Selado mantido sob a custódia da [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]], o qual o [[Zaratul|Sr. Zaratul]] tentou roubar recrutando a cooperação de [[Roselle Gustav]].
+
+

@@ -22,12 +22,16 @@ Envia dois de seus integrantes com rostos pintados de palhaço para recuperar o 
 
 Confirmado por seu integrante derrotado no porto que a organização detém o controle do [[Caminho do Vidente]] e que a [[Seq 8 - Palhaço]] sucede a sequência inicial daquele caminho.
 
+É confirmado pelo diário de [[Roselle Gustav]] que o [[Zaratul|Sr. Zaratul]] era o líder da Ordem Secreta, ratificando como inquestionável que a organização detém o [[Caminho do Vidente]]. A organização tentou no passado obter um perigoso Artefato Selado da [[Família Antigonus]] sob posse da [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]].
+
 ## Funcionamento e Regras
 
 Seus membros possuem grande capacidade de ocultamento e tendem a abandonar operações de resgate que consideram de alto risco se a recuperação do item não for extremamente vital, priorizando a própria sobrevivência.
 
 ## Estrutura e Hierarquia
 
+- [[Zaratul|Sr. Zaratul]] — Líder da organização.
 - [[Intruso do Quarto de Klein]] — Agente enviado para recuperar o Caderno da Família Antigonus em Tingen.
 
 É suspeita de ter fortes laços com a [[Família Zaratul]], a linhagem que originalmente estabeleceu o [[Caminho do Vidente]].
+

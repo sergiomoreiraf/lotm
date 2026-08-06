@@ -13,6 +13,9 @@ Uma de suas embarcações armada com canhões navega em direção à residência
 
 É identificada por [[Klein Moretti]] como uma das poucas seitas secretas surgidas nos últimos séculos que adora o [[O Criador|Verdadeiro Criador]], cuja veneração é marcada pela iconografia do homem nu pregado de cabeça para baixo em uma enorme cruz.
 
+Possui um [[Seq 9 - Ouvinte|Ouvinte]] em busca ativa de vestígios do [[O Criador|Verdadeiro Criador]], a quem cultuam como a entidade central remanescente do Criador primordial.
+
+
 
 ## Estrutura e Hierarquia
 

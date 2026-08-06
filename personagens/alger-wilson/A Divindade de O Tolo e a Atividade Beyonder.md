@@ -17,3 +17,6 @@ Em um hotel na [[Cidade da Generosidade]], no [[Arquipélago de Rorsted]], reali
 
 Navegando no [[Mar Sonia]] após deixar o [[Arquipélago de Rorsted]] na perseguição ao [[Ouvinte]], antecipa o isolamento na cabine do capitão para a [[Reunião de Tarô]], bebendo licor para conter a tensão diante da iminente convocação por [[Klein Moretti|O Tolo]].
 
+Na [[Reunião de Tarô]], desculpa-se por não obter novas páginas do diário de [[Roselle Gustav]], orienta [[Audrey Hall|Justiça]] sobre a digestão sem atuação e o prazo de três anos, revela que um [[Seq 9 - Ouvinte|Ouvinte]] da [[Ordem Aurora]] busca vestígios do [[O Criador|Verdadeiro Criador]] e sonda a visão de [[Klein Moretti|O Tolo]] sobre a divindade.
+
+
