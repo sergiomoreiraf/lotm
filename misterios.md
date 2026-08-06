@@ -104,5 +104,8 @@ tags:
 - A natureza do treinamento Beyonder e das fórmulas mágicas detidas por [[Lawson Darkwade]], que seu aprendiz [[Scharmaine]] tenta aprender sem sucesso.
 - A identidade e a natureza da existência maligna de aura verde escura que contaminou e corrompeu a alma de [[Selena Wood]] durante a prática de [[Adivinhação com Espelho Mágico]].
 - A extensão dos rituais clandestinos de adivinhação sombria praticados por [[Hanass Vincent]] no [[Clube de Adivinhação]] e a origem de seu conhecimento sobre o encantamento que evoca o [[O Criador|Verdadeiro Criador]].
+- A causa exata da morte súbita de [[Hanass Vincent]] durante o sono no momento em que [[Dunn Smith]] invadiu seus sonhos, e a relação direta com a visão da cruz gigantesca e do homem pregado de cabeça para baixo representativo do [[O Criador|Verdadeiro Criador]].
+- A identidade e o conteúdo do caso sem urgência aparente encaminhado pela delegacia de polícia, designado por [[Dunn Smith]] como a primeira missão solo de iniciação de [[Klein Moretti]].
+
 
 

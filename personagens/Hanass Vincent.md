@@ -19,4 +19,7 @@ Viaja ao [[Porto de Enmat]] para ministrar uma palestra para uma organização d
 
 Ensinou adivinhação sombria secretamente a [[Selena Wood]] no [[Clube de Adivinhação]], transmitindo o encantamento em [[Hermes]] que evoca a graça do [[O Criador|Verdadeiro Criador]].
 
+Morre subitamente em seu sono enquanto [[Dunn Smith]] tenta invadir seus sonhos durante uma investigação dos [[Falcões Noturnos]], logo após o Capitão presenciar em seu sonho a visão da cruz e do [[O Criador|Verdadeiro Criador]].
+
+
 

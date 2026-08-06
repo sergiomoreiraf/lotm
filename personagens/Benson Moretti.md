@@ -33,3 +33,8 @@ Estuda contabilidade à noite, recebe orientações de [[Klein Moretti]] para fo
 
 Recebe um [[Amuletos Místicos|amuleto de prata]] de [[Klein Moretti]], veste seu smoking no banquete de aniversário de [[Selena Wood]] e participa de uma partida de poker com outros convidados, onde vence acumulando dois solis e oito centavos e comparando o jogo às negociações comerciais.
 
+### Noite de Retorno
+
+Comenta o comportamento de [[Klein Moretti]] no retorno do banquete, brinca sobre o jogo de cartas e a respeitabilidade da classe média e reclama do alto custo do aluguel da carruagem na volta para casa.
+
+

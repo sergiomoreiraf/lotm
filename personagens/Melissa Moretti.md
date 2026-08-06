@@ -43,4 +43,9 @@ Recebe de [[Klein Moretti]] um [[Amuletos Místicos|amuleto de prata]] gravado c
 
 Observa a saída apressada de [[Elizabeth]] e [[Selena Wood]] da festa e franze a testa ao notar o comportamento ansioso e estranho de Elizabeth, mantendo sua preferência por máquinas e lógica em relação a mistério e instinto.
 
+### Questionamento sobre Misticismo
+
+Observa o comportamento de [[Klein Moretti]] no retorno da festa e o questiona em casa sobre as atitudes estranhas de [[Elizabeth]] e [[Selena Wood]]. Aceita as explicações de Klein sobre a linguagem [[Hermes]], concorda com o perigo da adivinhação proibida e compromete-se a orientar Selena a manter-se nas crenças ortodoxas.
+
+
 
