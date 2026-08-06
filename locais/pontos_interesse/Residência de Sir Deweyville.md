@@ -12,6 +12,7 @@ A Residência de Sir Deweyville é uma mansão de dois andares cercada por uma c
 
 - Sir Deweyville sofre assédio místico contínuo na propriedade, ouvindo gemidos e gritos dolorosos que perturbam seu sono.
 - [[Klein Moretti]] e o [[Inspetor Tolle]] visitam a mansão para investigar a origem dos barulhos, onde a percepção espiritual de Klein reage intensamente ao entrar no quarto principal.
+- [[Klein Moretti]] isola o quarto de [[Sir Deweyville]] e executa a adivinhação dos sonhos por projeção astral, descobrindo que o local abrigava a aglomeração espiritual de [[Ressentimento dos Mortos]] vinda das operárias vitimadas por [[Envenenamento por Chumbo]].
 
 ## Proprietários e Frequentadores
 

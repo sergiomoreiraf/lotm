@@ -12,6 +12,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 
 ## Fases da Narrativa
 
+- [[O Ressentimento das Trabalhadoras e a Investigação de Deweyville]] — Investiga o assédio místico na mansão de Sir Deweyville, utiliza a Visão Espiritual e a adivinhação dos sonhos para contatar os espíritos e descobre o ressentimento das operárias mortas por envenenamento por chumbo.
 - [[O Relatório sobre Hanass Vincent e a Visão do Criador]] — Reporta o incidente de Selena Wood a Dunn Smith, orienta Melissa sobre misticismo e descobre a morte de Hanass Vincent e a visão do Verdadeiro Criador.
 - [[O Banquete dos Wood e a Flutuação Espiritual]] — Presenteia seus irmãos com amuletos de prata, atende ao banquete de aniversário de Selena Wood, reencontra Elizabeth e percebe uma flutuação espiritual atípica no andar superior.
 - [[Pesquisa Mística e o Pico de Hornacis]] — Aprende sobre a missão solo de iniciação e a Sequência 8 Erudito de Combate, pesquisa ruínas em periódicos na Biblioteca de Deweyville, ativa a Visão Espiritual em Sir Deweyville, atende Bogda no Clube de Adivinhação e confecciona amuletos de prata após ser oficializado nos Falcões Noturnos.
