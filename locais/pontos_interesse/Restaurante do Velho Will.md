@@ -6,12 +6,12 @@ tags:
 
 # Restaurante do Velho Will
 
-Um estabelecimento gastronômico localizado na [[Cidade Tingen]], frequentado pelos integrantes dos [[Falcões Noturnos]] para celebrações e refeições cotidianas.
+Um estabelecimento gastronômico localizado na [[Cidade Tingen]], no [[Reino Loen]], frequentado para jantares comemorativos e refeições reservadas.
 
 ## Eventos no Local
 
-- Escolhido por [[Dunn Smith]] para sediar o jantar de comemoração da oficialização de [[Klein Moretti]] como membro dos [[Falcões Noturnos]], sendo financiado por bônus de missão da equipe.
+- Palco do jantar oficial de boas-vindas oferecido pela equipe da [[Companhia de Segurança Espinho Negro]] ao recém-empossado Falcão Noturno [[Klein Moretti]].
 
 ## Proprietários e Frequentadores
 
-- **Frequentadores:** [[Dunn Smith]], [[Klein Moretti]], [[Rozanne]] e integrantes dos [[Falcões Noturnos]].
+- Frequentado pelos membros dos [[Falcões Noturnos]] da [[Cidade Tingen]], incluindo [[Dunn Smith]], [[Klein Moretti]], [[Leonard Mitchell]], [[Seeka Tron]], [[Royale Reideen]], [[Kenley]], [[Rozanne]] e demais funcionários civis.

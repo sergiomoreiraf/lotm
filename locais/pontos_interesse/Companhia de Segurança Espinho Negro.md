@@ -13,12 +13,14 @@ A Companhia de Segurança Espinho Negro é uma empresa de segurança privada loc
 - Procurada por [[Klein Moretti]] após ser indicado por [[Wright]] como o endereço real do esquadrão mercenário mencionado por [[Dunn Smith]].
 - [[Klein Moretti]] é guiado pela recepcionista [[Rozanne]] ao subsolo e formaliza sua contratação como funcionário civil.
 - Contratação da agência pelo mordomo [[Klee]] para localizar [[Elliott]], filho sequestrado do comerciante [[Vickroy]].
+- A equipe da companhia organiza um jantar oficial de recepção no [[Restaurante do Velho Will]] para celebrar a oficialização de [[Klein Moretti]] como membro oficial dos Falcões Noturnos.
 
 ## Proprietários e Frequentadores
 
 - [[Dunn Smith]] (frequentador/administrador)
 - [[Leonard Mitchell|Leonard]] (frequentador)
+- [[Seeka Tron]] (frequentadora)
 - [[Rozanne]] (recepcionista)
-- [[Klein Moretti]] (funcionário civil)
+- [[Klein Moretti]] (membro oficial e ex-funcionário civil)
 - [[Falcões Noturnos]] (frequentadores)
 - [[Portão Chanis]] (localizado no subsolo)
