@@ -14,6 +14,8 @@ Mencionada por [[Dunn Smith]] como a fonte original das fórmulas obtidas pela I
 
 Forneceu a sequência incompleta de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] à [[Igreja do Deus do Artesanato]], conforme revelado no diário do Imperador [[Roselle Gustav]].
 
+Revelado por [[Alger Wilson|O Enforcado]] que foi fundada por humanos que leram a [[Ardósia da Blasfêmia]], venerando o [[Sábio Oculto]] como a personificação da Numerologia Espiritual e do conhecimento supremo. A ordem caiu em corrupção quando sua divindade supostamente ganhou vida como um deus maligno.
+
 ## Funcionamento e Regras
 
 Seus membros históricos eram instruídos a seguir a máxima "Faça o que quiser, mas não faça mal!". Ao se tornarem Espreitadores de Mistérios, eram proibidos de falar por cinco anos para cultivar o silêncio, foco e concentração mental.

@@ -14,3 +14,5 @@ Suas teorias sobre a mente humana e o mundo espiritual são aplicadas pela médi
 
 São buscados por [[Audrey Hall|Justiça]] para aproximação futura. [[Klein Moretti]] suspeita que o homem que adquiriu ingredientes suplementares de [[Seq 9 - Espectador|Espectador]] no mercado negro da [[Cidade Tingen|Cidade de Tingen]] possa ser um integrante de seus quadros.
 
+Descritos por [[Alger Wilson|O Enforcado]] como uma organização cujos membros acreditam em uma existência não antropomórfica e no princípio de que o espírito humano é capaz de alterar a realidade.
+
