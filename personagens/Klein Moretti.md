@@ -12,7 +12,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 
 ## Fases da Narrativa
 
-- [[A Ordem Secreta e a Oração na Névoa Cinza]] — Espiona a prece em Jotun de um adolescente loiro na Névoa Cinza, confirma a cura de Bogda e investiga a fuga de Lawson Darkwade.
+- [[A Ordem Secreta e a Oração na Névoa Cinza]] — Espiona a prece em Jotun de um adolescente loiro na Névoa Cinza, confirma a cura de Bogda, conversa com Dunn Smith sobre as regras Beyonder e a hipótese de Sequência 4, e é instruído sobre treinamentos de combate por Neil.
 - [[A Reunião do Clube de Tarô e o Criador Caído]] — Conduz a reunião do Clube de Tarô, orienta sobre o ritual de ausência e a digestão por atuação, lê o diário de Roselle e nomeia o Verdadeiro Criador como Criador Caído.
 - [[O Ressentimento das Trabalhadoras e a Investigação de Deweyville]] — Investiga o assédio místico na mansão de Sir Deweyville, soluciona o assédio com a compensação das operárias, justifica os ruídos como histeria coletiva e ascende à Névoa Cinza.
 - [[O Relatório sobre Hanass Vincent e a Visão do Criador]] — Reporta o incidente de Selena Wood a Dunn Smith, orienta Melissa sobre misticismo e descobre a morte de Hanass Vincent e a visão do Verdadeiro Criador.

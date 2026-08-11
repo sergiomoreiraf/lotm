@@ -31,6 +31,9 @@ A equipe de Tingen formaliza a contratação de [[Klein Moretti]] como funcioná
 - **Fachada Pública:** A equipe da [[Cidade Tingen]] utiliza a [[Companhia de Segurança Espinho Negro]] no segundo andar do N° 36 da Rua Zouteland como cobertura para suas operações e contratações.
 - **Jurisdição e Cobertura:** A Unidade Sete em Tingen é responsável pelos incidentes que ocorrem no norte, oeste e na região do Indus Dourado da cidade.
 - **Divisão da Equipe Civil:** Composta por um contador, um motorista de carruagem (suprimentos) e três funcionários de atendimento e registro (Rozanne, Bredt e [[Velho Neil]]). Estes últimos se revezam no controle do arsenal, arquivos e limpeza, com direito a um dia de folga semanal (exceto aos domingos) e revezamento de turnos noturnos.
+- **Regras de Promoção e Avanço:** O avanço para a poção de Sequência seguinte exige um período mínimo de espera de três anos e aprovação em um exame rigoroso para evitar a [[Perda de Controle|perda de controle]].
+- **Treinamento de Combate:** Os membros passam por treinamentos diários de combate de duas horas no período da tarde.
+- **Hierarquia Superior:** Possui treze arcebispos e nove diáconos seniores no topo da hierarquia da Igreja, com pelo menos metade deles estando abaixo da [[Semideus|Sequência 4]].
 
 ## Estrutura e Hierarquia
 

@@ -10,3 +10,5 @@ Um ex-arcebispo da [[Igreja da Deusa da Noite Eterna]] de cerca de quarenta anos
 ## Evolução narrativa
 
 Revelado em uma circular de segurança mostrada a [[Klein Moretti]] por [[Dunn Smith]] como um traidor procurado pela Igreja após fugir com o [[Artefato Selado 0-08]].
+
+É revelado por [[Dunn Smith]] que perdeu o controle ao tentar avançar para a [[Semideus|Sequência 4]] ([[Semideus]]), e que pertencia à poção de [[Seq 5 - Porteiro|Porteiro]] (Sequência 5 do [[Caminho da Morte]]).

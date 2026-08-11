@@ -10,7 +10,7 @@ Um estabelecimento gastronômico localizado na [[Cidade Tingen]], frequentado pe
 
 ## Eventos no Local
 
-- Escolhido por [[Dunn Smith]] para sediar o jantar de comemoração da oficialização de [[Klein Moretti]] como membro dos [[Falcões Noturnos]].
+- Escolhido por [[Dunn Smith]] para sediar o jantar de comemoração da oficialização de [[Klein Moretti]] como membro dos [[Falcões Noturnos]], sendo financiado por bônus de missão da equipe.
 
 ## Proprietários e Frequentadores
 

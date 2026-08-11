@@ -9,12 +9,20 @@ Funcionária civil e recepcionista na [[Companhia de Segurança Espinho Negro]] 
 
 ## Evolução narrativa
 
+### Recepção e Histórias dos Falcões Noturnos
+
 Recebe [[Klein Moretti]] na recepção da [[Companhia de Segurança Espinho Negro]] e o guia até o escritório de [[Dunn Smith]] no subsolo. No trajeto, ela explica o funcionamento do local e compartilha histórias cotidianas sobre os membros dos [[Falcões Noturnos]].
 
 Informa [[Klein Moretti]] de que ele poderá iniciar suas funções civis na segunda-feira. Adverte-o intensamente sobre os perigos da perda de controle de Beyonders, revelando que seu pai foi um [[Seq 9 - Sem Sono|Sem Sono]] sacrificado em combate, e compartilha detalhes sobre o número estimado de Beyonders em [[Cidade Tingen|Tingen]] e as Sequências da Igreja.
 
 Comenta com entusiástica curiosidade com [[Klein Moretti]] sobre os detalhes do fracasso da operação conjunta no porto para capturar [[Tris]], sendo interrompida pela chegada de [[Dunn Smith]].
 
+### Vida Cotidiana e Operações
+
 Expressa surpresa ao saber que [[Klein Moretti]] se tornará um membro oficial em apenas um mês, lamenta a escala sobrecarregada de plantões no arsenal após [[Kenley]] se tornar um [[Seq 9 - Sem Sono|Sem Sono]] e Viola mudar de emprego, e brinca com Klein sugerindo que ele se case rapidamente para contratar a esposa como funcionária civil.
 
 É incumbida por [[Dunn Smith]] de realizar a reserva de uma mesa no [[Restaurante do Velho Will]] para a celebração da oficialização de [[Klein Moretti]].
+
+### Encontro com Madame Daly
+
+Reencontra [[Daly]] antes de sua partida para [[Backlund]] e compartilha com [[Klein Moretti]] seu fascínio pela vida de uma Médium Espiritual itinerante, reafirmando seu temor dos perigos de se tornar uma Beyonder.

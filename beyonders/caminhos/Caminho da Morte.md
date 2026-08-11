@@ -12,3 +12,4 @@ Um dos vinte e dois caminhos Beyonder do divino.
 - [[Seq 9 - Colecionador de Cadáveres]]
 - [[Seq 8 - Coveiro]]
 - [[Seq 7 - Médium Espiritual]]
+- [[Seq 5 - Porteiro]] — Sequência 5 do caminho Beyonder.

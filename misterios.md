@@ -57,6 +57,8 @@ tags:
 - O processo místico pelo qual a poção não absorvida de um Beyonder que sofre [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido na forma de matéria-prima extraordinária.
 - A verdade por trás da lenda de que o [[Sábio Oculto]], originalmente uma lei natural e conceito de numerologia espiritual, ganhou vida e transformou-se em uma divindade maligna, corrompendo a [[Ordem Ascética de Moisés]].
 - A identidade do adolescente loiro em trajes de [[Feysac|Império Feysac]] avistado por [[Klein Moretti]] ao espionar a estrela carmesim na [[Névoa Cinza]], e a natureza de sua oração proferida em um idioma ancestral semelhante ao [[Jotun]] ou dialeto do [[Antigo Feysac]].
+- A hipótese de Daly e Dunn sobre os caminhos de Sequência não-lineares, cujas habilidades aparentemente independentes em sequências baixas e médias se dissecam e combinam na [[Semideus|Sequência 4]].
+- As condições excepcionais e o processo de exames rigorosos que permitiram a [[Daly]] avançar de poção antes do prazo regulamentar de três anos mantido pelos [[Falcões Noturnos]].
 
 
 
