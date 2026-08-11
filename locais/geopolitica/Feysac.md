@@ -2,7 +2,10 @@
 tags:
   - local/pais
   - regiao/continente-norte
+aliases:
+  - Império Feysac
 ---
+
 
 # Feysac
 

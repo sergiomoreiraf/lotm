@@ -56,7 +56,9 @@ tags:
 - O motivo pelo qual a [[Ordem Secreta]] possui a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais, sabendo-se que a Ordem Secreta detém o controle dessa linha Beyonder.
 - O processo místico pelo qual a poção não absorvida de um Beyonder que sofre [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido na forma de matéria-prima extraordinária.
 - A verdade por trás da lenda de que o [[Sábio Oculto]], originalmente uma lei natural e conceito de numerologia espiritual, ganhou vida e transformou-se em uma divindade maligna, corrompendo a [[Ordem Ascética de Moisés]].
-- A identidade da presença que proferiu a oração fraca percebida por [[Klein Moretti]] no fundo da estrela carmesim ao tocar o brilho místico na [[Névoa Cinza]].
+- A identidade do adolescente loiro em trajes de [[Feysac|Império Feysac]] avistado por [[Klein Moretti]] ao espionar a estrela carmesim na [[Névoa Cinza]], e a natureza de sua oração proferida em um idioma ancestral semelhante ao [[Jotun]] ou dialeto do [[Antigo Feysac]].
+
+
 
 ## Segredos de Roselle Gustav
 

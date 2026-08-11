@@ -15,3 +15,6 @@ Contrai uma pneumonia grave que quase o leva à morte. Sobrevive após sua espos
 
 Revela a Klein que o boticário que o salvou foi [[Lawson Darkwade]], da [[Loja de Ervas Populares de Lawson]] na Rua Vlad. Solicita uma adivinhação a Klein sobre um grande investimento na siderúrgica de [[Lanevus]] e, apesar de ser alertado de que o negócio é um abismo financeiro perigoso, decide retornar para refletir melhor.
 
+Intervém na conversa entre [[Klein Moretti]] e [[Bogda Jones|Bogda]] no [[Clube de Adivinhação]], elogiando entusiasticamente a fórmula de [[Pó de Múmia]] preparada por [[Lawson Darkwade]] na [[Rua Vlad]] e garantindo ter obtido ótimos resultados com os remédios do boticário.
+
+
