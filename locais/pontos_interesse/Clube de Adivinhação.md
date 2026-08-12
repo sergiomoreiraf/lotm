@@ -15,6 +15,8 @@ O **Clube de Adivinhação** é um estabelecimento comercial e recreativo locali
 - [[Klein Moretti]] decide ir à tarde para o clube com o dinheiro de sua comissão para iniciar sua atuação, motivado por murmúrios e ilusões resultantes de sua Cogitação e Visão Espiritual.
 - [[Klein Moretti]] formaliza sua filiação pagando cinco libras à secretária [[Angélica Barrehart]], recebe abotoaduras de identificação e assiste a uma preleção de [[Hanass Vincent]] na sala Pedra Lunar.
 - [[Bogda Jones|Bogda]] aguarda no clube até a chegada de [[Klein Moretti]] para consultar sobre sua cirurgia. Klein inspeciona seu fígado com a [[Visão Espiritual]], realiza adivinhações na Sala Topázio com cartas de tarô e sonhos, e indica o caminho místico da cura no [[Burgo Leste]].
+- [[Klein Moretti]] planeja buscar no clube a identidade do [[Homem de Meio Século com Sobrancelhas Bagunçadas|ancião de meio século]] envolvido na venda do caderno de Antigonus a Welch, munido do retrato desenhado ritualisticamente.
+
 
 ## Proprietários e Frequentadores
 

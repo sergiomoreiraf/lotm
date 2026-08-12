@@ -5,7 +5,8 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 99 - Confirmação
+- **Último Capítulo Processado:** Capítulo 100 - Pistas para a Poção de Palhaço
+
 
 
 

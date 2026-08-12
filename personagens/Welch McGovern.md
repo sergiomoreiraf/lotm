@@ -14,3 +14,6 @@ Adquire um caderno antigo datado da [[Quarta Época]] pertencente à [[Família 
 Falece em sua residência em um suposto caso de suicídio sem sinais de luta, sob circunstâncias misteriosas nas quais bateu com a cabeça contra a parede repetidamente até a morte.
 
 Tem o encerramento de seu caso anunciado pela polícia sob a alegação da captura de um suspeito. Seu cadáver é escoltado por seu pai de volta para a [[Cidade Constant]] para a realização do sepultamento.
+
+Revelado em adivinhação onírica por [[Klein Moretti]] ter adquirido o [[Caderno da Família Antigonus]] diretamente de [[Hanass Vincent]] na presença de um [[Homem de Meio Século com Sobrancelhas Bagunçadas|terceiro negociante de meio século]].
+

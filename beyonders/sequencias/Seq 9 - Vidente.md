@@ -31,5 +31,7 @@ A sequência inicial do [[Caminho do Vidente]]. A Igreja possui apenas esta fór
 - **Digestão por Atuação:** O exercício ativo da função de Vidente (como em atendimentos de adivinhação) acelera significativamente a digestão da poção. Isso expande a capacidade mística do Beyonder e evita a perda imediata de controle em momentos de exaustão espiritual aguda.
 - **Adivinhação Simplificada no Mundo Espiritual:** Permite realizar adivinhações rápidas em transe curto via [[Cogitação]] lançando uma moeda de bronze enquanto faz um tour pelo [[Mundo Espiritual]], onde a face principal indica afirmação e o verso indica negação.
 - **Arrependimento Histórico:** Identificada pelo Imperador [[Roselle Gustav]] em seu diário como um dos caminhos que ele mais se arrependeu de não ter escolhido na juventude.
+- **Postura Interpretativa Cautelosa:** A digestão da poção avança significativamente quando o Beyonder compreende que a adivinhação exige cautela extrema e discernimento minucioso sobre os símbolos revelados, evitando interpretações precipitadas que conduzem a tragédias.
+
 
 

@@ -21,6 +21,9 @@ Ensinou adivinhação sombria secretamente a [[Selena Wood]] no [[Clube de Adivi
 
 Morre subitamente em seu sono enquanto [[Dunn Smith]] tenta invadir seus sonhos durante uma investigação dos [[Falcões Noturnos]], logo após o Capitão presenciar em seu sonho a visão da cruz e do [[O Criador|Verdadeiro Criador]]. Teve a causa de seu falecimento divulgada no [[Clube de Adivinhação]] por seu gerente como um ataque cardíaco ocorrido durante o sono.
 
+Revelado através da adivinhação onírica de [[Klein Moretti]] [[Acima da Névoa Cinza]] como o negociante que vendeu o [[Caderno da Família Antigonus]] a [[Welch McGovern]] na presença de um [[Homem de Meio Século com Sobrancelhas Bagunçadas|ancião de meio século]].
+
+
 
 
 

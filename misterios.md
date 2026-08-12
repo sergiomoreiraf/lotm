@@ -33,6 +33,10 @@ tags:
 - A causa da desarmonia no destino de [[Klein Moretti]] apontada por [[Azik]], evidenciada pela ocorrência de três coincidências marcantes em dois meses (a descoberta do [[Caderno da Família Antigonus]], a estada prolongada de [[Ray Bieber]] em [[Cidade Tingen|Tingen]] e a intervenção no ritual de [[Selena Wood]]).
 - A identidade e motivação da força mística oculta por trás do sequestro de [[Elliott]], confirmada por [[Klein Moretti]] em adivinhação [[Acima da Névoa Cinza]], associada à visão mística de uma chaminé vermelha escura, um prado florido e dobras no espaço.
 - A razão pela qual adivinhações realizadas [[Acima da Névoa Cinza]] referente à permanência de [[Ray Bieber]] em Tingen e ao ritual de [[Selena Wood]] apresentaram imobilidade total do pêndulo, evidenciando o uso de contramedidas e bloqueios ativos pelo manipulador das coincidências.
+- A identidade do [[Homem de Meio Século com Sobrancelhas Bagunçadas|ancião de meio século]] com sobrancelhas bagunçadas e olhos azul-acinzentados que presenciou a venda do [[Caderno da Família Antigonus]] por [[Hanass Vincent]] a [[Welch McGovern]].
+- O motivo de as adivinhações pelas pistas da poção de [[Seq 8 - Palhaço|Palhaço]] apontarem para o [[Caderno da Família Antigonus]], e se o manuscrito contém a fórmula diretamente ou atua como atrator místico para a [[Ordem Secreta]].
+- A extensão dos conhecimentos místicos de [[Hanass Vincent]] que lhe permitiram adquirir o [[Caderno da Família Antigonus]] antes de sua morte súbita.
+
 
 - A razão pela qual os antigos habitantes da [[Nação da Noite Eterna]] no pico de [[Cadeia de Montanhas Hornacis|Hornacis]] não utilizavam cemitérios e mantinham os mortos na cama por três dias, além da causa de seu desaparecimento repentino e simultâneo.
 - A natureza do selo invisível que se dissipou quando [[Leonard Mitchell]] arrombou a porta do apartamento e a causa das larvas em seu corpo brilharem sob a [[Visão Espiritual]] de [[Klein Moretti]].

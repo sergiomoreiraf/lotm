@@ -26,6 +26,9 @@ Confirmado por seu integrante derrotado no porto que a organização detém o co
 
 Caracterizada por [[Alger Wilson|O Enforcado]] como a organização mística de menor nível de atividade e mais desconhecida entre as seitas. [[Klein Moretti]] deduz que as raras aparições da ordem no mundo físico ocorrem primordialmente para localizar e recuperar relíquias e cadernos da [[Família Antigonus]].
 
+Teve seu [[Caderno da Família Antigonus]] comercializado por [[Hanass Vincent]] para [[Welch McGovern]], mantendo vínculo místico direto com as pistas da poção de [[Seq 8 - Palhaço|Palhaço]].
+
+
 ## Funcionamento e Regras
 
 Seus membros possuem grande capacidade de ocultamento e tendem a abandonar operações de resgate que consideram de alto risco se a recuperação do item não for extremamente vital, priorizando a própria sobrevivência.

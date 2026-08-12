@@ -20,3 +20,6 @@ Encontra [[Klein Moretti]] na [[Universidade de Tingen]] durante uma conferênci
 Conversa com [[Klein Moretti]] no escritório de Harvin Stone na [[Universidade Khoy]], entregando-lhe o jornal e demonstrando lapsos em sua própria memória ao buscar pistas com o colega sobre o nome da família Antigonus. Promete escrever para Klein caso se recorde de novas informações antes de se retirar para uma reunião acadêmica.
 
 Aguarda [[Klein Moretti]] no escritório do professor [[Quentin Cohen|Cohen]] na [[Universidade Khoy]] e entrega a ele a monografia *Pesquisa das Relíquias do Pico Principal de Hornacis* de [[John Joseph]]. Revela ter estudado adivinhação na [[Universidade de Backlund]] e alerta Klein sobre uma desarmonia em seu destino provocada por coincidências recorrentes, citando a regra do Imperador [[Roselle Gustav]] sobre a influência de fatores internos em coincidências triplas.
+
+Tem suas intenções benevolentes e sua condição de Beyonder de alto nível confirmadas por [[Klein Moretti]] em adivinhação [[Acima da Névoa Cinza]].
+
