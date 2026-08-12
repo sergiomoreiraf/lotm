@@ -12,5 +12,5 @@ Um dos caminhos Beyonder do divino. Foi mencionado no diário de [[Roselle Gusta
 ## Sequências Descobertas
 
 - [[Seq 9 - Vidente]] — Sequência inicial do caminho Beyonder.
-- [[Seq 8 - Palhaço]] — Sequência 8 do caminho Beyonder.
+- [[Seq 8 - Palhaço]] — Sequência 8 do caminho Beyonder, confirmada por adivinhação mística.
 - (Sequência 7) — Nome da poção desconhecido. O Beyonder é bom em muitos feitiços rápidos, misturando habilidade física e poderes sobrenaturais.

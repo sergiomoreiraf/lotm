@@ -24,3 +24,6 @@ Sofre perda de controle dos poderes Beyonder e sofre uma mutação monstruosa no
 Teve os restos mortais de carne esmagada e ossos brancos espalhados examinados por [[Dunn Smith]], que deduz que a perda de controle ocorreu porque ele tentava absorver o poder do caderno por meio de um ritual antigo que exigia sono profundo em isolamento, sendo despertado prematuramente pela chegada dos [[Falcões Noturnos]].
 
 Deixa para trás uma massa branco-acinzentada em formato de cérebro, composta por matéria-prima extraordinária resultante da concentração dos poderes Beyonder que não chegaram a ser totalmente assimilados antes da sua mutação.
+
+Teve o incidente de sua permanência em [[Cidade Tingen|Tingen]] confirmado por [[Klein Moretti]], via adivinhação [[Acima da Névoa Cinza]], como alvo de interferências e contramedidas místicas de uma força oculta que bloqueou os resultados.
+

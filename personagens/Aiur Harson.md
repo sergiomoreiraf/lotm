@@ -18,7 +18,7 @@ Integra a comitiva que transporta o [[Artefato Selado 2-049]] de [[Backlund]] pa
 
 Puxa o 2-049 repetidamente de volta na carruagem enquanto o artefato indica a direção do porto de [[Cidade Tingen|Tingen]], reativando em seguida o selo do baú com sua espiritualidade. Diante do armazém, arremessa o baú selado do artefato para longe ao perceber a emboscada da [[Ordem Secreta]], sacando uma fina espada de prata para o combate.
 
-Durante o confronto com a [[Ordem Secreta]] no porto, declama poemas de [[Seq 8 - Poeta da Meia-Noite|Poeta da Meia-Noite]] para entorpecer os inimigos e atinge a barriga do [[Palhaço]] ao se desconcentrar brevemente com o grito aterrorizado vindo do interior do armazém.
+Durante o confronto com a [[Ordem Secreta]] no porto, declama poemas de [[Seq 8 - Poeta da Meia-Noite|Poeta da Meia-Noite]] para entorpecer os inimigos e atinge a barriga do [[Seq 8 - Palhaço|Palhaço]] ao se desconcentrar brevemente com o grito aterrorizado vindo do interior do armazém.
 
 Declama poemas de tranquilização em sintonia com [[Leonard Mitchell]] contra [[Ray Bieber]], mas sofre sangramento nos olhos, nariz e lábios devido ao grito estridente da aberração. Dispara contra o baú do [[Artefato Selado 2-049]] para empurrá-lo a dez metros de distância e afastá-lo de Ray Bieber, caindo gravemente ferido pela explosão final da criatura.
 

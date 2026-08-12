@@ -17,7 +17,7 @@ Apresenta-se a [[Klein Moretti]] na sala do Guardião no subsolo do [[Portão Ch
 
 Na carruagem, tranquiliza Klein quanto ao nível de perigo do artefato e auxilia na reativação do selo do baú. No porto, assume a formação crescente armada ao lado de [[Dunn Smith]] e [[Aiur Harson]] diante da emboscada da [[Ordem Secreta]].
 
-Combate o [[Palhaço]] da [[Ordem Secreta]] com golpes de boxe e esquivas, e manifesta uma habilidade mística de olhos negros que invoca mãos invisíveis para prender os tornozelos do oponente durante o tiroteio.
+Combate o [[Seq 8 - Palhaço|Palhaço]] da [[Ordem Secreta]] com golpes de boxe e esquivas, e manifesta uma habilidade mística de olhos negros que invoca mãos invisíveis para prender os tornozelos do oponente durante o tiroteio.
 
 Ativa a Visão Mística com pupilas cinzentas e incolores para localizar a fraqueza mística no corpo de [[Ray Bieber]] transformado. Aproveitando a paralisia induzida por [[Dunn Smith]], desfere um soco devastador na virilha do monstro e arranca o [[Caderno da Família Antigonus]] de suas vísceras, sendo nocauteada pela explosão resultante da criatura.
 

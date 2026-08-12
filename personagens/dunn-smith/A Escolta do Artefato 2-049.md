@@ -15,6 +15,6 @@ Conduz o grupo até a antiga moradia de [[Ray Bieber]] e sofre a ação desacele
 
 Salva [[Klein Moretti]] da assimilação de 2-049 na carruagem com um empurrão firme. Lidera a caminhada ritmada de braços até o porto de [[Cidade Tingen|Tingen]], solicita que Klein adivinhe o nível de perigo no armazém e nos arredores, e reage ao ataque da [[Ordem Secreta]] sacando seu revólver de cano longo e disparando contra a bola de fogo ilusória.
 
-Utiliza sua espiritualidade para emitir uma voz etérea e declamar um poema que drena a vontade de viver do [[Palhaço]] da [[Ordem Secreta]], paralisando-o temporariamente antes da emergência do horror no armazém.
+Utiliza sua espiritualidade para emitir uma voz etérea e declamar um poema que drena a vontade de viver do [[Seq 8 - Palhaço|Palhaço]] da [[Ordem Secreta]], paralisando-o temporariamente antes da emergência do horror no armazém.
 
 Fecha os olhos para invocar uma paralisia mística profunda sobre [[Ray Bieber]], manifestando cobras contorcidas sem escamas sob as vestes e a pele para desacelerar o monstro por três segundos e permitir a investida de [[Lorotta]], ficando inconsciente após a explosão da criatura.

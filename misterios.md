@@ -31,6 +31,9 @@ tags:
 - A causa e o significado de o [[Caderno da Família Antigonus]] ter exercido um foco invisível nas costas de [[Klein Moretti]] durante a ação de resgate, gerando um _déjà vu_ espiritual e um pesadelo revelador envolvendo a carta d'[[Klein Moretti|O Tolo]] sorrindo e a frase em [[Hermes]].
 - A existência de uma ligação mística contínua entre o [[Caderno da Família Antigonus]] e [[Klein Moretti]] que possa forçar coincidências ou atrai-lo de volta às pistas do artefato.
 - A causa da desarmonia no destino de [[Klein Moretti]] apontada por [[Azik]], evidenciada pela ocorrência de três coincidências marcantes em dois meses (a descoberta do [[Caderno da Família Antigonus]], a estada prolongada de [[Ray Bieber]] em [[Cidade Tingen|Tingen]] e a intervenção no ritual de [[Selena Wood]]).
+- A identidade e motivação da força mística oculta por trás do sequestro de [[Elliott]], confirmada por [[Klein Moretti]] em adivinhação [[Acima da Névoa Cinza]], associada à visão mística de uma chaminé vermelha escura, um prado florido e dobras no espaço.
+- A razão pela qual adivinhações realizadas [[Acima da Névoa Cinza]] referente à permanência de [[Ray Bieber]] em Tingen e ao ritual de [[Selena Wood]] apresentaram imobilidade total do pêndulo, evidenciando o uso de contramedidas e bloqueios ativos pelo manipulador das coincidências.
+
 - A razão pela qual os antigos habitantes da [[Nação da Noite Eterna]] no pico de [[Cadeia de Montanhas Hornacis|Hornacis]] não utilizavam cemitérios e mantinham os mortos na cama por três dias, além da causa de seu desaparecimento repentino e simultâneo.
 - A natureza do selo invisível que se dissipou quando [[Leonard Mitchell]] arrombou a porta do apartamento e a causa das larvas em seu corpo brilharem sob a [[Visão Espiritual]] de [[Klein Moretti]].
 - A origem da interferência mística que impediu temporariamente a localização de [[Ray Bieber]] antes de sua transformação no armazém do porto.

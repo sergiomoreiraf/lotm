@@ -5,7 +5,7 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 98 - Coincidências
+- **Último Capítulo Processado:** Capítulo 99 - Confirmação
 
 
 

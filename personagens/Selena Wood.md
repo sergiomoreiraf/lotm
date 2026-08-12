@@ -22,3 +22,6 @@ Comemora seu aniversário de dezesseis anos usando o [[Amuletos Místicos|amulet
 É conduzida ao quarto por [[Elizabeth]] e puxada por [[Klein Moretti]], sendo purificada pelo ritual de [[Magia Ritualística]] dedicado à [[Deusa da Noite Eterna]] e caindo desacordada enquanto o espelho se despedaça no tapete.
 
 Acorda sem memórias da corrupção mística, acreditando ter desmaiado ao quebrar o espelho no tapete. Revela a [[Elizabeth]] que aprendeu o encantamento com [[Hanass Vincent]] e recita a fórmula que evoca o [[O Criador|Verdadeiro Criador]], prometendo não mais praticar rituais fora das divindades ortodoxas.
+
+Teve a adivinhação referente ao incidente do espelho mágico confirmada por [[Klein Moretti]], [[Acima da Névoa Cinza]], como alvo de interferências e bloqueios místicos atípicos.
+
