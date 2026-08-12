@@ -24,7 +24,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Operação com o Artefato 2-049]] — Participa da operação com os Falcões Noturnos de Backlund, vivencia a desaceleração de 2-049 e presencia a abertura do baú do boneco de madeira.
 - [[A Perda de Controle de Ray Bieber]] — Testemunha a mutação de Ray Bieber, sofre sangramento pelo grito místico e fica exposto ao Artefato Selado 2-049 após a explosão do monstro.
 - [[O Ingresso nos Falcões Noturnos]] — Recebe a proposta formal de Dunn Smith para se tornar um membro oficial dos Falcões Noturnos e esclarece o confronto contra o Palhaço da Ordem Secreta.
-- [[O Treinamento de Combate e o Jantar de Boas-Vindas]] — Inicia o treinamento de força física com Gawain nos arredores do Burgo Norte e é homenageado em um jantar oficial de recepção no Restaurante do Velho Will.
+- [[O Treinamento de Combate e o Jantar de Boas-Vindas]] — Treina combate com Gawain, pesquisa a Nação da Noite Eterna com Azik na Universidade Khoy e é alertado sobre coincidências em seu destino.
 
 ## Eventos Arquivados
 

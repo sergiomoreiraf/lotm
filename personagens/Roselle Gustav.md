@@ -25,3 +25,5 @@ Em trechos de seu diário decifrados, revela arrependimento por não escolher os
 Selecionou a classe inicial de [[Erudito]] fornecida pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] por ser um caminho completo e para resgatar seus conhecimentos científicos da Terra. Navegou a bordo do [[Black King]] pelo [[Mar da Névoa]] ao lado de [[Grimm]] e [[Edwards]], e casou-se com [[Matilda Abel]] da [[Família Abel]]. Iniciou a atitude de atuar conforme a classe, orientado por [[Zaratul]], suavizando os murmúrios caóticos em sua mente.
 
 Em novas páginas apresentadas no [[Clube de Tarô]], questiona a denominação da [[Ardósia da Blasfêmia]], registra que a [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] possui o menor número e os menos perigosos Artefatos Selados, descobre que [[Zaratul]] é líder da [[Ordem Secreta]] no [[Caminho do Vidente]] e aprende com ele sobre o prazo de digestão de meio ano a um mês via [[Método de Atuação]].
+
+Teve uma frase célebre citada por [[Azik]], afirmando que uma ou duas coincidências são normais, mas três exigem considerar quais fatores internos estão influenciando os acontecimentos.

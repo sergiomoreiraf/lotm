@@ -47,5 +47,7 @@ Observa a saída apressada de [[Elizabeth]] e [[Selena Wood]] da festa e franze 
 
 Observa o comportamento de [[Klein Moretti]] no retorno da festa e o questiona em casa sobre as atitudes estranhas de [[Elizabeth]] e [[Selena Wood]]. Aceita as explicações de Klein sobre a linguagem [[Hermes]], concorda com o perigo da adivinhação proibida e compromete-se a orientar Selena a manter-se nas crenças ortodoxas.
 
+Note as dores musculares de [[Klein Moretti]] provocadas pelo treinamento de combate e questiona a razão de um professor realizar esforço físico, ouvindo a explicação de que a persuasão pode exigir tanto argumentos educados quanto princípios da física.
+
 
 

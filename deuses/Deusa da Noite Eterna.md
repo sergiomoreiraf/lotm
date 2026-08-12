@@ -7,6 +7,8 @@ aliases:
   - Mãe dos Segredos
   - Imperatriz do Desastre e do Horror
   - Senhora da Calma e do Silêncio
+  - Governante da Noite Eterna
+  - Mãe do Céu
 ---
 
 # Deusa da Noite Eterna
@@ -20,6 +22,7 @@ Uma das divindades ortodoxas do [[Continente Norte]].
 - Nos registros pré-históricos de sua igreja, acordou no final da [[Segunda Época]].
 - Ervas e essências associadas: rosas, limões, hortelã, flor da lua, baunilha noturna e flor do sono.
 - Magia ritualística direcionada à Deusa utiliza velas de flor da lua e sândalo vermelho-escuro para simbolizar sua identidade como Dama do Carmesim, e velas de baunilha noturna e flor do sono para simbolizar a Noite.
+- Registros antigos da [[Nação da Noite Eterna]] na [[Cadeia de Montanhas Hornacis]] indicam que os habitantes veneravam a Deusa sob os títulos de Governante da Noite Eterna e Mãe do Céu.
 
 ## Relações Divinas
 
