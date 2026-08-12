@@ -25,7 +25,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Perda de Controle de Ray Bieber]] — Testemunha a mutação de Ray Bieber, sofre sangramento pelo grito místico e fica exposto ao Artefato Selado 2-049 após a explosão do monstro.
 - [[O Ingresso nos Falcões Noturnos]] — Recebe a proposta formal de Dunn Smith para se tornar um membro oficial dos Falcões Noturnos e esclarece o confronto contra o Palhaço da Ordem Secreta.
 - [[O Treinamento de Combate e o Jantar de Boas-Vindas]] — Treina combate com Gawain, pesquisa a Nação da Noite Eterna com Azik, confirma a interferência mística nas coincidências [[Acima da Névoa Cinza]] e valida a Sequência 8 Palhaço.
-- [[As Pistas de Palhaço e a Revelação de Hanass Vincent]] — Divina sobre a poção de Palhaço na Névoa Cinza, descobre que Hanass Vincent vendeu o caderno de Antigonus a Welch, compreende a essência de agir como Vidente, valida a natureza de Azik e canaliza uma oração a si mesmo como O Tolo para desenhar o retrato do terceiro negociante.
+- [[As Pistas de Palhaço e a Revelação de Hanass Vincent]] — Divina sobre a poção de Palhaço na Névoa Cinza, desenha o retrato do terceiro negociante, sintetiza as regras de atuação da poção de Vidente acelerando sua digestão e descobre com Swain que o negociante buscava registros sobre a Cordilheira Hornacis.
 
 ## Eventos Arquivados
 

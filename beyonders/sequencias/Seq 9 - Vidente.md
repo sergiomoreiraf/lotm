@@ -32,6 +32,4 @@ A sequência inicial do [[Caminho do Vidente]]. A Igreja possui apenas esta fór
 - **Adivinhação Simplificada no Mundo Espiritual:** Permite realizar adivinhações rápidas em transe curto via [[Cogitação]] lançando uma moeda de bronze enquanto faz um tour pelo [[Mundo Espiritual]], onde a face principal indica afirmação e o verso indica negação.
 - **Arrependimento Histórico:** Identificada pelo Imperador [[Roselle Gustav]] em seu diário como um dos caminhos que ele mais se arrependeu de não ter escolhido na juventude.
 - **Postura Interpretativa Cautelosa:** A digestão da poção avança significativamente quando o Beyonder compreende que a adivinhação exige cautela extrema e discernimento minucioso sobre os símbolos revelados, evitando interpretações precipitadas que conduzem a tragédias.
-
-
-
+- **Regras Fundamentais de Atuação:** A digestão da poção progride aceleradamente quando o Beyonder internaliza que deve auxiliar terceiros a interpretar revelações para guiá-los a escolhas melhores, mantendo respeito e temor permanentes diante do destino, sem cair na soberba ou crer cegamente nas próprias leituras.
