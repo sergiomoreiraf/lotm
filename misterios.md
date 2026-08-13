@@ -123,6 +123,9 @@ tags:
 - A causa exata da morte súbita de [[Hanass Vincent]] durante o sono no momento em que [[Dunn Smith]] invadiu seus sonhos, e a relação direta com a visão da cruz gigantesca e do homem pregado de cabeça para baixo representativo do [[O Criador|Verdadeiro Criador]].
 - A identidade e as intenções do Beyonder independente conhecido pelo [[Visconde Glaint]] em [[Backlund]], que não pertence à família real.
 - A motivação da jovem de aparência doce vista por [[Klein Moretti]] no mercado subterrâneo examinando o *Livro das Bruxas* escrito em [[Hermes]].
+- A razão pela qual o sangue de [[Sirius Arapis]] tornou-se preto e seu corpo sofreu mutações físicas grotescas (verrugas, salivação pútrida e salto de mais de sete metros) durante o confronto com [[Klein Moretti]], evidenciando sua corrupção mística.
+- Os segredos e informações contidos nos documentos ou objetos retidos nos bolsos de [[Sirius Arapis]], e sua conexão direta com a [[Ordem Secreta]] ou com o [[Verdadeiro Criador]].
+
 
 
 

@@ -5,7 +5,7 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 102 - Sirius Arapis
+- **Último Capítulo Processado:** Capítulo 103 - Coincidência?
 
 
 
