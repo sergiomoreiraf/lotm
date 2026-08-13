@@ -33,7 +33,6 @@ tags:
 - A causa da desarmonia no destino de [[Klein Moretti]] apontada por [[Azik]], evidenciada pela ocorrência de três coincidências marcantes em dois meses (a descoberta do [[Caderno da Família Antigonus]], a estada prolongada de [[Ray Bieber]] em [[Cidade Tingen|Tingen]] e a intervenção no ritual de [[Selena Wood]]).
 - A identidade e motivação da força mística oculta por trás do sequestro de [[Elliott]], confirmada por [[Klein Moretti]] em adivinhação [[Acima da Névoa Cinza]], associada à visão mística de uma chaminé vermelha escura, um prado florido e dobras no espaço.
 - A razão pela qual adivinhações realizadas [[Acima da Névoa Cinza]] referente à permanência de [[Ray Bieber]] em Tingen e ao ritual de [[Selena Wood]] apresentaram imobilidade total do pêndulo, evidenciando o uso de contramedidas e bloqueios ativos pelo manipulador das coincidências.
-- A identidade do [[Homem de Meio Século com Sobrancelhas Bagunçadas|ancião de meio século]] com sobrancelhas bagunçadas e olhos azul-acinzentados que presenciou a venda do [[Caderno da Família Antigonus]] por [[Hanass Vincent]] a [[Welch McGovern]], o qual foi visto acompanhando Vincent no [[Clube de Adivinhação]] e buscando materiais sobre o pico da [[Cordilheira Hornacis]] no [[Bar do Dragão Maligno]] e na [[Biblioteca de Deweyville]].
 - O motivo de as adivinhações pelas pistas da poção de [[Seq 8 - Palhaço|Palhaço]] apontarem para o [[Caderno da Família Antigonus]], e se o manuscrito contém a fórmula diretamente ou atua como atrator místico para a [[Ordem Secreta]].
 - A extensão dos conhecimentos místicos de [[Hanass Vincent]] que lhe permitiram adquirir o [[Caderno da Família Antigonus]] antes de sua morte súbita.
 
@@ -122,6 +121,8 @@ tags:
 - A identidade e a natureza da existência maligna de aura verde escura que contaminou e corrompeu a alma de [[Selena Wood]] durante a prática de [[Adivinhação com Espelho Mágico]].
 - A extensão dos rituais clandestinos de adivinhação sombria praticados por [[Hanass Vincent]] no [[Clube de Adivinhação]] e a origem de seu conhecimento sobre o encantamento que evoca o [[O Criador|Verdadeiro Criador]].
 - A causa exata da morte súbita de [[Hanass Vincent]] durante o sono no momento em que [[Dunn Smith]] invadiu seus sonhos, e a relação direta com a visão da cruz gigantesca e do homem pregado de cabeça para baixo representativo do [[O Criador|Verdadeiro Criador]].
+- A identidade e as intenções do Beyonder independente conhecido pelo [[Visconde Glaint]] em [[Backlund]], que não pertence à família real.
+- A motivação da jovem de aparência doce vista por [[Klein Moretti]] no mercado subterrâneo examinando o *Livro das Bruxas* escrito em [[Hermes]].
 
 
 

@@ -22,7 +22,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - **[[Burgo Indus Dourado]]:** Distrito residencial abastado da cidade sob jurisdição dos Falcões Noturnos, onde se localiza a [[Residência de Sir Deweyville]].
 - **Burgo Norte:** Distrito residencial ou subúrbio da cidade que abriga a Rua Howes, a Rua Fania, o [[Clube de Adivinhação]], a [[Residência do Velho Neil]] e a [[Residência de Gawain]]. Anteriormente mencionado por [[Rozanne]] como um local propício para alugar bangalôs de classe média.
 - **Burgo Leste:** Distrito residencial da cidade. Abriga a Rua Stevens, onde se localiza a residência azul-acinzentada de [[Anna]] e [[Joyce Meyer]] no Nº 8. Também abriga a Rua Vlad, onde fica a [[Loja de Ervas Populares de Lawson]] no Nº 18.
-- **Rua Howes:** Rua localizada no Burgo Norte onde se situa o [[Clube de Adivinhação]].
+- **Rua Howes:** Rua localizada no Burgo Norte onde se situam o [[Clube de Adivinhação]] e a residência do comerciante de tecidos [[Sirius Arapis]] (Nº 19).
 - **Rua Fania:** Rua localizada no Burgo Norte onde se situa a [[Residência da Família Wood]].
 - **Distrito Norte:** Bairro da cidade onde se localiza o teatro de Tingen.
 - [[Universidade Khoy]]: Uma das instituições de ensino superior localizadas na cidade.
