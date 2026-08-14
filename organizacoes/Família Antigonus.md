@@ -20,4 +20,7 @@ Sua origem remonta à [[Terceira Época|Época do Cataclismo]] e está associada
 
 Possuía um perigoso Artefato Selado mantido sob a custódia da [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]], o qual o [[Zaratul|Sr. Zaratul]] tentou roubar recrutando a cooperação de [[Roselle Gustav]].
 
+Cartas de [[Sirius Arapis]] revelam que a família detinha o [[Caminho do Vidente]] e previu sua ruína por adivinhação, ocultando um tesouro secreto nas ruínas da [[Nação da Noite Eterna]] no pico da [[Cadeia de Montanhas Hornacis]] para viabilizar seu renascimento.
+
+
 

@@ -7,6 +7,9 @@ tags:
 
 Um dos caminhos Beyonder do divino. Foi mencionado no diário de [[Roselle Gustav]] como uma de suas escolhas de arrependimento. Foi originalmente estabelecido pela [[Família Zaratul]] do [[Império Solomon]], que suspeita-se estar ligada à antiga [[Ordem Secreta]].
 
+Confirmado como o caminho controlado também pela [[Família Antigonus]], cujos manuscritos e relíquias contêm fórmulas desta linhagem (incluindo [[Seq 8 - Palhaço|Palhaço]]) e impulsionam as buscas da [[Ordem Secreta]].
+
+
 É um caminho não-linear cujas poções de baixas e médias sequências fornecem habilidades aparentemente independentes (como [[Seq 9 - Vidente|Vidente]] e [[Seq 8 - Palhaço|Palhaço]]), que se dissecam e fundem em uma mudança qualitativa ao atingir a [[Semideus|Sequência 4]] ([[Semideus]]).
 
 ## Sequências Descobertas

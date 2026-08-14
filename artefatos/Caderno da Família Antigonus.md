@@ -25,4 +25,6 @@ Um manuscrito antigo originado na [[Quarta Época]] e redigido por um membro da 
 - É recuperado por [[Dunn Smith]] envolto em tecido. Apresenta capa dura de papel preto espesso que não demonstra apodrecimento ou amolecimento apesar das manchas de sangue marrom-amareladas. É destinado à custódia selada atrás do [[Portão Chanis]] da [[Cidade Tingen|Cidade de Tingen]].
 - É transportado por [[Lorotta]] e sua equipe de volta a [[Backlund]] sob instruções da Catedral Sagrada.
 - Revelado em adivinhação onírica por [[Klein Moretti]] ter sido vendido a [[Welch McGovern]] por [[Hanass Vincent]] na presença de um [[Homem de Meio Século com Sobrancelhas Bagunçadas|terceiro negociante]], vinculando-se às pistas da fórmula de [[Seq 8 - Palhaço|Palhaço]] da [[Ordem Secreta]].
+- Cartas de [[Sirius Arapis]] revelam que o caderno é um item vivo e perverso que altera seu conteúdo conforme o portador, apresentando apenas dados triviais, relatos sobre a [[Nação da Noite Eterna]] e três fórmulas de poções (incluindo [[Seq 8 - Palhaço|Palhaço]]) para não-descendentes da [[Família Antigonus]].
+
 

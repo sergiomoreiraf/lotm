@@ -124,7 +124,9 @@ tags:
 - A identidade e as intenções do Beyonder independente conhecido pelo [[Visconde Glaint]] em [[Backlund]], que não pertence à família real.
 - A motivação da jovem de aparência doce vista por [[Klein Moretti]] no mercado subterrâneo examinando o *Livro das Bruxas* escrito em [[Hermes]].
 - A razão pela qual o sangue de [[Sirius Arapis]] tornou-se preto e seu corpo sofreu mutações físicas grotescas (verrugas, salivação pútrida e salto de mais de sete metros) durante o confronto com [[Klein Moretti]], evidenciando sua corrupção mística.
-- Os segredos e informações contidos nos documentos ou objetos retidos nos bolsos de [[Sirius Arapis]], e sua conexão direta com a [[Ordem Secreta]] ou com o [[Verdadeiro Criador]].
+- A identidade, localização e afiliação exata do [[Senhor Z|Sr. Z]], o destinatário das cartas de [[Sirius Arapis]] a quem se prometeu o sacrifício dos habitantes de [[Cidade Tingen|Tingen]].
+- As informações e revelações adicionais que [[Klein Moretti]] obterá ao realizar o ritual de mediunidade com adivinhação de sonhos sobre o cadáver e o espírito de [[Sirius Arapis]].
+
 
 
 

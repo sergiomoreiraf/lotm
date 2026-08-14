@@ -28,6 +28,9 @@ Caracterizada por [[Alger Wilson|O Enforcado]] como a organização mística de 
 
 Teve seu [[Caderno da Família Antigonus]] comercializado por [[Hanass Vincent]] para [[Welch McGovern]], mantendo vínculo místico direto com as pistas da poção de [[Seq 8 - Palhaço|Palhaço]].
 
+Sua motivação de busca constante por relíquias da [[Família Antigonus]] é esclarecida por [[Klein Moretti]]: por compartilharem o controle do [[Caminho do Vidente]], visam completar sequências ausentes, obter ingredientes raros e absorver experiências acumuladas para conter riscos de perda de controle.
+
+
 
 ## Funcionamento e Regras
 

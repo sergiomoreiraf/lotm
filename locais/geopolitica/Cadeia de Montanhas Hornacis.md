@@ -19,3 +19,6 @@ Estudos do arqueólogo [[John Joseph]] e registros dos periódicos _Nova Arqueol
 Pesquisas adicionais de [[Klein Moretti]] confirmam a existência de um reino antigo de mais de 1500 anos na cordilheira, cujos habitantes cultuavam a Noite Eterna como protetora dos mortos e utilizavam símbolos sagrados distintos do [[Emblema Sagrado das Trevas]].
 
 Pesquisas adicionais de [[Klein Moretti]] na monografia de [[John Joseph]] revelam que os habitantes do pico principal reverenciavam a [[Deusa da Noite Eterna|Governante da Noite Eterna]] e mantinham mortos em casa por três dias acreditando em sua proteção noturna. A fotografia do palácio nas ruínas apresenta estilo idêntico ao palácio com o assento gigante dos sonhos de Klein.
+
+Cartas de [[Sirius Arapis]] indicam que a [[Família Antigonus]] escondeu um tesouro secreto nas ruínas de seu pico principal para viabilizar seu renascimento. [[Klein Moretti]] deduz que ter contato prévio com o caderno e consumir a poção de [[Seq 9 - Vidente|Vidente]] são condições necessárias para ouvir os murmúrios "Hornacis".
+
