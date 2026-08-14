@@ -125,7 +125,9 @@ tags:
 - A motivação da jovem de aparência doce vista por [[Klein Moretti]] no mercado subterrâneo examinando o *Livro das Bruxas* escrito em [[Hermes]].
 - A razão pela qual o sangue de [[Sirius Arapis]] tornou-se preto e seu corpo sofreu mutações físicas grotescas (verrugas, salivação pútrida e salto de mais de sete metros) durante o confronto com [[Klein Moretti]], evidenciando sua corrupção mística.
 - A identidade, localização e afiliação exata do [[Senhor Z|Sr. Z]], o destinatário das cartas de [[Sirius Arapis]] a quem se prometeu o sacrifício dos habitantes de [[Cidade Tingen|Tingen]].
-- As informações e revelações adicionais que [[Klein Moretti]] obterá ao realizar o ritual de mediunidade com adivinhação de sonhos sobre o cadáver e o espírito de [[Sirius Arapis]].
+- A causa pela qual o único olho do Gigante Enforcado no pêndulo de [[Sirius Arapis]] emanou um brilho vermelho e desferiu um ataque espiritual contra [[Klein Moretti]] durante o ritual mediúnico.
+- O motivo do contraste entre o símbolo visto por [[Klein Moretti]] no pêndulo de [[Sirius Arapis]] (o Gigante Enforcado com um único olho da [[Ordem Aurora]]) e a visão no sonho de [[Hanass Vincent]] (uma enorme cruz com a figura crucificada).
+
 
 
 

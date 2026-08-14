@@ -12,3 +12,6 @@ Um Beyonder integrante dos [[Falcões Noturnos]] na [[Cidade Tingen]].
 Assume a escala de plantão e custódia no [[Portão Chanis]] substituindo [[Dunn Smith]] durante a operação externa com o [[Artefato Selado 2-049]].
 
 É encarregado por [[Dunn Smith]] de organizar a mudança e o reasentamento seguro da família de [[Hayley Walker]] para outra cidade, protegendo a indenização financeira recebida de ameaças e ganância.
+
+Acompanha [[Dunn Smith]] e [[Leonard Mitchell]] até a [[Biblioteca de Deweyville]] após a morte de [[Sirius Arapis]], demonstrando preocupação com a palidez de [[Klein Moretti]] e sendo enviado para convocar o [[Velho Neil]].
+

@@ -11,9 +11,12 @@ A Sequência 8 do [[Caminho do Vidente]]. Foi revelada pelo [[Intruso do Quarto 
 
 Foi confirmada por [[Klein Moretti]], em adivinhação [[Acima da Névoa Cinza]], bem como pelo integrante da [[Ordem Secreta]] e por [[Dunn Smith]], como a oitava sequência do [[Caminho do Vidente]]. Suas pistas de obtenção apontam em adivinhação onírica para o [[Caderno da Família Antigonus]], indicando conexão com a [[Ordem Secreta]].
 
-As cartas de [[Sirius Arapis]] confirmam que a fórmula de Palhaço constava entre as três fórmulas contidas no [[Caderno da Família Antigonus]] e enviadas ao [[Senhor Z|Sr. Z]], motivando [[Klein Moretti]] a realizar um ritual de mediunidade com o espírito de Sirius.
+As cartas de [[Sirius Arapis]] confirmam que a fórmula de Palhaço constava entre as três fórmulas contidas no [[Caderno da Família Antigonus]] e enviadas ao [[Senhor Z|Sr. Z]]. A fórmula completa da poção foi obtida por [[Klein Moretti]] através de um ritual de mediunidade com adivinhação em sonho sobre o espírito de Sirius.
 
+## Ingredientes da Poção
 
+- **Principais:** 1 [[Cristal do Chifre Único de Cabra da Montanha Cinza Hornacis Amadurecida]], 1 [[Talo Completo de Rosa com Rosto Humano|talo completo de uma Rosa com Rosto Humano]].
+- **Suplementares:** 80ml de água pura, 5 gotas de suco de maçã espinhosa, 7g de pó de girassol de borda preta, 10g de pó de capim dourado, 3 gotas de cicuta venenosa.
 
 ## Poderes Conhecidos
 

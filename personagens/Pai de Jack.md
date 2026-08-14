@@ -8,7 +8,7 @@ aliases:
 
 # Pai de Jack
 
-O pai de [[Jack]] é um homem de queixo esculpido e vestes pretas que atua como um [[Ouvinte]] da [[Ordem Aurora]]. Ele afirma ser um aventureiro.
+O pai de [[Jack]] é um homem de queixo esculpido e vestes pretas que atua como um [[Seq 8 - Ouvinte|Ouvinte]] da [[Ordem Aurora]]. Ele afirma ser um aventureiro.
 
 ## Evolução narrativa
 

@@ -5,7 +5,7 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 104 - Fazer o Morto Falar
+- **Último Capítulo Processado:** Capítulo 105 - Fórmula
 
 
 

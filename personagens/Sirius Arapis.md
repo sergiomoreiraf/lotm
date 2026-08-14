@@ -17,4 +17,7 @@ Retornou à [[Biblioteca de Deweyville]] para devolver os periódicos emprestado
 
 Teve suas cartas examinadas por [[Klein Moretti]] após falecer. Seus escritos direcionados ao [[Senhor Z|Sr. Z]] justificam a venda do [[Caderno da Família Antigonus]] por considerá-lo dotado de vida própria, atribuem a morte de [[Hanass Vincent]] a uma bênção divina para evitar captura e revelam a busca pelo tesouro da [[Família Antigonus]] na [[Cordilheira Hornacis]], prometendo sacrificar os habitantes de [[Cidade Tingen|Tingen]] no fim dos dias.
 
+Teve os vestígios de sua espiritualidade canalizados por [[Klein Moretti]] em um ritual mediúnico, revelando em sonho que memorizara a fórmula de [[Seq 8 - Palhaço|Palhaço]] e portava um pêndulo com a estatueta do Gigante Enforcado da [[Ordem Aurora]]. A manifestação de brilho vermelho no olho do gigante destruiu completamente o espírito remanescente de Sirius e deixou em seu cadáver uma verruga roxa escura contendo líquido brilhante.
+
+
 
