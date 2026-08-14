@@ -127,6 +127,10 @@ tags:
 - A identidade, localização e afiliação exata do [[Senhor Z|Sr. Z]], o destinatário das cartas de [[Sirius Arapis]] a quem se prometeu o sacrifício dos habitantes de [[Cidade Tingen|Tingen]].
 - A causa pela qual o único olho do Gigante Enforcado no pêndulo de [[Sirius Arapis]] emanou um brilho vermelho e desferiu um ataque espiritual contra [[Klein Moretti]] durante o ritual mediúnico.
 - O motivo do contraste entre o símbolo visto por [[Klein Moretti]] no pêndulo de [[Sirius Arapis]] (o Gigante Enforcado com um único olho da [[Ordem Aurora]]) e a visão no sonho de [[Hanass Vincent]] (uma enorme cruz com a figura crucificada).
+- A identidade do proprietário e do morador da casa com a chaminé vermelha escura vista nas adivinhações de [[Klein Moretti]], cuja busca foi encomendada ao [[Detetive Henry]].
+- A identidade do homem negociando no [[Bar do Dragão Maligno]] com os [[Alquimistas da Psicologia]], cuja investigação foi encomendada ao [[Detetive Henry]].
+- A identidade do herético da [[Ordem Aurora]] infiltrado no departamento de polícia da [[Cidade Tingen]].
+
 
 
 

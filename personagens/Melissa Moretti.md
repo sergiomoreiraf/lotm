@@ -49,5 +49,8 @@ Observa o comportamento de [[Klein Moretti]] no retorno da festa e o questiona e
 
 Note as dores musculares de [[Klein Moretti]] provocadas pelo treinamento de combate e questiona a razão de um professor realizar esforço físico, ouvindo a explicação de que a persuasão pode exigir tanto argumentos educados quanto princípios da física.
 
+Elogia a culinária de [[Klein Moretti]] em relação a restaurantes caros e incentiva [[Benson Moretti|Benson]] a estudar os livros de gramática e literatura de Klein.
+
+
 
 

@@ -19,5 +19,8 @@ Teve suas cartas examinadas por [[Klein Moretti]] após falecer. Seus escritos d
 
 Teve os vestígios de sua espiritualidade canalizados por [[Klein Moretti]] em um ritual mediúnico, revelando em sonho que memorizara a fórmula de [[Seq 8 - Palhaço|Palhaço]] e portava um pêndulo com a estatueta do Gigante Enforcado da [[Ordem Aurora]]. A manifestação de brilho vermelho no olho do gigante destruiu completamente o espírito remanescente de Sirius e deixou em seu cadáver uma verruga roxa escura contendo líquido brilhante.
 
+Teve seu esconderijo secreto localizado pelos [[Falcões Noturnos]] com o auxílio do [[Velho Neil]], confirmando sua filiação como [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] da [[Ordem Aurora]] e a posse de itens e livros contendo três fórmulas de poções.
+
+
 
 

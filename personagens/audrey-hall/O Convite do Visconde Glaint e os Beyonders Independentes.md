@@ -10,3 +10,6 @@ tags:
 ## Evolução narrativa
 
 Encontra o [[Visconde Glaint]] no [[Clube Relva Coroada]], dissimula sua condição Beyonder e aceita o convite para uma reunião em sua residência após ser informada sobre a presença de um Beyonder não vinculado à família real. Planeja expandir sua rede de contatos no mundo místico para obter novos recursos de troca para o [[Clube de Tarô]].
+
+Comparece à mansão do [[Visconde Glaint]] e é informada por ele sobre a chegada de uma senhora Beyonder que também é autora.
+

@@ -16,7 +16,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 
 - **Rua Cruz de Ferro:** Uma das ruas da cidade, formada pelas ruas Esquerda, Direita, Superior e Inferior (chamada de Rua Intermediária por seus moradores). Abriga a [[Padaria Smyrin]] e o [[Apartamento da Família Moretti]]. Em seu cruzamento com a Rua Daffodil, localiza-se uma praça municipal que abrigava apresentações do circo itinerante e a tenda da [[Treinadora de Animais|Adivinha de Tarô]]. Também conhecida como Rua Iron Cross.
 - **Rua Daffodil:** Rua que se cruza com a Rua Cruz de Ferro. Abriga a [[Companhia de Melhoramento Imobiliário de Tingen]] e a [[Residência da Família Moretti]] no Nº 2.
-- **Rua Besik:** Rua da cidade onde se localiza o [[Hound Pub]].
+- **Rua Besik:** Rua da cidade onde se localizam o [[Hound Pub]] e a [[Companhia de Detetives Particulares de Henry]] (Nº 27).
 - **Rua Zouteland:** Rua da cidade onde se localizam a [[Companhia de Segurança Espinho Negro]] e o [[Clube de Tiro Zouteland|Campo de Tiro da Rua Zouteland]] no Nº 3.
 - **Rua Luar Vermelho (Rua Luar Carmesim):** Rua localizada logo atrás da Rua Zouteland, onde fica a [[Catedral de Santa Selena]].
 - **[[Burgo Indus Dourado]]:** Distrito residencial abastado da cidade sob jurisdição dos Falcões Noturnos, onde se localiza a [[Residência de Sir Deweyville]].

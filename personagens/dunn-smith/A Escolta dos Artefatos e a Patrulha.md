@@ -15,3 +15,6 @@ Notifica [[Klein Moretti]] sobre a aprovação de sua oficialização nos [[Falc
 
 Comparece com [[Leonard Mitchell]] e [[Kenley]] à [[Biblioteca de Deweyville]] após a eliminação de [[Sirius Arapis]], interrogando [[Klein Moretti]] sobre o confronto e a adivinhação mediúnica. Ouve o relato sobre a estatueta do Gigante Enforcado da [[Ordem Aurora]], elogia Klein por frustrar o esquema contra [[Cidade Tingen|Tingen]] e confirma que Beyonders do [[Caminho do Sem Sono]] ganham melhorias místicas suplementares a partir da Sequência 6.
 
+Lidera a reunião de rotina de quinta-feira dos [[Falcões Noturnos]], ouve o relatório de [[Kenley]] sobre o esconderijo de [[Sirius Arapis]], esclarece que a fórmula de [[Seq 8 - Palhaço|Palhaço]] necessita de validação da Catedral Sagrada e adverte [[Klein Moretti]] a conter o desejo de avanço rápido para evitar a perda de controle.
+
+

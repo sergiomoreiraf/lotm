@@ -37,4 +37,7 @@ Recebe um [[Amuletos Místicos|amuleto de prata]] de [[Klein Moretti]], veste se
 
 Comenta o comportamento de [[Klein Moretti]] no retorno do banquete, brinca sobre o jogo de cartas e a respeitabilidade da classe média e reclama do alto custo do aluguel da carruagem na volta para casa.
 
+Inspira-se no futuro cargo de consultor de história de [[Klein Moretti]] e decide dedicar uma hora e meia diária aos estudos de gramática e literatura clássica, jurando não se tornar um babuíno de cabelos cacheados.
+
+
 

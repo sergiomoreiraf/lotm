@@ -15,8 +15,11 @@ Uma de suas embarcações armada com canhões navega em direção à residência
 
 Possui membros associados aos caminhos de [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] (Sequência 9) e [[Seq 8 - Ouvinte|Ouvinte]] (Sequência 8). Seus integrantes acreditam que todos os seres humanos possuem qualidades divinas intrínsecas e que, ao superar provações contínuas, podem acumular divindade suficiente para tornarem-se anjos.
 
+Teve a confirmação de que [[Sirius Arapis]] atuava como um [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] da organização após a descoberta de seu esconderijo pelos [[Falcões Noturnos]], que também direcionaram buscas a um infiltrado herético no departamento de polícia.
+
 ## Estrutura e Hierarquia
 
 - [[Pai de Jack]] — Membro que atua como [[Seq 8 - Ouvinte|Ouvinte]].
-- [[Sirius Arapis]] — Membro associado (teorizado como [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] ou [[Seq 8 - Ouvinte|Ouvinte]]).
+- [[Sirius Arapis]] — Membro confirmado como [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] envolvido na venda do caderno Antigonus.
 - [[Hanass Vincent]] — Membro associado envolvido nos rituais de invocação do Verdadeiro Criador.
+

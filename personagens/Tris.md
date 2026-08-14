@@ -23,3 +23,6 @@ Tenta adquirir materiais adicionais no mercado subterrâneo do [[Bar do Dragão 
 
 Rompe o cerco conjunto de seis Beyonders dos [[Punidores Mandatários]], [[Mente Coletiva da Maquinaria]] e [[Falcões Noturnos]] no porto da [[Cidade Tingen|Tingen]] mesmo ferido, refugiando-se temporariamente na região da [[Rua Cruz de Ferro]] e [[Rua Daffodil]]. Desaparece sem deixar vestígios antes que as forças de segurança localizassem sua residência temporária, frustrando métodos de rastreamento místicos e adivinhações.
 
+Permanence com paradeiro desconhecido após os [[Falcões Noturnos]] não encontrarem nenhuma pista em [[Cidade Tingen|Tingen]], com [[Seeka Tron]] suspeitando que o Instigador tenha fugido da cidade.
+
+
