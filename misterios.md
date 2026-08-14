@@ -67,6 +67,8 @@ tags:
 - A identidade do adolescente loiro em trajes de [[Feysac|Império Feysac]] avistado por [[Klein Moretti]] ao espionar a estrela carmesim na [[Névoa Cinza]], e a natureza de sua oração proferida em um idioma ancestral semelhante ao [[Jotun]] ou dialeto do [[Antigo Feysac]].
 - A hipótese de Daly e Dunn sobre os caminhos de Sequência não-lineares, cujas habilidades aparentemente independentes em sequências baixas e médias se dissecam e combinam na [[Semideus|Sequência 4]].
 - As condições excepcionais e o processo de exames rigorosos que permitiram a [[Daly]] avançar de poção antes do prazo regulamentar de três anos mantido pelos [[Falcões Noturnos]].
+- Quais são os perigos e horrores ocultos por trás do [[Portão Chanis]] durante a noite que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos vindos do exterior?
+- Qual a poção de Sequência específica e quais materiais Beyonder [[Fors Wall]] possui e pretende negociar em troca do resgate de sua parceira?
 
 
 
@@ -121,7 +123,6 @@ tags:
 - A identidade e a natureza da existência maligna de aura verde escura que contaminou e corrompeu a alma de [[Selena Wood]] durante a prática de [[Adivinhação com Espelho Mágico]].
 - A extensão dos rituais clandestinos de adivinhação sombria praticados por [[Hanass Vincent]] no [[Clube de Adivinhação]] e a origem de seu conhecimento sobre o encantamento que evoca o [[O Criador|Verdadeiro Criador]].
 - A causa exata da morte súbita de [[Hanass Vincent]] durante o sono no momento em que [[Dunn Smith]] invadiu seus sonhos, e a relação direta com a visão da cruz gigantesca e do homem pregado de cabeça para baixo representativo do [[O Criador|Verdadeiro Criador]].
-- A identidade e as intenções do Beyonder independente conhecido pelo [[Visconde Glaint]] em [[Backlund]], que não pertence à família real.
 - A motivação da jovem de aparência doce vista por [[Klein Moretti]] no mercado subterrâneo examinando o *Livro das Bruxas* escrito em [[Hermes]].
 - A razão pela qual o sangue de [[Sirius Arapis]] tornou-se preto e seu corpo sofreu mutações físicas grotescas (verrugas, salivação pútrida e salto de mais de sete metros) durante o confronto com [[Klein Moretti]], evidenciando sua corrupção mística.
 - A identidade, localização e afiliação exata do [[Senhor Z|Sr. Z]], o destinatário das cartas de [[Sirius Arapis]] a quem se prometeu o sacrifício dos habitantes de [[Cidade Tingen|Tingen]].
@@ -130,10 +131,4 @@ tags:
 - A identidade do proprietário e do morador da casa com a chaminé vermelha escura vista nas adivinhações de [[Klein Moretti]], cuja busca foi encomendada ao [[Detetive Henry]].
 - A identidade do homem negociando no [[Bar do Dragão Maligno]] com os [[Alquimistas da Psicologia]], cuja investigação foi encomendada ao [[Detetive Henry]].
 - A identidade do herético da [[Ordem Aurora]] infiltrado no departamento de polícia da [[Cidade Tingen]].
-
-
-
-
-
-
-
+- Quem é a parceira presa de [[Fors Wall]] e qual o crime exato que ela cometeu ao empregar meios exagerados para convencer um bandido?

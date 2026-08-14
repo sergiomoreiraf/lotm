@@ -20,6 +20,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 - [[A Escolta do Artefato 2-049]] — Recebe os Falcões Noturnos de Backlund, reorganiza a escala do Portão Chanis e lidera a busca a Ray Bieber com o Artefato 2-049.
 - [[O Resgate do Caderno de Antigonus]] — Recupera o caderno da família Antigonus, autoriza reembolsos de missão e ordena a custódia dos artefatos atrás do Portão Chanis.
 - [[A Escolta dos Artefatos e a Patrulha]] — Confirma a partida dos artefatos selados para Backlund, relata investigações policiais e sai em patrulha.
+- [[A Advertência do Portão Chanis]] — Orienta Klein durante o plantão no Portão Chanis e adverte-o a jamais abri-lo por ruídos vindos do exterior.
 
 ## Eventos Arquivados
 

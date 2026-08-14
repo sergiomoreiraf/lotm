@@ -13,3 +13,4 @@ Encontra o [[Visconde Glaint]] no [[Clube Relva Coroada]], dissimula sua condiç
 
 Comparece à mansão do [[Visconde Glaint]] e é informada por ele sobre a chegada de uma senhora Beyonder que também é autora.
 
+Observa [[Fors Wall]] utilizando suas habilidades de [[Seq 9 - Espectador|Espectadora]], notando detalhes físicos, hábitos de escrita e fumar, além de sua força muscular incomum. No escritório de Glaint, presencia Fors atravessar a porta trancada em forma incorpórea e recebe sua proposta de negociar fórmulas de poções e materiais mágicos em troca do resgate de sua parceira presa.

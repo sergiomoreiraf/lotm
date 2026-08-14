@@ -27,7 +27,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Treinamento de Combate e o Jantar de Boas-Vindas]] — Treina combate com Gawain, pesquisa a Nação da Noite Eterna com Azik, confirma a interferência mística nas coincidências [[Acima da Névoa Cinza]] e valida a Sequência 8 Palhaço.
 - [[As Pistas de Palhaço e a Revelação de Hanass Vincent]] — Divina sobre a poção de Palhaço na Névoa Cinza, desenha o retrato do terceiro negociante, sintetiza as regras de atuação de Vidente, reabastece ingredientes no mercado subterrâneo, identifica Sirius Arapis na Biblioteca de Deweyville e elimina o Beyonder mutacionado no confronto.
 - [[A Origem do Caderno e a Mediunidade]] — Examina as cartas de Sirius Arapis, descobre a ligação da família Antigonus com o Caminho do Vidente, conduz o ritual mediúnico obtendo a fórmula de Palhaço, anuncia o cargo de consultor na polícia e contrata o Detetive Henry para investigar a chaminé vermelha.
-
+- [[A Guarda do Portão Chanis]] — Assume a guarda de sábado no Portão Chanis, recebe permissão para tomar café e ouve a séria advertência de Dunn Smith para nunca abrir o portão a partir de ruídos externos.
 
 ## Eventos Arquivados
 

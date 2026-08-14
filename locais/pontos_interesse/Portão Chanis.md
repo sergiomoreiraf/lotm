@@ -11,8 +11,10 @@ Uma instalação mística secreta e portão de ferro preto sob a catedral centra
 ## Eventos no Local
 
 - Palco da reunião onde [[Dunn Smith]] e [[Klein Moretti]] assinam o contrato de contratação civil de Klein.
+- Palco da escala de guarda de [[Klein Moretti]] no sábado, onde [[Dunn Smith]] ordena que o portão jamais seja aberto a partir de barulhos externos, devendo ser aberto apenas pelo lado de dentro.
 
 ## Proprietários e Frequentadores
 
 - [[Dunn Smith]] (guarda de turno)
+- [[Klein Moretti]] (guarda de turno)
 - [[Falcões Noturnos]]
