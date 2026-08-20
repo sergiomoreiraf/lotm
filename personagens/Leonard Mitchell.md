@@ -59,5 +59,9 @@ Guia [[Klein Moretti]] até a [[Residência de Gawain]] nos arredores do [[Burgo
 
 Acompanha [[Dunn Smith]] e [[Kenley]] à [[Biblioteca de Deweyville]] após a eliminação de [[Sirius Arapis]], brincando que o destino de [[Klein Moretti|Klein]] atrai Beyonders e forças do mal com mais frequência do que o habitual. Ouve com ironia a explicação embaraçosa de Klein por ter confrontado Sirius devido ao grito do bibliotecário.
 
+### A Anomalia do Portão Chanis
+
+Chega primeiro à sala da guarda com revólver em mãos e conduz o protocolo de verificação de sanidade recitando uma oração à [[Deusa da Noite Eterna]]. Deduz que a manifestação do [[Artefato Selado 3-0625]] foi incitada pelo [[Caderno da Família Antigonus]] e revela que as cinzas de [[Santa Selena]] estão enterradas atrás do [[Portão Chanis]].
+
 
 

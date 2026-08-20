@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 108 - O Boneco de Pano do Infortúnio
+- **Último Capítulo Processado:** Capítulo 109 - Capítulo 109
