@@ -30,6 +30,8 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
     - [[Nação da Noite Eterna]]
 - [[Continente Sul]]
   - [[Império Balam]]
+  - [[Vale da Paz]]
+
 
 ## Mares e Regiões Marítimas
 

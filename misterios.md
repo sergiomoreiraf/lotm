@@ -132,3 +132,5 @@ tags:
 - A identidade do homem negociando no [[Bar do Dragão Maligno]] com os [[Alquimistas da Psicologia]], cuja investigação foi encomendada ao [[Detetive Henry]].
 - A identidade do herético da [[Ordem Aurora]] infiltrado no departamento de polícia da [[Cidade Tingen]].
 - Quem é a parceira presa de [[Fors Wall]] e qual o crime exato que ela cometeu ao empregar meios exagerados para convencer um bandido?
+- A causa pela qual o [[Artefato Selado 3-0625]] (o [[Artefato Selado 3-0625|Boneco de Pano do Infortúnio]]), descrito como desprovido de vida própria e de desejo de escapar, demonstrou capacidade autônoma de mover-se, forçar a fenda do [[Portão Chanis]] e exibir um papel com o símbolo de um olho vertical, e a natureza da força disforme que o arrastou de volta para a escuridão.
+
