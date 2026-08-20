@@ -35,6 +35,7 @@ tags:
 - A razão pela qual adivinhações realizadas [[Acima da Névoa Cinza]] referente à permanência de [[Ray Bieber]] em Tingen e ao ritual de [[Selena Wood]] apresentaram imobilidade total do pêndulo, evidenciando o uso de contramedidas e bloqueios ativos pelo manipulador das coincidências.
 - O motivo de as adivinhações pelas pistas da poção de [[Seq 8 - Palhaço|Palhaço]] apontarem para o [[Caderno da Família Antigonus]], e se o manuscrito contém a fórmula diretamente ou atua como atrator místico para a [[Ordem Secreta]].
 - A extensão dos conhecimentos místicos de [[Hanass Vincent]] que lhe permitiram adquirir o [[Caderno da Família Antigonus]] antes de sua morte súbita.
+- Os mecanismos exatos de acesso e a localização precisa do tesouro oculto da [[Família Antigonus]] no pico da [[Cadeia de Montanhas Hornacis]], cuja chave foi confirmada por adivinhação como a ilustração do olho vertical do [[Artefato Selado 3-0625]].
 
 
 - A razão pela qual os antigos habitantes da [[Nação da Noite Eterna]] no pico de [[Cadeia de Montanhas Hornacis|Hornacis]] não utilizavam cemitérios e mantinham os mortos na cama por três dias, além da causa de seu desaparecimento repentino e simultâneo.
@@ -64,7 +65,7 @@ tags:
 - O motivo pelo qual a [[Ordem Secreta]] possui a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais, sabendo-se que a Ordem Secreta detém o controle dessa linha Beyonder.
 - O processo místico pelo qual a poção não absorvida de um Beyonder que sofre [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido na forma de matéria-prima extraordinária.
 - A verdade por trás da lenda de que o [[Sábio Oculto]], originalmente uma lei natural e conceito de numerologia espiritual, ganhou vida e transformou-se em uma divindade maligna, corrompendo a [[Ordem Ascética de Moisés]].
-- A identidade do adolescente loiro em trajes de [[Feysac|Império Feysac]] avistado por [[Klein Moretti]] ao espionar a estrela carmesim na [[Névoa Cinza]], e a natureza de sua oração proferida em um idioma ancestral semelhante ao [[Jotun]] ou dialeto do [[Antigo Feysac]].
+- A identidade do jovem em trajes escuros avistado por [[Klein Moretti]] ao espionar a estrela carmesim na [[Névoa Cinza]], e a natureza de sua oração proferida em [[Jotun]] implorando pela salvação de seus pais ("Rezo... Salve... Pai e Mãe").
 - A hipótese de Daly e Dunn sobre os caminhos de Sequência não-lineares, cujas habilidades aparentemente independentes em sequências baixas e médias se dissecam e combinam na [[Semideus|Sequência 4]].
 - As condições excepcionais e o processo de exames rigorosos que permitiram a [[Daly]] avançar de poção antes do prazo regulamentar de três anos mantido pelos [[Falcões Noturnos]].
 - Quais são os perigos e horrores ocultos por trás do [[Portão Chanis]] durante a noite que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos vindos do exterior?

@@ -27,6 +27,7 @@ Trata-se de um boneco de pano de brinquedo com o tamanho aproximado do braço de
 - Foi responsável por diversos casos de crises financeiras familiares graves registradas em [[Cidade Tingen|Tingen]], permanecendo guardado nas mesas de cabeceira de quartos infantis antes de ser recolhido pelos [[Falcões Noturnos]].
 - Durante o plantão noturno de [[Klein Moretti]], produziu batidas violentas por dentro do [[Portão Chanis]], forçou uma fenda nos portões de metal e desenrolou um papel contendo o símbolo místico de um olho vertical antes de ser arrastado de volta para a escuridão por uma força invisível.
 - Nos últimos quarenta anos não havia apresentado nenhuma característica de vida. Os [[Falcões Noturnos]] deduziram que sua tentativa atípica de manifestação foi incitada pela permanência temporária do [[Caderno da Família Antigonus]] no subsolo.
+- Teve a ilustração de olho vertical exibida em papel confirmada por adivinhação de [[Klein Moretti]] como a chave para o tesouro da [[Família Antigonus]]. Foi o único item afetado no porão do [[Portão Chanis]], tendo seu selo renovado após inspeção dos [[Falcões Noturnos]].
 
 ## Nível de Periculosidade
 
