@@ -15,6 +15,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
       - [[Cidade Tingen]]
         - [[Burgo Indus Dourado]]
     - [[Condado de Winter]]
+    - [[Condado de Sivellaus]]
     - [[Midseashire]]
       - [[Cidade Constant]]
     - [[Backlund]]

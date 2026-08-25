@@ -28,7 +28,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[As Pistas de Palhaço e a Revelação de Hanass Vincent]] — Divina sobre a poção de Palhaço na Névoa Cinza, desenha o retrato do terceiro negociante, sintetiza as regras de atuação de Vidente, reabastece ingredientes no mercado subterrâneo, identifica Sirius Arapis na Biblioteca de Deweyville e elimina o Beyonder mutacionado no confronto.
 - [[A Origem do Caderno e a Mediunidade]] — Examina as cartas de Sirius Arapis, descobre a ligação da família Antigonus com o Caminho do Vidente, conduz o ritual mediúnico obtendo a fórmula de Palhaço, anuncia o cargo de consultor na polícia e contrata o Detetive Henry para investigar a chaminé vermelha.
 - [[A Guarda do Portão Chanis]] — Assume a guarda no Portão Chanis, presencia a investida do Artefato 3-0625, recria o olho vertical da Família Antigonus via adivinhação e descobre a reclassificação do caderno para Grau 1.
-- [[O Passado de Azik e a Revelação Beyonder]] — Confronta o Sr. Azik às margens do Rio Khoy, descobre seus lapsos de memória e sonhos de vidas passadas, e ouve do professor a confirmação de que possui poderes Beyonder.
+- [[O Passado de Azik e a Revelação Beyonder]] — Confronta Azik sobre seu passado, conduz o Clube de Tarô, realiza adivinhações para Glacis e Christina no Clube de Adivinhação sobre a fraude de Lanevus e descobre a recompensa policial.
 
 ## Eventos Arquivados
 

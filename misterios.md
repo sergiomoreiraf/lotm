@@ -141,4 +141,7 @@ tags:
 - Qual a razão pela qual [[Klein Moretti]] sofreu uma influência mística oculta ao sair da [[Companhia de Segurança Espinho Negro]] que o fez esquecer de relatar a [[Dunn Smith]] a ilustração do olho vertical exibida pelo [[Artefato Selado 3-0625]], e se o boneco usou seu poder para mostrar a imagem especificamente a ele por ter sobrevivido ao contato com o [[Caderno da Família Antigonus]] e se tornado [[Seq 9 - Vidente|Vidente]]?
 - Se o recente azar de [[Selena Wood]] e a morte de seu professor de misticismo, [[Hanass Vincent]], possuem ligação direta com o fato de ela ter espiado e utilizado os encantamentos secretos do místico.
 - A causa pela qual o professor [[Azik]] recusa se juntar a organizações formais de Beyonders e teme a morte, preferindo manter uma vida pacífica enquanto busca compreender suas origens.
+- O paradeiro atual de [[Lanevus]] e das mais de dez mil libras roubadas de investidores em [[Cidade Tingen|Tingen]] sob a falsa alegação de uma siderúrgica no [[Condado de Sivellaus]] na [[Cadeia de Montanhas Hornacis]].
+- Se o vínculo biológico de uma pessoa (como a filha de [[Lanevus]]) pode ser utilizado como meio ou objeto pertencente em adivinhações para localizar o paradeiro de um parente fugitivo.
+
 
