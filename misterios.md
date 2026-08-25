@@ -86,6 +86,7 @@ tags:
 - Os detalhes e objetivos da [[Ordem Ascética de Moisés]] ao fornecer uma sequência incompleta à Igreja, e o papel de [[Zaratul]] na disseminação do [[Método de Atuação|método de atuação]] para Roselle.
 - A verdadeira razão por trás do nome da [[Ardósia da Blasfêmia]], incluindo quem foi a entidade blasfemada e quem a criou.
 - A natureza do perigoso Artefato Selado pertencente à [[Família Antigonus]] retido pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] que [[Zaratul]] desejava roubar com auxílio de Roselle.
+- A razão pela qual não existe [[Petróleo Bruto]] a ser encontrado neste mundo, descoberta que causou grande confusão e preocupação ao Imperador [[Roselle Gustav]].
 
 
 ## Entidades, Personagens e Artefatos
@@ -137,4 +138,5 @@ tags:
 - A causa pela qual o [[Artefato Selado 3-0625]] (o [[Artefato Selado 3-0625|Boneco de Pano do Infortúnio]]), descrito como desprovido de vida própria, forçou a fenda do [[Portão Chanis]] e exibiu um papel com o símbolo de um olho vertical — deduzido pelos [[Falcões Noturnos]] como tendo sido incitado pela permanência recente do [[Caderno da Família Antigonus]] no subsolo, sendo arrastado de volta pelas formações de núcleo alimentadas pelas orações dos fiéis e pelas cinzas de [[Santa Selena]].
 - Qual a razão pela qual [[Klein Moretti]] sofreu uma influência mística oculta ao sair da [[Companhia de Segurança Espinho Negro]] que o fez esquecer de relatar a [[Dunn Smith]] a ilustração do olho vertical exibida pelo [[Artefato Selado 3-0625]], e se o boneco usou seu poder para mostrar a imagem especificamente a ele por ter sobrevivido ao contato com o [[Caderno da Família Antigonus]] e se tornado [[Seq 9 - Vidente|Vidente]]?
 - Se o recente azar de [[Selena Wood]] e a morte de seu professor de misticismo, [[Hanass Vincent]], possuem ligação direta com o fato de ela ter espiado e utilizado os encantamentos secretos do místico.
+- A causa pela qual o professor [[Azik]] recusa se juntar a organizações formais de Beyonders e teme a morte, preferindo manter uma vida pacífica enquanto busca compreender suas origens.
 

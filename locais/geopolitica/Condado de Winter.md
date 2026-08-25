@@ -11,3 +11,5 @@ Um condado localizado na região norte do [[Reino Loen]], pertencente ao [[Conti
 ## Evolução narrativa
 
 Mencionado como a localização da Catedral da Serenidade, a sede central da Igreja da Deusa da Noite Eterna.
+
+Citado pelo professor [[Azik]] como seu destino preferido para férias de verão no norte do [[Feysac|Império Feysac]], atraído pelo clima frio propício para esqui e caça de focas.

@@ -28,3 +28,5 @@ Observa [[Audrey Hall]] silenciosamente a partir do canto sombreado da sacada no
 ### Aprendizado de Fala
 
 Tenta praticar a articulação vocal atrás dos arbustos do jardim no Burgo Imperatriz em [[Backlund]] e é flagrada por [[Audrey Hall]], admitindo em palavras humanas e de forma tímida que aprendeu a falar apesar de ser uma cadela.
+
+É objeto de consulta de [[Audrey Hall]] durante a reunião do [[Clube de Tarô]], onde é decidido que será treinada em dicção e vocabulário para atuar como assistente e espiã discreta em reuniões aristocráticas e políticas.

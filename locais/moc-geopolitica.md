@@ -21,6 +21,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
     - [[Porto Pritz]]
       - [[Burgo Rosa Branca]]
     - [[Porto de Enmat]]
+    - [[Baía de Desi]]
   - [[Império Intis]]
   - [[Feysac]]
   - [[Feynapotter]]

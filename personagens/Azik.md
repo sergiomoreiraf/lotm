@@ -30,3 +30,5 @@ Tem suas intenções benevolentes e sua condição de Beyonder de alto nível co
 Revela a [[Klein Moretti]] às margens do [[Rio Khoy]] ter perdido a memória antes de ingressar no departamento de história da [[Universidade de Backlund]], lembrando apenas do nome e de seus documentos.
 
 Relata sonhar constantemente com cenários contraditórios — incluindo um mausoléu com cadáveres de penas brancas, um cavaleiro em combate, um senhor feudal com família, um vagabundo com fome, uma filha de cabelos pretos e uma forca —, associando suas visões à doutrina de reencarnação da [[Igreja da Mãe Terra]] e identificando que Klein possui poderes extraordinários semelhantes aos seus.
+
+Confessa a [[Klein Moretti]] seu temor da morte e a angústia pela ausência de memórias, justificando sua opção por manter uma vida pacífica em vez de ingressar em organizações formais Beyonder. Pede que Klein atente para eventuais pistas sobre seu passado e revela preferir passar férias no [[Condado de Winter]], no norte do [[Feysac|Império Feysac]], a frequentar a [[Baía de Desi]]. Almoça com Klein e o [[Quentin Cohen|Professor Cohen]] no [[Restaurante Balam do Leste]].
