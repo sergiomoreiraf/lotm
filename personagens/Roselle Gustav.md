@@ -27,3 +27,5 @@ Selecionou a classe inicial de [[Erudito]] fornecida pela [[Igreja do Deus do Va
 Em novas páginas apresentadas no [[Clube de Tarô]], questiona a denominação da [[Ardósia da Blasfêmia]], registra que a [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] possui o menor número e os menos perigosos Artefatos Selados, descobre que [[Zaratul]] é líder da [[Ordem Secreta]] no [[Caminho do Vidente]] e aprende com ele sobre o prazo de digestão de meio ano a um mês via [[Método de Atuação]].
 
 Teve uma frase célebre citada por [[Azik]], afirmando que uma ou duas coincidências são normais, mas três exigem considerar quais fatores internos estão influenciando os acontecimentos.
+
+Registrou em seu diário a preocupação com a ausência de [[Petróleo Bruto]], o planejamento da "Campanha Patriótica de Saúde" para higienização e saneamento no [[Burgo Richeux]], a antecipação de produtos de borracha graças às seringueiras, e a intenção de juntar-se a uma organização antiga e misteriosa do mundo das sombras como rota de escape da [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]].

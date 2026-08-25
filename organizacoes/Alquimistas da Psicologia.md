@@ -18,3 +18,5 @@ Descritos por [[Alger Wilson|O Enforcado]] como uma organização cujos membros 
 
 São associados por [[Audrey Hall]] à profissão de psiquiatra como um possível meio de atuação para os Beyonders do [[Caminho do Espectador]].
 
+Tiveram a autorização formal de [[Klein Moretti|O Tolo]] concedida a [[Audrey Hall|Justiça]] para que ela busque ingressar em seus quadros caso surja a oportunidade, com a exigência estrita de manter o sigilo absoluto do [[Clube de Tarô]].
+

@@ -13,6 +13,8 @@ Os [[Falcões Noturnos]] suspeitam que a organização esteja por trás das aç�
 
 Os [[Falcões Noturnos]] de [[Cidade Tingen|Tingen]] e a Mente Coletiva da Maquinaria confirmam o envolvimento de [[Tris]], suspeito de ser um membro da organização, no massacre do navio Alfalfa. É emitido um mandado de prisão interno contra ele após ser detectado que ele entrou em [[Cidade Tingen|Tingen]] vindo de [[Porto de Enmat]].
 
+É confirmada por [[Alger Wilson|O Enforcado]] no [[Clube de Tarô]] como detentora oficial da fórmula de poção da [[Seq 9 - Aprendiz|Sequência 9 Aprendiz]], mantendo também vínculos históricos com a [[Seita Demoníaca]].
+
 ## Funcionamento e Regras
 
 - **Filosofia:** Acreditam que a espiritualidade deve ser usada para adquirir conhecimento, libertar a mente da matéria e alcançar a redenção eterna através das provações das estrelas.

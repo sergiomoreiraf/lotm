@@ -56,7 +56,8 @@ tags:
 - A natureza e a causa das agitações invisíveis e da sensação de estar sendo observado por múltiplos pares de olhos quando [[Klein Moretti]] entra em estado de cogitação ou ativa a [[Visão Espiritual]].
 - A origem, natureza e riscos da técnica de adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
 - A verdadeira motivação e afiliação de [[Lawson Darkwade]], o boticário de Tingen que forneceu um remédio de [[Lenburg]] para curar a pneumonia de [[Glacis]].
-- A localização e a natureza da residência sagrada do [[O Criador|Criador]] citada por um [[Ouvinte]] da [[Ordem Aurora]].
+- A localização e a natureza da residência sagrada do [[O Criador|Criador]] citada pela [[Ordem Aurora]], e se ela corresponde à lendária [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
+- Se o Rei do [[Reino Loen]] pretende se vingar do [[Feysac|Império Feysac]] e deflagrar uma nova guerra na costa leste de [[Império Balam|Balam]] até meados do próximo ano.
 - A causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que 'estavam mentindo' ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
 - Os limites do controle de [[Klein Moretti]] sobre a [[Névoa Cinza]], sendo capaz de responder preces e transmitir mensagens para [[Audrey Hall]] e [[Alger Wilson]], mas incapaz de utilizar diretamente os poderes do espaço para conceder feitiços ou manipular o mundo físico.
 - O significado e a origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) que surgem nas costas das cadeiras do [[Clube de Tarô]] à medida que os membros sobem de nível ou ativam suas habilidades Beyonder.
@@ -87,6 +88,7 @@ tags:
 - A verdadeira razão por trás do nome da [[Ardósia da Blasfêmia]], incluindo quem foi a entidade blasfemada e quem a criou.
 - A natureza do perigoso Artefato Selado pertencente à [[Família Antigonus]] retido pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] que [[Zaratul]] desejava roubar com auxílio de Roselle.
 - A razão pela qual não existe [[Petróleo Bruto]] a ser encontrado neste mundo, descoberta que causou grande confusão e preocupação ao Imperador [[Roselle Gustav]].
+- Qual era o nome da antiga e misteriosa organização que influencia o mundo das sombras em que o Imperador [[Roselle Gustav]] cogitou ingressar em seu diário em 23 de dezembro?
 
 
 ## Entidades, Personagens e Artefatos

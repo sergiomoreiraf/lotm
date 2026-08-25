@@ -23,4 +23,5 @@ A divindade primordial do [[Mito da Criação]], do qual toda a existência e as
 
 - É especulado por [[Alger Wilson|O Enforcado]] como uma das possíveis identidades secretas ou formas antigas de [[Klein Moretti|O Tolo]].
 - [[Klein Moretti|O Tolo]] afirma no [[Clube de Tarô]] que prefere denominar a entidade venerada pelas seitas secretas como Criador Caído em vez de Verdadeiro Criador.
+- [[Alger Wilson|O Enforcado]] questiona no [[Clube de Tarô]] se a Residência Sagrada defendida pela [[Ordem Aurora]] corresponde à [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
 

@@ -17,6 +17,8 @@ Possui membros associados aos caminhos de [[Seq 9 - Suplicante de Segredos|Supli
 
 Teve a confirmação de que [[Sirius Arapis]] atuava como um [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] da organização após a descoberta de seu esconderijo pelos [[Falcões Noturnos]], que também direcionaram buscas a um infiltrado herético no departamento de polícia.
 
+Teve a localização de sua Residência Sagrada do [[O Criador|Verdadeiro Criador]] questionada por [[Alger Wilson|O Enforcado]] no [[Clube de Tarô]] quanto a uma possível correspondência com a [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
+
 ## Estrutura e Hierarquia
 
 - [[Pai de Jack]] — Membro que atua como [[Seq 8 - Ouvinte|Ouvinte]].
