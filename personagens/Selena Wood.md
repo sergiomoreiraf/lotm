@@ -25,3 +25,5 @@ Acorda sem memórias da corrupção mística, acreditando ter desmaiado ao quebr
 
 Teve a adivinhação referente ao incidente do espelho mágico confirmada por [[Klein Moretti]], [[Acima da Névoa Cinza]], como alvo de interferências e bloqueios místicos atípicos.
 
+Abandona o seminário de orçamento com Melissa e Elizabeth por conta dos discursos do [[Senhor das Tempestades]]. Aflita com sentimentos de culpa e azar pela morte de seu professor [[Hanass Vincent]], visita o [[Clube de Adivinhação]] na Rua Howes, onde nota o nome de [[Klein Moretti]] na lista de membros e brinca sobre as manchetes da [[Imprensa Intis]].
+

@@ -23,6 +23,8 @@ Morre subitamente em seu sono enquanto [[Dunn Smith]] tenta invadir seus sonhos 
 
 Revelado através da adivinhação onírica de [[Klein Moretti]] [[Acima da Névoa Cinza]] como o negociante que vendeu o [[Caderno da Família Antigonus]] a [[Welch McGovern]] na presença de um [[Homem de Meio Século com Sobrancelhas Bagunçadas|ancião de meio século]].
 
+Teve sua morte lembrada por sua aluna [[Selena Wood]], que passou a suspeitar de uma ligação entre o falecimento dele e o fato de ela ter usado os encantamentos secretos espiados de suas anotações.
+
 
 
 

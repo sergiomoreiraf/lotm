@@ -19,4 +19,6 @@ Sob o pretexto de uma surpresa, conduz [[Selena Wood]] até o quarto, bate na po
 
 Ouve as revelações de [[Selena Wood]] após ela acordar do desmaio, obtém o encantamento em [[Hermes]] que evoca o [[O Criador|Verdadeiro Criador]] e o transmite a [[Klein Moretti]], prometendo guardar segredo sobre o interesse dele por misticismo.
 
+Acompanha [[Melissa Moretti]] e [[Selena Wood]] ao seminário de orçamento doméstico, retirando-se com as amigas ao ouvirem discursos dogmáticos. Visita a [[Loja de Departamentos Harrods]] e o [[Clube de Adivinhação]] com Selena, confirmando a presença de [[Klein Moretti]] entre os membros cadastrados do clube.
+
 

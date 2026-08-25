@@ -51,6 +51,8 @@ Note as dores musculares de [[Klein Moretti]] provocadas pelo treinamento de com
 
 Elogia a culinária de [[Klein Moretti]] em relação a restaurantes caros e incentiva [[Benson Moretti|Benson]] a estudar os livros de gramática e literatura de Klein.
 
+Frequenta um seminário de gestão financeira doméstica promovido pela [[Sra. Shaud]], mas abandona a palestra com [[Selena Wood]] e [[Elizabeth]] ao rejeitar a doutrina misógina do [[Senhor das Tempestades]] pregada por [[Xaviera Hedda]], reafirmando sua preferência pelos estudos mecânicos e pela prudência financeira.
+
 
 
 
