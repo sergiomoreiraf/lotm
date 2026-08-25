@@ -133,7 +133,6 @@ tags:
 - A causa pela qual o único olho do Gigante Enforcado no pêndulo de [[Sirius Arapis]] emanou um brilho vermelho e desferiu um ataque espiritual contra [[Klein Moretti]] durante o ritual mediúnico.
 - O motivo do contraste entre o símbolo visto por [[Klein Moretti]] no pêndulo de [[Sirius Arapis]] (o Gigante Enforcado com um único olho da [[Ordem Aurora]]) e a visão no sonho de [[Hanass Vincent]] (uma enorme cruz com a figura crucificada).
 - A identidade do proprietário e do morador da casa com a chaminé vermelha escura vista nas adivinhações de [[Klein Moretti]], cuja busca foi encomendada ao [[Detetive Henry]].
-- A identidade do homem negociando no [[Bar do Dragão Maligno]] com os [[Alquimistas da Psicologia]], cuja investigação foi encomendada ao [[Detetive Henry]].
 - A identidade do herético da [[Ordem Aurora]] infiltrado no departamento de polícia da [[Cidade Tingen]].
 - A causa pela qual o professor [[Azik]] perdeu a maior parte de suas memórias antes de ingressar na [[Universidade de Backlund]] e a origem de seus sonhos vívidos com supostas vidas passadas (incluindo mausoléus com cadáveres de penas brancas, cavaleiros em combate, senhores feudais e enforcados).
 - A natureza da habilidade espiritual inata do professor [[Azik]] que lhe permite enxergar a desarmonia no destino alheio e perceber a presença de poderes extraordinários em [[Klein Moretti]].
@@ -143,5 +142,6 @@ tags:
 - A causa pela qual o professor [[Azik]] recusa se juntar a organizações formais de Beyonders e teme a morte, preferindo manter uma vida pacífica enquanto busca compreender suas origens.
 - O paradeiro atual de [[Lanevus]] e das mais de dez mil libras roubadas de investidores em [[Cidade Tingen|Tingen]] sob a falsa alegação de uma siderúrgica no [[Condado de Sivellaus]] na [[Cadeia de Montanhas Hornacis]].
 - Se o vínculo biológico de uma pessoa (como a filha de [[Lanevus]]) pode ser utilizado como meio ou objeto pertencente em adivinhações para localizar o paradeiro de um parente fugitivo.
+- A causa e origem da anomalia mística na gravidez de [[Megose]], cujo feto ainda não nascido supostamente chuta, cantarola, assobia e canta para ajudá-la a dormir, levantando suspeitas de uma perturbação sobrenatural ou influência maligna.
 
 

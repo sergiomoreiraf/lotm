@@ -14,3 +14,5 @@ Oferece café e chá a [[Klein Moretti]] no plantão de sábado e adverte-o rigo
 Recebe o relatório de [[Klein Moretti]] pela manhã sobre o incidente com o [[Artefato Selado 3-0625]] no [[Portão Chanis]] e decide enviar um telégrafo imediato à Santa Catedral para relatar a anomalia.
 
 Informa a [[Klein Moretti]] que a Santa Catedral reclassificou o [[Caderno da Família Antigonus]] como [[Artefato Selado]] de Grau 1, restringindo o acesso a bispos e capitães, e confirma que o [[Artefato Selado 3-0625]] teve seu selo renovado após verificação no porão.
+
+Envia [[Seeka Tron]] e [[Frye]] para investigar um incidente paranormal no Burgo Oeste e reitera a [[Klein Moretti]] que ele permanecerá focado em aulas de misticismo e combate até dominar as técnicas de defesa.
