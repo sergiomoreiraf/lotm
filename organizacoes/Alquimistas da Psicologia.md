@@ -16,3 +16,5 @@ São buscados por [[Audrey Hall|Justiça]] para aproximação futura. [[Klein Mo
 
 Descritos por [[Alger Wilson|O Enforcado]] como uma organização cujos membros acreditam em uma existência não antropomórfica e no princípio de que o espírito humano é capaz de alterar a realidade.
 
+São associados por [[Audrey Hall]] à profissão de psiquiatra como um possível meio de atuação para os Beyonders do [[Caminho do Espectador]].
+

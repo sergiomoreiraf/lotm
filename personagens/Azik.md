@@ -11,6 +11,8 @@ Um professor ou associado do Departamento de História da [[Universidade Khoy]],
 
 ## Evolução narrativa
 
+### Atividades na Universidade Khoy
+
 Ensina linguística e história a [[Klein Moretti]]. Expõe a teoria de que o idioma comum do [[Império Balam]] derivou do [[Antigo Feysac]], que por sua vez é um ramo do [[Jotun]].
 
 Debate com o [[Quentin Cohen|Professor Cohen]] argumentando que o surgimento da Era do Vapor foi uma coincidência histórica impulsionada pelo Imperador [[Roselle Gustav]], rejeitando a tese de inevitabilidade histórica.
@@ -23,3 +25,8 @@ Aguarda [[Klein Moretti]] no escritório do professor [[Quentin Cohen|Cohen]] na
 
 Tem suas intenções benevolentes e sua condição de Beyonder de alto nível confirmadas por [[Klein Moretti]] em adivinhação [[Acima da Névoa Cinza]].
 
+### Lapsos de Memória e Sonhos de Vidas Passadas
+
+Revela a [[Klein Moretti]] às margens do [[Rio Khoy]] ter perdido a memória antes de ingressar no departamento de história da [[Universidade de Backlund]], lembrando apenas do nome e de seus documentos.
+
+Relata sonhar constantemente com cenários contraditórios — incluindo um mausoléu com cadáveres de penas brancas, um cavaleiro em combate, um senhor feudal com família, um vagabundo com fome, uma filha de cabelos pretos e uma forca —, associando suas visões à doutrina de reencarnação da [[Igreja da Mãe Terra]] e identificando que Klein possui poderes extraordinários semelhantes aos seus.

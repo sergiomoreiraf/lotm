@@ -24,3 +24,7 @@ Observa [[Audrey Hall]] silenciosamente a partir do canto sombreado da sacada no
 ### Cumplicidade Beyonder
 
 É abordada por [[Audrey Hall]], que a reconhece oficialmente como uma companheira Beyonder e pede sua colaboração para guardar a porta de seu quarto enquanto realiza um ritual místico, ao que reage balançando o rabo com aparente exasperação.
+
+### Aprendizado de Fala
+
+Tenta praticar a articulação vocal atrás dos arbustos do jardim no Burgo Imperatriz em [[Backlund]] e é flagrada por [[Audrey Hall]], admitindo em palavras humanas e de forma tímida que aprendeu a falar apesar de ser uma cadela.
