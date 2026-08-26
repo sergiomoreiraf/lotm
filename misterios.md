@@ -143,5 +143,8 @@ tags:
 - O paradeiro atual de [[Lanevus]] e das mais de dez mil libras roubadas de investidores em [[Cidade Tingen|Tingen]] sob a falsa alegação de uma siderúrgica no [[Condado de Sivellaus]] na [[Cadeia de Montanhas Hornacis]].
 - Se o vínculo biológico de uma pessoa (como a filha de [[Lanevus]]) pode ser utilizado como meio ou objeto pertencente em adivinhações para localizar o paradeiro de um parente fugitivo.
 - A causa e origem da anomalia mística na gravidez de [[Megose]], cujo feto ainda não nascido supostamente chuta, cantarola, assobia e canta para ajudá-la a dormir, levantando suspeitas de uma perturbação sobrenatural ou influência maligna.
+- A maneira pela qual o paciente [[Hood Eugen]] no [[Asilo Mental de Greenhill]] foi capaz de analisar o médico [[Daxter Guderian]] e recrutá-lo para os [[Alquimistas da Psicologia]].
+- A extensão das atividades e a estrutura interna dos [[Alquimistas da Psicologia]] atuando infiltrados em instituições como o [[Asilo Mental de Greenhill]].
+
 
 

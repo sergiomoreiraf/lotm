@@ -16,3 +16,5 @@ Recebe o relatório de [[Klein Moretti]] pela manhã sobre o incidente com o [[A
 Informa a [[Klein Moretti]] que a Santa Catedral reclassificou o [[Caderno da Família Antigonus]] como [[Artefato Selado]] de Grau 1, restringindo o acesso a bispos e capitães, e confirma que o [[Artefato Selado 3-0625]] teve seu selo renovado após verificação no porão.
 
 Envia [[Seeka Tron]] e [[Frye]] para investigar um incidente paranormal no Burgo Oeste e reitera a [[Klein Moretti]] que ele permanecerá focado em aulas de misticismo e combate até dominar as técnicas de defesa.
+
+Aprova a proposta de [[Klein Moretti]] para converter [[Daxter Guderian]] em informante dos [[Falcões Noturnos]], instruindo-o a manter o sigilo perante os demais membros do esquadrão, assumindo a liderança exclusiva do contato e prometendo fornecer um item de identificação.

@@ -16,3 +16,5 @@ Memoriza o retrato falado de [[Lanevus]] nos jornais na [[Companhia de Seguranç
 Ouve de [[Dunn Smith]] que [[Seeka Tron]] e [[Frye]] foram enviados para investigar um incidente paranormal no Burgo Oeste, sendo informado pelo capitão de que permanecerá restrito às aulas de misticismo e aos treinos de combate até dominar as técnicas de defesa.
 
 Dirige-se à [[Companhia de Detetives Particulares de Henry]] na [[Rua Besik]], efetua o pagamento de quatro libras e recebe o relatório confirmando que o homem do [[Bar do Dragão Maligno]] é [[Daxter Guderian]], médico do [[Asilo Mental de Greenhill]].
+
+Confronta [[Daxter Guderian]] em seu escritório no [[Asilo Mental de Greenhill]], confirma sua filiação aos [[Alquimistas da Psicologia]] e obtém o nome de [[Hood Eugen]], selando um acordo de cooperação limitada como informante e reportando a operação a [[Dunn Smith]].
