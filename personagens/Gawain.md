@@ -12,3 +12,6 @@ Um ex-cavaleiro pertencente à extinta Ordem de Cavalaria dos Cavaleiros de Awwa
 ## Evolução narrativa
 
 Carrega trauma psicológico decorrente do confronto de sua ordem contra o armamento de vapor de alta pressão e metralhadoras da [[República Intis]] há mais de vinte anos. Estabelece um plano rigoroso de condicionamento físico para [[Klein Moretti]], exigindo exercícios de força quatro vezes por semana.
+
+Inicia o ensino de movimentação básica de pés e técnicas de aplicação de força para socos durante os treinos de combate com [[Klein Moretti]].
+

@@ -145,6 +145,9 @@ tags:
 - A causa e origem da anomalia mística na gravidez de [[Megose]], cujo feto ainda não nascido supostamente chuta, cantarola, assobia e canta para ajudá-la a dormir, levantando suspeitas de uma perturbação sobrenatural ou influência maligna.
 - A maneira pela qual o paciente [[Hood Eugen]] no [[Asilo Mental de Greenhill]] foi capaz de analisar o médico [[Daxter Guderian]] e recrutá-lo para os [[Alquimistas da Psicologia]].
 - A extensão das atividades e a estrutura interna dos [[Alquimistas da Psicologia]] atuando infiltrados em instituições como o [[Asilo Mental de Greenhill]].
+- A causa por trás do aumento repentino na taxa de mortalidade em [[Cidade Tingen]], que quintuplicou nas últimas duas semanas abrangendo mortes aparentemente comuns por incêndio, suicídio e doenças repentinas no [[Cidade Tingen|Burgo Oeste]], [[Cidade Tingen|Burgo Norte]] e na [[Cidade Tingen|Rua da Cruz de Ferro]], mobilizando os [[Falcões Noturnos]], os [[Punidores Mandatários]] e a [[Mente Coletiva da Maquinaria]] para investigações com adivinhação e magia ritualística.
+
+
 
 
 

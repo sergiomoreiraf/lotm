@@ -63,5 +63,10 @@ Acompanha [[Dunn Smith]] e [[Kenley]] à [[Biblioteca de Deweyville]] após a el
 
 Chega primeiro à sala da guarda com revólver em mãos e conduz o protocolo de verificação de sanidade recitando uma oração à [[Deusa da Noite Eterna]]. Deduz que a manifestação do [[Artefato Selado 3-0625]] foi incitada pelo [[Caderno da Família Antigonus]] e revela que as cinzas de [[Santa Selena]] estão enterradas atrás do [[Portão Chanis]].
 
+### Investigação da Mortalidade em Tingen
+
+Busca [[Klein Moretti]] de carruagem na [[Residência de Gawain]] e entrega o relatório de mortes anômalas da polícia, liderando a equipe com Klein e [[Frye]] para investigar incidentes na [[Cidade Tingen|Rua da Cruz de Ferro]].
+
+
 
 

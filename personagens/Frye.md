@@ -11,10 +11,19 @@ Um Beyonder dos [[Falcões Noturnos]] na [[Cidade Tingen]], pertencente à sequ�
 
 ## Evolução narrativa
 
+### Investigações de Katy e Ray Bieber
+
 Integra a expedição liderada por [[Dunn Smith]] ao apartamento oposto ao antigo cativeiro. No local, constata a ausência de espíritos malignos e identifica a presença de um corpo em decomposição logo após a porta ser arrombada.
 
 Auxilia [[Klein Moretti]] a recuperar-se da náusea oferecendo-lhe um frasco de essências aromáticas. Examina o cadáver de [[Katy Stefania Bieber|Katy Bieber]], constatando que a morte ocorreu há mais de cinco dias sem lesões externas ou marcas evidentes de forças Beyonder, e acompanha Dunn Smith em buscas por [[Ray Bieber]] nos bares da [[Cidade Tingen|Tingen]].
 
+### Exame do Palhaço e Necropsia
+
 Enquanto joga cartas Gwent na sala de entretenimento com [[Royale Reideen|Royale]], recebe ordens de [[Dunn Smith]] para dirigir-se ao porto e prestar auxílio a [[Leonard Mitchell]] na contenção e isolamento policial do local. De volta à sede, passa a dissecar o corpo do [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] na sala de necropsia do subsolo, demonstrando notável talento para o desenho ao fazer um retrato realista do falecido. Revela a [[Klein Moretti]] que sonhava em ser artista, mas tornou-se sacerdote da Deusa por desejo paterno e, posteriormente, converteu-se em Falcão Noturno e [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] por razões pessoais, tendo [[Daly]] como modelo de atuação.
 
 Retorna à sala de necropsia e observa a esfera flutuante de sangue azulado surgida do pulso do [[Intruso do Quarto de Klein|Palhaço]], notando que cadáveres Beyonder costumam passar por mutações estranhas. Orienta [[Klein Moretti]] a reportar a manifestação e as palavras murmuradas a [[Dunn Smith]], dispensando-o da sala antes de iniciar a autópsia detalhada com um bisturi de prata.
+
+### Investigação da Mortalidade em Tingen
+
+Aguardando na Rua Inferior da [[Cidade Tingen|Rua da Cruz de Ferro]], é designado para integrar a equipe de investigação de mortes anômalas ao lado de [[Leonard Mitchell]] e [[Klein Moretti]].
+

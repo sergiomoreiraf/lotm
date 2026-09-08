@@ -30,6 +30,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Guarda do Portão Chanis]] — Assume a guarda no Portão Chanis, presencia a investida do Artefato 3-0625, recria o olho vertical da Família Antigonus via adivinhação e descobre a reclassificação do caderno para Grau 1.
 - [[O Passado de Azik e a Revelação Beyonder]] — Confronta Azik sobre seu passado, conduz o Clube de Tarô, realiza adivinhações para Glacis e Christina no Clube de Adivinhação sobre a fraude de Lanevus e descobre a recompensa policial.
 - [[A Gravidez de Megose e o Médico de Greenhill]] — Atende Megose no Clube de Adivinhação notando comportamento delirante sobre seu feto, estuda a divisão de jurisdição dos Beyonders em Tingen via jornal e obtém do Detetive Henry a identidade de Daxter Guderian como o comprador de ingredientes de Espectador.
+- [[A Primeira Missão em Grupo e a Anomalia de Mortalidade]] — Avança na digestão da poção de Vidente, aprimora técnicas de combate com Gawain e é convocado para investigar a taxa anômala de mortalidade em Tingen com Leonard e Frye.
 
 ## Eventos Arquivados
 

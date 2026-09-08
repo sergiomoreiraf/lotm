@@ -14,3 +14,6 @@ Explica a [[Audrey Hall|Justiça]] que Beyonders capazes de atravessar portas de
 Negocia essas informações em troca de uma investigação junto à nobreza sobre as intenções do Rei de [[Reino Loen|Loen]] em deflagrar uma nova guerra na costa leste de [[Império Balam|Balam]].
 
 Questiona [[Klein Moretti|O Tolo]] se a Residência Sagrada do [[O Criador|Verdadeiro Criador]] defendida pela [[Ordem Aurora]] corresponde à lendária [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]], retratando-se prontamente ao ser advertido de que a resposta ultrapassa o que deveria saber no momento.
+
+Retorna a terra firme para lidar com assuntos locais e compromete-se a retomar a busca por páginas do diário de [[Roselle Gustav]] assim que dispuser de tempo livre.
+
