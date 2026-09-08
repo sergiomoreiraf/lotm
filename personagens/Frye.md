@@ -27,3 +27,5 @@ Retorna à sala de necropsia e observa a esfera flutuante de sangue azulado surg
 
 Aguardando na Rua Inferior da [[Cidade Tingen|Rua da Cruz de Ferro]], é designado para integrar a equipe de investigação de mortes anômalas ao lado de [[Leonard Mitchell]] e [[Klein Moretti]].
 
+Acompanha [[Leonard Mitchell]] e [[Klein Moretti]] ao apartamento da família Lauwis no prédio nº 134 da [[Rua Cruz de Ferro|Rua Inferior]] e examina o cadáver de [[Sra. Lauwis]], atestando fisicamente que a causa da morte foi um ataque cardíaco.
+

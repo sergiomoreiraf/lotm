@@ -12,3 +12,4 @@ Uma sequência Beyonder associada à [[Igreja da Deusa da Noite Eterna]]. É a S
 ## Poderes Conhecidos
 
 - **Invasão e Controle de Sonhos:** Habilidade de entrar em sonhos de outros indivíduos de forma oculta, guiar pensamentos e extrair informações dos alvos adormecidos.
+- **Entrelaçamento entre Sonho e Realidade:** Tende a sofrer de lapsos de memória e esquecimento involuntário devido à constante sobreposição entre sonhos e realidade, exigindo esforço contínuo para diferenciar o real do fictício.

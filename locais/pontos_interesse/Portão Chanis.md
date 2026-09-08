@@ -14,7 +14,7 @@ Suas formações místicas de núcleo são alimentadas pela espiritualidade prov
 
 Guarda também as cinzas e restos mortais de [[Santa Selena]], uma Beyonder de alta sequência da [[Terceira Época]], cujo poder residual atua para conter fugas de [[Artefatos Selados]].
 
-A área interna armazena fórmulas de poções, materiais mágicos, prisioneiros sobrenaturais e itens místicos.
+A área interna armazena fórmulas de poções, materiais mágicos, prisioneiros sobrenaturais, registros semestrais compilados pela Santa Catedral sobre eventos sobrenaturais de diversas dioceses e itens místicos.
 
 ## Eventos no Local
 

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 118 - Capítulo 118
+- **Último Capítulo Processado:** Capítulo 119 - Capítulo 119

@@ -67,6 +67,8 @@ Chega primeiro à sala da guarda com revólver em mãos e conduz o protocolo de 
 
 Busca [[Klein Moretti]] de carruagem na [[Residência de Gawain]] e entrega o relatório de mortes anômalas da polícia, liderando a equipe com Klein e [[Frye]] para investigar incidentes na [[Cidade Tingen|Rua da Cruz de Ferro]].
 
+Exibe o revólver sob a camisa para afastar transeuntes e ladrões na [[Rua Cruz de Ferro|Rua Inferior]] e orienta [[Klein Moretti]] a solicitar acesso aos registros semestrais da Santa Catedral no [[Portão Chanis]]. Revela também que a perda involuntária de memória é um sintoma característico de Beyonders da sequência [[Seq 7 - Pesadelo|Pesadelo]], devido à dificuldade constante de distinguir sonhos de realidade.
+
 
 
 
