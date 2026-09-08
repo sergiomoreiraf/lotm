@@ -31,6 +31,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Passado de Azik e a Revelação Beyonder]] — Confronta Azik sobre seu passado, conduz o Clube de Tarô, realiza adivinhações para Glacis e Christina no Clube de Adivinhação sobre a fraude de Lanevus e descobre a recompensa policial.
 - [[A Gravidez de Megose e o Médico de Greenhill]] — Atende Megose no Clube de Adivinhação notando comportamento delirante sobre seu feto, estuda a divisão de jurisdição dos Beyonders em Tingen via jornal e obtém do Detetive Henry a identidade de Daxter Guderian como o comprador de ingredientes de Espectador.
 - [[A Primeira Missão em Grupo e a Anomalia de Mortalidade]] — Avança na digestão da poção de Vidente, aprimora técnicas de combate com Gawain e é convocado para investigar a taxa anômala de mortalidade em Tingen com Leonard e Frye.
+- [[O Ritual Mediúnico e a Casa de Trabalho do Burgo Oeste]] — Realiza um ritual mediúnico e adivinhação por sonhos sobre a espiritualidade da Sra. Lauwis e investiga o suicídio de Salus na Casa de Trabalho do Burgo Oeste.
 
 ## Eventos Arquivados
 

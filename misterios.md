@@ -146,6 +146,8 @@ tags:
 - A maneira pela qual o paciente [[Hood Eugen]] no [[Asilo Mental de Greenhill]] foi capaz de analisar o médico [[Daxter Guderian]] e recrutá-lo para os [[Alquimistas da Psicologia]].
 - A extensão das atividades e a estrutura interna dos [[Alquimistas da Psicologia]] atuando infiltrados em instituições como o [[Asilo Mental de Greenhill]].
 - A causa por trás do aumento repentino na taxa de mortalidade em [[Cidade Tingen]] (que quintuplicou nas últimas duas semanas abrangendo mortes aparentemente comuns por incêndio, suicídio e doenças repentinas), confirmando-se através da adivinhação de [[Klein Moretti]] no caso da [[Sra. Lauwis]] que mortes aparentemente naturais por ataques cardíacos estão sendo ativamente influenciadas por fatores sobrenaturais.
+- A identidade da mulher de mão esguia que tocou as costas da [[Sra. Lauwis]] na única cena anômala vista por [[Klein Moretti]] em seu ritual mediúnico, apontada como possível vetor de entrada do fator sobrenatural que desencadeou seu ataque cardíaco.
+- Se o suicídio por fogo de [[Salus]] na [[Casa de Trabalho do Burgo Oeste]] foi instigado por um Beyonder que não tomou medidas sobrenaturais diretas (como o [[Seq 8 - Instigador|Instigador]] [[Tris]]) e se tal instigação guarda ligação com a morte da [[Sra. Lauwis]] e com o surto de mortalidade em [[Cidade Tingen]].
 
 
 

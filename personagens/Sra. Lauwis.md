@@ -12,3 +12,5 @@ Uma moradora da [[Rua Cruz de Ferro|Rua Inferior da Rua Cruz de Ferro]] na [[Cid
 ## Evolução narrativa
 
 Faleceu repentinamente em sua residência no prédio nº 134 da [[Rua Cruz de Ferro|Rua Inferior]]. Embora o exame físico de [[Frye]] tenha indicado ataque cardíaco, a adivinhação de [[Klein Moretti]] revelou a presença de fatores sobrenaturais envolvidos em sua morte.
+
+Revela-se, por meio do ritual mediúnico e da adivinhação por sonhos de [[Klein Moretti]], que sofria de doença cardíaca há muito tempo e que a única cena anômala de sua espiritualidade remanescente foi ter sido tocada nas costas por uma mão esguia, aparentemente de uma mulher, apontada como possível ponto de entrada do fator sobrenatural. O exame aprofundado de [[Frye]] confirmou a morte por doença cardíaca natural.

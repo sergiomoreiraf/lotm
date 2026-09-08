@@ -21,7 +21,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - **Rua Luar Vermelho (Rua Luar Carmesim):** Rua localizada logo atrás da Rua Zouteland, onde fica a [[Catedral de Santa Selena]].
 - **[[Burgo Indus Dourado]]:** Distrito residencial abastado da cidade sob jurisdição dos Falcões Noturnos, onde se localiza a [[Residência de Sir Deweyville]].
 - **Burgo Norte:** Distrito residencial ou subúrbio da cidade sob jurisdição dos Falcões Noturnos que abriga a Rua Howes, a Rua Fania, o [[Clube de Adivinhação]], a [[Residência do Velho Neil]] e a [[Residência de Gawain]].
-- **Burgo Oeste:** Distrito residencial da cidade sob jurisdição dos Falcões Noturnos.
+- **Burgo Oeste:** Distrito residencial da cidade sob jurisdição dos Falcões Noturnos. Abriga a [[Casa de Trabalho do Burgo Oeste]], um asilo público para pobres.
 - **Burgo Leste:** Distrito residencial da cidade sob jurisdição dos Punidores Mandatários. Abriga a Rua Stevens (Nº 8, residência de [[Anna]] e [[Joyce Meyer]]) e a Rua Vlad (Nº 18, [[Loja de Ervas Populares de Lawson]]).
 - **Burgo Sul:** Distrito residencial da cidade sob jurisdição dos Punidores Mandatários.
 - **Rua Howes:** Rua localizada no Burgo Norte onde se situam o [[Clube de Adivinhação]] e a residência do comerciante de tecidos [[Sirius Arapis]] (Nº 19).

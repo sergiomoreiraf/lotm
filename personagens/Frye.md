@@ -29,3 +29,5 @@ Aguardando na Rua Inferior da [[Cidade Tingen|Rua da Cruz de Ferro]], é designa
 
 Acompanha [[Leonard Mitchell]] e [[Klein Moretti]] ao apartamento da família Lauwis no prédio nº 134 da [[Rua Cruz de Ferro|Rua Inferior]] e examina o cadáver de [[Sra. Lauwis]], atestando fisicamente que a causa da morte foi um ataque cardíaco.
 
+Com sua faca de prata e outras ferramentas, realiza um exame mais aprofundado do cadáver da [[Sra. Lauwis]] após a adivinhação de [[Klein Moretti]], concluindo definitivamente que a morte foi causada por uma doença cardíaca natural. Em um gesto discreto de compaixão, deixa anonimamente dinheiro ao lado do corpo para que o viúvo [[Lauwis]] pudesse custear o sepultamento, e revela ter sido pastor em uma Casa de Trabalho da [[Deusa da Noite Eterna]]. Na [[Casa de Trabalho do Burgo Oeste]], explica a [[Klein Moretti]] e [[Leonard Mitchell]] o funcionamento das casas de trabalho sob a [[Lei dos Pobres de 1336]] e, diante do suicídio de [[Salus]], levanta a hipótese de instigação por um Beyonder que não tomou medidas sobrenaturais diretas.
+
