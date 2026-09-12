@@ -5,7 +5,7 @@ tags:
 
 # Sir Deweyville
 
-Um magnata, cavaleiro e grande filantropo do [[Reino Loen]], residente na [[Cidade Tingen]] e fiel da [[Igreja da Deusa da Noite Eterna|Deusa da Noite]]. Construiu sua fortuna a partir de fábricas de chumbo e porcelana, expandindo para aço, carvão, transportes e bancos, e almeja uma vaga no parlamento em [[Backlund]]. Fundou a [[Biblioteca de Deweyville]], o [[Deweyville Trust]] e a [[Fundação de Caridade Deweyville|Fundação de Caridade]].
+Um magnata, cavaleiro e grande filantropo do [[Reino Loen]], residente na [[Cidade Tingen]] e fiel da [[Igreja da Deusa da Noite Eterna|Deusa da Noite]]. Construiu sua fortuna a partir de fábricas de chumbo e porcelana, expandindo para aço, carvão, transportes e bancos, e almeja uma vaga no parlamento em [[Backlund]]. Fundou a [[Biblioteca de Deweyville]], o [[Deweyville Trust]] e a Fundação de Caridade Deweyville.
 
 ## Evolução narrativa
 

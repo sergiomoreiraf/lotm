@@ -7,7 +7,7 @@ aliases:
 
 # Senhor Z
 
-Um indivíduo em posição elevada dentro de uma organização ou seita herética, a quem [[Sirius Arapis]] enviava correspondências sigilosas buscando auxílio em troca de informações sobre o tesouro da [[Família Antigonus]] na [[Cordilheira Hornacis]].
+Um indivíduo em posição elevada dentro de uma organização ou seita herética, a quem [[Sirius Arapis]] enviava correspondências sigilosas buscando auxílio em troca de informações sobre o tesouro da [[Família Antigonus]] na [[Cadeia de Montanhas Hornacis]].
 
 ## Evolução narrativa
 

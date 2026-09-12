@@ -15,7 +15,7 @@ Colega de classe e amiga íntima de [[Melissa Moretti]] na [[Escola Técnica de 
 
 Seu irmão mais velho, [[Chris Wood]], trabalha como advogado e economiza há mais de quatro anos com a noiva para garantir uma vida estável antes de se casar.
 
-Prepara a celebração de seu aniversário de dezesseis anos, convidando a família Moretti para o banquete em sua residência no [[Burgo Norte]].
+Prepara a celebração de seu aniversário de dezesseis anos, convidando a família Moretti para o banquete em sua residência no Burgo Norte.
 
 Comemora seu aniversário de dezesseis anos usando o [[Amuletos Místicos|amuleto de prata]] presenteado por [[Elizabeth]], conduzindo um ritual de [[Adivinhação com Espelho Mágico]] no qual sua aura é invadida por uma força mística verde escura que gera uma imagem diabólica no espelho.
 
@@ -23,7 +23,7 @@ Comemora seu aniversário de dezesseis anos usando o [[Amuletos Místicos|amulet
 
 Acorda sem memórias da corrupção mística, acreditando ter desmaiado ao quebrar o espelho no tapete. Revela a [[Elizabeth]] que aprendeu o encantamento com [[Hanass Vincent]] e recita a fórmula que evoca o [[O Criador|Verdadeiro Criador]], prometendo não mais praticar rituais fora das divindades ortodoxas.
 
-Teve a adivinhação referente ao incidente do espelho mágico confirmada por [[Klein Moretti]], [[Acima da Névoa Cinza]], como alvo de interferências e bloqueios místicos atípicos.
+Teve a adivinhação referente ao incidente do espelho mágico confirmada por [[Klein Moretti]], Acima da Névoa Cinza, como alvo de interferências e bloqueios místicos atípicos.
 
 Abandona o seminário de orçamento com Melissa e Elizabeth por conta dos discursos do [[Senhor das Tempestades]]. Aflita com sentimentos de culpa e azar pela morte de seu professor [[Hanass Vincent]], visita o [[Clube de Adivinhação]] na Rua Howes, onde nota o nome de [[Klein Moretti]] na lista de membros e brinca sobre as manchetes da [[Imprensa Intis]].
 

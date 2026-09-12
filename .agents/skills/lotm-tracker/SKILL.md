@@ -319,10 +319,12 @@ Para cada entidade lida no lazy-read (EXISTENTES), realizar o merge mental:
 
 ##### 6.1.7 Mapeamento de Mistérios e Hipóteses
 
-O arquivo `misterios.md` deve ser considerado no processamento. A cada capítulo:
+O arquivo `misterios.md` deve ser considerado no processamento, mas **nunca lido por inteiro de forma indiscriminada**. A cada capítulo:
 
-1. **Adicionar** novas dúvidas, pistas intrigantes e quaisquer suspeitas ou hipóteses levantadas pelo protagonista (como analogias ou suspeitas de transmigração de outros personagens) na forma de perguntas ou descrições atômicas.
-2. **Verificar** se mistérios anteriores foram elucidados. Se resolvidos, a resposta deve ser integrada na nota da respectiva entidade e o item removido de `misterios.md`.
+1. **Consulta direcionada (obrigatória):** Para cada entidade com mudança de estado narrativo levantada em 6.1.4, realizar uma busca textual (grep) pelo nome exato da entidade em `misterios.md` e ler apenas os trechos retornados, sem abrir o arquivo completo.
+2. **Exceção — capítulos sistêmicos:** Ler `misterios.md` integralmente somente quando o capítulo tratar predominantemente de regras gerais do sistema de misticismo, eras ou eventos globais que não se ancoram em uma entidade única.
+3. **Adicionar** novas dúvidas, pistas intrigantes e quaisquer suspeitas ou hipóteses levantadas pelo protagonista (como analogias ou suspeitas de transmigração de outros personagens) na forma de perguntas ou descrições atômicas.
+4. **Verificar** se mistérios anteriores foram elucidados. Se resolvidos, a resposta deve ser integrada na nota da respectiva entidade e o item removido de `misterios.md`.
 
 ##### 6.1.8 Criar Buffer Temporário
 
