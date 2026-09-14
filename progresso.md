@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 121 - A Hipótese de Leonard
+- **Último Capítulo Processado:** Capítulo 122 - Edifício Alvo

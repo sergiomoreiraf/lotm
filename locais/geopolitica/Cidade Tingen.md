@@ -21,7 +21,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - **Rua Luar Vermelho (Rua Luar Carmesim):** Rua localizada logo atrás da Rua Zouteland, onde fica a [[Catedral de Santa Selena]].
 - **[[Burgo Indus Dourado]]:** Distrito residencial abastado da cidade sob jurisdição dos Falcões Noturnos, onde se localiza a [[Residência de Sir Deweyville]].
 - **Burgo Norte:** Distrito residencial ou subúrbio da cidade sob jurisdição dos Falcões Noturnos que abriga a Rua Howes, a Rua Fania, o [[Clube de Adivinhação]], a [[Residência do Velho Neil]] e a [[Residência de Gawain]].
-- **Burgo Oeste:** Distrito residencial da cidade sob jurisdição dos Falcões Noturnos. Abriga a [[Casa de Trabalho do Burgo Oeste]], um asilo público para pobres.
+- **Burgo Oeste:** Distrito residencial da cidade sob jurisdição dos Falcões Noturnos. Abriga a [[Casa de Trabalho do Burgo Oeste]], um asilo público para pobres, e o [[Edifício Alvo]] em sua área sudoeste, às margens do [[Rio Tussock]].
 - **Burgo Leste:** Distrito residencial da cidade sob jurisdição dos Punidores Mandatários. Abriga a Rua Stevens (Nº 8, residência de [[Anna]] e [[Joyce Meyer]]) e a Rua Vlad (Nº 18, [[Loja de Ervas Populares de Lawson]]).
 - **Burgo Sul:** Distrito residencial da cidade sob jurisdição dos Punidores Mandatários.
 - **Rua Howes:** Rua localizada no Burgo Norte onde se situam o [[Clube de Adivinhação]] e a residência do comerciante de tecidos [[Sirius Arapis]] (Nº 19).
@@ -39,5 +39,5 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - [[Asilo Mental de Greenhill]]: Instituição hospitalar psiquiátrica localizada na cidade onde atua o médico [[Daxter Guderian]].
 - [[Restaurante do Velho Will]]: Estabelecimento gastronômico da cidade onde a equipe da Companhia de Segurança Espinho Negro realiza comemorações.
 - **Armazém do Porto de Tingen:** Armazém branco-acinzentado na área interna do porto de Tingen sob jurisdição dos Punidores Mandatários, utilizado como esconderijo por [[Ray Bieber]] e local de confronto com a [[Ordem Secreta]].
-- **Rios de Tingen:** A cidade é cortada por diversos rios, que banham o Burgo Oeste, o Burgo Sul-Oeste, a área do porto e a área da universidade.
+- **Rios de Tingen:** A cidade é cortada pelo [[Rio Tussock]] e pelo [[Rio Khoy]], os dois únicos rios largos da região, que banham o Burgo Oeste, o Burgo Sul-Oeste, a área do porto e a área da universidade. O [[Rio Khoy]] nasce no norte da montanha de York, passa pelo distrito universitário no Burgo Leste e se funde localmente ao Tussock.
 

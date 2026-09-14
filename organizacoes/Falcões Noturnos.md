@@ -20,6 +20,8 @@ Aprende com [[Dunn Smith]] os detalhes do [[Mito da Criação]], o simbolismo da
 
 A equipe de Tingen formaliza a contratação de [[Klein Moretti]] como funcionário civil para auxiliar em traduções e pesquisas históricas.
 
+Localizam o provável [[Edifício Alvo]] no sudoeste do [[Burgo Oeste]] e iniciam a vigilância do prédio ao anoitecer com [[Dunn Smith]], [[Leonard Mitchell]] e [[Frye]], mantendo [[Klein Moretti]] a cinquenta metros de distância.
+
 ## Dinâmicas e Operações
 
 - **Controle de Membros:** O ingresso na organização acarreta a perda de liberdade pessoal significativa.

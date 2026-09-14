@@ -14,6 +14,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 ## Fases da Narrativa
 
 - [[A Advertência do Portão Chanis]] — Orienta Klein durante o plantão no Portão Chanis e relata a reclassificação do Caderno de Antigonus para Grau 1.
+- [[A Operação do Edifício Alvo]] — Lidera a operação contra o edifício-alvo no Burgo Oeste, mantendo Klein a cinquenta metros de distância.
 
 ## Eventos Arquivados
 

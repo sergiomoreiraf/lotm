@@ -14,6 +14,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
     - [[Condado de Awwa]]
       - [[Cidade Tingen]]
         - [[Burgo Indus Dourado]]
+        - [[Burgo Oeste]]
     - [[Condado de Winter]]
     - [[Condado de Sivellaus]]
     - [[Midseashire]]
@@ -44,3 +45,8 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
     - [[Cidade da Generosidade]]
 - [[Oceano Berserk]]
 - [[Mar da Névoa]]
+
+## Rios e Vias Fluviais
+
+- [[Rio Tussock]]
+  - [[Rio Khoy]]
