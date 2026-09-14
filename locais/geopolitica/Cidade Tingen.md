@@ -39,4 +39,5 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - [[Asilo Mental de Greenhill]]: Instituição hospitalar psiquiátrica localizada na cidade onde atua o médico [[Daxter Guderian]].
 - [[Restaurante do Velho Will]]: Estabelecimento gastronômico da cidade onde a equipe da Companhia de Segurança Espinho Negro realiza comemorações.
 - **Armazém do Porto de Tingen:** Armazém branco-acinzentado na área interna do porto de Tingen sob jurisdição dos Punidores Mandatários, utilizado como esconderijo por [[Ray Bieber]] e local de confronto com a [[Ordem Secreta]].
+- **Rios de Tingen:** A cidade é cortada por diversos rios, que banham o Burgo Oeste, o Burgo Sul-Oeste, a área do porto e a área da universidade.
 
