@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 122 - Edifício Alvo
+- **Último Capítulo Processado:** Capítulo 123 - Batalha de Beyonders

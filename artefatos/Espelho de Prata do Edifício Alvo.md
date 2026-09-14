@@ -15,6 +15,7 @@ Um espelho de prata de superfície grosseiramente polida, quase incapaz de refle
 ## Histórico e Aparições
 
 - Manifesta o jato de sangue diante de [[Trissy]] enquanto os [[Falcões Noturnos]] se aproximam do [[Edifício Alvo]].
+- A figura substituta de [[Trissy]] se despedaça em fragmentos de espelho de prata áspera sob os disparos de [[Leonard Mitchell]] e [[Frye]].
 
 ## Portadores Conhecidos
 

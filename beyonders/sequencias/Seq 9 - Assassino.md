@@ -3,6 +3,7 @@ tags:
   - caminho/sequencia
 aliases:
   - Assassino
+  - Assassina
 ---
 
 # Seq 9 - Assassino

@@ -33,3 +33,7 @@ Com sua faca de prata e outras ferramentas, realiza um exame mais aprofundado do
 
 Obtém na delegacia de polícia os pertences pessoais de [[Salus]] e da [[Sra. Lauwis]], viabilizando a adivinhação de [[Klein Moretti]] sobre a posição do altar. Identifica no [[Rio Tussock]] e no [[Rio Khoy]] os dois únicos rios largos capazes de corresponder à margem vista na adivinhação e participa da busca de carruagem que localiza o [[Edifício Alvo]] no sudoeste do [[Burgo Oeste]], aproximando-se do prédio ao anoitecer ao lado de [[Dunn Smith]] e [[Leonard Mitchell]].
 
+### A Batalha do Edifício Alvo
+
+Ao anoitecer, integra com [[Dunn Smith]] e [[Leonard Mitchell]] o cerco ao [[Edifício Alvo]] e usa sua capacidade de enxergar corpos espirituais para vigiar o gramado além da cerca de aço. Não ousa invadir o [[Altar de Sacrifício]], tem os calcanhares agarrados por uma figura invisível cuja frieza entorpeceria um Beyonder de Sequência 9 e a dissipa com uma bala prateada de caça-demônio disparada contra os próprios pés, recuperando os movimentos.
+

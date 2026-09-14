@@ -130,6 +130,9 @@ tags:
 - Causa do aumento repentino na taxa de mortalidade em [[Cidade Tingen]] (que quintuplicou nas últimas duas semanas, abrangendo mortes por incêndio, suicídio e doenças repentinas), confirmando-se por adivinhação que mortes aparentemente naturais por ataques cardíacos são ativamente influenciadas por fatores sobrenaturais.
 - Identidade da mulher de mão esguia que tocou as costas da [[Sra. Lauwis]] na única cena anômala vista por [[Klein Moretti]] em seu ritual mediúnico, apontada como possível vetor do fator sobrenatural que desencadeou seu ataque cardíaco.
 - Se o suicídio por fogo de [[Salus]] na [[Casa de Trabalho do Burgo Oeste]] foi instigado por um Beyonder que não tomou medidas sobrenaturais diretas (como o [[Seq 8 - Instigador|Instigador]] [[Tris]]) e se tal instigação guarda ligação com a morte da [[Sra. Lauwis]] e com o surto de mortalidade em [[Cidade Tingen]].
-- Identidade do responsável pelo roubo de forças vitais em [[Cidade Tingen]] que alimenta o [[Altar de Sacrifício]] empregado para invocar deuses ou demônios malignos ou conduzir uma maldição em grande escala.
-- Identidade de [[Trissy]] e natureza de seu vínculo com o [[Edifício Alvo]] e com o [[Altar de Sacrifício]] ali instalado.
+- Qual entidade [[Trissy]] pretendia invocar ou que efeito o ritual do [[Altar de Sacrifício]] no [[Edifício Alvo]] buscava alcançar antes de ser interrompido pelos [[Falcões Noturnos]].
+- Qual divindade é representada pela [[Estatueta de Osso]] de cabelos cobertos de olhos levada por [[Trissy]], e que poder a estatueta concede.
+- Quem são as pessoas nomeadas nos bonecos dispostos ao redor da estatueta do altar (como Joyce Mayer) e qual era seu papel no ritual.
+- Qual era o propósito do feitiço de [[Trissy]] ao recolher uma flor manchada com o sangue de [[Leonard Mitchell]] antes de queimá-la em cinzas na margem do [[Rio Tussock]].
+- Para onde [[Trissy]] se dirigiu após submergir no [[Rio Tussock]], levando consigo a [[Estatueta de Osso]].
 - Significado do jato de sangue que irrompe do [[Espelho de Prata do Edifício Alvo]] no momento em que os [[Falcões Noturnos]] se aproximam do prédio.

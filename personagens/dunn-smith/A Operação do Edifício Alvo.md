@@ -12,3 +12,5 @@ tags:
 É encontrado por [[Klein Moretti]] na escuridão da [[Companhia de Segurança Espinho Negro]], ouve o relato sobre a hipótese de [[Leonard Mitchell]], a adivinhação e a descoberta do [[Edifício Alvo]], e segue imediatamente para o local, ordenando que Klein tranque a porta e o acompanhe.
 
 Exige que [[Klein Moretti]] permaneça a pelo menos cinquenta metros do prédio até o fim da operação, justificando que ele ainda não deve participar da batalha, mas pode se familiarizar com a atmosfera e auxiliar com magia ritualística na inspeção final. Aproxima-se do [[Edifício Alvo]] ao anoitecer com [[Leonard Mitchell]] e [[Frye]].
+
+Induz [[Trissy]] a um sonho sem que ela perceba, pressionando a glabela com os olhos fechados enquanto os companheiros disparam contra a projeção do alvo. Atingido pelos ventos de morte e quase sufocado por uma cortina animada da qual se livra com força bruta, determina pela interação onírica que o inimigo era uma mulher, avalia que ela devia ser no mínimo uma Beyonder de Sequência 7 e ordena que deem o sinal a [[Klein Moretti]] para que ele venha.
