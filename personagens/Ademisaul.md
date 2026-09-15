@@ -16,3 +16,5 @@ Nasceu com uma percepção espiritual inata extremamente elevada e distorcida, o
 Por não possuírem a poção de Sequência adequada ao seu caminho, nem os [[Falcões Noturnos]], nem os [[Punidores Mandatários]], nem a [[Mente Coletiva da Maquinaria]] puderam integrá-lo às suas fileiras. Seu caminho correto é a [[Seq 9 - Monstro|Sequência 9 Monstro]], cujas Sequências iniciais são controladas pela [[Escola de Pensamento da Vida]].
 
 No [[Bar do Dragão Maligno]], aproxima-se de [[Klein Moretti]], dando uma gargalhada ao declarar que sente nele "o cheiro da morte". No entanto, ao tentar encarar diretamente Klein e sua aura espiritual incomum, sofre uma sobrecarga trágica em sua percepção distorcida, gritando de dor enquanto um líquido com cor de sangue escorre de seus olhos.
+
+Passa a se deitar estremecendo e a entoar repetidamente que "morto, morto, todos cadáveres, todo mundo tem que morrer", comportamento notado pelo guarda do [[Bar do Dragão Maligno]] e que leva [[Klein Moretti]] a planejar investigá-lo por adivinhação.

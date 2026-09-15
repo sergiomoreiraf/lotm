@@ -14,3 +14,5 @@ Swain é o proprietário do [[Bar do Dragão Maligno]], localizado na área do p
 Administra um lucrativo mercado subterrâneo de misticismo nos fundos do [[Bar do Dragão Maligno]], cobrando uma comissão de 5% sobre todas as vendas realizadas pelos feirantes e fornecendo empréstimos a juros altíssimos (usura) para clientes sem fundos imediatos.
 
 Reconhece o retrato apresentado por [[Klein Moretti]] no [[Bar do Dragão Maligno]] e confirma que o [[Homem de Meio Século com Sobrancelhas Bagunçadas|indivíduo do retrato]] o questionou sobre a posse de documentos ou artefatos relacionados ao pico principal da [[Cordilheira Hornacis]].
+
+Entra no mercado subterrâneo com o uniforme de oficial da marinha, cabelos desgrenhados e forte hálito de álcool, e pede ajuda ao [[Velho Neil]] e a [[Klein Moretti]] para eliminar um membro dos [[Punidores Mandatários]] que perdeu o controle nas proximidades antes que ele fira civis.

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 127 - Lançando as Fundações
+- **Último Capítulo Processado:** Capítulo 128 - O Louco Pobre
