@@ -39,3 +39,5 @@ Ao anoitecer, integra com [[Dunn Smith]] e [[Leonard Mitchell]] o cerco ao [[Edi
 
 Já dentro do [[Edifício Alvo]], tenta em vão confortar as sombras flutuantes com as mãos, que as atravessam sem efeito, e nota que elas não o atacam por reconhecê-lo como um deles.
 
+Integra com [[Dunn Smith]] e [[Leonard Mitchell]] a inspeção do retrato esboçado por [[Klein Moretti]] e reage com choque à hipótese de que a mulher seja o próprio Instigador Tris, perguntando com descrença se poções seriam capazes de tal transformação.
+

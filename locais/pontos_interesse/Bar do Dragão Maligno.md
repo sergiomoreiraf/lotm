@@ -15,6 +15,6 @@ O Bar do Dragão Maligno é um estabelecimento comercial e bar localizado na zon
 
 ## Evolução narrativa
 
-O bar foi palco de um cerco armado no qual a [[Mente Coletiva da Maquinaria]] (e informantes dos [[Falcões Noturnos]]) utilizou homens armados e um atirador equipado com um [[Rifle de Pressão a Vapor]] para tentar capturar o [[Tris|Instigador Tris]], que tentava adquirir materiais no mercado sem saber que havia sido denunciado por [[Joyce Meyer]]. Tris conseguiu escapar rapidamente antes do cerco se fechar.
+O bar foi palco de um cerco armado no qual a [[Mente Coletiva da Maquinaria]] (e informantes dos [[Falcões Noturnos]]) utilizou homens armados e um atirador equipado com um [[Rifle de Pressão a Vapor]] para tentar capturar o [[Trissy|Instigador Tris]], que tentava adquirir materiais no mercado sem saber que havia sido denunciado por [[Joyce Meyer]]. Tris conseguiu escapar rapidamente antes do cerco se fechar.
 
 [[Klein Moretti]] visitou o mercado subterrâneo acompanhado pelo [[Velho Neil]], onde presenciou o encontro com [[Ademisaul]] e a sobrecarga de sua percepção espiritual.

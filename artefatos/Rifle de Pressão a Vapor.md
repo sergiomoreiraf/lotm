@@ -15,4 +15,4 @@ O Rifle de Pressão a Vapor é um armamento de fogo mecânico de uso controlado 
 
 ## Evolução narrativa
 
-Um atirador utilizando o equipamento foi posicionado no telhado do armazém em frente ao [[Bar do Dragão Maligno]] pela [[Mente Coletiva da Maquinaria]] durante a tentativa de captura do [[Tris|Instigador Tris]] no porto da [[Cidade Tingen|Cidade de Tingen]]. [[Klein Moretti]] ficou impressionado com o poderio militar mobilizado para a operação.
+Um atirador utilizando o equipamento foi posicionado no telhado do armazém em frente ao [[Bar do Dragão Maligno]] pela [[Mente Coletiva da Maquinaria]] durante a tentativa de captura do [[Trissy|Instigador Tris]] no porto da [[Cidade Tingen|Cidade de Tingen]]. [[Klein Moretti]] ficou impressionado com o poderio militar mobilizado para a operação.

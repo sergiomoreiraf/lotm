@@ -39,5 +39,7 @@ Comenta o comportamento de [[Klein Moretti]] no retorno do banquete, brinca sobr
 
 Inspira-se no futuro cargo de consultor de história de [[Klein Moretti]] e decide dedicar uma hora e meia diária aos estudos de gramática e literatura clássica, jurando não se tornar um babuíno de cabelos cacheados.
 
+Ao retornar do trabalho, comenta com [[Klein Moretti]] que agora entende o preço por trás de um bom salário.
+
 
 

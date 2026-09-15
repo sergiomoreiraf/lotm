@@ -96,10 +96,10 @@ tags:
 - Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]].
 - Objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
 - Origem e significado da visão obtida por [[Klein Moretti]] no Quarto Topázio: um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
-- Paradeiro de [[Tris]] após escapar do cerco da [[Mente Coletiva da Maquinaria]] no [[Bar do Dragão Maligno]], tendo obtido a fórmula de [[Seq 7 - Bruxa|Bruxa]] com a [[Seita Demoníaca]].
+- Paradeiro de [[Trissy]] — o [[Seq 8 - Instigador|Instigador]] Tris transformado em mulher — após escapar do cerco da [[Mente Coletiva da Maquinaria]] no [[Bar do Dragão Maligno]], tendo obtido a fórmula de [[Seq 7 - Bruxa|Bruxa]] com a [[Seita Demoníaca]].
 - Localização e real influência dos [[Alquimistas da Psicologia]], cujas pistas locais se perderam após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].
 - Causa pela qual a percepção espiritual inata e distorcida de [[Ademisaul]] identificou o "cheiro da morte" em [[Klein Moretti]] e por que seus olhos sangraram ao encarar sua aura mística.
-- Causa dos tremores antinaturais no corpo da jovem de vestido branco-acinzentado vista por [[Klein Moretti]] ao desembarcar na Rua Daffodil, que afirmou estar apenas "muito cansada".
+- Causa dos tremores antinaturais que acometiam o corpo de [[Trissy]] quando ainda se passava por uma jovem comum de vestido branco-acinzentado na Rua Daffodil, antes de sua identidade como o Instigador Tris transformado ser descoberta.
 - Origem e natureza do [[Artefato Selado 2-049]] como boneco de madeira vivo articulado com rosto de palhaço; por que sangue ou aura da [[Família Antigonus]] o faz entrar em estado berserk; por que assimila seres vivos em marionetes caso não sejam despertados a tempo; e o significado das duas rachaduras carmesim sob seus olhos ao ser reencapsulado após o combate.
 - Natureza dos segredos mantidos por [[Leonard Mitchell]], que revelou ter observado o [[Ritual de Aumento de Sorte]] de [[Klein Moretti]] e sua imunidade a 2-049, afirmando que existem pessoas especiais "como você... e eu".
 - Causa da mão pálida do cadáver do [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] disparar na necropsia, agarrar o pulso de [[Klein Moretti]], repetir "Hornacis" e gerar a esfera de sangue azulado; e a natureza da marca no pulso que se condensou nessa esfera.
@@ -109,7 +109,8 @@ tags:
 - Natureza do treinamento Beyonder e das fórmulas mágicas detidas por [[Lawson Darkwade]], que seu aprendiz [[Scharmaine]] tenta aprender sem sucesso.
 - Extensão dos rituais clandestinos de adivinhação sombria praticados por [[Hanass Vincent]] no [[Clube de Adivinhação]] e a origem de seu conhecimento sobre o encantamento que evoca o [[O Criador|Verdadeiro Criador]].
 - Causa exata da morte súbita de [[Hanass Vincent]] durante o sono no momento em que [[Dunn Smith]] invadiu seus sonhos, e sua relação com a visão da cruz gigantesca e do homem pregado de cabeça para baixo representativo do [[O Criador|Verdadeiro Criador]].
-- Motivação da jovem de aparência doce vista por [[Klein Moretti]] no mercado subterrâneo examinando o *Livro das Bruxas* escrito em [[Hermes]].
+- Qual é a Sequência 1 correspondente ao [[Caminho do Vidente]], que [[Klein Moretti]] ainda desconhece.
+- Se a transformação de homens em mulheres é a característica única da poção do caminho controlado pela [[Seita Demoníaca]], como especulou [[Dunn Smith]], e como [[Trissy]] se transformou tão rapidamente.
 - Por que o sangue de [[Sirius Arapis]] tornou-se preto e seu corpo sofreu mutações grotescas (verrugas, salivação pútrida e salto de mais de sete metros) durante o confronto com [[Klein Moretti]], evidenciando corrupção mística.
 - Identidade, localização e afiliação exata do [[Senhor Z|Sr. Z]], destinatário das cartas de [[Sirius Arapis]] a quem se prometeu o sacrifício dos habitantes de [[Cidade Tingen|Tingen]].
 - Por que o único olho do Gigante Enforcado no pêndulo de [[Sirius Arapis]] emanou um brilho vermelho e desferiu um ataque espiritual contra [[Klein Moretti]] durante o ritual mediúnico.
@@ -132,4 +133,3 @@ tags:
 - Qual era o propósito do feitiço de [[Trissy]] ao recolher uma flor manchada com o sangue de [[Leonard Mitchell]] antes de queimá-la em cinzas na margem do [[Rio Tussock]].
 - Para onde [[Trissy]] se dirigiu após submergir no [[Rio Tussock]], levando consigo a [[Estatueta de Osso]].
 - Significado do jato de sangue que irrompe do [[Espelho de Prata do Edifício Alvo]] no momento em que os [[Falcões Noturnos]] se aproximam do prédio.
-- Identidade da jovem de rosto redondo, aparência gentil e traços embaçados revelada no espelho restaurado do [[Edifício Alvo]], cuja aparência [[Klein Moretti]] achou extraordinariamente familiar.

@@ -9,5 +9,5 @@ A poção de Sequência 8 do [[Caminho do Assassino]] que avança a partir de [[
 
 ## Poderes Conhecidos
 
-- **Instigação e Manipulação do Mal:** Capacidade de induzir e desencadear desejos malignos no fundo do coração das pessoas, causando contradições, incitando conflitos interpessoais e provocando massacres sangrentos (como demonstrado por [[Tris]] no navio Alfalfa).
+- **Instigação e Manipulação do Mal:** Capacidade de induzir e desencadear desejos malignos no fundo do coração das pessoas, causando contradições, incitando conflitos interpessoais e provocando massacres sangrentos (como demonstrado por [[Trissy|Tris]] no navio Alfalfa).
 

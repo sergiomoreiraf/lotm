@@ -13,6 +13,6 @@ Um sargento sênior da polícia do [[Reino Loen]], encarregado da rua na [[Cidad
 
 Acompanha três inspetores de polícia ao apartamento de [[Klein Moretti]] para realizar um interrogatório de rotina e buscas de documentos relativos ao falecimento de [[Welch McGovern]].
 
-Realiza buscas de porta em porta na [[Rua Daffodil]] portando um retrato falado de [[Tris]] após a fuga do fugitivo da zona do porto, interrogando os moradores da residência da [[Klein Moretti|Família Moretti]] e oferecendo recompensa por informações.
+Realiza buscas de porta em porta na [[Cidade Tingen|Rua Daffodil]] portando um retrato falado de [[Trissy|Tris]] após a fuga do fugitivo da zona do porto, interrogando os moradores da residência da [[Klein Moretti|Família Moretti]] e oferecendo recompensa por informações.
 
-Conduz a equipe de [[Falcões Noturnos]] ao apartamento da família Lauwis no prédio nº 134 da [[Rua Cruz de Ferro|Rua Inferior]] e expulsa o inquilino que dormia no chão para que realizem a perícia do cadáver.
+Conduz a equipe de [[Falcões Noturnos]] ao apartamento da família Lauwis no prédio nº 134 da [[Cidade Tingen|Rua Inferior]] e expulsa o inquilino que dormia no chão para que realizem a perícia do cadáver.

@@ -26,6 +26,8 @@ Cercam o [[Edifício Alvo]] e interrompem o ritual do [[Altar de Sacrifício]], 
 
 Inspecionam o altar destruído do [[Edifício Alvo]] e concluem que a cerimônia visava uma terrível maldição contra sobreviventes da tragédia do navio Alfalfa dentro de seu alcance, atribuindo a anfitriã a uma mulher. [[Klein Moretti]] conforta os espíritos remanescentes do local e restaura um espelho rachado para revelar as pessoas que se refletiram nele.
 
+Após o confronto, a equipe de [[Cidade Tingen|Tingen]] conclui, pelo retrato esboçado com auxílio ritualístico e pela interferência na adivinhação, que a mulher do espelho é o [[Trissy|Instigador Tris]] transformado em mulher, pertencente à [[Seita Demoníaca]] e não à [[Ordem da Teosofia]].
+
 ## Dinâmicas e Operações
 
 - **Controle de Membros:** O ingresso na organização acarreta a perda de liberdade pessoal significativa.
@@ -40,6 +42,7 @@ Inspecionam o altar destruído do [[Edifício Alvo]] e concluem que a cerimônia
 - **Regras de Promoção e Avanço:** O avanço para a poção de Sequência seguinte exige um período mínimo de espera de três anos e aprovação em um exame rigoroso para evitar a [[Perda de Controle|perda de controle]].
 - **Treinamento de Combate:** Os membros passam por treinamentos diários de combate de duas horas no período da tarde.
 - **Hierarquia Superior:** Possui treze arcebispos e nove diáconos seniores no topo da hierarquia da Igreja, com pelo menos metade deles estando abaixo da [[Semideus|Sequência 4]].
+- **Autossuficiência e Não Envolvimento de Civis:** Por tradição, a organização está acostumada a confiar em si mesma, em seus poderes Beyonder e em suas armas, evitando envolver pessoas normais em incidentes sobrenaturais; a destruição forçada de um altar exige antes a confirmação de que não produziria um resultado mais desastroso.
 
 ## Estrutura e Hierarquia
 

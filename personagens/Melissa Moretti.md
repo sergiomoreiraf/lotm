@@ -53,6 +53,8 @@ Elogia a culinária de [[Klein Moretti]] em relação a restaurantes caros e inc
 
 Frequenta um seminário de gestão financeira doméstica promovido pela [[Sra. Shaud]], mas abandona a palestra com [[Selena Wood]] e [[Elizabeth]] ao rejeitar a doutrina misógina do [[Senhor das Tempestades]] pregada por [[Xaviera Hedda]], reafirmando sua preferência pelos estudos mecânicos e pela prudência financeira.
 
+Ao retorno tardio de [[Klein Moretti]], atribui a [[Roselle Gustav|Imperador Roselle]] a frase "há um preço para tudo neste mundo" e deixa separados para ele uma costeleta de cordeiro, sopa grossa de legumes e pão.
+
 
 
 
