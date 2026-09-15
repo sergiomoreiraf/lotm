@@ -15,6 +15,7 @@ Um jovem Beyonder dos [[Falcões Noturnos]] na [[Cidade Tingen]], pertencente à
 
 - [[Investigação da Mortalidade em Tingen]] — Lidera com Klein e Frye a investigação das mortes anômalas e dos casos da Sra. Lauwis e de Salus.
 - [[A Batalha do Edifício Alvo]] — Enfrenta as criaturas do altar e desfaz com o próprio sangue e cabelo o feitiço da flor tingida por sua ferida.
+- [[A Pista do Trem]] — Repassa a Klein a informação sobre a partida de Trissy em uma locomotiva a vapor e viabiliza o envio da equipe à estação.
 
 ## Eventos Arquivados
 

@@ -96,7 +96,9 @@ tags:
 - Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]].
 - Objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
 - Origem e significado da visão obtida por [[Klein Moretti]] no Quarto Topázio: um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
-- Paradeiro de [[Trissy]] — o [[Seq 8 - Instigador|Instigador]] Tris transformado em mulher — após escapar do cerco da [[Mente Coletiva da Maquinaria]] no [[Bar do Dragão Maligno]], tendo obtido a fórmula de [[Seq 7 - Bruxa|Bruxa]] com a [[Seita Demoníaca]].
+- Localização atual de [[Trissy]] após embarcar na locomotiva a vapor em [[Wienia]] rumo a [[Backlund]], decidida a descer após três estações e entrar na capital por outros métodos.
+- Identidade da pessoa associada a [[Trissy]] em [[Cidade Tingen]], que recebeu seu telegrama de alerta para ter cuidado.
+- Resultado da busca dos [[Falcões Noturnos]] na estação de locomotivas a vapor de [[Cidade Tingen|Tingen]] após a dica sobre a partida de [[Trissy]].
 - Localização e real influência dos [[Alquimistas da Psicologia]], cujas pistas locais se perderam após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].
 - Causa pela qual a percepção espiritual inata e distorcida de [[Ademisaul]] identificou o "cheiro da morte" em [[Klein Moretti]] e por que seus olhos sangraram ao encarar sua aura mística.
 - Causa dos tremores antinaturais que acometiam o corpo de [[Trissy]] quando ainda se passava por uma jovem comum de vestido branco-acinzentado na Rua Daffodil, antes de sua identidade como o Instigador Tris transformado ser descoberta.
@@ -131,5 +133,4 @@ tags:
 - Identidade da mulher de mão esguia que tocou as costas da [[Sra. Lauwis]] na única cena anômala vista por [[Klein Moretti]] em seu ritual mediúnico, apontada como possível vetor do fator sobrenatural que desencadeou seu ataque cardíaco.
 - Qual divindade é representada pela [[Estatueta de Osso]] de cabelos cobertos de olhos levada por [[Trissy]], e que poder a estatueta concede.
 - Qual era o propósito do feitiço de [[Trissy]] ao recolher uma flor manchada com o sangue de [[Leonard Mitchell]] antes de queimá-la em cinzas na margem do [[Rio Tussock]].
-- Para onde [[Trissy]] se dirigiu após submergir no [[Rio Tussock]], levando consigo a [[Estatueta de Osso]].
 - Significado do jato de sangue que irrompe do [[Espelho de Prata do Edifício Alvo]] no momento em que os [[Falcões Noturnos]] se aproximam do prédio.

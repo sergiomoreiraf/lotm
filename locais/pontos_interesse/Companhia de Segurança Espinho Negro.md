@@ -16,6 +16,7 @@ A Companhia de Segurança Espinho Negro é uma empresa de segurança privada loc
 - A equipe da companhia organiza um jantar oficial de recepção no [[Restaurante do Velho Will]] para celebrar a oficialização de [[Klein Moretti]] como membro oficial dos Falcões Noturnos.
 - [[Klein Moretti]] retorna ao escritório já vazio ao anoitecer e relata a [[Dunn Smith]] a descoberta do [[Edifício Alvo]], de onde o capitão parte para liderar a operação.
 - [[Klein Moretti]] relata a [[Frye]] e [[Leonard Mitchell]], na sala ao crepúsculo, a visão obtida na adivinhação sobre o [[Edifício Alvo]] e o rio próximo.
+- O departamento de polícia aprova o pedido do capitão e transfere dois policiais que se depararam com incidentes sobrenaturais para atuarem como escriturários da companhia.
 
 ## Proprietários e Frequentadores
 

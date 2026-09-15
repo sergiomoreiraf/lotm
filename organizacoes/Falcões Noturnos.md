@@ -28,6 +28,8 @@ Inspecionam o altar destruído do [[Edifício Alvo]] e concluem que a cerimônia
 
 Após o confronto, a equipe de [[Cidade Tingen|Tingen]] conclui, pelo retrato esboçado com auxílio ritualístico e pela interferência na adivinhação, que a mulher do espelho é o [[Trissy|Instigador Tris]] transformado em mulher, pertencente à [[Seita Demoníaca]] e não à [[Ordem da Teosofia]].
 
+Após [[Klein Moretti]] alertar [[Leonard Mitchell]] de que [[Trissy]] partirá em uma locomotiva a vapor, [[Dunn Smith]] reúne a equipe e a envia à estação de locomotivas a vapor, mantendo alertas telegráficos a [[Backlund]], ao [[Porto de Enmat|Enmat Harbor]] e às demais paradas ferroviárias para a inclusão da fugitiva na lista de procurados nacional.
+
 ## Dinâmicas e Operações
 
 - **Controle de Membros:** O ingresso na organização acarreta a perda de liberdade pessoal significativa.

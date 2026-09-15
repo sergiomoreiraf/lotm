@@ -43,3 +43,7 @@ Ao anoitecer, veste um longo roupão preto com capuz, embaça a própria aparên
 ### A Revelação da Transformação
 
 Quando [[Klein Moretti]] adivinha a fonte da familiaridade deixada pela imagem no espelho, o sonho revela a mulher de vestido cinza — de cabelo preto liso, rosto um pouco redondo, comportamento gentil e corpo tremendo de forma não natural — vista antes na parada de carruagens da Rua Daffodil e no mercado subterrâneo; reconhecida por [[Leonard Mitchell]] como muito parecida com o Instigador Tris, a equipe adota a ideia ousada de que ela seja o próprio Tris transformado em mulher, o que explicaria o corte súbito de sua trilha e a ausência de vestígios mesmo sob adivinhação. A adivinhação do paradeiro de "Trissy" sofre interferência, confirmando as suposições, e [[Dunn Smith]] conclui que ela pertence à [[Seita Demoníaca]], ativa desde a última Época, e não à [[Ordem da Teosofia]].
+
+### A Fuga para Backlund
+
+Em vez de tomar o trem em [[Cidade Tingen]], desce o [[Rio Tussock]] até a cidade de [[Wienia]] por instinto e pela rica experiência como assassina. Envia um telegrama a uma pessoa associada em Tingen, alertando-a para ter cuidado e informando ter usado o dinheiro roubado para comprar uma passagem para [[Backlund]]. Na plataforma de Wienia, com um longo vestido bege e um chapéu redondo de gaze fina cobrindo metade do rosto, entra sem bagagem na primeira cabine da locomotiva a vapor e decide descer após três estações para entrar em Backlund por outros métodos.

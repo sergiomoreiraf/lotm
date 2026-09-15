@@ -11,6 +11,7 @@ A sede da [[Igreja da Deusa da Noite Eterna]] na [[Cidade Tingen]], localizada n
 ## Eventos no Local
 
 - [[Klein Moretti]] adentra a catedral e se confessa para despistar um seguidor invisível. No confessionário, ele apresenta seu distintivo da Unidade Sete ao bispo e é encaminhado para uma porta secreta na parede em direção ao subsolo.
+- No porão da catedral, [[Klein Moretti]] absorve a digestão completa da poção de [[Seq 9 - Vidente|Vidente]] e se torna um Vidente real e completo.
 
 ## Proprietários e Frequentadores
 

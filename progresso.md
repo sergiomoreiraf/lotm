@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 125 - Ideia Ousada
+- **Último Capítulo Processado:** Capítulo 126 - A Adivinhação Não É Onipotente

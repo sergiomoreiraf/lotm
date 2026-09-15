@@ -14,6 +14,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 
 - [[O Ritual Mediúnico e a Casa de Trabalho do Burgo Oeste]] — Realiza um ritual mediúnico e adivinhação por sonhos sobre a espiritualidade da Sra. Lauwis e investiga o suicídio de Salus na Casa de Trabalho do Burgo Oeste.
 - [[O Encerramento no Edifício Alvo]] — Conclui a operação no Edifício Alvo com o conforto dos espíritos, a comunicação com os mortos e a restauração de um espelho revelador.
+- [[A Adivinhação do Futuro e a Digestão do Vidente]] — Adivinha o paradeiro de Trissy acima da Névoa Cinza, percebe que a visão era do futuro e conclui a digestão da poção de Vidente.
 
 ## Eventos Arquivados
 
