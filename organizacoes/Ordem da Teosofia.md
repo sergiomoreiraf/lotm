@@ -15,6 +15,8 @@ Os [[Falcões Noturnos]] de [[Cidade Tingen|Tingen]] e a Mente Coletiva da Maqui
 
 É confirmada por [[Alger Wilson|O Enforcado]] no [[Clube de Tarô]] como detentora oficial da fórmula de poção da [[Seq 9 - Aprendiz|Sequência 9 Aprendiz]], mantendo também vínculos históricos com a [[Seita Demoníaca]].
 
+[[Dunn Smith]] especula, diante do altar do [[Edifício Alvo]], que as origens da organização podem estar ligadas à [[Seita Demoníaca]] e que seria normal que suas especialistas fossem mulheres, concordando com a suposição de [[Klein Moretti]] de que uma especialista enviada pela Ordem teria auxiliado [[Tris]].
+
 ## Funcionamento e Regras
 
 - **Filosofia:** Acreditam que a espiritualidade deve ser usada para adquirir conhecimento, libertar a mente da matéria e alcançar a redenção eterna através das provações das estrelas.

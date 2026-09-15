@@ -24,6 +24,8 @@ Localizam o provável [[Edifício Alvo]] no sudoeste do [[Burgo Oeste]] e inicia
 
 Cercam o [[Edifício Alvo]] e interrompem o ritual do [[Altar de Sacrifício]], mas o alvo — [[Trissy]], apontada por [[Dunn Smith]] como uma mulher e, no mínimo, uma Beyonder de Sequência 7 — escapa sobre a cerca de aço em direção ao [[Rio Tussock]].
 
+Inspecionam o altar destruído do [[Edifício Alvo]] e concluem que a cerimônia visava uma terrível maldição contra sobreviventes da tragédia do navio Alfalfa dentro de seu alcance, atribuindo a anfitriã a uma mulher. [[Klein Moretti]] conforta os espíritos remanescentes do local e restaura um espelho rachado para revelar as pessoas que se refletiram nele.
+
 ## Dinâmicas e Operações
 
 - **Controle de Membros:** O ingresso na organização acarreta a perda de liberdade pessoal significativa.

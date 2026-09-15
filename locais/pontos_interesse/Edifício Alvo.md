@@ -15,6 +15,7 @@ Um prédio de dois andares azul-acinzentado situado no sudoeste do [[Burgo Oeste
 - No quarto sem luz do segundo andar, [[Trissy]] presencia um jato de sangue irromper de um [[Espelho de Prata do Edifício Alvo]].
 - É palco do confronto entre os [[Falcões Noturnos]] e [[Trissy]]: descoberta por um sonho induzido por [[Dunn Smith]], a Beyonder escapa por um feitiço de substituição, desce ao primeiro andar tomado por figuras transparentes em transe e ventos de morte, recolhe a [[Estatueta de Osso]] do altar e foge sobre a cerca de aço na direção do [[Rio Tussock]].
 - Tem o [[Altar de Sacrifício]] destruído pelos [[Falcões Noturnos]] após a fuga, com vidros estilhaçados e os bonecos de nomes remanescentes sobre a mesa.
+- Após a fuga da Beyonder, é inspecionado pelos [[Falcões Noturnos]]: o segundo andar revela um quarto de aroma suave com vestidos espalhados, caixas abertas de produtos para a pele e um espelho rachado na penteadeira, diante do qual [[Klein Moretti]] executa um ritual para revelar as pessoas que nele se refletiram no último mês.
 
 ## Proprietários e Frequentadores
 

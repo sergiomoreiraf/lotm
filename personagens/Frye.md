@@ -37,3 +37,5 @@ Obtém na delegacia de polícia os pertences pessoais de [[Salus]] e da [[Sra. L
 
 Ao anoitecer, integra com [[Dunn Smith]] e [[Leonard Mitchell]] o cerco ao [[Edifício Alvo]] e usa sua capacidade de enxergar corpos espirituais para vigiar o gramado além da cerca de aço. Não ousa invadir o [[Altar de Sacrifício]], tem os calcanhares agarrados por uma figura invisível cuja frieza entorpeceria um Beyonder de Sequência 9 e a dissipa com uma bala prateada de caça-demônio disparada contra os próprios pés, recuperando os movimentos.
 
+Já dentro do [[Edifício Alvo]], tenta em vão confortar as sombras flutuantes com as mãos, que as atravessam sem efeito, e nota que elas não o atacam por reconhecê-lo como um deles.
+

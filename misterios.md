@@ -127,12 +127,9 @@ tags:
 - Causa e origem da anomalia mística na gravidez de [[Megose]], cujo feto supostamente chuta, cantarola, assobia e canta para ajudá-la a dormir.
 - Maneira pela qual o paciente [[Hood Eugen]] no [[Asilo Mental de Greenhill]] foi capaz de analisar o médico [[Daxter Guderian]] e recrutá-lo para os [[Alquimistas da Psicologia]].
 - Extensão das atividades e a estrutura interna dos [[Alquimistas da Psicologia]] atuando infiltrados em instituições como o [[Asilo Mental de Greenhill]].
-- Causa do aumento repentino na taxa de mortalidade em [[Cidade Tingen]] (que quintuplicou nas últimas duas semanas, abrangendo mortes por incêndio, suicídio e doenças repentinas), confirmando-se por adivinhação que mortes aparentemente naturais por ataques cardíacos são ativamente influenciadas por fatores sobrenaturais.
 - Identidade da mulher de mão esguia que tocou as costas da [[Sra. Lauwis]] na única cena anômala vista por [[Klein Moretti]] em seu ritual mediúnico, apontada como possível vetor do fator sobrenatural que desencadeou seu ataque cardíaco.
-- Se o suicídio por fogo de [[Salus]] na [[Casa de Trabalho do Burgo Oeste]] foi instigado por um Beyonder que não tomou medidas sobrenaturais diretas (como o [[Seq 8 - Instigador|Instigador]] [[Tris]]) e se tal instigação guarda ligação com a morte da [[Sra. Lauwis]] e com o surto de mortalidade em [[Cidade Tingen]].
-- Qual entidade [[Trissy]] pretendia invocar ou que efeito o ritual do [[Altar de Sacrifício]] no [[Edifício Alvo]] buscava alcançar antes de ser interrompido pelos [[Falcões Noturnos]].
 - Qual divindade é representada pela [[Estatueta de Osso]] de cabelos cobertos de olhos levada por [[Trissy]], e que poder a estatueta concede.
-- Quem são as pessoas nomeadas nos bonecos dispostos ao redor da estatueta do altar (como Joyce Mayer) e qual era seu papel no ritual.
 - Qual era o propósito do feitiço de [[Trissy]] ao recolher uma flor manchada com o sangue de [[Leonard Mitchell]] antes de queimá-la em cinzas na margem do [[Rio Tussock]].
 - Para onde [[Trissy]] se dirigiu após submergir no [[Rio Tussock]], levando consigo a [[Estatueta de Osso]].
 - Significado do jato de sangue que irrompe do [[Espelho de Prata do Edifício Alvo]] no momento em que os [[Falcões Noturnos]] se aproximam do prédio.
+- Identidade da jovem de rosto redondo, aparência gentil e traços embaçados revelada no espelho restaurado do [[Edifício Alvo]], cuja aparência [[Klein Moretti]] achou extraordinariamente familiar.

@@ -33,3 +33,4 @@ Cronologia geral dos eventos históricos documentados ao longo da leitura de _Lo
 - **1198:** Ocorre o [[Assassinato de Roselle Gustav]].
 - **1336:** Aprovada a [[Lei dos Pobres de 1336]], que limita a cinco dias a permanência de carentes em casas de trabalho do [[Reino Loen]].
 - **Data Indeterminada (Recente):** Ocorre a revogação da [[Lei dos Grãos]] após protestos nas ruas.
+- **Data Indeterminada (Recente):** O navio de carga Alfalfa sofre um saque do pirata [[Nast]] e, em seguida, um motim de loucura mística no [[Oceano Berserk]], episódio conhecido como a [[Tragédia da Alfalfa]].

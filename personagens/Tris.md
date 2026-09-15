@@ -25,4 +25,6 @@ Rompe o cerco conjunto de seis Beyonders dos [[Punidores Mandatários]], [[Mente
 
 Permanence com paradeiro desconhecido após os [[Falcões Noturnos]] não encontrarem nenhuma pista em [[Cidade Tingen|Tingen]], com [[Seeka Tron]] suspeitando que o Instigador tenha fugido da cidade.
 
+É deduzido por [[Klein Moretti]] que usou as mortes adiantadas em [[Cidade Tingen]] como sacrifício para amaldiçoar os sobreviventes da [[Tragédia da Alfalfa]], por não saber quem denunciara seu envolvimento e para não atrair a atenção dos [[Falcões Noturnos]], dos [[Punidores Mandatários]] e da [[Mente Coletiva da Maquinaria]]. [[Dunn Smith]] corrige que a maldição alcançava apenas os sobreviventes na cidade e que a anfitriã do ritual era uma mulher, não ele.
+
 
