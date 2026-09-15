@@ -96,9 +96,8 @@ tags:
 - Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]].
 - Objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
 - Origem e significado da visão obtida por [[Klein Moretti]] no Quarto Topázio: um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
-- Localização atual de [[Trissy]] após embarcar na locomotiva a vapor em [[Wienia]] rumo a [[Backlund]], decidida a descer após três estações e entrar na capital por outros métodos.
+- Localização atual de [[Trissy]] após embarcar na locomotiva a vapor em [[Wienia]] rumo a [[Backlund]]: um telegrama da capital confirma que uma passageira a viu no vagão de primeira classe do primeiro trem, do qual desceu no meio da viagem, permanecendo desconhecido seu paradeiro.
 - Identidade da pessoa associada a [[Trissy]] em [[Cidade Tingen]], que recebeu seu telegrama de alerta para ter cuidado.
-- Resultado da busca dos [[Falcões Noturnos]] na estação de locomotivas a vapor de [[Cidade Tingen|Tingen]] após a dica sobre a partida de [[Trissy]].
 - Localização e real influência dos [[Alquimistas da Psicologia]], cujas pistas locais se perderam após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].
 - Causa pela qual a percepção espiritual inata e distorcida de [[Ademisaul]] identificou o "cheiro da morte" em [[Klein Moretti]] e por que seus olhos sangraram ao encarar sua aura mística.
 - Causa dos tremores antinaturais que acometiam o corpo de [[Trissy]] quando ainda se passava por uma jovem comum de vestido branco-acinzentado na Rua Daffodil, antes de sua identidade como o Instigador Tris transformado ser descoberta.

@@ -25,3 +25,4 @@ As cartas de [[Sirius Arapis]] confirmam que a fórmula de Palhaço constava ent
 - **Ilusões e Substituição:** Capacidade de criar ilusões de si mesmo que se despedaçam como espelhos e de usar truques com chamas para escapar de ataques mortais, deixando apenas cinzas.
 - **Projéteis de Ar:** Capacidade de disparar projéteis de ar letais simulando armas de fogo com os dedos ("arma de dedo"), alternando entre tiros falsos e reais para confundir os oponentes.
 - **Controle Corporal e Equilíbrio:** Capacidade de bloquear os ouvidos para resistir a influências acústicas e poemas místicos.
+- **Desafio de Atuação:** [[Klein Moretti]] considera difícil atuar como Palhaço, já que [[Cidade Tingen|Tingen]] não possui circos fixos, apenas itinerantes, e cogita que a atuação possa assumir outras formas, lembrando que não havia circos nem palhaços quando a [[Ardósia da Blasfêmia]] foi revelada ao mundo.
