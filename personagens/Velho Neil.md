@@ -13,7 +13,7 @@ Um funcionário civil dos [[Falcões Noturnos]] na [[Cidade Tingen]]. Ele já fo
 - [[O Mercado Subterrâneo do Porto]] — Leva Klein ao Bar do Dragão Maligno, ensina sobre Swain, Ademisaul e a Escola de Pensamento da Vida, e quita suas contas.
 - [[A Moagem do Café e o Ritual de Iniciação]] — Prepara café no arsenal e instrui Klein sobre a aprovação e a missão de iniciação dos Falcões Noturnos.
 - [[A Adivinhação Não É Onipotente]] — Adverte Klein sobre os limites e os riscos de má interpretação da adivinhação.
-- [[O Reencontro no Mercado e o Chamado de Swain]] — Reencontra Klein no mercado subterrâneo quando Swain recruta ambos contra um Beyonder descontrolado.
+- [[O Reencontro no Mercado e o Chamado de Swain]] — Reencontra Klein no mercado quando Swain recruta ambos contra um Beyonder descontrolado e participa do combate no porto.
 
 ## Eventos Arquivados
 

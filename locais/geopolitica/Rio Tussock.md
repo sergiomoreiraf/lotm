@@ -15,3 +15,5 @@ Em [[Cidade Tingen]], converge no canto sudoeste do [[Burgo Oeste]] e no porto d
 Serve de rota de fuga para [[Trissy]] nos arredores de [[Cidade Tingen]]: ela atravessa a cerca de aço do [[Edifício Alvo]] em sua direção, queima na margem a flor manchada com o sangue de [[Leonard Mitchell]] e submerge no rio.
 
 A primeira cidade que o rio encontra depois de [[Cidade Tingen]] é [[Wienia]], também a primeira parada da locomotiva a vapor no trajeto até [[Backlund]]. É por essa rota fluvial que [[Trissy]] desce até Wienia para embarcar rumo à capital.
+
+O [[Punidor Mandatário Descontrolado]] tenta escapar pelo rio a partir de um cargueiro no porto de [[Cidade Tingen]], mas é impedido por dois [[Punidores Mandatários]] e por [[Swain]] e acaba morto no cais.

@@ -12,5 +12,5 @@ A poção de Sequência 8 do [[Caminho do Marinheiro]]. Seu nome antigo era Guar
 
 ## Poderes Conhecidos
 
-- **Fúria Desenfreada:** O Beyonder pode liberar vários ataques que excedem os limites comuns quando está enfurecido.
+- **Fúria Desenfreada:** O Beyonder pode liberar vários ataques que excedem os limites comuns quando está enfurecido. Demonstrada por [[Swain]] ao acumular por vários golpes uma força suprimida e liberá-la em um único ataque capaz de partir o crânio de um [[Punidor Mandatário Descontrolado|Beyonder descontrolado]].
 - **Aprimoramento Físico Extremo:** Sua força e velocidade são enormemente aprimoradas, agindo como uma tempestade.
