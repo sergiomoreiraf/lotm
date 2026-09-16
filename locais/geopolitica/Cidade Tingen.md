@@ -38,6 +38,7 @@ A Cidade Tingen é uma cidade localizada no [[Condado de Awwa]], no [[Reino Loen
 - [[Bar do Dragão Maligno]]: Bar e mercado subterrâneo de misticismo situado na zona do porto de Tingen, administrado por [[Swain]].
 - [[Asilo Mental de Greenhill]]: Instituição hospitalar psiquiátrica localizada na cidade onde atua o médico [[Daxter Guderian]].
 - [[Restaurante do Velho Will]]: Estabelecimento gastronômico da cidade onde a equipe da Companhia de Segurança Espinho Negro realiza comemorações.
+- [[Associação de Assistência aos Servidores Familiares de Tingen]]: Associação dedicada à intermediação de criados e empregados domésticos.
 - **Armazém do Porto de Tingen:** Armazém branco-acinzentado na área interna do porto de Tingen sob jurisdição dos Punidores Mandatários, utilizado como esconderijo por [[Ray Bieber]] e local de confronto com a [[Ordem Secreta]].
 - **Rios de Tingen:** A cidade é cortada pelo [[Rio Tussock]] e pelo [[Rio Khoy]], os dois únicos rios largos da região, que banham o Burgo Oeste, o Burgo Sul-Oeste, a área do porto e a área da universidade. O [[Rio Khoy]] nasce no norte da montanha de York, passa pelo distrito universitário no Burgo Leste e se funde localmente ao Tussock.
 

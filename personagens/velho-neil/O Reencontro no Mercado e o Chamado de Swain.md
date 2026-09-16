@@ -12,3 +12,5 @@ tags:
 Entra no mercado subterrâneo do [[Bar do Dragão Maligno]] vestindo seu habitual manto preto e saúda [[Klein Moretti]] com uma risada. É então abordado por [[Swain]], que em uniforme de oficial da marinha e com forte hálito de álcool informa, em voz baixa e solene, que um membro dos [[Punidores Mandatários]] perdeu o controle nas proximidades e precisa ser contido antes de ferir civis.
 
 Pergunta sem hesitar a [[Swain]] onde está o descontrolado e o que devem fazer, demonstrando que o dever de conter ameaças sobrenaturais se sobrepõe às diferenças entre as organizações. Empresta a [[Klein Moretti]] um [[Encantamentos|Encantamento do Sono]], ativa o seu próprio sobre o [[Punidor Mandatário Descontrolado]] e revela que a criatura era um veterano que seguira Swain por quase trinta anos.
+
+É ferido de leve por um estilhaço durante o confronto e, já no retorno, mantém a calma ao recordar uma emboscada de zumbi sofrida ao lado de [[Dunn Smith]] no Cemitério Raphael, ensinando a [[Klein Moretti]] que um [[Falcões Noturnos|Falcão Noturno]] deve confiar nos companheiros de equipe e assumindo que cobrará de [[Swain]] a compensação pelo Encantamento do Sono gasto.

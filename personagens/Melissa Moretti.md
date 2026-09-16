@@ -55,6 +55,10 @@ Frequenta um seminário de gestão financeira doméstica promovido pela [[Sra. S
 
 Ao retorno tardio de [[Klein Moretti]], atribui a [[Roselle Gustav|Imperador Roselle]] a frase "há um preço para tudo neste mundo" e deixa separados para ele uma costeleta de cordeiro, sopa grossa de legumes e pão.
 
+### A Contratação de Uma Criada
+
+Retorna de uma aula prática da [[Escola Técnica de Tingen]] e opõe-se à contratação de uma criada, alegando não querer uma estranha presente durante as conversas da família.
+
 
 
 

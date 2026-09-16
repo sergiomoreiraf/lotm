@@ -17,3 +17,5 @@ O esquadrão atua como a Unidade Seis do Departamento de Operações Especiais n
 Nas proximidades da área portuária de [[Cidade Tingen|Tingen]], um de seus membros perde o controle e passa a ser alvo de uma caçada conduzida pelo ex-capitão [[Swain]], que recruta o [[Velho Neil]] e [[Klein Moretti]] para contê-lo antes que civis sejam feridos.
 
 O membro descontrolado era um veterano que servira sob o comando de [[Swain]] por quase trinta anos e se transformara no [[Punidor Mandatário Descontrolado]]. Dois Punidores Mandatários o encurralaram a bordo de um cargueiro e impediram que ele alcançasse o [[Rio Tussock]] até que [[Klein Moretti]] o adormecesse com um [[Encantamentos|Encantamento do Sono]] e Swain o matasse.
+
+Após o confronto, um dos Punidores Mandatários ajuda o parceiro semiconsciente a se levantar pelo braço no cais, enquanto [[Swain]] permanece diante do cadáver do veterano.

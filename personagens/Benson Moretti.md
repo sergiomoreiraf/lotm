@@ -41,5 +41,9 @@ Inspira-se no futuro cargo de consultor de história de [[Klein Moretti]] e deci
 
 Ao retornar do trabalho, comenta com [[Klein Moretti]] que agora entende o preço por trás de um bom salário.
 
+### A Contratação de Uma Criada
+
+Prepara o jantar da família e, diante da proposta de contratar uma criada, recomenda recorrer à [[Associação de Assistência aos Servidores Familiares de Tingen]], elogiando sua experiência e seus recursos no ramo.
+
 
 

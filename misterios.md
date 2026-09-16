@@ -136,3 +136,4 @@ tags:
 - Causa do agravamento do estado de [[Ademisaul]], que passou a se deitar estremecendo e a repetir que todos são cadáveres e que todo mundo tem que morrer.
 - Motivo pelo qual um membro ainda não identificado dos [[Punidores Mandatários]], veterano que servira sob [[Swain]] por quase trinta anos, perdeu o controle nas proximidades do porto de [[Cidade Tingen|Tingen]]; a criatura foi morta por Swain sem que a causa fosse esclarecida.
 - Motivo do profundo abalo de [[Gawain]] diante da proposta de [[Klein Moretti]] de combinar armas brancas e de fogo em esquadrões móveis de ataque surpresa, possivelmente ligado ao trauma de sua ordem de cavalaria extinta.
+- Identidade, objetivos e afiliação do [[Sr. A]], poderoso Beyonder que lidera a [[Reunião Secreta de Backlund]], e o propósito do encontro de Beyonders independentes na capital.

@@ -45,6 +45,7 @@ Após [[Klein Moretti]] alertar [[Leonard Mitchell]] de que [[Trissy]] partirá 
 - **Treinamento de Combate:** Os membros passam por treinamentos diários de combate de duas horas no período da tarde.
 - **Hierarquia Superior:** Possui treze arcebispos e nove diáconos seniores no topo da hierarquia da Igreja, com pelo menos metade deles estando abaixo da [[Semideus|Sequência 4]].
 - **Autossuficiência e Não Envolvimento de Civis:** Por tradição, a organização está acostumada a confiar em si mesma, em seus poderes Beyonder e em suas armas, evitando envolver pessoas normais em incidentes sobrenaturais; a destruição forçada de um altar exige antes a confirmação de que não produziria um resultado mais desastroso.
+- **Anonimato Público:** Seus feitos nunca são divulgados ao público, permanecendo restritos a pastas confidenciais, enquanto o perigo e a dor enfrentados pelos membros são reais; a mesma condição vale para os [[Punidores Mandatários]] e a [[Mente Coletiva da Maquinaria]].
 
 ## Estrutura e Hierarquia
 
