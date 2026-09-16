@@ -6,7 +6,7 @@ tags:
 
 # Residência de Gawain
 
-Um prédio simples de dois andares em ruínas, rodeado por um jardim tomado por ervas daninhas e trepadeiras nas paredes, situado nos arredores do [[Burgo Norte]] na [[Cidade Tingen]], no [[Reino Loen]]. É a habitação do ex-cavaleiro [[Gawain]].
+Um prédio simples de dois andares em ruínas, rodeado por um jardim tomado por ervas daninhas e trepadeiras nas paredes, situado nos arredores do Burgo Norte na [[Cidade Tingen]], no [[Reino Loen]]. É a habitação do ex-cavaleiro [[Gawain]].
 
 ## Eventos no Local
 

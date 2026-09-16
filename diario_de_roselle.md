@@ -14,7 +14,7 @@ tags:
   - **11 de abril:** Relata a descoberta de uma ilha sem rotas seguras com criaturas extraordinárias.
   - **15 de abril:** Percebe um comportamento estranho em [[Grimm]], suspeitando de uma possível infecção.
 - **21 de maio a 26 de maio (Ano desconhecido):**
-  - **21 de maio:** A [[Igreja do Deus do Artesanato]] oferece a ele as poções de [[Erudito]] (completa) e [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] (incompleta, da [[Ordem Ascética de Moisés]]).
+  - **21 de maio:** A [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] oferece a ele as poções de [[Erudito]] (completa) e [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] (incompleta, da [[Ordem Ascética de Moisés]]).
   - **22 de maio:** Escolhe [[Erudito]] para se fortalecer de forma independente, evitando recorrer a entidades externas perigosas para voltar ao seu mundo.
   - **23 de maio:** Consome a poção de [[Erudito]] e resgata memórias e compreensões profundas de conhecimentos científicos passados (física e química).
   - **26 de maio:** Constata que atuar no papel de erudito atenua os sussurros caóticos e controla a sua raiva, associando a prática ao conceito de atuação mencionado por [[Zaratul]].

@@ -12,3 +12,4 @@ Um dos vinte e dois caminhos Beyonder do divino, caracterizado pela concessão d
 ## Sequências Descobertas
 
 - [[Árbitro]] — Sequência que concede charme convincente, autoridade considerável e capacidade de combate para lidar com imprevistos.
+- [[Seq 8 - Xerife|Xerife]] — Sequência 8 do caminho.

@@ -5,7 +5,7 @@ tags:
 
 # Boticário
 
-Uma classe ou poção Beyonder. É mencionada por [[Glacis]] ao relatar que sua esposa obteve um remédio mágico formulado por um boticário impressionante para curar sua pneumonia grave.
+Uma poção de Sequência 9. É mencionada por [[Glacis]] ao relatar que sua esposa obteve um remédio mágico formulado por um boticário impressionante para curar sua pneumonia grave. O [[Visconde Glaint]] manifestou o desejo de adquiri-la para garantir saúde e evitar doenças ou ferimentos graves.
 
 ## Poderes Conhecidos
 

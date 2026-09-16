@@ -12,7 +12,7 @@ Uma organização antiga de misticismo que persistia em preceitos morais rígido
 
 Mencionada por [[Dunn Smith]] como a fonte original das fórmulas obtidas pela Igreja para a sequência [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]].
 
-Forneceu a sequência incompleta de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] à [[Igreja do Deus do Artesanato]], conforme revelado no diário do Imperador [[Roselle Gustav]].
+Forneceu a sequência incompleta de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] à [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]], conforme revelado no diário do Imperador [[Roselle Gustav]].
 
 Revelado por [[Alger Wilson|O Enforcado]] que foi fundada por humanos que leram a [[Ardósia da Blasfêmia]], venerando o [[Sábio Oculto]] como a personificação da Numerologia Espiritual e do conhecimento supremo. A ordem caiu em corrupção quando sua divindade supostamente ganhou vida como um deus maligno.
 

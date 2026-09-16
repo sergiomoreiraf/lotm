@@ -17,7 +17,7 @@ Administra um lucrativo mercado subterrâneo de misticismo nos fundos do [[Bar d
 
 ### A Investigação de Hornacis
 
-Reconhece o retrato apresentado por [[Klein Moretti]] no [[Bar do Dragão Maligno]] e confirma que o [[Homem de Meio Século com Sobrancelhas Bagunçadas|indivíduo do retrato]] o questionou sobre a posse de documentos ou artefatos relacionados ao pico principal da [[Cordilheira Hornacis]].
+Reconhece o retrato apresentado por [[Klein Moretti]] no [[Bar do Dragão Maligno]] e confirma que o [[Homem de Meio Século com Sobrancelhas Bagunçadas|indivíduo do retrato]] o questionou sobre a posse de documentos ou artefatos relacionados ao pico principal da [[Cadeia de Montanhas Hornacis|Cordilheira Hornacis]].
 
 ### A Caça ao Descontrolado
 

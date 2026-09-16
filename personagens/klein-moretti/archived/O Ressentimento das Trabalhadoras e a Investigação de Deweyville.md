@@ -17,4 +17,4 @@ Contata a memória espiritual das operárias vitimadas por [[Envenenamento por C
 
 Instrui [[Sir Deweyville]] a compensar os pais da falecida [[Hayley Walker]] e divulgar os perigos do chumbo nos jornais. Acompanha o pagamento de trezentas libras aos pais da jovem e testemunha a dissipação completa do espírito, justificando os ruídos como histeria coletiva.
 
-Justifica o ruído místico a [[Sir Deweyville]] e testemunhas como um caso de histeria coletiva, retorna à [[Companhia de Segurança Espinho Negro]], presta relatório a [[Dunn Smith]] e ascende à [[Névoa Cinza]] para dar início à [[Reunião de Tarô]].
+Justifica o ruído místico a [[Sir Deweyville]] e testemunhas como um caso de histeria coletiva, retorna à [[Companhia de Segurança Espinho Negro]], presta relatório a [[Dunn Smith]] e ascende à [[Névoa Cinza]] para dar início à [[Clube de Tarô|Reunião de Tarô]].

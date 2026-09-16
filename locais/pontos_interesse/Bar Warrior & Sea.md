@@ -8,7 +8,7 @@ aliases:
 
 # Bar Warrior & Sea
 
-Um bar comercial situado na [[Rua Pelican]], no [[Burgo Rosa Branca]] do [[Porto Pritz]], dentro do [[Reino Loen]].
+Um bar comercial situado na Rua Pelican, no [[Burgo Rosa Branca]] do [[Porto Pritz]], dentro do [[Reino Loen]].
 
 ## Eventos no Local
 

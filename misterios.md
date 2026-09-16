@@ -137,3 +137,4 @@ tags:
 - Motivo pelo qual um membro ainda não identificado dos [[Punidores Mandatários]], veterano que servira sob [[Swain]] por quase trinta anos, perdeu o controle nas proximidades do porto de [[Cidade Tingen|Tingen]]; a criatura foi morta por Swain sem que a causa fosse esclarecida.
 - Motivo do profundo abalo de [[Gawain]] diante da proposta de [[Klein Moretti]] de combinar armas brancas e de fogo em esquadrões móveis de ataque surpresa, possivelmente ligado ao trauma de sua ordem de cavalaria extinta.
 - Identidade, objetivos e afiliação do [[Sr. A]], poderoso Beyonder que lidera a [[Reunião Secreta de Backlund]], e o propósito do encontro de Beyonders independentes na capital.
+- Se as tatuagens corporais com os caracteres criados por [[Roselle Gustav]] conferem de fato vitalidade física e saúde ao usuário, como alegado pelo vendedor do diário, ou se acarretam perigos místicos desconhecidos.

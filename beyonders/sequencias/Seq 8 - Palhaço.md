@@ -9,7 +9,7 @@ aliases:
 
 A Sequência 8 do [[Caminho do Vidente]]. Foi revelada pelo [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] durante a tentativa de recuperar o [[Caderno da Família Antigonus]].
 
-Foi confirmada por [[Klein Moretti]], em adivinhação [[Acima da Névoa Cinza]], bem como pelo integrante da [[Ordem Secreta]] e por [[Dunn Smith]], como a oitava sequência do [[Caminho do Vidente]]. Suas pistas de obtenção apontam em adivinhação onírica para o [[Caderno da Família Antigonus]], indicando conexão com a [[Ordem Secreta]].
+Foi confirmada por [[Klein Moretti]], em adivinhação [[Névoa Cinza|Acima da Névoa Cinza]], bem como pelo integrante da [[Ordem Secreta]] e por [[Dunn Smith]], como a oitava sequência do [[Caminho do Vidente]]. Suas pistas de obtenção apontam em adivinhação onírica para o [[Caderno da Família Antigonus]], indicando conexão com a [[Ordem Secreta]].
 
 As cartas de [[Sirius Arapis]] confirmam que a fórmula de Palhaço constava entre as três fórmulas contidas no [[Caderno da Família Antigonus]] e enviadas ao [[Senhor Z|Sr. Z]]. A fórmula completa da poção foi obtida por [[Klein Moretti]] através de um ritual de mediunidade com adivinhação em sonho sobre o espírito de Sirius.
 

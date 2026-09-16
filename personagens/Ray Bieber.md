@@ -25,5 +25,5 @@ Teve os restos mortais de carne esmagada e ossos brancos espalhados examinados p
 
 Deixa para trás uma massa branco-acinzentada em formato de cérebro, composta por matéria-prima extraordinária resultante da concentração dos poderes Beyonder que não chegaram a ser totalmente assimilados antes da sua mutação.
 
-Teve o incidente de sua permanência em [[Cidade Tingen|Tingen]] confirmado por [[Klein Moretti]], via adivinhação [[Acima da Névoa Cinza]], como alvo de interferências e contramedidas místicas de uma força oculta que bloqueou os resultados.
+Teve o incidente de sua permanência em [[Cidade Tingen|Tingen]] confirmado por [[Klein Moretti]], via adivinhação [[Névoa Cinza|Acima da Névoa Cinza]], como alvo de interferências e contramedidas místicas de uma força oculta que bloqueou os resultados.
 

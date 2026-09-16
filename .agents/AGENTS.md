@@ -3,7 +3,7 @@
 Este documento define como qualquer Inteligência Artificial deve interagir com este cofre de notas no **Obsidian** (Segundo Cérebro).
 
 > [!info] Skill Especializada
-> Este cofre possui uma skill especializada (`lotm-tracker`) com instruções detalhadas de workflow operacional, taxonomia de tags e templates. Consulte `.agents/skills/lotm-tracker/SKILL.md` para o protocolo completo de processamento de capítulos e gerenciamento de notas. As regras deste documento (AGENTS.md) são gerais e complementares àquela skill.
+> Este cofre possui uma skill especializada (`lotm-tracker`) com instruções detalhadas de workflow operacional, taxonomia de tags e templates. Consulte `.agents/skills/lotm-tracker/SKILL.md` para as regras de conteúdo e `.agents/skills/lotm-tracker/references/chapter-protocol.md` para o fluxo de processamento de capítulos. Verificação determinística: `.agents/skills/lotm-tracker/scripts/validate.sh`. As regras deste documento (AGENTS.md) são gerais e complementares àquela skill.
 
 ## 1. Filosofia de Conteúdo
 

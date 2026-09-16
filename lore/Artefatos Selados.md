@@ -1,6 +1,8 @@
 ---
 tags:
   - lore
+aliases:
+  - Artefato Selado
 ---
 
 # Artefatos Selados

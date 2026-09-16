@@ -6,7 +6,7 @@ tags:
 
 # Residência da Família Wood
 
-Casa geminada com terraço, varanda e um pequeno gramado frontal, localizada na Rua Fania, no [[Burgo Norte]] da [[Cidade Tingen]]. É a residência do Sr. Wood, funcionário do [[Banco Backlund]], e de seus filhos [[Selena Wood]] e Chris Wood.
+Casa geminada com terraço, varanda e um pequeno gramado frontal, localizada na Rua Fania, no Burgo Norte da [[Cidade Tingen]]. É a residência do Sr. Wood, funcionário do [[Banco Backlund]], e de seus filhos [[Selena Wood]] e Chris Wood.
 
 ## Eventos no Local
 

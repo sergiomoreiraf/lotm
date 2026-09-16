@@ -15,4 +15,4 @@ Conduz reuniões do [[Clube de Tarô]] avaliando a proposta de [[Audrey Hall|Jus
 
 É interceptado na saída do treino por [[Leonard Mitchell]] em uma carruagem e recebe o relatório policial apontando que a taxa de mortalidade em [[Cidade Tingen]] quintuplicou nas últimas duas semanas, integrando sua primeira missão em grupo ao lado de Leonard e [[Frye]] na [[Cidade Tingen|Rua da Cruz de Ferro]].
 
-Investiga com [[Leonard Mitchell]] e [[Frye]] a morte da [[Sra. Lauwis]] na [[Rua Cruz de Ferro|Rua Inferior]], realizando uma adivinhação com moeda que confirma a presença de fatores sobrenaturais no incidente, apesar do exame físico indicar ataque cardíaco.
+Investiga com [[Leonard Mitchell]] e [[Frye]] a morte da [[Sra. Lauwis]] na Rua Inferior, realizando uma adivinhação com moeda que confirma a presença de fatores sobrenaturais no incidente, apesar do exame físico indicar ataque cardíaco.

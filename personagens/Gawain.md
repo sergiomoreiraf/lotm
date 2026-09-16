@@ -7,7 +7,7 @@ aliases:
 
 # Gawain
 
-Um ex-cavaleiro pertencente à extinta Ordem de Cavalaria dos Cavaleiros de Awwa, contratado pelo departamento de polícia para atuar como instrutor de combate de [[Klein Moretti]]. É um homem alto de cabelos loiros curtos entremetidos com fios brancos e rosto profundamente enrugado pela idade. Reside na [[Residência de Gawain]] nos arredores do [[Burgo Norte]] da [[Cidade Tingen]].
+Um ex-cavaleiro pertencente à extinta Ordem de Cavalaria dos Cavaleiros de Awwa, contratado pelo departamento de polícia para atuar como instrutor de combate de [[Klein Moretti]]. É um homem alto de cabelos loiros curtos entremetidos com fios brancos e rosto profundamente enrugado pela idade. Reside na [[Residência de Gawain]] nos arredores do Burgo Norte da [[Cidade Tingen]].
 
 ## Evolução narrativa
 

@@ -5,7 +5,7 @@ tags:
 
 # Escola de Pensamento da Vida
 
-A Escola de Pensamento da Vida é uma organização secreta mística que surgiu no início da [[Quinta Era]].
+A Escola de Pensamento da Vida é uma organização secreta mística que surgiu no início da [[Quinta Época|Quinta Era]].
 
 ## Evolução narrativa
 
