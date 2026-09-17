@@ -1,8 +1,6 @@
 ---
 tags:
   - personagem
-aliases:
-  - Elizabeth
 ---
 
 # Elizabeth
@@ -10,6 +8,8 @@ aliases:
 Ex-colega de escola de [[Melissa Moretti]] e [[Selena Wood]], atualmente aluna da [[Escola Pública Ivos]]. Possui cabelos castanhos naturalmente cacheados e bochechas com gordura de bebê. Interessa-se por misticismo e adquiriu um [[Amuletos Místicos|amuleto de prata]] de [[Klein Moretti]] no mercado subterrâneo do Porto de Tingen para presentear Selena em seu aniversário.
 
 ## Evolução narrativa
+
+### O Incidente do Espelho Mágico
 
 Reencontra [[Klein Moretti]] no banquete de aniversário de [[Selena Wood]] e revela que Selena adorou o amuleto de prata comprado por ela no mercado subterrâneo, destacando que a amiga relatou melhora na saúde ao usá-lo.
 
@@ -19,6 +19,8 @@ Sob o pretexto de uma surpresa, conduz [[Selena Wood]] até o quarto, bate na po
 
 Ouve as revelações de [[Selena Wood]] após ela acordar do desmaio, obtém o encantamento em [[Hermes]] que evoca o [[O Criador|Verdadeiro Criador]] e o transmite a [[Klein Moretti]], prometendo guardar segredo sobre o interesse dele por misticismo.
 
+### Adivinhação e os Pesadelos de Lamud
+
 Acompanha [[Melissa Moretti]] e [[Selena Wood]] ao seminário de orçamento doméstico, retirando-se com as amigas ao ouvirem discursos dogmáticos. Visita a [[Loja de Departamentos Harrods]] e o [[Clube de Adivinhação]] com Selena, confirmando a presença de [[Klein Moretti]] entre os membros cadastrados do clube.
 
-
+Procura [[Klein Moretti]] para uma consulta na Sala Ágata Vermelha do [[Clube de Adivinhação]] devido a pesadelos recorrentes iniciados em suas férias na [[Cidade Lamud]], onde é perseguida por um cavaleiro de armadura preta completa e olhos vermelhos após sangrar nas ruínas de um castelo abandonado nas montanhas.

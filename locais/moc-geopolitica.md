@@ -25,6 +25,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
       - [[Burgo Rosa Branca]]
     - [[Porto de Enmat]]
     - [[Baía de Desi]]
+    - [[Cidade Lamud]]
   - [[Império Intis]]
     - [[Burgo Richeux]]
   - [[Feysac]]

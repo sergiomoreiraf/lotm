@@ -53,7 +53,6 @@ tags:
 - Origem, natureza e riscos da adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
 - Verdadeira motivação e afiliação de [[Lawson Darkwade]], o boticário de Tingen que forneceu um remédio de [[Lenburg]] para curar a pneumonia de [[Glacis]].
 - Localização e natureza da residência sagrada do [[O Criador|Criador]] citada pela [[Ordem Aurora]], e se corresponde à lendária [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
-- Se o Rei do [[Reino Loen]] pretende se vingar do [[Feysac|Império Feysac]] e deflagrar uma nova guerra na costa leste de [[Império Balam|Balam]] até meados do próximo ano.
 - Causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que "estavam mentindo" ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
 - Limites do controle de [[Klein Moretti]] sobre a [[Névoa Cinza]]: responde preces e transmite mensagens para [[Audrey Hall]] e [[Alger Wilson]], mas não utiliza diretamente os poderes do espaço para conceder feitiços ou manipular o mundo físico.
 - Significado e origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) nas costas das cadeiras do [[Clube de Tarô]] conforme os membros sobem de nível ou ativam habilidades Beyonder.
@@ -133,8 +132,9 @@ tags:
 - Qual divindade é representada pela [[Estatueta de Osso]] de cabelos cobertos de olhos levada por [[Trissy]], e que poder a estatueta concede.
 - Qual era o propósito do feitiço de [[Trissy]] ao recolher uma flor manchada com o sangue de [[Leonard Mitchell]] antes de queimá-la em cinzas na margem do [[Rio Tussock]].
 - Significado do jato de sangue que irrompe do [[Espelho de Prata do Edifício Alvo]] no momento em que os [[Falcões Noturnos]] se aproximam do prédio.
-- Causa do agravamento do estado de [[Ademisaul]], que passou a se deitar estremecendo e a repetir que todos são cadáveres e que todo mundo tem que morrer.
+- Causa da visão e do pânico de [[Ademisaul]], que presenciou em sonho premonitório um massacre repleto de cadáveres incluindo a si mesmo, e a razão de seu terror extremo ao ser interrogado por [[Klein Moretti]].
 - Motivo pelo qual um membro ainda não identificado dos [[Punidores Mandatários]], veterano que servira sob [[Swain]] por quase trinta anos, perdeu o controle nas proximidades do porto de [[Cidade Tingen|Tingen]]; a criatura foi morta por Swain sem que a causa fosse esclarecida.
 - Motivo do profundo abalo de [[Gawain]] diante da proposta de [[Klein Moretti]] de combinar armas brancas e de fogo em esquadrões móveis de ataque surpresa, possivelmente ligado ao trauma de sua ordem de cavalaria extinta.
 - Identidade, objetivos e afiliação do [[Sr. A]], poderoso Beyonder que lidera a [[Reunião Secreta de Backlund]], e o propósito do encontro de Beyonders independentes na capital.
 - Se as tatuagens corporais com os caracteres criados por [[Roselle Gustav]] conferem de fato vitalidade física e saúde ao usuário, como alegado pelo vendedor do diário, ou se acarretam perigos místicos desconhecidos.
+- Identidade e origem do cavaleiro de armadura preta completa e olhos vermelhos brilhantes que persegue [[Elizabeth]] em pesadelos recorrentes, aproximando-se a cada sonho após ela sangrar em um castelo abandonado nas montanhas de [[Cidade Lamud]].

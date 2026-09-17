@@ -32,3 +32,7 @@ Tenta praticar a articulação vocal atrás dos arbustos do jardim no Burgo Impe
 É objeto de consulta de [[Audrey Hall]] durante a reunião do [[Clube de Tarô]], onde é decidido que será treinada em dicção e vocabulário para atuar como assistente e espiã discreta em reuniões aristocráticas e políticas.
 
 Observa o retorno de [[Audrey Hall]] da [[Reunião Secreta de Backlund]] com um olhar direto e perspicaz, chamando a atenção de sua dona para a expressividade de sua postura.
+
+### Espionagem e Relato Político
+
+Ouve no escritório as deliberações do conde Hall com membros do parlamento e relata a [[Audrey Hall]] o acordo entre o rei e o primeiro-ministro para suspender temporariamente a vingança contra o [[Feysac|Império Feysac]] em [[Império Balam|Balam]] e priorizar a aprovação da reforma do funcionalismo público por concurso antes de outubro, sendo recompensada com biscoitos caninos.
