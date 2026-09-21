@@ -5,4 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 132 - Encontrando o Monstro Novamente
+- **Último Capítulo Processado:** Capítulo 133 - Amuletos Caros
+

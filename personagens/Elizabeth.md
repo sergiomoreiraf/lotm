@@ -24,3 +24,6 @@ Ouve as revelações de [[Selena Wood]] após ela acordar do desmaio, obtém o e
 Acompanha [[Melissa Moretti]] e [[Selena Wood]] ao seminário de orçamento doméstico, retirando-se com as amigas ao ouvirem discursos dogmáticos. Visita a [[Loja de Departamentos Harrods]] e o [[Clube de Adivinhação]] com Selena, confirmando a presença de [[Klein Moretti]] entre os membros cadastrados do clube.
 
 Procura [[Klein Moretti]] para uma consulta na Sala Ágata Vermelha do [[Clube de Adivinhação]] devido a pesadelos recorrentes iniciados em suas férias na [[Cidade Lamud]], onde é perseguida por um cavaleiro de armadura preta completa e olhos vermelhos após sangrar nas ruínas de um castelo abandonado nas montanhas.
+
+Adormece sobre a mesa da sala de adivinhação e tem seu sonho acessado por [[Klein Moretti]], presenciando-o intervir e dispersar a manifestação do cavaleiro fantasmagórico. Ao acordar, é tranquilizada com a garantia de que os pesadelos cessarão em até uma semana, paga a consulta com uma cédula de um [[Sistema Monetário do Reino Loen|soli]] e parte aliviada.
+
