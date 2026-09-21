@@ -15,3 +15,5 @@ Recebe de [[Backlund]] o telégrafo confirmando que uma passageira viu [[Trissy]
 
 Na [[Companhia de Segurança Espinho Negro]], recebe o relatório de [[Klein Moretti]] sobre o sonho premonitório de [[Ademisaul]] e decide encaminhar a questão à Santa Catedral da [[Igreja da Deusa da Noite Eterna]]. Ao ser informado sobre a assombração espiritual de [[Elizabeth]] na [[Cidade Lamud]], organiza uma expedição imediata com Klein e [[Frye]], requisitando o [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]] para a operação.
 
+No [[Castelo Antigo de Lamud]], arrasta o espectro de armadura negra, [[Klein Moretti]] e [[Frye]] para um sonho coletivo tático a fim de protelar o confronto, mantendo a criatura sob o raio de purificação do [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]] por mais de um minuto até sua completa aniquilação.
+

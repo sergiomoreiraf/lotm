@@ -5,5 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 133 - Amuletos Caros
-
+- **Último Capítulo Processado:** Capítulo 134 - Já Se Passou Mais de Um Minuto

@@ -2,11 +2,13 @@
 tags:
   - local
   - regiao/continente-norte
+aliases:
+  - Midseashires
 ---
 
 # Midseashire
 
-Uma região geopolítica ou condado localizado dentro do [[Reino Loen]], no [[Continente Norte]].
+Um condado localizado no [[Reino Loen]], no [[Continente Norte]], que serve de marco de fronteira entre o reino e o [[Império Intis|República Intis]].
 
 ## Evolução narrativa
 

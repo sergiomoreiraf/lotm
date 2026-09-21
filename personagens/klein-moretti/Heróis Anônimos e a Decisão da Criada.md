@@ -17,3 +17,5 @@ No [[Bar do Dragão Maligno]], tenta interrogar [[Ademisaul]] e constata por mei
 
 Utiliza um [[Amuletos Místicos|Amuleto dos Sonhos]] de prata e penetra no sonho de [[Elizabeth]], identificando no cavaleiro a vontade residual de um fantasma e destruindo a ilusão para libertá-la da assombração. Na [[Companhia de Segurança Espinho Negro]], relata a [[Dunn Smith]] a premonição de massacre de [[Ademisaul]] como símbolo de um desastre em larga escala e a assombração em [[Cidade Lamud]], sendo designado para uma expedição imediata ao local ao lado de Dunn e [[Frye]] com o suporte do [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]].
 
+Na expedição ao [[Castelo Antigo de Lamud]] com [[Dunn Smith]] e [[Frye]], enfrenta o espectro de armadura negra em meio a um sonho coletivo tático criado por Dunn; mesmo dentro da ilusão onírica mantém a lucidez, dispara contra a manopla direita da criatura e testemunha sua destruição pela purificação do [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]], percebendo em seguida uma forte perturbação espiritual próxima às escadarias das ruínas.
+

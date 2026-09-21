@@ -137,4 +137,4 @@ tags:
 - Motivo do profundo abalo de [[Gawain]] diante da proposta de [[Klein Moretti]] de combinar armas brancas e de fogo em esquadrões móveis de ataque surpresa, possivelmente ligado ao trauma de sua ordem de cavalaria extinta.
 - Identidade, objetivos e afiliação do [[Sr. A]], poderoso Beyonder que lidera a [[Reunião Secreta de Backlund]], e o propósito do encontro de Beyonders independentes na capital.
 - Se as tatuagens corporais com os caracteres criados por [[Roselle Gustav]] conferem de fato vitalidade física e saúde ao usuário, como alegado pelo vendedor do diário, ou se acarretam perigos místicos desconhecidos.
-- Identidade e origem do cavaleiro de armadura preta completa e olhos vermelhos brilhantes que persegue [[Elizabeth]] em pesadelos recorrentes, aproximando-se a cada sonho após ela sangrar em um castelo abandonado nas montanhas de [[Cidade Lamud]].
+- Identidade e origem do cavaleiro de armadura preta completa nascido de um senhor feudal da [[Quarta Época]] no [[Castelo Antigo de Lamud]], e a misteriosa emanação de miséria e impureza sentida pela espiritualidade de [[Klein Moretti]] nas escadarias das ruínas após a purificação do espectro.

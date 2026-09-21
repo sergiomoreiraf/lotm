@@ -6,8 +6,10 @@ tags:
 
 # Cidade Lamud
 
-Uma cidade localizada no [[Reino Loen]], em cujas redondezas montanhosas localiza-se um antigo castelo abandonado e onde a família de [[Elizabeth]] mantém propriedades de férias.
+Uma cidade situada na borda noroeste de [[Cidade Tingen]], no [[Reino Loen]]. Preserva características arquitetônicas anteriores à industrialização a vapor, com ausência quase total de fábricas e economia baseada em aldeias comerciais próximas. A família de [[Elizabeth]] mantém propriedades de veraneio no local.
 
 ## Evolução narrativa
 
-Durante as férias de [[Elizabeth]], a jovem fere-se em arbustos de amoras nas ruínas do castelo abandonado próximo à cidade, deixando sangue no local e desencadeando pesadelos premonitórios com uma entidade de armadura negra.
+Durante as férias de [[Elizabeth]], a jovem fere-se em arbustos de amoras nas ruínas do [[Castelo Antigo de Lamud]], deixando sangue no local e desencadeando pesadelos premonitórios com uma entidade de armadura negra.
+
+Os [[Falcões Noturnos]] ([[Dunn Smith]], [[Klein Moretti]] e [[Frye]]) viajam até a cidade e dirigem-se às ruínas na montanha, purificando com o [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]] o espectro feudal que assombrava a região.

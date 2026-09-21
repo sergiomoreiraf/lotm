@@ -2,11 +2,13 @@
 tags:
   - local
   - regiao/continente-norte
+aliases:
+  - Cordilheira Hornacis
 ---
 
 # Cadeia de Montanhas Hornacis
 
-Uma grande cordilheira situada no [[Continente Norte]].
+Uma grande cordilheira situada no [[Continente Norte]], integrando a fronteira natural entre o [[Reino Loen]] e o [[Império Intis|República Intis]].
 
 ## Evolução narrativa
 
@@ -21,4 +23,3 @@ Pesquisas adicionais de [[Klein Moretti]] confirmam a existência de um reino an
 Pesquisas adicionais de [[Klein Moretti]] na monografia de [[John Joseph]] revelam que os habitantes do pico principal reverenciavam a [[Deusa da Noite Eterna|Governante da Noite Eterna]] e mantinham mortos em casa por três dias acreditando em sua proteção noturna. A fotografia do palácio nas ruínas apresenta estilo idêntico ao palácio com o assento gigante dos sonhos de Klein.
 
 Cartas de [[Sirius Arapis]] indicam que a [[Família Antigonus]] escondeu um tesouro secreto nas ruínas de seu pico principal para viabilizar seu renascimento. [[Klein Moretti]] deduz que ter contato prévio com o caderno e consumir a poção de [[Seq 9 - Vidente|Vidente]] são condições necessárias para ouvir os murmúrios "Hornacis".
-

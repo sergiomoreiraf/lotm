@@ -41,3 +41,7 @@ Já dentro do [[Edifício Alvo]], tenta em vão confortar as sombras flutuantes 
 
 Integra com [[Dunn Smith]] e [[Leonard Mitchell]] a inspeção do retrato esboçado por [[Klein Moretti]] e reage com choque à hipótese de que a mulher seja o próprio Instigador Tris, perguntando com descrença se poções seriam capazes de tal transformação.
 
+### A Expedição ao Castelo de Lamud
+
+Conduz a carruagem dos [[Falcões Noturnos]] até a [[Cidade Lamud]] devido à restrição de permanência de [[Cesare Francis]] perto do [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]]. No [[Castelo Antigo de Lamud]], transforma os olhos em branco-acinzentado para enfrentar o espectro, identifica a manopla direita como ponto focal e atira contra ela, participando do sonho tático orquestrado por [[Dunn Smith]] até a purificação final da criatura.
+
