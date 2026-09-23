@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 135 - Retrato de um Barão
+- **Último Capítulo Processado:** Capítulo 136 - O Klein Perplexo

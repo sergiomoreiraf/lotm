@@ -36,3 +36,5 @@ Confessa a [[Klein Moretti]] seu temor da morte e a angústia pela ausência de 
 ### Semelhança com o Primeiro Barão Lamud
 
 [[Klein Moretti]] constata, em uma pintura a óleo conservada na [[Cidade Lamud]], que o [[Primeiro Barão Lamud|primeiro barão que residiu no Castelo Antigo de Lamud]] tem feições notavelmente semelhantes às suas e possui um sinal abaixo da orelha direita exatamente na mesma posição do seu.
+
+[[Klein Moretti]] especula que o barão retratado e o professor sejam a mesma pessoa, ou que [[Azik]] sobreviva há séculos por meio de perdas cíclicas de memória.
