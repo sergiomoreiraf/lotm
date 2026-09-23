@@ -55,4 +55,4 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
 
 ## Localidades de Localização Desconhecida
 
-- [[Cidade de Prata]] — cidade do [[Povo das Trevas]] em terra sem sol, lua ou estrelas; suspeita de corresponder à [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
+- [[Cidade de Prata]] — cidade do [[Povo das Trevas]] em terra sem sol, lua ou estrelas; antigo [[Cidade de Prata|Reino de Prata]], governada pelo [[Conselho de Seis Membros]] e suspeita de corresponder à [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].

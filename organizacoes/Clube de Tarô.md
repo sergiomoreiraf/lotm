@@ -19,11 +19,14 @@ Durante a segunda Reunião, conclui-se a transação do [[Sangue de Tubarão Fan
 
 Na reunião regular, os membros aprendem com [[Klein Moretti|O Tolo]] que o [[Método de Atuação]] permite digerir poções de baixa Sequência em meio ano ou um mês, e estabelece-se o procedimento formal para notificação de ausências ritualísticas e as regras para admissão de novos integrantes.
 
+[[Derrick Berg]] passa a adotar "O Sol" como codinome, escolhendo-o entre as cartas de tarô apresentadas por [[Klein Moretti|O Tolo]], que o instrui a evitar proximidade com outras pessoas até a próxima reunião.
+
 ## Estrutura e Hierarquia
 
 - [[Klein Moretti|O Tolo]] — Fundador e testemunha dos comércios do clube.
 - [[Audrey Hall|Justiça]] — Membro fundador.
 - [[Alger Wilson|O Enforcado]] — Membro fundador.
+- [[Derrick Berg|Sol]] — Membro que adotou o arcano O Sol como codinome.
 
 ## Dinâmicas e Operações
 

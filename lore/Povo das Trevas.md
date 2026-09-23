@@ -10,7 +10,9 @@ Um povo que se designa "Povo das Trevas", considera-se abandonado por Deus e dir
 ## Maldição e Costumes
 
 - Todos os mortos do povo se transformam em espíritos malignos, sem forma conhecida de reverter o processo; por isso, um membro da família deve tirar a vida dos moribundos antes que a transformação ocorra.
+- A única forma de impedir o surgimento de um espírito maligno é que a pessoa seja morta por alguém de sua própria linhagem; o espírito de um Beyonder é mais estranho, aterrorizante e difícil de lidar que o de um plebeu.
 - O dever é cumprido com uma espada de prata, em um necrotério, e visto como demonstração de respeito pelos pais.
+- Segundo a crença do povo, quando havia um Sol brilhando sobre a terra nenhuma maldição era encontrada.
 
 ## Oração e Devoção
 

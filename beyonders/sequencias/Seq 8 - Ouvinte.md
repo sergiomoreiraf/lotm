@@ -3,11 +3,12 @@ tags:
   - caminho/sequencia
 aliases:
   - Ouvinte
+  - Sussurro
 ---
 
 # Seq 8 - Ouvinte
 
-A Sequência 8 detida pela [[Ordem Aurora]]. Considerada uma classe aterrorizante entre os Beyonders.
+A Sequência 8 detida pela [[Ordem Aurora]]. Considerada uma classe aterrorizante entre os Beyonders. Na [[Cidade de Prata]], o mesmo degrau da cadeia é designado como Sussurro.
 
 ## Poderes Conhecidos
 

@@ -70,6 +70,13 @@ tags:
 - Se o "Deus onipotente e onisciente, o Senhor que tudo criou" citado por [[Derrick Berg]] corresponde ao [[O Criador|Criador]] e por que abandonou o [[Povo das Trevas]].
 - Diferença de escala temporal e de calendário entre a [[Cidade de Prata]] e o [[Reino Loen]], já que [[Klein Moretti]] desconhece a unidade de tempo usada por aquele povo.
 - Hipótese de [[Daly]] e [[Dunn Smith|Dunn]] sobre caminhos de Sequência não-lineares, cujas habilidades independentes de sequências baixas e médias se fundem na [[Semideus|Sequência 4]].
+- Por que a única forma de impedir que um morto da [[Cidade de Prata]] se torne um espírito maligno é que ele seja morto por alguém de sua própria linhagem, e qual vínculo místico de sangue opera nesse impedimento.
+- Se a [[Cidade de Prata]] e o [[Continente Norte]] compartilham a mesma história da [[Segunda Época]], como suspeita [[Klein Moretti]] ao ouvir os nomes das Sequências locais.
+- Por que monstros mortos rendem fórmulas de poções: seriam eles humanos, Beyonders transformados?
+- Se as cidades de estilo arquitetônico estranho encontradas na fronteira da [[Cidade de Prata]] eram santuários de humanos remanescentes e a qual divindade eram dedicadas.
+- Se o [[Rei Gigante]] era um Gigante antigo e se o deus surgido na [[Terceira Época]] herdou a propriedade dele, como especula [[Klein Moretti]].
+- A qual caminho pertencem as Sequências [[Seq 7 - Asceta das Sombras|Asceta das Sombras]], [[Seq 6 - Bispo Vermelho]] e [[Seq 5 - Pastor]], e se formam com o [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] e o [[Seq 8 - Ouvinte|Sussurro]] a cadeia completa da [[Ordem Aurora]].
+- Quais são as Sequências 3, 2 e 1 do [[Caminho do Gigante]], cujos nomes superiores são conhecidos apenas pelos anciãos do [[Conselho de Seis Membros]].
 - Condições excepcionais e o processo de exames rigorosos que permitiram a [[Daly]] avançar de poção antes do prazo regulamentar de três anos mantido pelos [[Falcões Noturnos]].
 - Perigos e horrores ocultos atrás do [[Portão Chanis]] durante a noite, que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos externos.
 - Qual poção de Sequência específica e quais materiais Beyonder [[Fors Wall]] possui e pretende negociar em troca do resgate de sua parceira.

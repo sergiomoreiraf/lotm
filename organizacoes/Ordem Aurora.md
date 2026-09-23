@@ -19,6 +19,8 @@ Teve a confirmação de que [[Sirius Arapis]] atuava como um [[Seq 9 - Suplicant
 
 Teve a localização de sua Residência Sagrada do [[O Criador|Verdadeiro Criador]] questionada por [[Alger Wilson|O Enforcado]] no [[Clube de Tarô]] quanto a uma possível correspondência com a [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
 
+[[Derrick Berg]] revela que o caminho cuja Sequência 9 é o [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] segue com [[Seq 8 - Ouvinte|Sussurro]], [[Seq 7 - Asceta das Sombras]], [[Seq 6 - Bispo Vermelho]] e [[Seq 5 - Pastor]], nomes preservados na [[Cidade de Prata]]; [[Klein Moretti]] reconhece na Sequência 8 a classe [[Seq 8 - Ouvinte|Ouvinte]] que conhece e nota no [[Seq 5 - Pastor|Pastor]] uma reminiscência do estilo da organização.
+
 ## Estrutura e Hierarquia
 
 - [[Pai de Jack]] — Membro que atua como [[Seq 8 - Ouvinte|Ouvinte]].
