@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 136 - O Klein Perplexo
+- **Último Capítulo Processado:** Capítulo 137 - Cidade de Prata

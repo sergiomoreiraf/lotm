@@ -13,12 +13,12 @@ Cronologia geral dos eventos históricos documentados ao longo da leitura de _Lo
 
 ## Segunda Época
 
-- **Surgimento da Primeira Ardósia:** A primeira [[Ardósia da Blasfêmia]] surge nesta época (conhecida como Época das Trevas), contendo caminhos para a divindade.
+- **Surgimento da Primeira Ardósia:** A primeira [[Ardósia da Blasfêmia]] surge no final desta época (conhecida como Época das Trevas), contendo caminhos para a divindade e originando o próprio termo Sequência.
 - **Fim da Era:** Despertar da [[Deusa da Noite Eterna]].
 
 ## Terceira Época
 
-- **Era do Cataclismo:** Ocorre o [[Terceira Época|Cataclismo]], sobrevivido pela humanidade com a ajuda das divindades ortodoxas, período no qual também surgem a [[Mãe Terra]] e o [[Deus da Guerra]].
+- **Era do Cataclismo:** Ocorre o [[Terceira Época|Cataclismo]], sobrevivido pela humanidade com a ajuda das divindades ortodoxas, período no qual também surgem a [[Mãe Terra]] e o [[Deus do Combate|Deus da Guerra]].
 - **Surgimento da Segunda Ardósia:** A segunda [[Ardósia da Blasfêmia]] surge no final da Época do Cataclismo, simbolizando o seu término.
 
 ## Quarta Época

@@ -52,3 +52,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
 
 - [[Rio Tussock]]
   - [[Rio Khoy]]
+
+## Localidades de Localização Desconhecida
+
+- [[Cidade de Prata]] — cidade do [[Povo das Trevas]] em terra sem sol, lua ou estrelas; suspeita de corresponder à [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].

@@ -61,9 +61,14 @@ tags:
 - Por que a [[Ordem Secreta]] detém a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço|Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais.
 - Processo místico pelo qual a poção não absorvida de um Beyonder em [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido como matéria-prima extraordinária.
 - Verdade por trás da lenda de que o [[Sábio Oculto]], originalmente uma lei natural e conceito de numerologia espiritual, ganhou vida e se tornou uma divindade maligna, corrompendo a [[Ordem Ascética de Moisés]].
-- Identidade do jovem de cabelos castanho-amarelados e meias-calças pretas avistado por [[Klein Moretti]] ao espionar a estrela carmesim na [[Névoa Cinza]], e a natureza de sua oração em [[Jotun]] à "Magnífica Divindade" pela libertação do [[Povo das Trevas]] da maldição de seu destino e pela terra abandonada.
-- Identidade da "Magnífica Divindade" a quem o [[Povo das Trevas]] dirige suas orações e se ela corresponde a alguma divindade conhecida.
-- Natureza da maldição do destino que o [[Povo das Trevas]] busca remover e a relação entre a terra abandonada por sua divindade e a [[Terra Esquecida pelos Deuses]].
+- Qual é a Sequência inicial do caminho associado ao [[Sol]] e o que significa, para [[Derrick Berg]], "se tornar o Sol".
+- Qual cidade há muito destruída usava a [[Bola de Cristal]] da casa de [[Derrick Berg]] para adorar sua divindade, e a qual divindade ela era dedicada.
+- Como a oração de um não-Beyonder da [[Cidade de Prata]] alcançou o espaço da [[Névoa Cinza]] por meio da [[Bola de Cristal]].
+- Identidade da "Magnífica Divindade" a quem o [[Povo das Trevas]] dirige suas orações, se ela corresponde a alguma divindade conhecida e por que não respondeu à prece de [[Derrick Berg]], atendida por [[Klein Moretti|O Tolo]].
+- Causa mística pela qual todos os mortos da [[Cidade de Prata]] se transformam em espíritos malignos, obrigando um membro da família a tirar a vida dos moribundos.
+- Se a [[Cidade de Prata]] é de fato a [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]], se foi separada do continente no final da [[Segunda Época]] e qual a relação disso com o cataclismo da [[Terceira Época]].
+- Se o "Deus onipotente e onisciente, o Senhor que tudo criou" citado por [[Derrick Berg]] corresponde ao [[O Criador|Criador]] e por que abandonou o [[Povo das Trevas]].
+- Diferença de escala temporal e de calendário entre a [[Cidade de Prata]] e o [[Reino Loen]], já que [[Klein Moretti]] desconhece a unidade de tempo usada por aquele povo.
 - Hipótese de [[Daly]] e [[Dunn Smith|Dunn]] sobre caminhos de Sequência não-lineares, cujas habilidades independentes de sequências baixas e médias se fundem na [[Semideus|Sequência 4]].
 - Condições excepcionais e o processo de exames rigorosos que permitiram a [[Daly]] avançar de poção antes do prazo regulamentar de três anos mantido pelos [[Falcões Noturnos]].
 - Perigos e horrores ocultos atrás do [[Portão Chanis]] durante a noite, que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos externos.

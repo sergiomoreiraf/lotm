@@ -18,6 +18,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Louco Pobre e o Chamado de Swain]] — Obtém a aprovação de Dunn Smith em tiro, debate táticas de armas com Gawain e, falido, é recrutado para caçar um Beyonder descontrolado, que adormece com um Encantamento do Sono.
 - [[Heróis Anônimos e a Decisão da Criada]] — Reflete sobre o anonimato dos Beyonders oficiais, presencia o ferimento do Velho Neil e decide contratar uma criada para a família.
 - [[O Porão Selado e o Retrato do Barão]] — Investiga o porão oculto do Castelo Antigo de Lamud e reconhece no retrato do primeiro Barão Lamud a semelhança e o sinal do professor Azik.
+- [[O Primeiro Contato com a Cidade de Prata]] — Atende a oração de Derrick Berg acima da Névoa Cinza, propõe uma troca igualitária e cobra a história da Cidade de Prata como pagamento.
 
 ## Eventos Arquivados
 

@@ -16,4 +16,4 @@ Uma das divindades ortodoxas do [[Continente Norte]].
 
 ## Relações Divinas
 
-- De acordo com registros da [[Terceira Época]], auxiliou a humanidade a sobreviver ao [[Terceira Época|Cataclismo]] junto com o [[Eterno Sol Ardente]] e a [[Deusa da Noite Eterna]].
+- De acordo com registros da [[Terceira Época]], auxiliou a humanidade a sobreviver ao [[Terceira Época|Cataclismo]] junto com a [[Deusa da Noite Eterna]], a [[Mãe Terra]], o [[Deus do Combate]], o [[Eterno Sol Ardente]] e o [[Deus do Conhecimento e da Sabedoria]].

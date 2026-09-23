@@ -14,6 +14,6 @@ O período histórico dividido em duas eras: a Era Gloriosa e a Era do Cataclism
 
 ## Marcos Históricos da Era
 
-- **O Cataclismo:** A humanidade conseguiu sobreviver a este evento devastador graças à bênção e auxílio da [[Deusa da Noite Eterna]], do [[Senhor das Tempestades]] e do [[Eterno Sol Ardente]].
-- **Surgimento de Divindades:** O surgimento da [[Mãe Terra]] e do [[Deus da Guerra]] ocorreu nesta época.
+- **O Cataclismo:** A humanidade conseguiu sobreviver a este evento devastador graças à bênção e auxílio da [[Deusa da Noite Eterna]], da [[Mãe Terra]], do [[Deus do Combate]], do [[Senhor das Tempestades]], do [[Eterno Sol Ardente]] e do [[Deus do Conhecimento e da Sabedoria]], que desceram sobre o mundo para protegê-la.
+- **Surgimento de Divindades:** O surgimento da [[Mãe Terra]] e do [[Deus do Combate|Deus da Guerra]] ocorreu nesta época.
 - **Surgimento da Segunda Ardósia:** A segunda [[Ardósia da Blasfêmia]] apareceu no final desta época, simbolizando o encerramento da Época do Cataclismo.

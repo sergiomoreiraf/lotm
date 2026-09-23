@@ -1,6 +1,8 @@
 ---
 tags:
   - organizacao/secreta
+aliases:
+  - Reunião de Tarô
 ---
 
 # Clube de Tarô

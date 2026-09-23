@@ -9,7 +9,7 @@ aliases:
 
 # Primeira Época
 
-O período inicial da história do universo, marcado pelo caos, escuridão e o despertar do [[O Criador|Criador]].
+O período inicial da história do universo, marcado pelo caos, escuridão e o despertar do [[O Criador|Criador]]. A literatura religiosa afirma que o mundo existiu em um estado sem sol durante esta época.
 
 ## Marcos Históricos da Era
 
