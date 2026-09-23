@@ -15,3 +15,4 @@ Bola de cristal pura guardada na casa de [[Derrick Berg]] na [[Cidade de Prata]]
 
 - Estava diante de [[Derrick Berg]] durante sua oração à Magnífica Divindade do [[Povo das Trevas]].
 - Serviu de meio para o primeiro contato direto entre [[Klein Moretti|O Tolo]] e um habitante da [[Cidade de Prata]].
+- Despedaçou-se por dentro após a dissipação da luz carmesim: parte dos fragmentos converteu-se em feixes de luz ilusórios e o restante caiu ao chão, deixando [[Derrick Berg]] com um símbolo carmesim na mão direita.

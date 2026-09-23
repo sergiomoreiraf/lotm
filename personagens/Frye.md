@@ -47,3 +47,5 @@ Conduz a carruagem dos [[Falcões Noturnos]] até a [[Cidade Lamud]] devido à r
 
 Permanece montando guarda junto ao mecanismo do alçapão enquanto [[Dunn Smith]] e [[Klein Moretti]] investigam o porão oculto e, em seguida, conduz os testes finais no cadáver decapitado, atestando que os vestígios de veneno junto ao pescoço apareceram há no máximo três meses.
 
+Recebe de [[Dunn Smith]] o [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] durante a separação da equipe e o repassa a [[Klein Moretti]] ao esgotar o tempo que conseguia suportá-lo, lembrando-o de afastar qualquer pessoa que se aproximasse durante o turno de duas horas.
+

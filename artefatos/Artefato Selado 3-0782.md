@@ -21,6 +21,12 @@ O Artefato Selado 3-0782, denominado Emblema Sagrado do Sol Mutante, é um item 
 - Requisitado por [[Dunn Smith]] na [[Companhia de Segurança Espinho Negro]] para equipar a expedição com [[Klein Moretti]] e [[Frye]] à [[Cidade Lamud]]. No [[Castelo Antigo de Lamud]], é empregado em conjunto com um sonho tático criado por Dunn para purificar e destruir o fantasma de armadura negra.
 - Arremessado por [[Dunn Smith]] no alçapão do porão oculto do [[Castelo Antigo de Lamud]] para dissipar a emanação corrompida que emanava do local. Durante a permanência da equipe na [[Cidade Lamud]], o membro designado o leva em passeios fora da cidade, em revezamentos de duas horas, para proteger os habitantes de sua influência.
 
+## Origem Mística
+
+- A adivinhação por sonho de [[Klein Moretti]], no espaço da [[Névoa Cinza]] e sobre uma cópia materializada do emblema, projetou uma gota de líquido dourado suspensa sobre um altar diante de um homem de manto branco clássico, de costas e sem sinais de vida, que caía lentamente na direção do altar de sacrifício; ao contato, o líquido se infiltrou no emblema.
+- O líquido dourado é apontado como a fonte da eficácia purificadora do emblema, cuja potência não diminuiu em décadas; [[Klein Moretti]] conjectura que outros videntes da [[Igreja da Deusa da Noite Eterna]] já tentaram a mesma adivinhação sem resultado.
+- Acima da [[Névoa Cinza]], [[Klein Moretti]] consegue separar a gota do emblema conjurado, deixando-a suspensa no ar, e passa a investigar sua origem.
+
 ## Nível de Periculosidade
 
 - Grau 3 (Consideravelmente perigoso).

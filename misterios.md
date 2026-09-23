@@ -18,6 +18,7 @@ tags:
 - Origem e design do palácio de bronze, mesa e cadeiras acima da névoa cinza: criação subconsciente de Klein ou reflexo de uma estrutura real?
 - Por que o ritual de quatro passos anti-horário e a ascensão à névoa cinza anulam e concedem imunidade temporária ao efeito assimilador do [[Artefato Selado 2-049]].
 - Novas funções e capacidades que o espaço acima da névoa cinza manifestará conforme [[Klein Moretti]] avançar para as Sequências 8, 7 ou superiores.
+- Se a materialização de objetos e a separação de seus componentes no espaço acima da névoa cinza produzem efeitos reais ou são apenas representações simbólicas, já que [[Klein Moretti]] separou uma gota de líquido dourado da cópia materializada do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
 
 ## O Incidente do Caderno Antigonus
 
@@ -64,6 +65,7 @@ tags:
 - Qual é a Sequência inicial do caminho associado ao [[Sol]] e o que significa, para [[Derrick Berg]], "se tornar o Sol".
 - Qual cidade há muito destruída usava a [[Bola de Cristal]] da casa de [[Derrick Berg]] para adorar sua divindade, e a qual divindade ela era dedicada.
 - Como a oração de um não-Beyonder da [[Cidade de Prata]] alcançou o espaço da [[Névoa Cinza]] por meio da [[Bola de Cristal]].
+- Natureza e significado do símbolo carmesim que surgiu no dorso da mão direita de [[Derrick Berg]] e nele se fundiu após a [[Bola de Cristal]] se despedaçar.
 - Identidade da "Magnífica Divindade" a quem o [[Povo das Trevas]] dirige suas orações, se ela corresponde a alguma divindade conhecida e por que não respondeu à prece de [[Derrick Berg]], atendida por [[Klein Moretti|O Tolo]].
 - Causa mística pela qual todos os mortos da [[Cidade de Prata]] se transformam em espíritos malignos, obrigando um membro da família a tirar a vida dos moribundos.
 - Se a [[Cidade de Prata]] é de fato a [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]], se foi separada do continente no final da [[Segunda Época]] e qual a relação disso com o cataclismo da [[Terceira Época]].
@@ -156,3 +158,5 @@ tags:
 - Identidade e motivo do responsável por abrir o caixão no porão oculto do [[Castelo Antigo de Lamud]] há mais de um mês, dissipar o [[Ritual Antigo de Impedimento de Reanimação]] e subtrair a cabeça do falecido — alguém que não é uma pessoa comum, já que não restou cadáver, e que possivelmente pretende empregar a cabeça em algum ritual, tratando-se de um cadáver especial, talvez de um descendente de um Beyonder de Sequência Intermediária (Sequência 5 ou 6).
 - Identidade do cadáver decapitado envenenado há cerca de 1300 anos no porão do [[Castelo Antigo de Lamud]], se ele foi um Beyonder em vida, e a razão de seu ressentimento ter sido preservado por tanto tempo além do próprio ritual.
 - Por que o retrato do [[Primeiro Barão Lamud]] se assemelha tanto ao professor [[Azik]] e possui um sinal abaixo da orelha direita exatamente na mesma posição do dele; se o retratado viveu há cerca de 1.400 a 1.500 anos; e se há ligação com o passado perdido de [[Azik]], com a cópia de quarenta anos guardada pelo descendente e com seus sonhos de supostas vidas passadas.
+- Qual é a natureza do líquido dourado que impregnou o [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]], se é um ingrediente avançado de Beyonder e por que seu poder de purificação não se esgotou em décadas.
+- Identidade do homem de manto branco que caiu sem vida diante do altar de sacrifício no momento em que o líquido dourado se infundiu no [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
