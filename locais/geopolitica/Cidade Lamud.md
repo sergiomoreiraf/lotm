@@ -13,3 +13,5 @@ Uma cidade situada na borda noroeste de [[Cidade Tingen]], no [[Reino Loen]]. Pr
 Durante as férias de [[Elizabeth]], a jovem fere-se em arbustos de amoras nas ruínas do [[Castelo Antigo de Lamud]], deixando sangue no local e desencadeando pesadelos premonitórios com uma entidade de armadura negra.
 
 Os [[Falcões Noturnos]] ([[Dunn Smith]], [[Klein Moretti]] e [[Frye]]) viajam até a cidade e dirigem-se às ruínas na montanha, purificando com o [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]] o espectro feudal que assombrava a região.
+
+Na noite seguinte à purificação, os Falcões Noturnos percorrem a cidade entrevistando moradores antigos com suas credenciais policiais, confirmando que o espectro só surgiu recentemente e localizando na casa de um descendente a pintura a óleo do [[Primeiro Barão Lamud]], primeiro barão do [[Castelo Antigo de Lamud]]. Durante a permanência da equipe, o membro designado leva o [[Artefato Selado 3-0782|Artefato Selado 3-0782 (Emblema Sagrado do Sol Mutante)]] em passeios fora da cidade, em revezamentos de duas horas.

@@ -32,3 +32,7 @@ Revela a [[Klein Moretti]] às margens do [[Rio Khoy]] ter perdido a memória an
 Relata sonhar constantemente com cenários contraditórios — incluindo um mausoléu com cadáveres de penas brancas, um cavaleiro em combate, um senhor feudal com família, um vagabundo com fome, uma filha de cabelos pretos e uma forca —, associando suas visões à doutrina de reencarnação da [[Igreja da Mãe Terra]] e identificando que Klein possui poderes extraordinários semelhantes aos seus.
 
 Confessa a [[Klein Moretti]] seu temor da morte e a angústia pela ausência de memórias, justificando sua opção por manter uma vida pacífica em vez de ingressar em organizações formais Beyonder. Pede que Klein atente para eventuais pistas sobre seu passado e revela preferir passar férias no [[Condado de Winter]], no norte do [[Feysac|Império Feysac]], a frequentar a [[Baía de Desi]]. Almoça com Klein e o [[Quentin Cohen|Professor Cohen]] no [[Restaurante Balam do Leste]].
+
+### Semelhança com o Primeiro Barão Lamud
+
+[[Klein Moretti]] constata, em uma pintura a óleo conservada na [[Cidade Lamud]], que o [[Primeiro Barão Lamud|primeiro barão que residiu no Castelo Antigo de Lamud]] tem feições notavelmente semelhantes às suas e possui um sinal abaixo da orelha direita exatamente na mesma posição do seu.
