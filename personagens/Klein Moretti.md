@@ -19,6 +19,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[Heróis Anônimos e a Decisão da Criada]] — Reflete sobre o anonimato dos Beyonders oficiais, presencia o ferimento do Velho Neil e decide contratar uma criada para a família.
 - [[O Porão Selado e o Retrato do Barão]] — Investiga o porão oculto do Castelo Antigo de Lamud e reconhece no retrato do primeiro Barão Lamud a semelhança e o sinal do professor Azik.
 - [[O Primeiro Contato com a Cidade de Prata]] — Atende a oração de Derrick Berg acima da Névoa Cinza, propõe uma troca igualitária e cobra a história da Cidade de Prata como pagamento.
+- [[A Adivinhação do Sol Ardente e os Oito Conhecimentos]] — Sonda a origem do líquido dourado acima da Névoa Cinza, quase morre diante do poder do Sol Ardente e obtém oito conhecimentos, entre eles as fórmulas do caminho do Sol.
 
 ## Eventos Arquivados
 

@@ -18,3 +18,4 @@ Método de misticismo dividido em três categorias com base na fonte da revelaç
 - A adivinhação não é onipotente: fornece apenas sinais simbólicos, muito fáceis de interpretar mal ou que podem ignorar algo relevante.
 - As revelações permanecem sujeitas a interferências e contramedidas místicas. Suprimir essas interferências — como no espaço da [[Névoa Cinza]] — não melhora o padrão nem o alcance da adivinhação.
 - Uma visão onírica pode retratar um evento futuro sem indicar quando ele ocorrerá, levando o adivinho a confundi-lo com o presente.
+- **Repercussão de Entidades Superiores:** Investigar a origem de algo ligado a uma divindade ou a uma entidade de alto nível pode atrair a atenção direta do ser observado. [[Klein Moretti]] foi expulso da visão, teve o corpo incendiado e só sobreviveu porque o espaço da [[Névoa Cinza]] absorveu o impacto, adotando desde então a regra de jamais adivinhar aleatoriamente assuntos que envolvam entidades de alto nível.

@@ -62,7 +62,10 @@ tags:
 - Por que a [[Ordem Secreta]] detém a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço|Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais.
 - Processo místico pelo qual a poção não absorvida de um Beyonder em [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido como matéria-prima extraordinária.
 - Verdade por trás da lenda de que o [[Sábio Oculto]], originalmente uma lei natural e conceito de numerologia espiritual, ganhou vida e se tornou uma divindade maligna, corrompendo a [[Ordem Ascética de Moisés]].
-- Qual é a Sequência inicial do caminho associado ao [[Sol]] e o que significa, para [[Derrick Berg]], "se tornar o Sol".
+- Nível de Sequência e ingredientes principais da poção de [[Sacerdote da Luz]], e se a classe é o antigo nome do [[Seq 7 - Sumo Sacerdote do Sol]].
+- Quais são os ingredientes complementares da poção de [[Seq 4 - Sem Sombra]].
+- Por que o [[Eterno Sol Ardente]] é extremamente hostil ao [[Senhor das Tempestades]] e ao [[Deus do Conhecimento e da Sabedoria]].
+- O que significa "anjo branco puro", uma das informações captadas de [[Eterno Sol Ardente]] por [[Klein Moretti]].
 - Qual cidade há muito destruída usava a [[Bola de Cristal]] da casa de [[Derrick Berg]] para adorar sua divindade, e a qual divindade ela era dedicada.
 - Como a oração de um não-Beyonder da [[Cidade de Prata]] alcançou o espaço da [[Névoa Cinza]] por meio da [[Bola de Cristal]].
 - Natureza e significado do símbolo carmesim que surgiu no dorso da mão direita de [[Derrick Berg]] e nele se fundiu após a [[Bola de Cristal]] se despedaçar.
@@ -158,5 +161,6 @@ tags:
 - Identidade e motivo do responsável por abrir o caixão no porão oculto do [[Castelo Antigo de Lamud]] há mais de um mês, dissipar o [[Ritual Antigo de Impedimento de Reanimação]] e subtrair a cabeça do falecido — alguém que não é uma pessoa comum, já que não restou cadáver, e que possivelmente pretende empregar a cabeça em algum ritual, tratando-se de um cadáver especial, talvez de um descendente de um Beyonder de Sequência Intermediária (Sequência 5 ou 6).
 - Identidade do cadáver decapitado envenenado há cerca de 1300 anos no porão do [[Castelo Antigo de Lamud]], se ele foi um Beyonder em vida, e a razão de seu ressentimento ter sido preservado por tanto tempo além do próprio ritual.
 - Por que o retrato do [[Primeiro Barão Lamud]] se assemelha tanto ao professor [[Azik]] e possui um sinal abaixo da orelha direita exatamente na mesma posição do dele; se o retratado viveu há cerca de 1.400 a 1.500 anos; e se há ligação com o passado perdido de [[Azik]], com a cópia de quarenta anos guardada pelo descendente e com seus sonhos de supostas vidas passadas.
-- Qual é a natureza do líquido dourado que impregnou o [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]], se é um ingrediente avançado de Beyonder e por que seu poder de purificação não se esgotou em décadas.
+- Se o [[Sangue Dourado do Deus]] extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] é de fato o sangue de uma divindade, de qual delas, e por que seu poder de purificação não se esgotou em décadas.
+- Limites da proteção do espaço da [[Névoa Cinza]]: até que ponto ele pode ser danificado ou rompido por poderes de nível angelical ou divino.
 - Identidade do homem de manto branco que caiu sem vida diante do altar de sacrifício no momento em que o líquido dourado se infundiu no [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].

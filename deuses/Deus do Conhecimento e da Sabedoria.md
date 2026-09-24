@@ -15,3 +15,4 @@ Uma das sete divindades ortodoxas do [[Continente Norte]].
 ## Relações Divinas
 
 - De acordo com as lendas da [[Terceira Época]], desceu sobre o mundo e protegeu os humanos do [[Terceira Época|Cataclismo]] junto com a [[Deusa da Noite Eterna]], a [[Mãe Terra]], o [[Deus do Combate]], o [[Senhor das Tempestades]] e o [[Eterno Sol Ardente]].
+- É alvo de hostilidade extrema do [[Eterno Sol Ardente]], conforme conhecimento obtido por [[Klein Moretti]] por adivinhação.

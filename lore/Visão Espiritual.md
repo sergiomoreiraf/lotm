@@ -15,6 +15,7 @@ A técnica é ativada através da Cogitação e de foco visual, permitindo ver e
 
 - **Fadiga e Efeitos Colaterais:** O uso contínuo coloca um grande fardo no Corpo Espiritual, drenando a espiritualidade do usuário. Os efeitos físicos resultantes incluem espasmos na glabela, dores de cabeça, hipersensibilidade, pequenos surtos de alucinações e maior suscetibilidade a ser afetado pelas emoções alheias.
 - **Ativação e Interruptores:** Enquanto o método tradicional requer Cogitação e desvio de atenção consciente para desativar, Beyonders podem utilizar sugestões mentais repetidas durante a Cogitação para configurar "interruptores" físicos simples (por exemplo, bater na glabela de leve duas vezes para ativar ou desativar).
+- **Cautela Diante de Entidades Superiores:** Olhar diretamente para coisas que não deveriam ser vistas pode ser fatal; após quase morrer ao vislumbrar o [[Eterno Sol Ardente]] durante uma adivinhação, [[Klein Moretti]] adota a cautela de não ativar a Visão Espiritual impulsivamente, já que no mundo exterior não dispõe do espaço da [[Névoa Cinza]] para se defender.
 
 ## Níveis da Espiritualidade Humana
 

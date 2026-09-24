@@ -46,6 +46,8 @@ Após [[Klein Moretti]] alertar [[Leonard Mitchell]] de que [[Trissy]] partirá 
 - **Hierarquia Superior:** Possui treze arcebispos e nove diáconos seniores no topo da hierarquia da Igreja, com pelo menos metade deles estando abaixo da [[Semideus|Sequência 4]].
 - **Autossuficiência e Não Envolvimento de Civis:** Por tradição, a organização está acostumada a confiar em si mesma, em seus poderes Beyonder e em suas armas, evitando envolver pessoas normais em incidentes sobrenaturais; a destruição forçada de um altar exige antes a confirmação de que não produziria um resultado mais desastroso.
 - **Anonimato Público:** Seus feitos nunca são divulgados ao público, permanecendo restritos a pastas confidenciais, enquanto o perigo e a dor enfrentados pelos membros são reais; a mesma condição vale para os [[Punidores Mandatários]] e a [[Mente Coletiva da Maquinaria]].
+- **Classificação de Artefatos Selados:** A avaliação de um item considera apenas se ele apresenta características de seres vivos, o grau de perigo que representa a humanos próximos, a dificuldade de controlar seus efeitos e sua utilidade contra cadáveres e espíritos, de modo que a origem única de um artefato pode permanecer desconhecida dos avaliadores.
+- **Acervo Confidencial de Caminhos:** Por meio das informações confidenciais da organização, [[Klein Moretti]] soube que o caminho mantido pela [[Igreja do Eterno Sol Ardente]] chama-se [[Caminho do Sol|Sol]], cuja Sequência inicial é o [[Seq 9 - Bardo|Bardo]].
 
 ## Estrutura e Hierarquia
 

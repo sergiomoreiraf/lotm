@@ -16,4 +16,5 @@ Participou ativamente, junto à [[Família Sauron]] e aristocratas de Intis, da 
 
 ## Doutrina e Caminhos
 
-- Detém o caminho de Sequência associado ao Sol, segundo dedução de [[Klein Moretti]] a partir do pedido de [[Derrick Berg]] pela fórmula da poção de Sequência inicial do [[Sol]].
+- Detém o [[Caminho do Sol]], cuja Sequência 9 é o [[Seq 9 - Bardo|Bardo]], a Sequência 8 o [[Seq 8 - Suplicante da Luz|Suplicante da Luz]], a Sequência 7 o [[Seq 7 - Sumo Sacerdote do Sol|Sumo Sacerdote do Sol]] e a Sequência 4 o [[Seq 4 - Sem Sombra|Sem Sombra]].
+- É uma das seitas ortodoxas mais antigas e disputa com a [[Igreja do Senhor das Tempestades]] há milhares de anos; [[Klein Moretti]] cogita que as duas igrejas tenham aprendido a Sequência inicial de seus caminhos uma com a outra.
