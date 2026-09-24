@@ -49,3 +49,5 @@ Permanece montando guarda junto ao mecanismo do alçapão enquanto [[Dunn Smith]
 
 Recebe de [[Dunn Smith]] o [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] durante a separação da equipe e o repassa a [[Klein Moretti]] ao esgotar o tempo que conseguia suportá-lo, lembrando-o de afastar qualquer pessoa que se aproximasse durante o turno de duas horas.
 
+Apresenta-se com antecedência para render [[Klein Moretti]] no turno de custódia do artefato na floresta. De volta à [[Companhia de Segurança Espinho Negro]], encarrega-se de redigir à máquina o relatório oficial da missão e a prestação de contas das despesas operacionais antes da chegada dos escrivães.
+

@@ -14,8 +14,10 @@ O Clube de Tiro Zouteland, localizado no Nº 3 da Rua Zouteland, na [[Cidade Tin
 ## Eventos no Local
 
 - [[Klein Moretti]] é autorizado a treinar tiro diariamente no local. Ele gasta trinta e cinco balas comuns de latão em treinamento prático antes de recarregar seu [[Revólver de Latão]] com balas antidemônios prateadas.
+- [[Klein Moretti]] e [[Daxter Guderian]] utilizam o pequeno estande de tiro nº 7 como ponto de encontro confidencial pré-agendado por correspondência codificada.
 
 ## Proprietários e Frequentadores
 
 - [[Falcões Noturnos]] (frequentadores)
 - [[Klein Moretti]] (frequentador)
+- [[Daxter Guderian]] (frequentador)

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 140 - Especialista em Cortejar a Morte
+- **Último Capítulo Processado:** Capítulo 141 - Pesadelo
