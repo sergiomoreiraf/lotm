@@ -22,4 +22,5 @@ O cerne da assimilação de poções Beyonder no sistema místico do mundo. Reve
 - **Prazo de Digestão:** Para poções de baixa Sequência, a atuação estrita permite concluir a digestão em cerca de meio ano, podendo atingir o prazo mínimo de um mês nos casos mais céleres. Sem atuação, a digestão natural exige em média três anos.
 - **Sinal de Conclusão:** A digestão completa da poção é percebida de forma imediata e intuitiva pelo próprio Beyonder.
 - **Teste de Prontidão (Sem Atuação):** Na ausência do método de atuação, o teste para confirmar a digestão completa consiste em esgotar o corpo ao limite físico; caso o Beyonder não apresente murmúrios nem alucinações visuais ou auditivas, considera-se apto a avançar de Sequência.
+- **Conduta Específica por Caminho:** A atuação exige compreender e deduzir princípios estritos a partir do nome da poção; no [[Caminho do Espectador]], por exemplo, o Beyonder deve posicionar-se estritamente como um observador neutro dos acontecimentos e jamais como um participante ativo da cena.
 

@@ -85,6 +85,8 @@ tags:
 - Condições excepcionais e o processo de exames rigorosos que permitiram a [[Daly]] avançar de poção antes do prazo regulamentar de três anos mantido pelos [[Falcões Noturnos]].
 - Perigos e horrores ocultos atrás do [[Portão Chanis]] durante a noite, que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos externos.
 - Qual poção de Sequência específica e quais materiais Beyonder [[Fors Wall]] possui e pretende negociar em troca do resgate de sua parceira.
+- Por que a [[Igreja da Deusa da Noite Eterna]], com quase três mil anos de história e registros de Beyonders de rápida digestão como [[Daly]], não dissemina o [[Método de Atuação]], levantando a suspeita de ocultação deliberada pelo alto escalão.
+- Como a [[Igreja da Deusa da Noite Eterna]] reteve apenas a fórmula de [[Seq 9 - Vidente|Vidente]] após aniquilar a [[Família Antigonus]], que dominava a maior parte ou a totalidade do [[Caminho do Vidente]], mesmo possuindo médiuns com capacidade de interrogar os mortos.
 
 ## Segredos de Roselle Gustav
 

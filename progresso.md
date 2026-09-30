@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 141 - Pesadelo
+- **Último Capítulo Processado:** Capítulo 142 - Associação

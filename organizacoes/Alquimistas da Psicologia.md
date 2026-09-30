@@ -21,3 +21,5 @@ São associados por [[Audrey Hall]] à profissão de psiquiatra como um possíve
 Tiveram a autorização formal de [[Klein Moretti|O Tolo]] concedida a [[Audrey Hall|Justiça]] para que ela busque ingressar em seus quadros caso surja a oportunidade, com a exigência estrita de manter o sigilo absoluto do [[Clube de Tarô]].
 
 Tiveram a presença de membros confirmada na [[Cidade Tingen]], onde o psiquiatra [[Daxter Guderian]] e o paciente [[Hood Eugen]] atuam no [[Asilo Mental de Greenhill]]. Daxter foi recrutado por Hood Eugen e aceitou estabelecer uma cooperação limitada como informante velado para [[Klein Moretti]] e os [[Falcões Noturnos]].
+ 
+Realizaram uma pequena reunião de troca de itens e experiências no [[Condado de Awwa]]. Por terem sido fundados nos últimos trezentos anos, seus membros de média sequência desconhecem os princípios fundamentais do [[Método de Atuação]].

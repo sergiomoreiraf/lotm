@@ -14,3 +14,5 @@ Médico que atua no [[Asilo Mental de Greenhill]] na [[Cidade Tingen]]. É um in
 É confrontado em seu consultório no [[Asilo Mental de Greenhill]] por [[Klein Moretti]], confirmando sua filiação aos [[Alquimistas da Psicologia]] e revelando ter sido recrutado pelo paciente [[Hood Eugen]]. Aceita um acordo de cooperação limitada com os [[Falcões Noturnos]] para atuar como informante velado e relatar ameaças do mundo místico.
 
 Recebe a convocação codificada de [[Klein Moretti]] disfarçada como consulta médica sobre transtorno dissociativo de identidade e comparece ao [[Clube de Tiro Zouteland]], alugando o pequeno estande nº 7 para realizar o encontro confidencial.
+ 
+Relata a Klein a conduta de [[Hood Eugen]] no asilo e a realização de uma reunião dos [[Alquimistas da Psicologia]] no [[Condado de Awwa]]. Afetado por delírios e temendo a perda de controle, recebe a teoria do [[Método de Atuação]] para o [[Caminho do Espectador]] e compromete-se a obter a fórmula de [[Seq 8 - Telepata|Telepata]] em retribuição.

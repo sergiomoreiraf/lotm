@@ -23,3 +23,5 @@ Possuía um perigoso Artefato Selado mantido sob a custódia da [[Igreja do Deus
 Cartas de [[Sirius Arapis]] revelam que a família detinha o [[Caminho do Vidente]] e previu sua ruína por adivinhação, ocultando um tesouro secreto nas ruínas da [[Nação da Noite Eterna]] no pico da [[Cadeia de Montanhas Hornacis]] para viabilizar seu renascimento.
 
 A ilustração de olho vertical exibida pelo [[Artefato Selado 3-0625]] durante o incidente no [[Portão Chanis]] foi confirmada por adivinhação de [[Klein Moretti]] como a chave de acesso ao tesouro oculto da família no pico da [[Cadeia de Montanhas Hornacis]].
+ 
+Detinha a quase totalidade das sequências do [[Caminho do Vidente]], gerando questionamentos sobre como a [[Igreja da Deusa da Noite Eterna]] teria se apropriado apenas da poção inicial de [[Seq 9 - Vidente|Vidente]] após o massacre de seus membros.
