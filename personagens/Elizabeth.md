@@ -27,3 +27,5 @@ Procura [[Klein Moretti]] para uma consulta na Sala Ágata Vermelha do [[Clube d
 
 Adormece sobre a mesa da sala de adivinhação e tem seu sonho acessado por [[Klein Moretti]], presenciando-o intervir e dispersar a manifestação do cavaleiro fantasmagórico. Ao acordar, é tranquilizada com a garantia de que os pesadelos cessarão em até uma semana, paga a consulta com uma cédula de um [[Sistema Monetário do Reino Loen|soli]] e parte aliviada.
 
+Procura [[Klein Moretti]] na [[Residência da Família Moretti|Rua Daffodil, 2]] para relatar com entusiasmo que não voltou a ter pesadelos com o cavaleiro de armadura negra, confirmando o acerto da adivinhação, e parte em carruagem alugada para suas aulas.
+

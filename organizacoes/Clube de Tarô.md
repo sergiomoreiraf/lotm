@@ -21,6 +21,8 @@ Na reunião regular, os membros aprendem com [[Klein Moretti|O Tolo]] que o [[M�
 
 [[Derrick Berg]] passa a adotar "O Sol" como codinome, escolhendo-o entre as cartas de tarô apresentadas por [[Klein Moretti|O Tolo]], que o instrui a evitar proximidade com outras pessoas até a próxima reunião.
 
+[[Klein Moretti|O Tolo]] convoca [[Derrick Berg|O Sol]] antes do horário regular para instruí-lo no ritual de oração, ativa a tradução mística simultânea para [[Jotun]] e introduz formalmente o jovem a [[Audrey Hall|Justiça]] e [[Alger Wilson|O Enforcado]], sendo informado por Justiça sobre a coleta de duas novas páginas do diário de [[Roselle Gustav]].
+
 ## Estrutura e Hierarquia
 
 - [[Klein Moretti|O Tolo]] — Fundador e testemunha dos comércios do clube.
@@ -31,6 +33,8 @@ Na reunião regular, os membros aprendem com [[Klein Moretti|O Tolo]] que o [[M�
 ## Dinâmicas e Operações
 
 - **Reuniões:** Realizadas semanalmente às segundas-feiras, às três da tarde, no espaço da [[Névoa Cinza]]. Os membros devem procurar ficar sozinhos nesse horário para serem convocados.
+- **Comunicação Multilíngue:** O espaço da [[Névoa Cinza]] realiza a tradução mística e automática em tempo real entre idiomas distintos, como [[Reino Loen|Loen]] e [[Jotun]].
+- **Convocação Especial da Cidade de Prata:** [[Derrick Berg|O Sol]] deve orar com o encantamento do Tolo ao retornar de expedições e, ao receber a notificação mental de um encontro, isolar-se pelo intervalo de mil batimentos cardíacos.
 - **Trocas e Comércio:** Transações de fórmulas de poções e ingredientes místicos testemunhadas por [[Klein Moretti|O Tolo]] para garantir a segurança e a igualdade.
 - **Notificação de Ausências:** Membros impossibilitados de comparecer à reunião de segunda-feira devem realizar o ritual de invocação para [[Klein Moretti|O Tolo]], modificando a frase final do encantamento em [[Hermes]] para declarar a justificativa do impedimento.
 - **Processo de Admissão:** A inclusão de novos membros exige observação criteriosa, recomendação e testes sob estrito sigilo.

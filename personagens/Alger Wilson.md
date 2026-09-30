@@ -12,6 +12,7 @@ Alger Wilson é um homem de manto azul-escuro com bordados de raios, que navega 
 ## Fases da Narrativa
 
 - [[A Ordem da Teosofia e a Terra Abandonada dos Deuses]] — Explica a origem da Sequência 9 Aprendiz e do Árbitro no Clube de Tarô, acerta troca de informações sobre planos de guerra do Rei de Loen e consulta O Tolo sobre a Terra Abandonada dos Deuses.
+- [[O Ingresso do Sol no Clube de Tarô]] — Comparece à reunião do Clube de Tarô e saúda O Sol após a introdução súbita do novo membro por O Tolo.
 
 ## Eventos Arquivados
 

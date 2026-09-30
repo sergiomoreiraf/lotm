@@ -1,6 +1,8 @@
 ---
 tags:
   - personagem
+aliases:
+  - Sra. Wendy
 ---
 
 # Wendy Smyrin

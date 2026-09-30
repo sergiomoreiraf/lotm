@@ -87,6 +87,7 @@ tags:
 - Qual poção de Sequência específica e quais materiais Beyonder [[Fors Wall]] possui e pretende negociar em troca do resgate de sua parceira.
 - Por que a [[Igreja da Deusa da Noite Eterna]], com quase três mil anos de história e registros de Beyonders de rápida digestão como [[Daly]], não dissemina o [[Método de Atuação]], levantando a suspeita de ocultação deliberada pelo alto escalão.
 - Como a [[Igreja da Deusa da Noite Eterna]] reteve apenas a fórmula de [[Seq 9 - Vidente|Vidente]] após aniquilar a [[Família Antigonus]], que dominava a maior parte ou a totalidade do [[Caminho do Vidente]], mesmo possuindo médiuns com capacidade de interrogar os mortos.
+- Se a [[Igreja da Deusa da Noite Eterna]] omite os nomes e fórmulas de [[Seq 8 - Palhaço|Palhaço]] e Sequência 7 em seus registros confidenciais para impedir que seus Beyonders avancem pelo [[Caminho do Vidente]], e se membros desse caminho correm o risco de se tornarem espíritos vingativos da [[Família Antigonus]].
 
 ## Segredos de Roselle Gustav
 
