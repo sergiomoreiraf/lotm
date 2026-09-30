@@ -17,3 +17,7 @@ A Sequência inicial do [[Caminho do Sol]]. Sua fórmula foi obtida por [[Klein 
 ## Poderes Conhecidos
 
 - **Canto Devocional:** Permite ao Beyonder imbuir coragem e força em si e em seus aliados por meio do canto, um trabalho que inspira devoção e submissão. Seu lema é "Vamos louvar o Sol!".
+
+## Evolução narrativa
+
+[[Klein Moretti|O Tolo]] transmitiu a fórmula a [[Derrick Berg|O Sol]] durante a reunião do [[Clube de Tarô]], estruturada com nomes antigos e substitutos aplicáveis aos materiais da [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].

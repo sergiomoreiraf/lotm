@@ -56,8 +56,11 @@ tags:
 - Localização e natureza da residência sagrada do [[O Criador|Criador]] citada pela [[Ordem Aurora]], e se corresponde à lendária [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
 - Causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que "estavam mentindo" ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
 - Limites do controle de [[Klein Moretti]] sobre a [[Névoa Cinza]]: responde preces e transmite mensagens para [[Audrey Hall]] e [[Alger Wilson]], mas não utiliza diretamente os poderes do espaço para conceder feitiços ou manipular o mundo físico.
-- Significado e origem das constelações místicas (como o Dragão Gigante e a Tempestade de Vento) nas costas das cadeiras do [[Clube de Tarô]] conforme os membros sobem de nível ou ativam habilidades Beyonder.
+- Significado e origem das constelações místicas nas costas das cadeiras do [[Clube de Tarô]]: embora a constelação do Dragão Gigante atrás de [[Audrey Hall|Justiça]] tenha se confirmado como reflexo da origem do [[Caminho do Espectador]] na raça dos Dragões, resta desvendar a regra e a origem das demais constelações (como a Tempestade de Vento de [[Alger Wilson|O Enforcado]]).
+- Quais são os demais pares de caminhos compatíveis para [[Troca de Caminhos]] em [[Semideus|Altas Sequências]] além dos já revelados ([[Caminho do Sem Sono|Sem Sono]] / [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] e [[Caminho do Erudito|Erudito]] / [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]]), e se o [[Caminho do Vidente]] possui vias vizinhas intercambiáveis.
+- Qual era o auxílio específico que o arcebispo [[Fan Estin]] buscava obter do Imperador [[Roselle Gustav]] ao procurá-lo na juventude.
 - Causa do aumento global na atividade e no surgimento de novas organizações secretas e Beyonders nas últimas décadas.
+
 - Causa dos murmúrios disformes e das dores de cabeça de [[Klein Moretti]] durante a execução dos rituais a O Tolo, e o surgimento temporário dos quatro pontos pretos nas costas de sua mão.
 - Por que a [[Ordem Secreta]] detém a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço|Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais.
 - Processo místico pelo qual a poção não absorvida de um Beyonder em [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido como matéria-prima extraordinária.

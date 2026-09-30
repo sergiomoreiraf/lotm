@@ -10,3 +10,6 @@ tags:
 ## Evolução narrativa
 
 É transportado ao espaço da [[Névoa Cinza]] para a reunião semanal e, embora contrariado pela inclusão súbita de um novo integrante sem aviso prévio de [[Klein Moretti|O Tolo]], saúda cordialmente [[Audrey Hall|Justiça]] e [[Derrick Berg|O Sol]].
+
+Surpreende-se com as menções de [[Derrick Berg|O Sol]] à raça dos Dragões, à [[Cidade de Prata]] e à corte imperial do [[Rei Gigante]], confirmando que a sequência inicial do [[Caminho do Sol]] é o [[Seq 9 - Bardo|Bardo]]. Pondera sobre a localização isolada do novo membro e atribui a serenidade imperturbável de [[Klein Moretti|O Tolo]] ao seu conhecimento prévio de todos os mistérios ancestrais.
+

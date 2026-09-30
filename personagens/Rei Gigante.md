@@ -9,4 +9,5 @@ Governante do antigo [[Cidade de Prata|Reino de Prata]]. Segundo [[Derrick Berg]
 
 ## Evolução narrativa
 
-Ao ouvir o relato, [[Klein Moretti]] especula se o deus surgido na [[Terceira Época]], a Época do Cataclismo, herdou a propriedade do Rei Gigante ou se ele próprio era um Gigante antigo.
+Ao ouvir o relato, [[Klein Moretti]] especula se o deus surgido na [[Terceira Época]], a Época do Cataclismo, herdou a propriedade do Rei Gigante ou se ele próprio era um Gigante antigo. Sua casa imperial manteve a raça dos Dragões como inimigos mortais, permitindo à [[Cidade de Prata]] reter as fórmulas iniciais do [[Caminho do Espectador]].
+

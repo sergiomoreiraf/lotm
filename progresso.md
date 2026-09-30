@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 143 - O Tradutor em Tempo Real do Louco
+- **Último Capítulo Processado:** Capítulo 144 - Acordo de Três Vias

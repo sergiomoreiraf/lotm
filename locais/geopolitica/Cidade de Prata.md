@@ -29,6 +29,7 @@ Cidade do [[Povo das Trevas]], situada em uma terra sem sol, lua ou estrelas, on
 ## Caminho Beyonder
 
 - A cadeia controlada pela cidade é o [[Caminho do Gigante]], também conhecido como caminho da sequência do Guerreiro do Sangue Divino; parte das fórmulas foi obtida ao matar certos monstros e explorar as cidades destruídas, deixando os caminhos da Sequência incompletos.
+- Preservou também as fórmulas de Sequência 9 ([[Seq 9 - Espectador|Espectador]]), Sequência 8 ([[Seq 8 - Telepata|Telepata]]) e Sequência 7 ([[Seq 7 - Psiquiatra|Analista de Psique]]) do [[Caminho do Espectador]], herdadas dos confrontos ancestrais entre o [[Rei Gigante]] e a raça dos Dragões.
 - Seus Beyonders se transformam em espíritos malignos após a morte, como qualquer plebeu, mas o espírito de um Beyonder é mais estranho, aterrorizante e difícil de lidar.
 - Segundo a crença local, quando havia um Sol brilhando sobre a terra nenhuma maldição era encontrada.
 
@@ -37,3 +38,6 @@ Cidade do [[Povo das Trevas]], situada em uma terra sem sol, lua ou estrelas, on
 [[Klein Moretti]] suspeita que a Cidade de Prata seja a lendária [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]]; se a suspeita se confirmar, o local teria sido separado do continente no final da [[Segunda Época]], já que seus habitantes conhecem o termo Sequência nascido da revelação da primeira [[Ardósia da Blasfêmia]].
 
 [[Derrick Berg]], morador da cidade, torna-se o primeiro de seu povo a negociar diretamente com [[Klein Moretti|O Tolo]] e relata a história local, o [[Caminho do Gigante]] e a maldição que condena todos os mortos. Diante do relato, [[Klein Moretti]] cogita que a Cidade de Prata e o [[Continente Norte]] compartilhem a mesma história da [[Segunda Época]].
+
+[[Derrick Berg]] compromete-se a resgatar os registros da fórmula de [[Seq 8 - Telepata|Telepata]] guardados na cidade para repassar a [[Audrey Hall|Justiça]] em troca da receita de [[Seq 9 - Bardo|Bardo]] obtida de [[Klein Moretti|O Tolo]].
+

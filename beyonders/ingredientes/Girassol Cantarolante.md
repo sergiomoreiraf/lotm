@@ -1,11 +1,13 @@
 ---
 tags:
   - ingrediente
+aliases:
+  - Girassol Ardente
 ---
 
 # Girassol Cantarolante
 
-Um ingrediente Beyonder botânico citado entre os materiais principais das fórmulas do [[Caminho do Sol]].
+Um ingrediente Beyonder botânico citado entre os materiais principais das fórmulas do [[Caminho do Sol]], também conhecido sob denominações antigas como Girassol Ardente.
 
 ## Origem/Obtenção
 

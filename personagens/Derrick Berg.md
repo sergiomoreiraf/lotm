@@ -26,3 +26,6 @@ Após a dissipação da luz carmesim que o envolveu, vê a [[Bola de Cristal]] d
 ### O Ingresso no Clube de Tarô
 
 Permanece isolado em seu quarto para não levantar suspeitas na [[Cidade de Prata]], quase esgotando suas provisões até ser transportado à [[Névoa Cinza]] por [[Klein Moretti|O Tolo]]. Aprende o encantamento honorífico e o ritual de prece simplificado, recebe a orientação de isolar-se pelo intervalo de mil batimentos cardíacos ao ser notificado dos encontros e é formalmente integrado ao [[Clube de Tarô]] diante de [[Audrey Hall|Justiça]] e [[Alger Wilson|O Enforcado]].
+
+Oferece-se para obter a fórmula de [[Seq 8 - Telepata|Telepata]] para [[Audrey Hall|Justiça]], revelando que o [[Caminho do Espectador]] se originou dos Dragões e que a [[Cidade de Prata]], outrora governada pela casa imperial do [[Rei Gigante]], preservou as Sequências 9, 8 e 7 ([[Seq 7 - Psiquiatra|Analista de Psique]]) devido à inimizade histórica entre as raças. Ao indagar sobre as cidades-estado dos membros por nunca ter visto outros humanos vivos na [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]], aceita o acordo tripartite proposto por [[Klein Moretti|O Tolo]] e memoriza a receita de [[Seq 9 - Bardo|Bardo]], comprometendo-se a providenciar a fórmula de Telepata nas reuniões seguintes.
+

@@ -11,4 +11,5 @@ Esposa do Imperador [[Roselle Gustav]], pertencente à [[Família Abel]].
 
 ## Evolução narrativa
 
-Teve seu casamento arranjado com [[Roselle Gustav]], o qual inicialmente pretendia recusar o matrimônio, mas aceitou a união após considerá-la bela e de personalidade compatível.
+Teve seu casamento arranjado com [[Roselle Gustav]], o qual inicialmente pretendia recusar o matrimônio, mas aceitou a união após considerá-la bela e de personalidade compatível. Ficou grávida de três meses do imperador, conforme registrado por ele em seu diário.
+
