@@ -21,6 +21,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Primeiro Contato com a Cidade de Prata]] — Atende a oração de Derrick Berg acima da Névoa Cinza, propõe uma troca igualitária e cobra a história da Cidade de Prata como pagamento.
 - [[A Adivinhação do Sol Ardente e os Oito Conhecimentos]] — Sonda a origem do líquido dourado acima da Névoa Cinza, obtém oito conhecimentos sobre o caminho do Sol e organiza um encontro secreto com Daxter no Clube de Tiro.
 - [[O Acordo com Daxter e as Suspeitas da Igreja]] — Transmite o Método de Atuação a Daxter em troca da fórmula de Telepata e deduz que a Igreja da Deusa da Noite Eterna oculta segredos da atuação e do Caminho do Vidente.
+- [[A Segunda Ardósia e o Pedido de Cooperação]] — Retoma o diário de Roselle sobre a Troca de Caminhos e a segunda Ardósia da Blasfêmia, e recebe de O Enforcado o pedido de cooperação para localizar o pirata Qilangos.
 
 ## Eventos Arquivados
 

@@ -20,3 +20,8 @@ Mecânica fundamental do sistema Beyonder que permite a transição entre caminh
 
 - [[Caminho do Sem Sono]] e o caminho de [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]].
 - [[Caminho do Erudito]] e o caminho de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]].
+
+## Aplicação Institucional
+
+- As organizações que praticam a troca mantêm um caminho completo e outro relativamente completo: os [[Falcões Noturnos]] detêm o [[Caminho do Sem Sono]] integral e o caminho de [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] até a Sequência 4, enquanto a [[Igreja do Deus do Vapor e da Maquinaria]] mantém o [[Caminho do Erudito]] integral e o caminho de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] relativamente completo.
+- [[Klein Moretti]] cogita que as vias vizinhas do [[Caminho do Vidente]] sejam o [[Caminho do Aprendiz]] ou o [[Caminho do Saqueador]], mas observa que as cinco primeiras Sequências daquele caminho fornecem habilidades independentes que se combinam na Sequência 4, o que talvez impeça a substituição.

@@ -15,3 +15,5 @@ Em estado de [[Seq 9 - Espectador|Espectadora]], analisa a linguagem corporal de
 
 Solicita a fórmula de [[Seq 8 - Telepata|Telepata]] a [[Klein Moretti|O Tolo]] em troca das páginas e de compensação financeira, notando com perspicácia de [[Seq 9 - Espectador|Espectadora]] o uso do termo arcaico [[Seq 7 - Psiquiatra|Analista de Psique]] por [[Derrick Berg|O Sol]]. Aceita o acordo tripartite proposto por O Tolo para receber a fórmula de Derrick nas próximas reuniões, concorda em futuramente compensar financeiramente um adorador de O Tolo pelo [[Banco Backlund]] e materializa de pronto as duas páginas do diário na [[Névoa Cinza]].
 
+Consulta [[Alger Wilson|O Enforcado]] sobre o histórico do [[Sr. A]] e recebe a descrição da [[Ordem Aurora]] — cinco Cavaleiros e vinte e dois Oráculos codinomeados do Sr. A ao Sr. X, Beyonders entre as Sequências 7 e 5 substituídos quando morrem —, além de aceitar o pedido de ajuda para localizar o paradeiro do pirata [[Qilangos]]. Informa também que o rei, convencido pelo primeiro-ministro, não buscará vingança contra o [[Feysac|Império Feysac]] na costa leste de [[Império Balam|Balam]] por enquanto.
+

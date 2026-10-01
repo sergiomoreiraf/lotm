@@ -21,8 +21,12 @@ Teve a localização de sua Residência Sagrada do [[O Criador|Verdadeiro Criado
 
 [[Derrick Berg]] revela que o caminho cuja Sequência 9 é o [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] segue com [[Seq 8 - Ouvinte|Sussurro]], [[Seq 7 - Asceta das Sombras]], [[Seq 6 - Bispo Vermelho]] e [[Seq 5 - Pastor]], nomes preservados na [[Cidade de Prata]]; [[Klein Moretti]] reconhece na Sequência 8 a classe [[Seq 8 - Ouvinte|Ouvinte]] que conhece e nota no [[Seq 5 - Pastor|Pastor]] uma reminiscência do estilo da organização.
 
+[[Alger Wilson|O Enforcado]] revela no [[Clube de Tarô]] que a organização mantém cinco Cavaleiros e vinte e dois Oráculos, e que é grande a possibilidade de o [[Sr. A]] pertencer a seus quadros; sua hostilidade com a [[Igreja do Senhor das Tempestades]], a [[Igreja do Eterno Sol Ardente]] e a [[Igreja do Deus do Conhecimento e da Sabedoria]] faz com que membros dessas igrejas conheçam a Ordem melhor que qualquer outra instituição.
+
 ## Estrutura e Hierarquia
 
+- **Cavaleiros:** Cinco integrantes de elite da organização.
+- **Oráculos:** Vinte e dois Beyonders codinomeados com as letras do alfabeto, do Sr. A ao Sr. X, sendo o mais fraco de Sequência 7 e o mais forte de Sequência 5; todos são adeptos de se esconder e um novo Oráculo assume o codinome quando o anterior morre.
 - [[Pai de Jack]] — Membro que atua como [[Seq 8 - Ouvinte|Ouvinte]].
 - [[Sirius Arapis]] — Membro confirmado como [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] envolvido na venda do caderno Antigonus.
 - [[Hanass Vincent]] — Membro associado envolvido nos rituais de invocação do Verdadeiro Criador.

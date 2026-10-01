@@ -14,6 +14,8 @@ Mencionada como uma das igrejas oficiais onde ingressantes podem se tornar Beyon
  
 Possui quase três mil anos de história documentada. Torna-se alvo de suspeitas de [[Klein Moretti]] pela retenção e possível ocultação deliberada do [[Método de Atuação]] e das fórmulas superiores do [[Caminho do Vidente]] obtidas após a aniquilação da [[Família Antigonus]].
 
+Está em desacordo com a [[Igreja do Deus do Combate]] do [[Feysac|Império Feysac]], conforme registrado no diário de [[Roselle Gustav]].
+
 ## Estrutura e Hierarquia
 
 - [[Falcões Noturnos]] — Divisão interna de execução e segurança composta por Beyonders.

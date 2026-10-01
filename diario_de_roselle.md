@@ -12,6 +12,9 @@ tags:
   - **8 de abril:** Registra, a bordo do navio [[Black King]], brincadeiras com [[Grimm]] e [[Edwards]] sobre ter deixado suas fortunas nas extremidades do [[Mar da Névoa]].
   - **11 de abril:** Relata a descoberta de uma ilha sem rotas seguras com criaturas extraordinárias.
   - **15 de abril:** Percebe um comportamento estranho em [[Grimm]], suspeitando de uma possível infecção.
+- **9 de abril e 13 de abril (Anos distintos, desconhecidos):**
+  - **9 de abril:** Registra que as relações entre a [[Igreja do Eterno Sol Ardente]], a [[Igreja do Senhor das Tempestades]] e a [[Igreja do Deus do Conhecimento e da Sabedoria]] são ruins, com as três se vendo como inimigas, e que a [[Igreja da Deusa da Noite Eterna]] está em desacordo com a [[Igreja do Deus do Combate]] do [[Feysac|Império Feysac]].
+  - **13 de abril:** Relata ter participado da reunião de uma organização antiga e descobre que a segunda [[Ardósia da Blasfêmia]] estava em seu poder, escondendo um segredo inimaginável; cogita criar um conjunto de Ardósias da Blasfêmia exclusivo para si.
 - **21 de maio a 26 de maio (Ano desconhecido):**
   - **21 de maio:** A [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] oferece a ele as poções de [[Erudito]] (completa) e [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] (incompleta, da [[Ordem Ascética de Moisés]]).
   - **22 de maio:** Escolhe [[Erudito]] para se fortalecer de forma independente, evitando recorrer a entidades externas perigosas para voltar ao seu mundo.

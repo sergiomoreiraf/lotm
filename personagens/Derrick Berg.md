@@ -29,3 +29,5 @@ Permanece isolado em seu quarto para não levantar suspeitas na [[Cidade de Prat
 
 Oferece-se para obter a fórmula de [[Seq 8 - Telepata|Telepata]] para [[Audrey Hall|Justiça]], revelando que o [[Caminho do Espectador]] se originou dos Dragões e que a [[Cidade de Prata]], outrora governada pela casa imperial do [[Rei Gigante]], preservou as Sequências 9, 8 e 7 ([[Seq 7 - Psiquiatra|Analista de Psique]]) devido à inimizade histórica entre as raças. Ao indagar sobre as cidades-estado dos membros por nunca ter visto outros humanos vivos na [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]], aceita o acordo tripartite proposto por [[Klein Moretti|O Tolo]] e memoriza a receita de [[Seq 9 - Bardo|Bardo]], comprometendo-se a providenciar a fórmula de Telepata nas reuniões seguintes.
 
+Sem compreender as referências a reinos, câmaras de governo e igrejas desconhecidas, suspeita que os demais membros do [[Clube de Tarô]] venham de um mundo diferente do seu e cogita que [[Klein Moretti|O Tolo]] seja um deus antigo. Nota que a raiz do nome [[Feysac]] vem de [[Jotun]] e especula sobre sua ligação com a casa imperial do caído [[Rei Gigante]].
+

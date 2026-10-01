@@ -48,6 +48,7 @@ Após [[Klein Moretti]] alertar [[Leonard Mitchell]] de que [[Trissy]] partirá 
 - **Anonimato Público:** Seus feitos nunca são divulgados ao público, permanecendo restritos a pastas confidenciais, enquanto o perigo e a dor enfrentados pelos membros são reais; a mesma condição vale para os [[Punidores Mandatários]] e a [[Mente Coletiva da Maquinaria]].
 - **Classificação de Artefatos Selados:** A avaliação de um item considera apenas se ele apresenta características de seres vivos, o grau de perigo que representa a humanos próximos, a dificuldade de controlar seus efeitos e sua utilidade contra cadáveres e espíritos, de modo que a origem única de um artefato pode permanecer desconhecida dos avaliadores.
 - **Acervo Confidencial de Caminhos:** Por meio das informações confidenciais da organização, [[Klein Moretti]] soube que o caminho mantido pela [[Igreja do Eterno Sol Ardente]] chama-se [[Caminho do Sol|Sol]], cuja Sequência inicial é o [[Seq 9 - Bardo|Bardo]].
+- **Caminhos Intercambiáveis:** A organização detém o [[Caminho do Sem Sono]] completo e um caminho relativamente completo de [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] até a Sequência 4, além de sequências de outros caminhos das quais possui apenas as primeiras poções, combinação que possibilita a [[Troca de Caminhos]] em Altas Sequências.
 
 ## Estrutura e Hierarquia
 

@@ -18,3 +18,4 @@ Participou ativamente, junto à [[Família Sauron]] e aristocratas de Intis, da 
 
 - Detém o [[Caminho do Sol]], cuja Sequência 9 é o [[Seq 9 - Bardo|Bardo]], a Sequência 8 o [[Seq 8 - Suplicante da Luz|Suplicante da Luz]], a Sequência 7 o [[Seq 7 - Sumo Sacerdote do Sol|Sumo Sacerdote do Sol]] e a Sequência 4 o [[Seq 4 - Sem Sombra|Sem Sombra]].
 - É uma das seitas ortodoxas mais antigas e disputa com a [[Igreja do Senhor das Tempestades]] há milhares de anos; [[Klein Moretti]] cogita que as duas igrejas tenham aprendido a Sequência inicial de seus caminhos uma com a outra.
+- Suas relações com a [[Igreja do Deus do Conhecimento e da Sabedoria]] também são ruins, com as três igrejas se vendo como inimigas, e está em desacordo com a [[Ordem Aurora]].

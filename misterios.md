@@ -57,7 +57,7 @@ tags:
 - Causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que "estavam mentindo" ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
 - Limites do controle de [[Klein Moretti]] sobre a [[Névoa Cinza]]: responde preces e transmite mensagens para [[Audrey Hall]] e [[Alger Wilson]], mas não utiliza diretamente os poderes do espaço para conceder feitiços ou manipular o mundo físico.
 - Significado e origem das constelações místicas nas costas das cadeiras do [[Clube de Tarô]]: embora a constelação do Dragão Gigante atrás de [[Audrey Hall|Justiça]] tenha se confirmado como reflexo da origem do [[Caminho do Espectador]] na raça dos Dragões, resta desvendar a regra e a origem das demais constelações (como a Tempestade de Vento de [[Alger Wilson|O Enforcado]]).
-- Quais são os demais pares de caminhos compatíveis para [[Troca de Caminhos]] em [[Semideus|Altas Sequências]] além dos já revelados ([[Caminho do Sem Sono|Sem Sono]] / [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] e [[Caminho do Erudito|Erudito]] / [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]]), e se o [[Caminho do Vidente]] possui vias vizinhas intercambiáveis.
+- Quais são os demais pares de caminhos compatíveis para [[Troca de Caminhos]] em [[Semideus|Altas Sequências]] além dos já revelados ([[Caminho do Sem Sono|Sem Sono]] / [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] e [[Caminho do Erudito|Erudito]] / [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]]), e se o [[Caminho do Vidente]] possui vias vizinhas intercambiáveis, suspeitando [[Klein Moretti]] que sejam o [[Caminho do Aprendiz]] ou o [[Caminho do Saqueador]].
 - Qual era o auxílio específico que o arcebispo [[Fan Estin]] buscava obter do Imperador [[Roselle Gustav]] ao procurá-lo na juventude.
 - Causa do aumento global na atividade e no surgimento de novas organizações secretas e Beyonders nas últimas décadas.
 
@@ -107,6 +107,8 @@ tags:
 - Natureza do perigoso Artefato Selado pertencente à [[Família Antigonus]] retido pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]], que [[Zaratul]] desejava roubar com auxílio de Roselle.
 - Por que não existe [[Petróleo Bruto]] a ser encontrado neste mundo, descoberta que causou grande confusão ao Imperador [[Roselle Gustav]].
 - Nome da antiga e misteriosa organização que influencia o mundo das sombras, na qual o Imperador [[Roselle Gustav]] cogitou ingressar em seu diário em 23 de dezembro.
+- Identidade da antiga organização que detinha a segunda [[Ardósia da Blasfêmia]] e o segredo inimaginável nela oculto, cujo nome [[Roselle Gustav]] não registrou por precaução.
+- Se o conjunto de vinte e duas cartas criado por [[Roselle Gustav]] a partir da segunda [[Ardósia da Blasfêmia]] ainda existe e onde se encontra.
 
 ## Entidades, Personagens e Artefatos
 
@@ -161,7 +163,7 @@ tags:
 - Causa da visão e do pânico de [[Ademisaul]], que presenciou em sonho premonitório um massacre repleto de cadáveres incluindo a si mesmo, e a razão de seu terror extremo ao ser interrogado por [[Klein Moretti]].
 - Motivo pelo qual um membro ainda não identificado dos [[Punidores Mandatários]], veterano que servira sob [[Swain]] por quase trinta anos, perdeu o controle nas proximidades do porto de [[Cidade Tingen|Tingen]]; a criatura foi morta por Swain sem que a causa fosse esclarecida.
 - Motivo do profundo abalo de [[Gawain]] diante da proposta de [[Klein Moretti]] de combinar armas brancas e de fogo em esquadrões móveis de ataque surpresa, possivelmente ligado ao trauma de sua ordem de cavalaria extinta.
-- Identidade, objetivos e afiliação do [[Sr. A]], poderoso Beyonder que lidera a [[Reunião Secreta de Backlund]], e o propósito do encontro de Beyonders independentes na capital.
+- Identidade, objetivos e afiliação do [[Sr. A]], poderoso Beyonder que lidera a [[Reunião Secreta de Backlund]], e o propósito do encontro de Beyonders independentes na capital; [[Audrey Hall|Justiça]] consulta o [[Clube de Tarô]] sobre seu histórico e [[Alger Wilson|O Enforcado]] considera grande a possibilidade de ele ser o Oráculo "Sr. A" da [[Ordem Aurora]].
 - Se as tatuagens corporais com os caracteres criados por [[Roselle Gustav]] conferem de fato vitalidade física e saúde ao usuário, como alegado pelo vendedor do diário, ou se acarretam perigos místicos desconhecidos.
 - Identidade e origem do espectro de armadura preta completa do [[Castelo Antigo de Lamud]], surgido do ressentimento do cadáver decapitado selado no porão oculto.
 - Identidade e motivo do responsável por abrir o caixão no porão oculto do [[Castelo Antigo de Lamud]] há mais de um mês, dissipar o [[Ritual Antigo de Impedimento de Reanimação]] e subtrair a cabeça do falecido — alguém que não é uma pessoa comum, já que não restou cadáver, e que possivelmente pretende empregar a cabeça em algum ritual, tratando-se de um cadáver especial, talvez de um descendente de um Beyonder de Sequência Intermediária (Sequência 5 ou 6).
@@ -170,3 +172,5 @@ tags:
 - Se o [[Sangue Dourado do Deus]] extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] é de fato o sangue de uma divindade, de qual delas, e por que seu poder de purificação não se esgotou em décadas.
 - Limites da proteção do espaço da [[Névoa Cinza]]: até que ponto ele pode ser danificado ou rompido por poderes de nível angelical ou divino.
 - Identidade do homem de manto branco que caiu sem vida diante do altar de sacrifício no momento em que o líquido dourado se infundiu no [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
+- Objetivos e paradeiro de [[Qilangos]], o Contra-Almirante Furacão, um dos [[Sete Grandes Piratas Almirantes]], Beyonder de Sequência 6 do [[Caminho do Marinheiro]] que se infiltrou secretamente em [[Backlund]] e possui um item milagroso classificado como [[Artefatos Selados|Artefato Selado]].
+- Se a raiz do nome [[Feysac]] em [[Jotun]] indica um vínculo da nação com a casa imperial do [[Rei Gigante]], como especulou [[Derrick Berg]].

@@ -8,7 +8,7 @@ aliases:
 
 # Igreja do Deus do Combate
 
-A instituição religiosa oficial responsável pela adoração do [[Deus do Combate]].
+A instituição religiosa oficial responsável pela adoração do [[Deus do Combate]]. Está associada ao [[Feysac|Império Feysac]] e em desacordo com a [[Igreja da Deusa da Noite Eterna]], conforme registrado por [[Roselle Gustav]].
 
 ## Caminho Beyonder
 

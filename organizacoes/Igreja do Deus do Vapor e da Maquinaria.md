@@ -16,6 +16,8 @@ Mencionada como uma das igrejas oficiais onde ingressantes podem se tornar Beyon
 
 Possuía o menor número e os menos perigosos Artefatos Selados entre as sete igrejas ortodoxas durante o período de [[Roselle Gustav]], incluindo um perigoso item selado pertencente à [[Família Antigonus]] que [[Zaratul]] pretendia roubar com o auxílio do imperador.
 
+Mantém o [[Caminho do Erudito]] completo e um caminho relativamente completo de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]], combinação que possibilita a [[Troca de Caminhos]] em Altas Sequências.
+
 
 ## Estrutura e Hierarquia
 
