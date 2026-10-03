@@ -19,3 +19,5 @@ Recorre ao [[Visconde Glaint]] para interceder por sua amiga [[Xio Derecha]], de
 Apresenta [[Xio Derecha]] a [[Audrey Hall]] como uma excelente persuasora e acompanha o grupo até a [[Reunião Secreta de Backlund]], onde apresenta [[Sr. A]] como um Beyonder poderoso e líder do encontro; ao ver a lâmina triangular cair da perna de Xio, comenta que essas ferramentas servem para convencer os que não se convencem com facilidade a conversar com calma.
 
 Orienta [[Audrey Hall]] e o [[Visconde Glaint]] sobre o sistema de solicitações anônimas em lousas na [[Reunião Secreta de Backlund]] e compartilha caminhos de Sequência conhecidos, revelando que outrora sonhou em se tornar uma [[Boticário|Boticária]].
+
+É lembrada por [[Audrey Hall|Justiça]] como uma Beyonder com círculos úteis: ex-médica clínica e agora autora, mantém contatos no mundo literário, na indústria editorial e entre os médicos de classe média, o que a torna uma via valiosa para localizar pessoas em [[Backlund]].

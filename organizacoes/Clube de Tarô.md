@@ -23,6 +23,10 @@ Na reunião regular, os membros aprendem com [[Klein Moretti|O Tolo]] que o [[M�
 
 [[Klein Moretti|O Tolo]] convoca [[Derrick Berg|O Sol]] antes do horário regular para instruí-lo no ritual de oração, ativa a tradução mística simultânea para [[Jotun]] e introduz formalmente o jovem a [[Audrey Hall|Justiça]] e [[Alger Wilson|O Enforcado]], sendo informado por Justiça sobre a coleta de duas novas páginas do diário de [[Roselle Gustav]].
 
+[[Alger Wilson|O Enforcado]] aprofunda o pedido de auxílio na caçada a [[Qilangos]], revelando que o item mágico do pirata é o [[Fome Rastejante]] e que ele precisa ser alimentado com a alma e a carne de uma pessoa viva em dias alternados. [[Audrey Hall|Justiça]] aceita a missão, e [[Derrick Berg|O Sol]] contribui com o Clube ao explicar os poderes do [[Seq 5 - Pastor|Pastor]], comparação que leva [[Klein Moretti|O Tolo]] a suspeitar que os [[Artefatos Selados]] repliquem as habilidades de Beyonders.
+
+Com a permissão e o auxílio de O Tolo, [[Alger Wilson|O Enforcado]] materializa no espaço da [[Névoa Cinza]] o retrato de [[Qilangos]], e a reunião é encerrada com os agradecimentos de Justiça e a oração de O Sol dirigida a O Tolo já na [[Cidade de Prata]].
+
 ## Estrutura e Hierarquia
 
 - [[Klein Moretti|O Tolo]] — Fundador e testemunha dos comércios do clube.
@@ -38,4 +42,5 @@ Na reunião regular, os membros aprendem com [[Klein Moretti|O Tolo]] que o [[M�
 - **Trocas e Comércio:** Transações de fórmulas de poções e ingredientes místicos testemunhadas por [[Klein Moretti|O Tolo]] para garantir a segurança e a igualdade.
 - **Notificação de Ausências:** Membros impossibilitados de comparecer à reunião de segunda-feira devem realizar o ritual de invocação para [[Klein Moretti|O Tolo]], modificando a frase final do encantamento em [[Hermes]] para declarar a justificativa do impedimento.
 - **Processo de Admissão:** A inclusão de novos membros exige observação criteriosa, recomendação e testes sob estrito sigilo.
+- **Materialização de Imagens:** Com a permissão de [[Klein Moretti|O Tolo]], objetos e retratos podem ser materializados no espaço da [[Névoa Cinza]] para servirem de base a buscas e acordos entre os membros.
 

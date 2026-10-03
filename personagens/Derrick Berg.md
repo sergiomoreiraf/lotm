@@ -31,3 +31,9 @@ Oferece-se para obter a fórmula de [[Seq 8 - Telepata|Telepata]] para [[Audrey 
 
 Sem compreender as referências a reinos, câmaras de governo e igrejas desconhecidas, suspeita que os demais membros do [[Clube de Tarô]] venham de um mundo diferente do seu e cogita que [[Klein Moretti|O Tolo]] seja um deus antigo. Nota que a raiz do nome [[Feysac]] vem de [[Jotun]] e especula sobre sua ligação com a casa imperial do caído [[Rei Gigante]].
 
+### Inteligência sobre o Pastor e a Oração ao Tolo
+
+Ao ouvir a descrição dos poderes exibidos por [[Qilangos]] por meio do item [[Fome Rastejante]], intervém de forma impulsiva e explica ao [[Clube de Tarô]] que eles correspondem aos de um [[Seq 5 - Pastor|Pastor]]: a classe engole a alma de outras pessoas, incluindo fantasmas e espíritos malignos, e as controla para empregar suas habilidades, de modo que ninguém sabe quantos poderes possui. Envergonhado pela própria precipitação, cede gratuitamente um conhecimento que poderia negociar por coisas valiosas.
+
+De volta à casa dos Berg, na [[Cidade de Prata]], registra em pele de cabra e pena a fórmula de [[Seq 9 - Bardo|Bardo]] que memorizou e a confere até ter certeza de que está correta. Não teme suspeitas dos escalões superiores da cidade, pois fórmulas, ingredientes e artefatos recolhidos em expedições costumam ser guardados em particular, e algumas fórmulas circulam por canais não oficiais e sustentam famílias fortes de geração em geração. Seguindo as instruções de [[Klein Moretti|O Tolo]], profere a oração de encantamento em [[Jotun]], língua antiga dotada das propriedades místicas exigidas por rituais e orações. Sua prece alcança a [[Névoa Cinza]] e faz piscar a estrela carmesim correspondente, levando [[Klein Moretti|O Tolo]] a planejar responder dez minutos antes da próxima Reunião.
+

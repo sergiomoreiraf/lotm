@@ -7,7 +7,7 @@ aliases:
 
 # Seq 9 - Suplicante de Segredos
 
-A Sequência 9 detida pela [[Ordem Aurora]]. Os Beyonders dessa sequência possuem percepção mística aprimorada para detectar entidades misteriosas e ocultas. Na [[Cidade de Prata]], os nomes preservados da mesma cadeia indicam que ela prossegue com [[Seq 8 - Ouvinte|Sussurro]], [[Seq 7 - Asceta das Sombras]], [[Seq 6 - Bispo Vermelho]] e [[Seq 5 - Pastor]].
+A Sequência 9 detida pela [[Ordem Aurora]]. Os Beyonders dessa sequência possuem percepção mística aprimorada para detectar entidades misteriosas e ocultas. Pertence ao [[Caminho do Suplicante de Segredos]], e os nomes preservados na [[Cidade de Prata]] indicam que a cadeia prossegue com [[Seq 8 - Ouvinte|Sussurro]], [[Seq 7 - Asceta das Sombras]], [[Seq 6 - Bispo Vermelho]] e [[Seq 5 - Pastor]].
 
 ## Poderes Conhecidos
 

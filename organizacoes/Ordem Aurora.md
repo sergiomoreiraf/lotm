@@ -23,6 +23,8 @@ Teve a localização de sua Residência Sagrada do [[O Criador|Verdadeiro Criado
 
 [[Alger Wilson|O Enforcado]] revela no [[Clube de Tarô]] que a organização mantém cinco Cavaleiros e vinte e dois Oráculos, e que é grande a possibilidade de o [[Sr. A]] pertencer a seus quadros; sua hostilidade com a [[Igreja do Senhor das Tempestades]], a [[Igreja do Eterno Sol Ardente]] e a [[Igreja do Deus do Conhecimento e da Sabedoria]] faz com que membros dessas igrejas conheçam a Ordem melhor que qualquer outra instituição.
 
+[[Derrick Berg|O Sol]] descreve ao [[Clube de Tarô]] os poderes do [[Seq 5 - Pastor|Pastor]] — a Sequência 5 do caminho controlado pela Ordem —, revelando que a classe engole almas em seu corpo e as controla para empregar as habilidades delas, o que explica a extensão dos poderes exibidos por [[Qilangos]] por meio do item [[Fome Rastejante]].
+
 ## Estrutura e Hierarquia
 
 - **Cavaleiros:** Cinco integrantes de elite da organização.
