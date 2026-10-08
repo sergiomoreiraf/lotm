@@ -19,4 +19,4 @@ A cópia não possui etiqueta que identifique o retratado, de modo que sua atrib
 
 ## Semelhança com Azik
 
-[[Klein Moretti]] constata que o retrato se assemelha muito ao professor [[Azik]] e que o sinal abaixo da orelha direita do barão ocupa exatamente a mesma posição do sinal de [[Azik|Sr. Azik]].
+[[Klein Moretti]] constata que o retrato se assemelha muito ao professor [[Azik]] e que o sinal abaixo da orelha direita do barão ocupa exatamente a mesma posição do sinal de [[Azik|Sr. Azik]]. Ao visitar o castelo, [[Azik]] recupera memórias do local intacto onde vivia com sua esposa e seu filho pequeno, confirmando sua vivência histórica como o senhor do castelo.

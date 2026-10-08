@@ -37,3 +37,8 @@ Confessa a [[Klein Moretti]] seu temor da morte e a angústia pela ausência de 
 
 Recebe a visita de [[Klein Moretti]] em sua residência após retornar de viagem e toma conhecimento da existência do retrato do [[Primeiro Barão Lamud]] no [[Castelo Antigo de Lamud]], cujas feições e sinal próximo à orelha direita coincidem com os seus. Animado com a pista sobre seu passado, embora o relato não desperte memórias imediatas, propõe visitar pessoalmente o castelo abandonado na [[Cidade Lamud]] e pede a Klein que o acompanhe como guia.
 
+Visita as ruínas do [[Castelo Antigo de Lamud]] ao lado de [[Klein Moretti]], onde dores intensas despertam memórias de seus sonhos sobre a fortaleza intacta, sua esposa e seu filho de sete a oito anos que sonhava em se tornar cavaleiro.
+
+Encontra com familiaridade o mecanismo do porão e, diante do caixão, reconhece em prantos o esqueleto decapitado como o de seu filho. Ao detectar no local o poder do manipulador que tornou o destino de Klein desarmonioso, corta o indicador e goteja sangue sobre os ossos para rastreá-lo por conexão sanguínea, conjurando névoa negra, o choro de um bebê e uma porta ilusória repleta de braços pálidos; após vislumbrar o crânio transformado em pó, lamenta o fracasso da busca, solicita a ajuda contínua de Klein e anuncia sua decisão de pedir demissão da [[Universidade Khoy]] e deixar [[Cidade Tingen|Tingen]] para procurar seu passado.
+
+
