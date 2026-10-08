@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 148 - Mensageiro
+- **Último Capítulo Processado:** Capítulo 149 - Dica Direta

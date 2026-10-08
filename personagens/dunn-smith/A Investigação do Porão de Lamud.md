@@ -5,7 +5,7 @@ tags:
 
 # A Investigação do Porão de Lamud
 
-[[Dunn Smith]] lidera a abertura do porão oculto do [[Castelo Antigo de Lamud]] e formula a hipótese do roubo da cabeça do cadáver.
+[[Dunn Smith]] lidera a abertura do porão oculto do [[Castelo Antigo de Lamud]], formula a hipótese do roubo da cabeça do cadáver e compreende as revelações de [[Klein Moretti]] sobre a atuação.
 
 ## Evolução narrativa
 
@@ -16,3 +16,6 @@ No porão, inspeciona o caixão com o cadáver decapitado e formula a hipótese 
 De volta às investigações na [[Cidade Lamud]], resume a [[Klein Moretti]] que o espectro apareceu nos últimos três meses e organiza os turnos de duas horas para levar o [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] para fora da cidade, designando Klein para o primeiro turno; lembra que [[Frye]], que já portava o item desde a separação da equipe, só poderia conservá-lo por mais três horas.
 
 Durante a vigília noturna, invade o sonho de [[Klein Moretti]] e consome a refeição onírica do subordinado como método de atuação da sequência [[Seq 7 - Pesadelo|Pesadelo]]. Pela manhã, conduz a equipe de volta à [[Companhia de Segurança Espinho Negro]] na [[Cidade Tingen]] e guarda o [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] atrás do [[Portão Chanis]].
+
+Ouve a exposição de [[Klein Moretti]] sobre os princípios ocultos contidos nos nomes das poções e a eliminação de ilusões místicas pela assimilação desses conceitos no [[Clube de Adivinhação]]. Compreendendo o significado da dedução sobre o [[Método de Atuação]], acolhe o relato em silêncio e sinaliza aguardar a petição especial de avanço de Klein para a [[Seq 8 - Palhaço|Sequência 8: Palhaço]].
+
