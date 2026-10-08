@@ -22,6 +22,16 @@ A magia ritualística é a prática de canalizar e direcionar espiritualidade po
 
 - **Ritual de Invocação de O Tolo:** Um ritual experimental proposto por [[Klein Moretti|O Tolo]] para servir de canal de comunicação com seus membros. Utiliza uma estrutura modificada em [[Hermes]] direcionada a si mesmo ("O Tolo que não pertence a esta era..."), acompanhada de preces específicas ("Eu rezo por sua ajuda", "Eu oro por sua graça amorosa", "Eu rezo para que você me dê um bom sonho") e ervas correspondentes à lua vermelha (flor da lua) e ao sol (cidra com dedos).
 
+## Prece a Si Mesmo e Invocação de Mensageiros
+
+Modalidade de magia ritualística secreta e autocontida que canaliza exclusivamente a espiritualidade do próprio praticante, dispensando a invocação de uma divindade e eliminando as restrições de domínios sagrados específicos. Exige a montagem do altar com uma única vela representando a si mesmo, além de ervas e óleos essenciais do domínio correspondente. O encantamento é estruturado em três partes estritas:
+
+1. O pronome "Eu" pronunciado em linguagem antiga (antigo [[Hermes]], [[Jotun]], dragônito ou élfico).
+2. A fórmula "Eu invoco em meu nome" pronunciada em [[Hermes]].
+3. A descrição exata e rigorosa da criatura ou espírito do [[Mundo Espiritual]] a ser invocado (como mensageiros espirituais).
+
+O efeito do ritual é proporcional à força espiritual do conjurador; no entanto, qualquer desvio na descrição do alvo de invocação acarreta o risco severo de atrair monstros aterrorizantes.
+
 ## Conforto de Espíritos e Comunicação com os Mortos
 
 Um ritual dedicado à [[Deusa da Noite Eterna]] pode confortar espíritos inquietos e, em seguida, tentar a comunicação com os mortos. Exige a montagem do altar com ingredientes como óleo essencial da lua cheia e sândalo carmesim e o isolamento do ambiente por uma parede selada erguida com uma adaga de prata; os espíritos confortados adormecem na noite escura e a comunicação subsequente costuma mostrar apenas fragmentos do que os mortos viram antes de morrer. A reação de um ritual interrompido causa danos graves e dissipa as imagens residuais do anfitrião, limitando severamente essa comunicação.

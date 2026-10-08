@@ -7,7 +7,7 @@ aliases:
 
 # Seq 7 - Médium Espiritual
 
-Uma sequência Beyonder correspondente à Sequência 7 de um caminho incompleto mantido pela [[Igreja da Deusa da Noite Eterna]]. É a classe à qual pertence [[Daly]].
+Uma sequência Beyonder correspondente à Sequência 7 do [[Caminho da Morte]], mantido de forma incompleta pela [[Igreja da Deusa da Noite Eterna]]. É o estágio prévio a [[Seq 6 - Guia Espiritual|Guia Espiritual]].
 
 ## Poderes Conhecidos
 

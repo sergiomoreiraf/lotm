@@ -19,6 +19,7 @@ tags:
 - Por que o ritual de quatro passos anti-horário e a ascensão à névoa cinza anulam e concedem imunidade temporária ao efeito assimilador do [[Artefato Selado 2-049]].
 - Novas funções e capacidades que o espaço acima da névoa cinza manifestará conforme [[Klein Moretti]] avançar para as Sequências 8, 7 ou superiores.
 - Se a materialização de objetos e a separação de seus componentes no espaço acima da névoa cinza produzem efeitos reais ou são apenas representações simbólicas, já que [[Klein Moretti]] separou uma gota de líquido dourado da cópia materializada do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
+- Efeito e riscos de [[Klein Moretti]] utilizar a fórmula da prece a si mesmo na [[Magia Ritualística]] invocando o nome honorífico d'[[Klein Moretti|O Tolo]], e se isso permitiria canalizar o poder da [[Névoa Cinza]] para o mundo real sem gerar reações perigosas.
 
 ## O Incidente do Caderno Antigonus
 
@@ -90,7 +91,7 @@ tags:
 - Quais são as Sequências 3, 2 e 1 do [[Caminho do Gigante]], cujos nomes superiores são conhecidos apenas pelos anciãos do [[Conselho de Seis Membros]].
 - Perigos e horrores ocultos atrás do [[Portão Chanis]] durante a noite, que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos externos.
 - Qual poção de Sequência específica e quais materiais Beyonder [[Fors Wall]] possui e pretende negociar em troca do resgate de sua parceira.
-- Por que a [[Igreja da Deusa da Noite Eterna]], com quase três mil anos de história e registros de Beyonders de rápida digestão como [[Daly]], não dissemina o [[Método de Atuação]], levantando a suspeita de ocultação deliberada pelo alto escalão.
+- Qual a razão oculta pela qual a cúpula da [[Igreja da Deusa da Noite Eterna]] mantém sigilo estrito e impõe juramentos sagrados sobre o [[Método de Atuação]], reservando o conhecimento de suas justificativas apenas a arcebispos e diáconos de alto escalão.
 - Como a [[Igreja da Deusa da Noite Eterna]] reteve apenas a fórmula de [[Seq 9 - Vidente|Vidente]] após aniquilar a [[Família Antigonus]], que dominava a maior parte ou a totalidade do [[Caminho do Vidente]], mesmo possuindo médiuns com capacidade de interrogar os mortos.
 - Se a [[Igreja da Deusa da Noite Eterna]] omite os nomes e fórmulas de [[Seq 8 - Palhaço|Palhaço]] e Sequência 7 em seus registros confidenciais para impedir que seus Beyonders avancem pelo [[Caminho do Vidente]], e se membros desse caminho correm o risco de se tornarem espíritos vingativos da [[Família Antigonus]].
 
