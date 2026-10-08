@@ -5,5 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 152 - Bela Tentativa
+- **Último Capítulo Processado:** Capítulo 153 - Ato Final de Lançamento da Fundação
 

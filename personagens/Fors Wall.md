@@ -8,7 +8,7 @@ aliases:
 
 # Fors Wall
 
-Fors Wall é uma autora de 23 anos, residente em [[Backlund]] e ex-médica de clínica, aclamada pelo romance *[[Vila da Montanha Vento Raivoso]]*. É uma Beyonder capaz de se tornar incorpórea e atravessar superfícies trancadas.
+Fors Wall é uma autora de 23 anos, residente em [[Backlund]] e ex-médica de clínica, aclamada pelo romance *[[Vila da Montanha Vento Raivoso]]*. É uma Beyonder [[Seq 9 - Aprendiz|Aprendiz]] do [[Caminho do Aprendiz]], capaz de se tornar incorpórea e atravessar superfícies trancadas.
 
 ## Evolução narrativa
 
@@ -21,3 +21,5 @@ Apresenta [[Xio Derecha]] a [[Audrey Hall]] como uma excelente persuasora e acom
 Orienta [[Audrey Hall]] e o [[Visconde Glaint]] sobre o sistema de solicitações anônimas em lousas na [[Reunião Secreta de Backlund]] e compartilha caminhos de Sequência conhecidos, revelando que outrora sonhou em se tornar uma [[Boticário|Boticária]].
 
 É lembrada por [[Audrey Hall|Justiça]] como uma Beyonder com círculos úteis: ex-médica clínica e agora autora, mantém contatos no mundo literário, na indústria editorial e entre os médicos de classe média, o que a torna uma via valiosa para localizar pessoas em [[Backlund]].
+
+Diante do retrato e das anotações de [[Audrey Hall|Justiça]] sobre [[Qilangos]], recusa-se a comprovar e deduzir o perfil do pirata, alegando ser apenas uma [[Seq 9 - Aprendiz|Aprendiz]] e não uma [[Árbitro|Árbitra]], e propõe que ela e [[Xio Derecha]] contratem um detetive profissional para a tarefa, cabendo a Fors pagar a taxa; avalia que [[Audrey Hall]] não é a adolescente ingênua dos rumores, mas alguém de coração meticuloso e observação calma.

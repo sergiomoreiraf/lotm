@@ -17,6 +17,7 @@ A Companhia de Segurança Espinho Negro é uma empresa de segurança privada loc
 - [[Klein Moretti]] retorna ao escritório já vazio ao anoitecer e relata a [[Dunn Smith]] a descoberta do [[Edifício Alvo]], de onde o capitão parte para liderar a operação.
 - [[Klein Moretti]] relata a [[Frye]] e [[Leonard Mitchell]], na sala ao crepúsculo, a visão obtida na adivinhação sobre o [[Edifício Alvo]] e o rio próximo.
 - O departamento de polícia aprova o pedido do capitão e transfere dois policiais que se depararam com incidentes sobrenaturais para atuarem como escriturários da companhia.
+- [[Klein Moretti]] comparece ao escritório num sábado e apresenta a [[Dunn Smith]], na sala do capitão, o pedido especial de avanço com base na digestão completa da poção de [[Seq 9 - Vidente|Vidente]].
 
 ## Proprietários e Frequentadores
 

@@ -24,3 +24,5 @@ Atende [[Bogda Jones|Bogda]] na recepção do clube, sugestiona outros adivinhos
 É vista por [[Klein Moretti]] chorando desolada no corredor do [[Clube de Adivinhação]] devido à morte de [[Hanass Vincent]], comunicando que o gerente informara que Vincent sofrera um ataque cardíaco fatal enquanto dormia. Informa a Klein sobre o retorno de Bogda, admirando-se de o cliente ter esperado uma tarde inteira pelo adivinho.
 
 Reconhece o retrato mostrado por [[Klein Moretti]], relatando ter visto o [[Homem de Meio Século com Sobrancelhas Bagunçadas|homem de sobrancelhas bagunçadas]] acompanhando [[Hanass Vincent]] na porta do [[Clube de Adivinhação]] cerca de um mês antes.
+
+É informada por [[Klein Moretti]] numa sexta-feira de que ele passará a frequentar o [[Clube de Adivinhação]] com menos assiduidade; surpreende-se, menciona o plano do clube de tê-lo como palestrante aos domingos e, após a recusa educada dele, diz esperar que ele esteja no clube quando estiver perdida.

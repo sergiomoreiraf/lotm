@@ -17,6 +17,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 - [[A Operação do Edifício Alvo]] — Lidera a operação contra o edifício-alvo no Burgo Oeste, mantendo Klein a cinquenta metros de distância.
 - [[A Busca na Estação]] — Reúne os Falcões Noturnos e organiza a busca na estação de locomotivas a vapor após a dica sobre a partida de Trissy.
 - [[A Investigação do Porão de Lamud]] — Investiga o porão do Castelo de Lamud e compreende as revelações de Klein sobre os princípios de atuação.
+- [[A Cautela com a Igreja e a Petição de Klein]] — Tem confirmada sua cautela com os superiores da Igreja da Deusa da Noite Eterna e recebe de Klein a petição especial de avanço.
 
 ## Eventos Arquivados
 

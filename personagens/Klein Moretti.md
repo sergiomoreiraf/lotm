@@ -25,6 +25,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Chaminé Vermelha e a Visita Noturna de Daly]] — Conclui a busca das chaminés vermelhas com o Detetive Henry, recebe a visita noturna de Daly sobre o Método de Atuação, orienta Dunn Smith e relata a pista do Barão Lamud a Azik.
 - [[A Conexão de Sangue e o Passado de Azik]] — Acompanha Azik ao Castelo Antigo de Lamud, deduz o ciclo de renascimentos do professor, acorda um plano para acessar o 3-0782 e prepara adivinhação sobre a auto-convocação do Tolo.
 - [[A Auto-Convocação e a Porta da Invocação]] — Confirma por adivinhação a ausência de perigo na auto-convocação, executa o ritual e forma uma Porta da Invocação incompleta por falta de espiritualidade.
+- [[A Camada Final das Fundações e a Petição ao Capitão]] — Fecha a última camada das fundações de sua petição, acerta com Azik a viagem à Cidade Morse e declara a Dunn Smith a digestão completa da poção de Vidente.
 
 ## Eventos Arquivados
 

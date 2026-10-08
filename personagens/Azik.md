@@ -43,5 +43,7 @@ Encontra com familiaridade o mecanismo do porão e, diante do caixão, reconhece
 
 Revela ter vivido desde o final da [[Quarta Época]] como um espírito errante e acolhe a dedução de [[Klein Moretti]] de que sofre mortes e perdas cíclicas de memória a cada poucas décadas, sendo seus despertares preparados por suas próprias identidades anteriores; decide buscar ativamente seu passado para romper esse ciclo e aceita o pedido de Klein para forjar, nas semanas seguintes e nos arredores de [[Cidade Tingen|Tingen]], um incidente sobrenatural inofensivo contra seguidores da [[Igreja da Deusa da Noite Eterna]], confirmando tacitamente seu domínio sobre almas.
 
+Comunica a [[Klein Moretti]] por carta que viajará à [[Cidade Morse]] no domingo e retornará na quarta-feira, viagem que Klein interpreta como o início do incidente combinado.
+
 
 
