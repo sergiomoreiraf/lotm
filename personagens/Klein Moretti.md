@@ -23,7 +23,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Acordo com Daxter e as Suspeitas da Igreja]] — Transmite o Método de Atuação a Daxter em troca da fórmula de Telepata e deduz que a Igreja da Deusa da Noite Eterna oculta segredos da atuação e do Caminho do Vidente.
 - [[A Segunda Ardósia e o Pedido de Cooperação]] — Retoma o diário de Roselle sobre a Troca de Caminhos e a segunda Ardósia da Blasfêmia, e recebe de O Enforcado o pedido de cooperação para localizar o pirata Qilangos.
 - [[A Chaminé Vermelha e a Visita Noturna de Daly]] — Conclui a busca das chaminés vermelhas com o Detetive Henry, recebe a visita noturna de Daly sobre o Método de Atuação, orienta Dunn Smith e relata a pista do Barão Lamud a Azik.
-- [[A Conexão de Sangue e o Passado de Azik]] — Acompanha Azik ao Castelo Antigo de Lamud, testemunha o ritual de sangue com o esqueleto do filho do professor e assegura sua cooperação contra o manipulador das coincidências.
+- [[A Conexão de Sangue e o Passado de Azik]] — Acompanha Azik ao Castelo Antigo de Lamud, deduz o ciclo de renascimentos do professor, acorda um plano para acessar o 3-0782 e prepara adivinhação sobre a auto-convocação do Tolo.
 
 ## Eventos Arquivados
 

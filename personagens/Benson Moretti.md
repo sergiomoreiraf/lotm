@@ -45,5 +45,10 @@ Ao retornar do trabalho, comenta com [[Klein Moretti]] que agora entende o preç
 
 Prepara o jantar da família e, diante da proposta de contratar uma criada, recomenda recorrer à [[Associação de Assistência aos Servidores Familiares de Tingen]], elogiando sua experiência e seus recursos no ramo.
 
+### Preparação para o Concurso Público
+
+Recebe de [[Klein Moretti]] a dica confidencial sobre os planos de reforma do governo do [[Reino Loen]] para seleção por concurso público e decide manter sigilo e focar seus estudos noturnos em literatura clássica, matemática, lógica e leis básicas.
+
+
 
 

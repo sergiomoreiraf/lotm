@@ -170,9 +170,9 @@ tags:
 - Se as tatuagens corporais com os caracteres criados por [[Roselle Gustav]] conferem de fato vitalidade física e saúde ao usuário, como alegado pelo vendedor do diário, ou se acarretam perigos místicos desconhecidos.
 - Identidade e origem do espectro de armadura preta completa do [[Castelo Antigo de Lamud]], surgido do ressentimento do cadáver decapitado selado no porão oculto, identificado por [[Azik]] como seu próprio filho que na infância sonhava em se tornar cavaleiro.
 - Identidade e propósito do manipulador das coincidências que furtou o crânio do filho de [[Azik]] no [[Castelo Antigo de Lamud]], cujo rastro de sangue revelou que a cabeça foi descartada e reduzida a pó sob uma árvore.
-- Causa e circunstâncias do envenenamento e morte do filho de [[Azik]] há cerca de 1300 anos no [[Castelo Antigo de Lamud]], e por que seu corpo foi selado com um [[Ritual Antigo de Impedimento de Reanimação]].
-- Natureza da longevidade milenar e das perdas de memória de [[Azik]], que viveu há mais de mil e quatrocentos anos como senhor do [[Castelo Antigo de Lamud]] e decide deixar a [[Universidade Khoy]] e a [[Cidade Tingen|Tingen]] para buscar sua verdadeira identidade.
+- Causa e origem do preço místico pago pelo professor [[Azik]] que o faz vagar pelo continente desde o final da [[Quarta Época]] em um ciclo de mortes e perdas de memória a cada poucas décadas, e como romper essa repetição antes do fim de sua vida atual.
 - Origem e natureza dos poderes místicos manifestados por [[Azik]], capazes de conjurar névoa negra, choro espectral e uma porta ilusória para o submundo com braços pálidos através de conexão de sangue.
+
 - Se o [[Sangue Dourado do Deus]] extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] é de fato o sangue de uma divindade, de qual delas, e por que seu poder de purificação não se esgotou em décadas.
 - Limites da proteção do espaço da [[Névoa Cinza]]: até que ponto ele pode ser danificado ou rompido por poderes de nível angelical ou divino.
 - Identidade do homem de manto branco que caiu sem vida diante do altar de sacrifício no momento em que o líquido dourado se infundiu no [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].

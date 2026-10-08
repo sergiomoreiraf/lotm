@@ -41,4 +41,7 @@ Visita as ruínas do [[Castelo Antigo de Lamud]] ao lado de [[Klein Moretti]], o
 
 Encontra com familiaridade o mecanismo do porão e, diante do caixão, reconhece em prantos o esqueleto decapitado como o de seu filho. Ao detectar no local o poder do manipulador que tornou o destino de Klein desarmonioso, corta o indicador e goteja sangue sobre os ossos para rastreá-lo por conexão sanguínea, conjurando névoa negra, o choro de um bebê e uma porta ilusória repleta de braços pálidos; após vislumbrar o crânio transformado em pó, lamenta o fracasso da busca, solicita a ajuda contínua de Klein e anuncia sua decisão de pedir demissão da [[Universidade Khoy]] e deixar [[Cidade Tingen|Tingen]] para procurar seu passado.
 
+Revela ter vivido desde o final da [[Quarta Época]] como um espírito errante e acolhe a dedução de [[Klein Moretti]] de que sofre mortes e perdas cíclicas de memória a cada poucas décadas, sendo seus despertares preparados por suas próprias identidades anteriores; decide buscar ativamente seu passado para romper esse ciclo e aceita o pedido de Klein para forjar, nas semanas seguintes e nos arredores de [[Cidade Tingen|Tingen]], um incidente sobrenatural inofensivo contra seguidores da [[Igreja da Deusa da Noite Eterna]], confirmando tacitamente seu domínio sobre almas.
+
+
 
