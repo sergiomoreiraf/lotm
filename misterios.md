@@ -19,7 +19,8 @@ tags:
 - Por que o ritual de quatro passos anti-horário e a ascensão à névoa cinza anulam e concedem imunidade temporária ao efeito assimilador do [[Artefato Selado 2-049]].
 - Novas funções e capacidades que o espaço acima da névoa cinza manifestará conforme [[Klein Moretti]] avançar para as Sequências 8, 7 ou superiores.
 - Se a materialização de objetos e a separação de seus componentes no espaço acima da névoa cinza produzem efeitos reais ou são apenas representações simbólicas, já que [[Klein Moretti]] separou uma gota de líquido dourado da cópia materializada do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
-- Efeito e riscos de [[Klein Moretti]] utilizar a fórmula da prece a si mesmo na [[Magia Ritualística]] invocando o nome honorífico d'[[Klein Moretti|O Tolo]], e se isso permitiria canalizar o poder da [[Névoa Cinza]] para o mundo real sem gerar reações perigosas.
+- Efeito e riscos de [[Klein Moretti]] utilizar a fórmula da prece a si mesmo na [[Magia Ritualística]] invocando o nome honorífico d'[[Klein Moretti|O Tolo]]: a adivinhação com pêndulo Acima da Névoa Cinza indicou ausência de perigo, mas o ritual formou apenas uma [[Porta da Invocação]] disforme e inoperante por falta de espiritualidade, adiando nova tentativa para depois do avanço à [[Seq 8 - Palhaço|Sequência 8: Palhaço]].
+- Se a figura silenciosa de [[Dunn Smith]] que observa [[Klein Moretti]] em sonho após o ritual de auto-convocação é uma manifestação do poder de Pesadelo ou apenas um sonho comum.
 
 ## O Incidente do Caderno Antigonus
 
@@ -176,5 +177,5 @@ tags:
 - Se o [[Sangue Dourado do Deus]] extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] é de fato o sangue de uma divindade, de qual delas, e por que seu poder de purificação não se esgotou em décadas.
 - Limites da proteção do espaço da [[Névoa Cinza]]: até que ponto ele pode ser danificado ou rompido por poderes de nível angelical ou divino.
 - Identidade do homem de manto branco que caiu sem vida diante do altar de sacrifício no momento em que o líquido dourado se infundiu no [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
-- Objetivos e paradeiro de [[Qilangos]], o Contra-Almirante Furacão, um dos [[Sete Grandes Piratas Almirantes]], Beyonder de Sequência 6 do [[Caminho do Marinheiro]] que se infiltrou secretamente em [[Backlund]] e possui um item milagroso classificado como [[Artefatos Selados|Artefato Selado]]; a busca por seu paradeiro foi confiada a [[Audrey Hall|Justiça]], que mobiliza para isso a rede de [[Fors Wall]] e [[Xio Derecha]].
+- Objetivos e paradeiro de [[Qilangos]], o Contra-Almirante Furacão, um dos [[Sete Grandes Piratas Almirantes]], Beyonder de Sequência 6 do [[Caminho do Marinheiro]] que se infiltrou secretamente em [[Backlund]] e possui um item milagroso classificado como [[Artefatos Selados|Artefato Selado]]; a busca por seu paradeiro foi confiada a [[Audrey Hall|Justiça]], que mobiliza para isso a rede de [[Fors Wall]] e [[Xio Derecha]] e já entregou a esta última um retrato realista do pirata na [[Loja de Departamentos Philip]], pedindo que o localize sem alertá-lo.
 - Se a raiz do nome [[Feysac]] em [[Jotun]] indica um vínculo da nação com a casa imperial do [[Rei Gigante]], como especulou [[Derrick Berg]].

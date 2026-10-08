@@ -32,6 +32,8 @@ Modalidade de magia ritualística secreta e autocontida que canaliza exclusivame
 
 O efeito do ritual é proporcional à força espiritual do conjurador; no entanto, qualquer desvio na descrição do alvo de invocação acarreta o risco severo de atrair monstros aterrorizantes.
 
+A auto-convocação dispensa a especificidade dos ingredientes, já que o alvo é o próprio conjurador. A tentativa de [[Klein Moretti]] de invocar [[Klein Moretti|O Tolo]] nas condições acima confirmou por adivinhação de pêndulo a ausência de perigo, consumiu sua espiritualidade em ritmo insano e formou acima da [[Névoa Cinza]] apenas uma [[Porta da Invocação]] ilusória e disforme, incapaz de se abrir — o que o levou a concluir que lhe faltava espiritualidade para completar a porta.
+
 ## Conforto de Espíritos e Comunicação com os Mortos
 
 Um ritual dedicado à [[Deusa da Noite Eterna]] pode confortar espíritos inquietos e, em seguida, tentar a comunicação com os mortos. Exige a montagem do altar com ingredientes como óleo essencial da lua cheia e sândalo carmesim e o isolamento do ambiente por uma parede selada erguida com uma adaga de prata; os espíritos confortados adormecem na noite escura e a comunicação subsequente costuma mostrar apenas fragmentos do que os mortos viram antes de morrer. A reação de um ritual interrompido causa danos graves e dissipa as imagens residuais do anfitrião, limitando severamente essa comunicação.
