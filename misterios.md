@@ -88,7 +88,6 @@ tags:
 - Se o [[Rei Gigante]] era um Gigante antigo e se o deus surgido na [[Terceira Época]] herdou a propriedade dele, como especula [[Klein Moretti]].
 - A qual caminho pertencem as Sequências [[Seq 7 - Asceta das Sombras|Asceta das Sombras]], [[Seq 6 - Bispo Vermelho]] e [[Seq 5 - Pastor]], e se formam com o [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] e o [[Seq 8 - Ouvinte|Sussurro]] a cadeia completa da [[Ordem Aurora]].
 - Quais são as Sequências 3, 2 e 1 do [[Caminho do Gigante]], cujos nomes superiores são conhecidos apenas pelos anciãos do [[Conselho de Seis Membros]].
-- Condições excepcionais e o processo de exames rigorosos que permitiram a [[Daly]] avançar de poção antes do prazo regulamentar de três anos mantido pelos [[Falcões Noturnos]].
 - Perigos e horrores ocultos atrás do [[Portão Chanis]] durante a noite, que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos externos.
 - Qual poção de Sequência específica e quais materiais Beyonder [[Fors Wall]] possui e pretende negociar em troca do resgate de sua parceira.
 - Por que a [[Igreja da Deusa da Noite Eterna]], com quase três mil anos de história e registros de Beyonders de rápida digestão como [[Daly]], não dissemina o [[Método de Atuação]], levantando a suspeita de ocultação deliberada pelo alto escalão.

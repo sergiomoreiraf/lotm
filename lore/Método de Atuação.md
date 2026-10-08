@@ -23,4 +23,5 @@ O cerne da assimilação de poções Beyonder no sistema místico do mundo. Reve
 - **Sinal de Conclusão:** A digestão completa da poção é percebida de forma imediata e intuitiva pelo próprio Beyonder.
 - **Teste de Prontidão (Sem Atuação):** Na ausência do método de atuação, o teste para confirmar a digestão completa consiste em esgotar o corpo ao limite físico; caso o Beyonder não apresente murmúrios nem alucinações visuais ou auditivas, considera-se apto a avançar de Sequência.
 - **Conduta Específica por Caminho:** A atuação exige compreender e deduzir princípios estritos a partir do nome da poção; no [[Caminho do Espectador]], por exemplo, o Beyonder deve posicionar-se estritamente como um observador neutro dos acontecimentos e jamais como um participante ativo da cena.
+- **Dedução Empírica:** Beyonders intuitivos como [[Daly|Daly Simone]] conseguem deduzir e praticar o método empiricamente por conta própria (processo que pode levar cerca de dois anos de experimentação), eliminando alucinações e permitindo digestões rápidas sem conhecimento prévio da teoria formal.
 

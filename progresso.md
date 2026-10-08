@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 146 - Fome Rastejante
+- **Último Capítulo Processado:** Capítulo 147 - Visitante Noturno

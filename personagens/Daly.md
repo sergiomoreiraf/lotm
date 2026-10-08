@@ -19,3 +19,5 @@ Aguardou na [[Residência de Welch McGovern]] e realizou um exame mediúnico em 
 É revelada por [[Rozanne]] como uma [[Seq 7 - Médium Espiritual|Médium Espiritual]] (Sequência 7), sendo descrita por [[Klein Moretti]] como a personificação ideal de um Beyonder.
 
 É transferida para a diocese de [[Backlund]] após cinco anos como Beyonder. É revelado por [[Dunn Smith]] que consumiu a poção de [[Seq 8 - Coveiro|Coveiro]] após apenas um ano como [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] e tornou-se [[Seq 7 - Médium Espiritual|Médium Espiritual]] um ano depois, tendo sugerido a Dunn que ele deveria "tornar-se um verdadeiro Pesadelo" e formulado a hipótese dos caminhos de Sequência não-lineares.
+
+Retorna em segredo à [[Cidade Tingen]] após receber uma carta de [[Dunn Smith]] sobre as regras deduzidas por [[Klein Moretti]] para o [[Seq 9 - Vidente|Vidente]]. Manifesta-se no quarto de Klein através de uma projeção espiritual na parede e confirma ter deduzido de forma autônoma o [[Método de Atuação]] ao longo de quase dois anos, confrontando o colega por ter decifrado o mesmo princípio em apenas um mês e meio.
