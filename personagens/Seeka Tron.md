@@ -15,3 +15,5 @@ Participa do jantar de recepção a [[Klein Moretti]] no [[Restaurante do Velho 
 
 Informa na reunião de rotina dos [[Falcões Noturnos]] que não foram encontradas pistas de [[Trissy|Tris]], teorizando que o Instigador tenha fugido da [[Cidade Tingen]].
 
+Enquanto joga cartas na sala de recreação com [[Frye]] e [[Kenley]], demonstra espanto com o anúncio de [[Leonard Mitchell]] e indaga a [[Klein Moretti]] com vivo interesse como conseguiu digerir a poção em tão pouco tempo, ouvindo com profunda atenção a exposição sobre os princípios de conduta e o exemplo de [[Daly|Daly Simone]].
+

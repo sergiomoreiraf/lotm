@@ -2,6 +2,8 @@
 tags:
   - local/estabelecimento/religioso
   - regiao/continente-norte
+aliases:
+  - Santa Catedral
 ---
 
 # Catedral da Serenidade
@@ -11,6 +13,7 @@ A catedral sagrada e sede central da [[Igreja da Deusa da Noite Eterna]], locali
 ## Eventos no Local
 
 - Mencionada como o destino final de hereges, mutantes e cultistas capturados pelos [[Falcões Noturnos]], e o local de confinamento subterrâneo dos Artefatos Selados de Grau 0 e outros itens de alta periculosidade.
+- Mencionada por [[Dunn Smith]] como a instância central para onde é remetido o pedido especial de avanço de [[Klein Moretti]], responsável por submeter os postulantes a um rigoroso exame investigativo.
 
 ## Proprietários e Frequentadores
 

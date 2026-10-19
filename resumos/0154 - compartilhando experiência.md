@@ -1,0 +1,12 @@
+---
+tags:
+  - resumo
+---
+
+# Capítulo 0154 - Compartilhando Experiência
+
+Em seu gabinete na [[Companhia de Segurança Espinho Negro]], [[Dunn Smith]] acolhe a confirmação de [[Klein Moretti]] de que a poção de [[Seq 9 - Vidente|Vidente]] foi inteiramente digerida após a manifestação de sensações mágicas e intuitivas. Embora o capitão sugira inicialmente aguardar mais um ano para diminuir a visibilidade diante da [[Igreja da Deusa da Noite Eterna]], Klein argumenta que a alarmante sequência de coincidências recentes em [[Cidade Tingen|Tingen]] — o encontro com o [[Caderno da Família Antigonus]], a retenção forçada de [[Ray Bieber]] no porto, o incidente de [[Hanass Vincent]] e o contato com a [[Ordem Aurora]] na [[Biblioteca de Deweyville]] — indica a presença de um perigo oculto, tornando imperativo seu fortalecimento; convencido pelo raciocínio, Dunn autoriza a formalização da petição especial e alerta o subordinado a pesar as palavras do relatório.
+
+No escritório dos escrivães, Klein utiliza a máquina de escrever sob a discrição dos novos funcionários civis para redigir o documento de avanço à [[Seq 8 - Palhaço|Sequência 8: Palhaço]]. Ao concluir, é interpelado por [[Leonard Mitchell]], que demonstra já conhecer o conceito místico de "digerir" poções e, impactado pelo mesmo padrão de coincidências exposto pelo colega, reflete com gravidade sobre a urgência de acelerar o próprio avanço. Disposto a ajudar a equipe a mitigar os riscos de [[Perda de Controle|perda de controle]], Klein aceita a sugestão de Leonard para instruir os companheiros sobre suas conclusões empíricas.
+
+Na sala de recreação, reunidos enquanto [[Royale Reideen|Royale]] guarnece o [[Portão Chanis]], [[Frye]], [[Kenley]] e [[Seeka Tron]] acolhem a revelação com estupefação; Klein expõe os fundamentos do [[Método de Atuação]] associando a máxima dos [[Seq 9 - Espreitador de Mistérios|Espreitadores de Mistérios]] ("Faça o que quiser, mas não faça mal") transmitida pelo [[Velho Neil]], o precedente de avanço rápido de [[Daly|Daly Simone]] e a prática estrita dos princípios de conduta extraídos do título da sequência no [[Clube de Adivinhação]]. Com os colegas imersos em profunda reflexão sobre a assimilação de poções, Klein retorna à sala de Dunn, apõe sua assinatura e impressão digital no pedido especial e é advertido pelo capitão a se preparar para a rigorosa avaliação conduzida pelos examinadores da [[Catedral da Serenidade|Santa Catedral]].

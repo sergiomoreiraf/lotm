@@ -5,5 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 153 - Ato Final de Lançamento da Fundação
+- **Último Capítulo Processado:** Capítulo 154 - Compartilhando Experiência
 

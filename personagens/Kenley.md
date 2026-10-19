@@ -9,12 +9,20 @@ Um Beyonder integrante dos [[Falcões Noturnos]] na [[Cidade Tingen]].
 
 ## Evolução narrativa
 
+### Plantões e Apoio aos Civis
+
 Assume a escala de plantão e custódia no [[Portão Chanis]] substituindo [[Dunn Smith]] durante a operação externa com o [[Artefato Selado 2-049]].
 
 É encarregado por [[Dunn Smith]] de organizar a mudança e o reasentamento seguro da família de [[Hayley Walker]] para outra cidade, protegendo a indenização financeira recebida de ameaças e ganância.
 
+### O Caso Sirius Arapis
+
 Acompanha [[Dunn Smith]] e [[Leonard Mitchell]] até a [[Biblioteca de Deweyville]] após a morte de [[Sirius Arapis]], demonstrando preocupação com a palidez de [[Klein Moretti]] e sendo enviado para convocar o [[Velho Neil]].
 
 Relata na reunião de quinta-feira dos [[Falcões Noturnos]] que localizou o esconderijo secreto de [[Sirius Arapis]] com o apoio do [[Velho Neil]], confirmando sua filiação à [[Ordem Aurora]] como [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] e a apreensão de três fórmulas de poções.
+
+### O Compartilhamento da Atuação
+
+Durante uma partida de cartas na sala de recreação com [[Frye]] e [[Seeka Tron]], reage incrédulo ao anúncio de [[Leonard Mitchell]] e se levanta atônito diante da confirmação de [[Klein Moretti]], passando a refletir seriamente sobre a aplicação prática dos princípios de atuação para digerir poções.
 
 

@@ -51,3 +51,7 @@ Recebe de [[Dunn Smith]] o [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutan
 
 Apresenta-se com antecedência para render [[Klein Moretti]] no turno de custódia do artefato na floresta. De volta à [[Companhia de Segurança Espinho Negro]], encarrega-se de redigir à máquina o relatório oficial da missão e a prestação de contas das despesas operacionais antes da chegada dos escrivães.
 
+### O Compartilhamento da Atuação
+
+Na sala de recreação da [[Companhia de Segurança Espinho Negro]], interrompe a partida de cartas com [[Kenley]] e [[Seeka Tron]] diante do anúncio enfático de [[Leonard Mitchell]], indagando com sobriedade se [[Klein Moretti]] tinha certeza da digestão de sua poção de [[Seq 9 - Vidente|Vidente]]; escuta com atenção concentrada a explanação sobre princípios de conduta e o exemplo de [[Daly|Daly Simone]], mergulha em reflexão e concorda em consultá-lo em particular sobre o método.
+
