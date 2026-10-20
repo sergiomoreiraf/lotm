@@ -17,3 +17,5 @@ Encontra [[Klein Moretti]] no corredor subterrâneo da [[Companhia de Segurança
 
 Participa da verificação de segurança no porão da [[Companhia de Segurança Espinho Negro]] após o alarme do [[Portão Chanis]]. Explica a [[Klein Moretti]] que as formações místicas do [[Portão Chanis]] são fortalecidas pelas orações dos fiéis na catedral central, e revela que o [[Caderno da Família Antigonus]] esteve armazenado no subsolo por uma noite.
 
+Ao ser rendida por [[Klein Moretti]] no plantão do [[Portão Chanis]], recebe com choque a notícia de que o colega decifrou sua poção e compartilhou suas conclusões empíricas com o restante da equipe, concordando em procurá-los para se inteirar das diretrizes de atuação.
+

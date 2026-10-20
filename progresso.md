@@ -5,5 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 154 - Compartilhando Experiência
+- **Último Capítulo Processado:** Capítulo 155 - Reunião Urgente
 

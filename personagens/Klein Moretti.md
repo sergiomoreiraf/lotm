@@ -26,6 +26,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Conexão de Sangue e o Passado de Azik]] — Acompanha Azik ao Castelo Antigo de Lamud, deduz o ciclo de renascimentos do professor, acorda um plano para acessar o 3-0782 e prepara adivinhação sobre a auto-convocação do Tolo.
 - [[A Auto-Convocação e a Porta da Invocação]] — Confirma por adivinhação a ausência de perigo na auto-convocação, executa o ritual e forma uma Porta da Invocação incompleta por falta de espiritualidade.
 - [[A Camada Final das Fundações e a Petição ao Capitão]] — Fecha as fundações de sua petição, aponta as coincidências anômalas, instrui os Falcões Noturnos sobre atuação e oficializa o pedido especial a Dunn Smith.
+- [[A Reunião Urgente e a Fórmula do Telepata]] — Assume o Portão Chanis, testemunha o lamento do Velho Neil, obtém a fórmula de Telepata com Daxter e garante os méritos para Palhaço.
 
 ## Eventos Arquivados
 

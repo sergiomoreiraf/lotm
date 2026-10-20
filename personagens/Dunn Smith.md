@@ -17,7 +17,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 - [[A Operação do Edifício Alvo]] — Lidera a operação contra o edifício-alvo no Burgo Oeste, mantendo Klein a cinquenta metros de distância.
 - [[A Busca na Estação]] — Reúne os Falcões Noturnos e organiza a busca na estação de locomotivas a vapor após a dica sobre a partida de Trissy.
 - [[A Investigação do Porão de Lamud]] — Investiga o porão do Castelo de Lamud e compreende as revelações de Klein sobre os princípios de atuação.
-- [[A Cautela com a Igreja e a Petição de Klein]] — Concorda com o alerta sobre as coincidências anômalas em Tingen e autoriza o pedido especial de avanço de Klein.
+- [[A Cautela com a Igreja e a Petição de Klein]] — Autoriza a petição especial de Klein, escolta-o no encontro confidencial com Daxter e acolhe a fórmula de Telepata.
 
 ## Eventos Arquivados
 
