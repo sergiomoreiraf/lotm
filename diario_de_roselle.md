@@ -24,6 +24,11 @@ tags:
   - **9 de julho:** Questiona o motivo de a pedra que contém os vinte e dois caminhos de Sequência ser chamada de [[Ardósia da Blasfêmia]], indagando sobre quem foi o blasfemado e quem a criou.
   - **12 de julho:** Observa que a [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] possui a menor quantidade e os menos perigosos Artefatos Selados entre as sete igrejas, vendo nessa fraqueza a oportunidade ideal para demonstrar suas habilidades.
   - **14 de julho:** Reencontra o [[Zaratul|Sr. Zaratul]] e descobre que ele é o líder da [[Ordem Secreta]], confirmando que a organização detém o [[Caminho do Vidente]]. [[Zaratul|Zaratul]] (que começou como [[Seq 9 - Vidente|Vidente]]) convida Roselle a ajudá-lo a roubar um Artefato Selado perigoso da [[Família Antigonus]] na [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]] e revela que o [[Método de Atuação]] permite digerir poções de baixa Sequência em meio ano ou até um mês, sendo o sinal de conclusão sentido de forma intuitiva.
+- **2 de agosto a 9 de agosto (Ano desconhecido):**
+  - **2 de agosto:** Conclui que a história é algo que pode ser facilmente manipulado.
+  - **5 de agosto:** Testemunha as habilidades de um Beyonder de alta sequência e descreve uma mudança qualitativa que o faz parecer uma divindade, julgando seres lendários um termo mais adequado que [[Semideus|semideuses]].
+  - **6 de agosto:** Estranha a [[Política de Poções das Igrejas|política de poções]] das Sete Igrejas Maiores, que fornece ingredientes, fórmulas e demonstrações nas Sequências baixas e médias mas apenas poções prontas nas superiores, e suspeita de um segredo oculto.
+  - **9 de agosto:** Registra ter iniciado a Revolução Industrial e inaugurado a [[Era do Vapor e da Maquinaria]], temendo ter criado as condições necessárias para a descida de um Deus Maligno.
 - **9 de setembro a 24 de setembro (Ano desconhecido):**
   - **9 de setembro:** Registra a criação de uma aliança de coalizão militar entre [[Feysac]] (norte), [[Reino Loen|Loen]] (leste) e [[Feynapotter]] (sul) contra seu governo. Ele confia em sua superioridade bélica e tecnológica para resistir.
   - **23 de setembro:** Perda de comunicação com as expedições que viajavam em busca da [[Terra Esquecida pelos Deuses]].

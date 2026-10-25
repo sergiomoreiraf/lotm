@@ -16,6 +16,7 @@ Alger Wilson é um homem de manto azul-escuro com bordados de raios, que navega 
 - [[A Caçada a Qilangos e o Segredo do Pastor]] — Detalha o item Fome Rastejante, contrata Justiça para localizar o pirata e materializa seu retrato na Névoa Cinza.
 - [[O Interrogatório no Porto Pritz]] — Interroga um pirata em Porto Pritz e descobre a comissão que Qilangos cumpre em Backlund.
 - [[A Reunião e a Sondagem sobre a Atuação]] — Sonda O Sol sobre os pontos importantes do método de atuação durante a reunião do Clube de Tarô.
+- [[O Alerta sobre Qilangos e o Perfil do Pirata]] — Revela o objeto que Qilangos busca em Backlund, deduz sua ascensão entre os Reis Piratas e fornece o perfil de hábitos do alvo.
 
 ## Eventos Arquivados
 

@@ -45,3 +45,5 @@ Liquida a herança dos pais: mantém a propriedade, os móveis e alguns itens se
 
 Entrega a fórmula da poção e, por não ter necessidade imediata, adia a compensação até digerir o Bardo, quando talvez solicite a fórmula ou os ingredientes da Sequência 8. Revela sem hesitação que as aulas de educação geral da cidade ensinam o [[Método de Atuação]] e que seu ponto-chave é lembrar que se está apenas atuando.
 
+Ouve sem compreender as referências a piratas e mares trazidas por [[Alger Wilson|O Enforcado]], concluindo que o mundo dos demais membros difere muito da [[Cidade de Prata]] por não se preocuparem com a maldição ou com as [[Coisas das Trevas]]; contém a curiosidade por respeito à instrução de [[Klein Moretti|O Tolo]] de não perguntar sobre os segredos alheios.
+

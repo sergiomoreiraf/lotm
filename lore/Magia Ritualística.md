@@ -34,6 +34,12 @@ O efeito do ritual é proporcional à força espiritual do conjurador; no entant
 
 A auto-convocação dispensa a especificidade dos ingredientes, já que o alvo é o próprio conjurador. A tentativa de [[Klein Moretti]] de invocar [[Klein Moretti|O Tolo]] nas condições acima confirmou por adivinhação de pêndulo a ausência de perigo, consumiu sua espiritualidade em ritmo insano e formou acima da [[Névoa Cinza]] apenas uma [[Porta da Invocação]] ilusória e disforme, incapaz de se abrir — o que o levou a concluir que lhe faltava espiritualidade para completar a porta.
 
+## Sacrifício e Concessão de Materiais
+
+Modalidade avançada de ritual, ainda não dominada por [[Klein Moretti]], que aparece associada à transferência de objetos entre o mundo real e o espaço acima da [[Névoa Cinza]]. Registros confidenciais dos [[Falcões Noturnos]] descrevem a [[Deusa da Noite Eterna]] concedendo itens sagrados a seus seguidores e itens descendo em rituais dedicados a deuses malignos ou diabos.
+
+A hipótese de [[Klein Moretti]] é que a concessão de materiais ao responder orações e o sacrifício — inclusive sacrificar algo a si mesmo — permitam trazer ou entregar objetos materiais por essa via, algo que ele espera confirmar ao avançar de Sequência, já que hoje suas respostas se limitam a pensamentos com imagens e voz.
+
 ## Conforto de Espíritos e Comunicação com os Mortos
 
 Um ritual dedicado à [[Deusa da Noite Eterna]] pode confortar espíritos inquietos e, em seguida, tentar a comunicação com os mortos. Exige a montagem do altar com ingredientes como óleo essencial da lua cheia e sândalo carmesim e o isolamento do ambiente por uma parede selada erguida com uma adaga de prata; os espíritos confortados adormecem na noite escura e a comunicação subsequente costuma mostrar apenas fragmentos do que os mortos viram antes de morrer. A reação de um ritual interrompido causa danos graves e dissipa as imagens residuais do anfitrião, limitando severamente essa comunicação.

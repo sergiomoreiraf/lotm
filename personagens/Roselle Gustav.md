@@ -30,4 +30,8 @@ Teve uma frase célebre citada por [[Azik]], afirmando que uma ou duas coincidê
 
 Registrou em seu diário a preocupação com a ausência de [[Petróleo Bruto]], o planejamento da "Campanha Patriótica de Saúde" para higienização e saneamento no [[Burgo Richeux]], a antecipação de produtos de borracha graças às seringueiras, e a intenção de juntar-se a uma organização antiga e misteriosa do mundo das sombras como rota de escape da [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]].
 
+Em outras páginas do diário, anota que a história é algo que pode ser facilmente manipulado, descreve as habilidades de um Beyonder de alta sequência como uma mudança qualitativa que o faz parecer uma divindade — julgando seres lendários um termo mais adequado que [[Semideus|semideuses]] — e estranha a [[Política de Poções das Igrejas|política de poções das igrejas]], que fornece fórmulas e ingredientes nas Sequências baixas e médias mas apenas poções prontas nas superiores, suspeitando de um segredo oculto.
+
+Registra ter iniciado a Revolução Industrial e inaugurado pessoalmente a [[Era do Vapor e da Maquinaria]], perguntando-se se com isso criou as condições necessárias para que um Deus Maligno desça sobre o mundo.
+
 Em páginas de anos distintos, anota a hostilidade entre a [[Igreja do Eterno Sol Ardente]], a [[Igreja do Senhor das Tempestades]] e a [[Igreja do Deus do Conhecimento e da Sabedoria]], o desacordo da [[Igreja da Deusa da Noite Eterna]] com a [[Igreja do Deus do Combate]] do [[Feysac|Império Feysac]], e sua participação na reunião de uma organização antiga que detinha a segunda [[Ardósia da Blasfêmia]], cogitando criar um conjunto de Ardósias exclusivo para si.

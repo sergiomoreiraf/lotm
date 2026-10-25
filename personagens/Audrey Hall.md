@@ -17,6 +17,7 @@ Audrey Hall é uma jovem nobre, filha de um conde da influente família Hall, re
 - [[A Chegada do Sol e as Páginas do Diário]] — Participa de nova reunião do Clube de Tarô, observa O Sol em estado de Espectadora e entrega duas novas páginas do diário de Roselle.
 - [[A Caçada a Qilangos]] — Encontra Xio Derecha disfarçada na Loja de Departamentos Philip e entrega-lhe o retrato de Qilangos para localizá-lo em Backlund.
 - [[A Página do Diário e a Pergunta sobre Telepata]] — Reaparece na reunião com uma página do diário de Roselle e pergunta a O Sol pela fórmula de Telepata; recebe a fórmula, paga trezentas libras adicionais e obtém os dados de uma conta anônima do Banco Backlund.
+- [[A Investigação de Qilangos e o Perfil do Alvo]] — Resumo da caçada a Qilangos e coleta do perfil de hábitos do pirata com O Enforcado.
 
 ## Eventos Arquivados
 

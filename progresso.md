@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 158 - A Preparação Evita o Perigo
+- **Último Capítulo Processado:** Capítulo 159 - Doação e Sacrifício
