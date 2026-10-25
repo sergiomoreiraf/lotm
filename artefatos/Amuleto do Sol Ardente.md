@@ -16,3 +16,4 @@ Um amuleto de nível relativamente alto no domínio do Sol, cuja técnica de con
 
 - [[Klein Moretti]] não pode confeccioná-lo no momento: além de não carregar ingredientes do domínio do Sol, não pode se tornar proprietário do [[Artefato Selado 3-0782]] enquanto for um Falcão Noturno oficial.
 - Planeja confeccionar Amuletos do Sol Ardente junto com o próprio avanço de Sequência, esperando poderes ainda maiores do que os de um Beyonder de Sequência 7 ou 6.
+- Adquiriu os ingredientes necessários e pretende produzi-los durante as horas de guarda do [[Artefato Selado 3-0782]] na missão da [[Cidade Morse]], preferindo a luz do dia por render melhores resultados.

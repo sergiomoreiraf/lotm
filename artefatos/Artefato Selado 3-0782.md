@@ -15,11 +15,13 @@ O Artefato Selado 3-0782, denominado Emblema Sagrado do Sol Mutante, é um item 
 - **Purificação Solar:** Emite uma influência constante do domínio do [[Eterno Sol Ardente]], sendo capaz de purificar e dissipar completamente cadáveres, zumbis e espíritos (que não sejam espíritos malignos) em um raio de quinze metros em mais de um minuto de exposição contínua.
 - **Efeito Colateral na Alma:** Purifica gradualmente a alma de seres humanos presentes em seu raio de ação. Um indivíduo comum exposto continuamente por mais de uma hora a menos de quinze metros perde a razão e passa a apenas louvar o Sol; para Beyonders, o limite seguro de exposição contínua é de seis horas.
 - **Regra de Requisição:** Exige a presença de uma equipe de no mínimo três membros para transporte e emprego operacional em missões externas, revezando-se na guarda para evitar a superexposição.
+- **Alcance da Purificação:** Purifica apenas entidades vivas com alto nível de inteligência, não afetando animais como cavalos nem insetos.
 
 ## Histórico e Aparições
 
 - Requisitado por [[Dunn Smith]] na [[Companhia de Segurança Espinho Negro]] para equipar a expedição com [[Klein Moretti]] e [[Frye]] à [[Cidade Lamud]]. No [[Castelo Antigo de Lamud]], é empregado em conjunto com um sonho tático criado por Dunn para purificar e destruir o fantasma de armadura negra.
 - Arremessado por [[Dunn Smith]] no alçapão do porão oculto do [[Castelo Antigo de Lamud]] para dissipar a emanação corrompida que emanava do local. Durante a permanência da equipe na [[Cidade Lamud]], o membro designado o leva em passeios fora da cidade, em revezamentos de duas horas, para proteger os habitantes de sua influência.
+- Requisitado por [[Dunn Smith]] e retirado por [[Kenley]] no [[Portão Chanis]] para a missão de três Falcões Noturnos nos distúrbios paranormais da [[Cidade Morse]]. [[Klein Moretti]] passa a viagem inteira segurando-o, com o objetivo de aproveitar os revezamentos de guarda para sugar o poder do sangue divino e confeccionar [[Amuleto do Sol Ardente|Amuletos do Sol Ardente]].
 
 ## Origem Mística
 

@@ -190,3 +190,4 @@ tags:
 - Como [[Leonard Mitchell]] já conhecia previamente o conceito místico de "digerir" poções antes das explicações de [[Klein Moretti]], e qual a razão de sua urgência pessoal ao afirmar que precisará se apressar.
 - Qual será o formato e os critérios da investigação e do exame aplicados pela [[Catedral da Serenidade|Santa Catedral]] da [[Igreja da Deusa da Noite Eterna]] sobre [[Klein Moretti]] para autorizar sua promoção antecipada à [[Seq 8 - Palhaço|Sequência 8: Palhaço]].
 - Causa da súbita loucura e confusão mental genuína manifestada por [[Hood Eugen]] no [[Asilo Mental de Greenhill]], e se sua deterioração decorreu de [[Perda de Controle|perda de controle]] na atuação ou de contato com alguma influência externa desconhecida.
+- Natureza da singularidade que [[Leonard Mitchell]] afirma tornar impossível a descoberta de seu segredo mesmo durante uma missão conjunta, e por que ele se mostra seguro de que nem a intuição de [[Klein Moretti]] a revelará.

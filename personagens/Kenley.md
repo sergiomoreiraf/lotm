@@ -25,4 +25,10 @@ Relata na reunião de quinta-feira dos [[Falcões Noturnos]] que localizou o esc
 
 Durante uma partida de cartas na sala de recreação com [[Frye]] e [[Seeka Tron]], reage incrédulo ao anúncio de [[Leonard Mitchell]] e se levanta atônito diante da confirmação de [[Klein Moretti]], passando a refletir seriamente sobre a aplicação prática dos princípios de atuação para digerir poções.
 
+### A Missão em Morse
+
+É escalado por [[Dunn Smith]] para acompanhar [[Klein Moretti]] e [[Leonard Mitchell]] aos distúrbios paranormais da [[Cidade Morse]] e retira o [[Artefato Selado 3-0782]] no [[Portão Chanis]].
+
+Preocupa-se que o efeito purificador do emblema afete o cavalo da carruagem e confessa não ter lido as informações do artefato com atenção.
+
 
