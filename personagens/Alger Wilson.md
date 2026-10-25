@@ -15,6 +15,7 @@ Alger Wilson é um homem de manto azul-escuro com bordados de raios, que navega 
 - [[O Ingresso do Sol no Clube de Tarô]] — Comparece à reunião do Clube de Tarô e saúda O Sol após a introdução súbita do novo membro por O Tolo.
 - [[A Caçada a Qilangos e o Segredo do Pastor]] — Detalha o item Fome Rastejante, contrata Justiça para localizar o pirata e materializa seu retrato na Névoa Cinza.
 - [[O Interrogatório no Porto Pritz]] — Interroga um pirata em Porto Pritz e descobre a comissão que Qilangos cumpre em Backlund.
+- [[A Reunião e a Sondagem sobre a Atuação]] — Sonda O Sol sobre os pontos importantes do método de atuação durante a reunião do Clube de Tarô.
 
 ## Eventos Arquivados
 

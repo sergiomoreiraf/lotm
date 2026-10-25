@@ -1,6 +1,9 @@
 ---
 tags:
   - ingrediente
+aliases:
+  - Fantasma Netherdrake
+  - Netherdrake
 ---
 
 # Glândula Pituitária Completa de Salamandra Arco-Íris Madura

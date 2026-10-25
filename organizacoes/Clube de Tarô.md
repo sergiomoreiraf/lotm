@@ -29,6 +29,8 @@ Com a permissão e o auxílio de O Tolo, [[Alger Wilson|O Enforcado]] materializ
 
 Na reunião seguinte, [[Klein Moretti|O Tolo]] reconhece a ascensão de [[Derrick Berg|O Sol]] a [[Seq 9 - Bardo|Bardo]] e determina que o intervalo entre as reuniões permaneça o mesmo no futuro; [[Audrey Hall|Justiça]] anuncia uma nova página do diário de [[Roselle Gustav]] e pergunta a O Sol pela fórmula de [[Seq 8 - Telepata|Telepata]].
 
+Na mesma reunião, O Sol entrega a fórmula de Telepata obtida no mercado negro da [[Cidade de Prata]], e O Tolo a traduz e acrescenta os nomes alternativos dos ingredientes principais para Justiça, que paga trezentas libras adicionais e recebe os dados de uma conta anônima do [[Banco Backlund]]. O Sol adia a própria compensação até digerir o Bardo, e a conversa sobre a digestão revela ao clube que a Cidade de Prata ensina o [[Método de Atuação]] em suas aulas de educação geral.
+
 ## Estrutura e Hierarquia
 
 - [[Klein Moretti|O Tolo]] — Fundador e testemunha dos comércios do clube.

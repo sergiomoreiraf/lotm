@@ -41,3 +41,7 @@ De volta à casa dos Berg, na [[Cidade de Prata]], registra em pele de cabra e p
 
 Consome a poção de [[Seq 9 - Bardo|Bardo]] e, no campo de treinamento da [[Cidade de Prata]], recebe a visão de [[Klein Moretti|O Tolo]] que o notifica do encontro; isola-se por mil batimentos cardíacos, é levado à [[Névoa Cinza]] e tem o Corpo Etérico reconhecido como de cor pura, sendo saudado como Bardo.
 
+Liquida a herança dos pais: mantém a propriedade, os móveis e alguns itens sentimentais, mas vende os bens valiosos no mercado negro da [[Cidade de Prata]] em troca da fórmula de [[Seq 8 - Telepata|Telepata]] e dos ingredientes da poção de Bardo, passando a racionar as refeições. Planeja prestar o exame de combate para ingressar na equipe que limpa as [[Coisas das Trevas]] nos arredores da cidade e, mais forte, candidatar-se ao esquadrão de elite para explorar as profundezas da escuridão e encontrar a forma de remover a maldição. Passa a observar o Tolo depois de notar que Justiça obteve uma página do diário de Roselle logo após lhe fazer um pedido.
+
+Entrega a fórmula da poção e, por não ter necessidade imediata, adia a compensação até digerir o Bardo, quando talvez solicite a fórmula ou os ingredientes da Sequência 8. Revela sem hesitação que as aulas de educação geral da cidade ensinam o [[Método de Atuação]] e que seu ponto-chave é lembrar que se está apenas atuando.
+

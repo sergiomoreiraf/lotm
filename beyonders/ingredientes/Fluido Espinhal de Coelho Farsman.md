@@ -1,6 +1,9 @@
 ---
 tags:
   - ingrediente
+aliases:
+  - Coelho Espectro Parcial
+  - Coelho Farsman
 ---
 
 # Fluido Espinhal de Coelho Farsman

@@ -87,6 +87,8 @@ tags:
 - Hipótese de [[Daly]] e [[Dunn Smith|Dunn]] sobre caminhos de Sequência não-lineares, cujas habilidades independentes de sequências baixas e médias se fundem na [[Semideus|Sequência 4]].
 - Por que a única forma de impedir que um morto da [[Cidade de Prata]] se torne um espírito maligno é que ele seja morto por alguém de sua própria linhagem, e qual vínculo místico de sangue opera nesse impedimento.
 - Se a [[Cidade de Prata]] e o [[Continente Norte]] compartilham a mesma história da [[Segunda Época]], como suspeita [[Klein Moretti]] ao ouvir os nomes das Sequências locais.
+- Como as aulas de educação geral da [[Cidade de Prata]] preservam o [[Método de Atuação]] e se esse conhecimento antecede a [[Idade das Trevas]] ou foi redescoberto no isolamento da cidade.
+- Se a Sequência 4 é de fato o teto de progressão dos Beyonders da [[Cidade de Prata]], limitados pela escassez de ingredientes, como suspeita [[Klein Moretti]].
 - Por que monstros mortos rendem fórmulas de poções: seriam eles humanos, Beyonders transformados?
 - Se as cidades de estilo arquitetônico estranho encontradas na fronteira da [[Cidade de Prata]] eram santuários de humanos remanescentes e a qual divindade eram dedicadas.
 - Se o [[Rei Gigante]] era um Gigante antigo e se o deus surgido na [[Terceira Época]] herdou a propriedade dele, como especula [[Klein Moretti]].

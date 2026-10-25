@@ -16,6 +16,7 @@ Cidade do [[Povo das Trevas]], situada em uma terra sem sol, lua ou estrelas, on
 - Seus mortos se transformam em espíritos malignos, de modo que um membro da família deve tirar a vida dos moribundos para impedir a transformação; a única forma conhecida de impedir o surgimento de um espírito maligno é que a pessoa seja morta por alguém de sua própria linhagem.
 - Possui necrotério, e nele o corpo do moribundo é apresentado em um caixão diante de uma espada de prata embutida em uma placa de pedra.
 - Entre seus livros consta a declaração de que não se pode olhar diretamente para Deus.
+- As aulas de educação geral ensinam o [[Método de Atuação]]; segundo o que é claramente dito nelas, o único ponto-chave do método é lembrar que se está apenas atuando.
 
 ## História
 
@@ -31,6 +32,7 @@ Cidade do [[Povo das Trevas]], situada em uma terra sem sol, lua ou estrelas, on
 - A cadeia controlada pela cidade é o [[Caminho do Gigante]], também conhecido como caminho da sequência do Guerreiro do Sangue Divino; parte das fórmulas foi obtida ao matar certos monstros e explorar as cidades destruídas, deixando os caminhos da Sequência incompletos.
 - Preservou também as fórmulas de Sequência 9 ([[Seq 9 - Espectador|Espectador]]), Sequência 8 ([[Seq 8 - Telepata|Telepata]]) e Sequência 7 ([[Seq 7 - Psiquiatra|Analista de Psique]]) do [[Caminho do Espectador]], herdadas dos confrontos ancestrais entre o [[Rei Gigante]] e a raça dos Dragões.
 - Seus Beyonders se transformam em espíritos malignos após a morte, como qualquer plebeu, mas o espírito de um Beyonder é mais estranho, aterrorizante e difícil de lidar.
+- Segundo suspeita de [[Klein Moretti]], a Sequência mais alta existente na cidade é a Sequência 4, o que limitaria a progressão de seus Beyonders pela escassez de ingredientes.
 - Segundo a crença local, quando havia um Sol brilhando sobre a terra nenhuma maldição era encontrada.
 
 ## Evolução narrativa
@@ -40,4 +42,6 @@ Cidade do [[Povo das Trevas]], situada em uma terra sem sol, lua ou estrelas, on
 [[Derrick Berg]], morador da cidade, torna-se o primeiro de seu povo a negociar diretamente com [[Klein Moretti|O Tolo]] e relata a história local, o [[Caminho do Gigante]] e a maldição que condena todos os mortos. Diante do relato, [[Klein Moretti]] cogita que a Cidade de Prata e o [[Continente Norte]] compartilhem a mesma história da [[Segunda Época]].
 
 [[Derrick Berg]] compromete-se a resgatar os registros da fórmula de [[Seq 8 - Telepata|Telepata]] guardados na cidade para repassar a [[Audrey Hall|Justiça]] em troca da receita de [[Seq 9 - Bardo|Bardo]] obtida de [[Klein Moretti|O Tolo]].
+
+Para cumprir o acordo, [[Derrick Berg]] vende os bens valiosos da herança dos pais no mercado negro local em troca da fórmula de Telepata e dos ingredientes da poção de Bardo, e entrega a fórmula na reunião seguinte do [[Clube de Tarô]].
 

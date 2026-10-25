@@ -27,7 +27,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Auto-Convocação e a Porta da Invocação]] — Confirma por adivinhação a ausência de perigo na auto-convocação, executa o ritual e forma uma Porta da Invocação incompleta por falta de espiritualidade.
 - [[A Camada Final das Fundações e a Petição ao Capitão]] — Fecha as fundações de sua petição, aponta as coincidências anômalas, instrui os Falcões Noturnos sobre atuação e oficializa o pedido especial a Dunn Smith.
 - [[A Reunião Urgente e a Fórmula do Telepata]] — Assume o Portão Chanis, testemunha o lamento do Velho Neil, obtém a fórmula de Telepata com Daxter e garante os méritos para Palhaço.
-- [[A Ascensão do Sol e o Novo Ciclo de Reuniões]] — Retoma sem sucesso a busca das chaminés vermelhas, confirma a ascensão de O Sol a Bardo e fixa o intervalo constante das reuniões.
+- [[A Ascensão do Sol e o Novo Ciclo de Reuniões]] — Retoma sem sucesso a busca das chaminés vermelhas, confirma a ascensão de O Sol a Bardo e fixa o intervalo constante das reuniões; intermedeia a entrega da fórmula de Telepata e a abertura de uma conta anônima para os pagamentos de Justiça.
 
 ## Eventos Arquivados
 
