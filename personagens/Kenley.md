@@ -31,4 +31,6 @@ Durante uma partida de cartas na sala de recreação com [[Frye]] e [[Seeka Tron
 
 Preocupa-se que o efeito purificador do emblema afete o cavalo da carruagem e confessa não ter lido as informações do artefato com atenção.
 
+Cronometra o tempo restante de tolerância ao emblema e propõe resolver as assombrações antes de revezar a guarda, aprovando o plano de [[Klein Moretti]] de turnos individuais após recusar o cálculo de rotação.
+
 

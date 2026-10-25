@@ -16,12 +16,14 @@ O Artefato Selado 3-0782, denominado Emblema Sagrado do Sol Mutante, é um item 
 - **Efeito Colateral na Alma:** Purifica gradualmente a alma de seres humanos presentes em seu raio de ação. Um indivíduo comum exposto continuamente por mais de uma hora a menos de quinze metros perde a razão e passa a apenas louvar o Sol; para Beyonders, o limite seguro de exposição contínua é de seis horas.
 - **Regra de Requisição:** Exige a presença de uma equipe de no mínimo três membros para transporte e emprego operacional em missões externas, revezando-se na guarda para evitar a superexposição.
 - **Alcance da Purificação:** Purifica apenas entidades vivas com alto nível de inteligência, não afetando animais como cavalos nem insetos.
+- **Recuperação de Beyonders:** Beyonders das Sequências 9, 8 e 7 precisam permanecer duas horas afastados do emblema para se recuperar por completo, ou ao menos uma hora para recuperação parcial; o tempo restante de tolerância é controlado por relógio de bolso durante as missões.
 
 ## Histórico e Aparições
 
 - Requisitado por [[Dunn Smith]] na [[Companhia de Segurança Espinho Negro]] para equipar a expedição com [[Klein Moretti]] e [[Frye]] à [[Cidade Lamud]]. No [[Castelo Antigo de Lamud]], é empregado em conjunto com um sonho tático criado por Dunn para purificar e destruir o fantasma de armadura negra.
 - Arremessado por [[Dunn Smith]] no alçapão do porão oculto do [[Castelo Antigo de Lamud]] para dissipar a emanação corrompida que emanava do local. Durante a permanência da equipe na [[Cidade Lamud]], o membro designado o leva em passeios fora da cidade, em revezamentos de duas horas, para proteger os habitantes de sua influência.
 - Requisitado por [[Dunn Smith]] e retirado por [[Kenley]] no [[Portão Chanis]] para a missão de três Falcões Noturnos nos distúrbios paranormais da [[Cidade Morse]]. [[Klein Moretti]] passa a viagem inteira segurando-o, com o objetivo de aproveitar os revezamentos de guarda para sugar o poder do sangue divino e confeccionar [[Amuleto do Sol Ardente|Amuletos do Sol Ardente]].
+- Na [[Cidade Morse]], a simples presença do emblema dissipa as auras espectrais da casa de [[Noah]] e dos demais imóveis assombrados, tornando desnecessário qualquer procedimento adicional dos portadores; o ritual público executado por [[Klein Moretti]] serve apenas para impressionar os moradores. A guarda é feita em turnos individuais de uma hora na catedral, com os outros dois membros do lado de fora.
 
 ## Origem Mística
 

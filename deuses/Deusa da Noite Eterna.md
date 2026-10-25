@@ -4,9 +4,11 @@ tags:
   - regiao/continente-norte
 aliases:
   - Dama do Carmesim
+  - Madame do Carmesim
   - Mãe dos Segredos
   - Imperatriz do Desastre e do Horror
   - Senhora da Calma e do Silêncio
+  - Dama da Calma e do Silêncio
   - Governante da Noite Eterna
   - Mãe do Céu
 ---
@@ -23,6 +25,7 @@ Uma das divindades ortodoxas do [[Continente Norte]].
 - Ervas e essências associadas: rosas, limões, hortelã, flor da lua, baunilha noturna e flor do sono.
 - Magia ritualística direcionada à Deusa utiliza velas de flor da lua e sândalo vermelho-escuro para simbolizar sua identidade como Dama do Carmesim, e velas de baunilha noturna e flor do sono para simbolizar a Noite.
 - Registros antigos da [[Nação da Noite Eterna]] na [[Cadeia de Montanhas Hornacis]] indicam que os habitantes veneravam a Deusa sob os títulos de Governante da Noite Eterna e Mãe do Céu.
+- Invocação litúrgica usada em purificações: "A Deusa da Noite Eterna… A Mãe dos Segredos… A Madame do Carmesim… Imperatriz do Desastre e do Horror… Dama da Calma e do Silêncio…".
 
 ## Relações Divinas
 

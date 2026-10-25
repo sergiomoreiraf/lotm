@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 160 - Aproveitando a Oportunidade
+- **Último Capítulo Processado:** Capítulo 161 - Mausoléu Invertido

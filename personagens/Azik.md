@@ -45,5 +45,7 @@ Revela ter vivido desde o final da [[Quarta Época]] como um espírito errante e
 
 Comunica a [[Klein Moretti]] por carta que viajará à [[Cidade Morse]] no domingo e retornará na quarta-feira, viagem que Klein interpreta como o início do incidente combinado.
 
+Executa o incidente combinado sem ser visto por nenhum morador da [[Cidade Morse]]: as assombrações cessam por conta própria, e [[Klein Moretti]] conclui que os espíritos desapareceriam na quarta-feira mesmo sem a intervenção dos [[Falcões Noturnos]]. Sua ligação com a [[Morte]] passa a ser investigada por Klein, que cogita que ele seja um dos [[Descendentes da Morte]] ou tenha obtido vida longa por transação com a divindade.
+
 
 

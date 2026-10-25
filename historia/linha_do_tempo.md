@@ -27,6 +27,7 @@ Cronologia geral dos eventos históricos documentados ao longo da leitura de _Lo
 - **Guerra dos Quatro Imperadores:** Conflito que resultou no perecimento do Imperador de Sangue do [[Dinastia Tudor|Império Tudor]] e no declínio de famílias aristocráticas como a [[Família Antigonus]].
 - **Fim da Época / Início da Quinta:** Destruição da [[Família Antigonus]] pela [[Igreja da Deusa da Noite Eterna]].
 - **Final da Época:** Instituída, pelas sete principais igrejas ortodoxas e pelas famílias imperiais, a [[Lei de Sepultamento Obrigatório]] que tornou obrigatório o enterro ou a cremação dos mortos em cemitérios oficiais.
+- **Era Pálida:** A [[Morte]] provoca uma catástrofe no [[Continente Norte]] ao final da época; os tempos passam a ser designados [[Era Pálida]], e a divindade cai pelos esforços combinados dos Sete Deuses.
 
 ## Quinta Época
 

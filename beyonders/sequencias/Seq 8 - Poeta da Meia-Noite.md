@@ -12,3 +12,4 @@ Uma sequência Beyonder associada à [[Igreja da Deusa da Noite Eterna]]. É a S
 - **Atributos de Sem Sono:** Herda o aprimoramento físico e sensorial de [[Seq 9 - Sem Sono|Sem Sono]], demonstrando proficiência em combate corporal, pontaria, escalada e detecção.
 - **Temperamento Poético:** O Beyonder exibe uma disposição artística e romântica pronunciada.
 - **Poemas Místicos:** Permite ao Beyonder entorpecer a vontade de viver de oponentes ou induzir sonolência e sono profundo por meio de declamações e cantos ritmados.
+- **Sensibilidade Espiritual Elevada:** Entre as Sequências 8 registradas pela [[Igreja da Deusa da Noite Eterna]], é a classe de sensibilidade espiritual relativamente mais alta.
