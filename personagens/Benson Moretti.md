@@ -50,3 +50,5 @@ Acompanha os irmãos e [[Elizabeth]] à agência na [[Cidade Tingen|Rua Champagn
 ### Preparação para o Concurso Público
 
 Recebe de [[Klein Moretti]] a dica confidencial sobre os planos de reforma do governo do [[Reino Loen]] para seleção por concurso público e decide manter sigilo e focar seus estudos noturnos em literatura clássica, matemática, lógica e leis básicas.
+
+Reafirma diante dos irmãos que está à beira de uma virada na vida e que só pensará em casamento depois de um emprego satisfatório e de uma economia razoável, negando ter alguém em vista.

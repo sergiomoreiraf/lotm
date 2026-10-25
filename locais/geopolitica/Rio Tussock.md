@@ -17,3 +17,5 @@ Serve de rota de fuga para [[Trissy]] nos arredores de [[Cidade Tingen]]: ela at
 A primeira cidade que o rio encontra depois de [[Cidade Tingen]] é [[Wienia]], também a primeira parada da locomotiva a vapor no trajeto até [[Backlund]]. É por essa rota fluvial que [[Trissy]] desce até Wienia para embarcar rumo à capital.
 
 O [[Punidor Mandatário Descontrolado]] tenta escapar pelo rio a partir de um cargueiro no porto de [[Cidade Tingen]], mas é impedido por dois [[Punidores Mandatários]] e por [[Swain]] e acaba morto no cais.
+
+Em [[Backlund]], suas duas margens banham o Burgo Oeste e o Burgo Cherwood, região apontada pelo detetive [[Isengard Stanton]] como o provável raio de atividade de [[Qilangos]] por sua proximidade com a Ponte de Backlund e com a água.

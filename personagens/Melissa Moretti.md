@@ -5,7 +5,7 @@ tags:
 
 # Melissa Moretti
 
-Irmã mais nova de [[Klein Moretti]] e [[Benson Moretti]]. Ela tem 15 anos e estuda no departamento de Vapor e Maquinaria da [[Escola Técnica de Tingen]]. É responsável pelas tarefas domésticas do [[Apartamento da Família Moretti]] e possui grande talento prático com mecânica e consertos.
+Irmã mais nova de [[Klein Moretti]] e [[Benson Moretti]]. Ela tem 16 anos e estuda no departamento de Vapor e Maquinaria da [[Escola Técnica de Tingen]]. É responsável pelas tarefas domésticas do [[Apartamento da Família Moretti]] e possui grande talento prático com mecânica e consertos.
 
 ## Evolução narrativa
 

@@ -27,6 +27,8 @@ Na reunião regular, os membros aprendem com [[Klein Moretti|O Tolo]] que o [[M�
 
 Com a permissão e o auxílio de O Tolo, [[Alger Wilson|O Enforcado]] materializa no espaço da [[Névoa Cinza]] o retrato de [[Qilangos]], e a reunião é encerrada com os agradecimentos de Justiça e a oração de O Sol dirigida a O Tolo já na [[Cidade de Prata]].
 
+Na reunião seguinte, [[Klein Moretti|O Tolo]] reconhece a ascensão de [[Derrick Berg|O Sol]] a [[Seq 9 - Bardo|Bardo]] e determina que o intervalo entre as reuniões permaneça o mesmo no futuro; [[Audrey Hall|Justiça]] anuncia uma nova página do diário de [[Roselle Gustav]] e pergunta a O Sol pela fórmula de [[Seq 8 - Telepata|Telepata]].
+
 ## Estrutura e Hierarquia
 
 - [[Klein Moretti|O Tolo]] — Fundador e testemunha dos comércios do clube.
@@ -37,6 +39,7 @@ Com a permissão e o auxílio de O Tolo, [[Alger Wilson|O Enforcado]] materializ
 ## Dinâmicas e Operações
 
 - **Reuniões:** Realizadas semanalmente às segundas-feiras, às três da tarde, no espaço da [[Névoa Cinza]]. Os membros devem procurar ficar sozinhos nesse horário para serem convocados.
+- **Periodicidade Fixa:** O intervalo entre as reuniões deve permanecer sempre o mesmo, conforme a determinação de [[Klein Moretti|O Tolo]].
 - **Comunicação Multilíngue:** O espaço da [[Névoa Cinza]] realiza a tradução mística e automática em tempo real entre idiomas distintos, como [[Reino Loen|Loen]] e [[Jotun]].
 - **Convocação Especial da Cidade de Prata:** [[Derrick Berg|O Sol]] deve orar com o encantamento do Tolo ao retornar de expedições e, ao receber a notificação mental de um encontro, isolar-se pelo intervalo de mil batimentos cardíacos.
 - **Trocas e Comércio:** Transações de fórmulas de poções e ingredientes místicos testemunhadas por [[Klein Moretti|O Tolo]] para garantir a segurança e a igualdade.

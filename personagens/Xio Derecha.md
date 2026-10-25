@@ -22,3 +22,5 @@ Na [[Reunião Secreta de Backlund]], manifesta desejo em obter a fórmula de [[S
 É procurada por [[Audrey Hall|Justiça]] na [[Loja de Departamentos Philip]], onde recebe disfarçada de atendente um retrato realista de [[Qilangos]] e a missão de localizá-lo em [[Backlund]] sem alertá-lo, animando-se com a recompensa de dez mil libras oferecida pelo [[Reino Loen]].
 
 Examina o retrato e suas anotações e descobre que o alvo pode alterar a própria aparência, tornando inútil a memorização de seus traços faciais; aceita a sugestão de [[Fors Wall]] de contratar um detetive profissional para comprovar e deduzir o perfil do pirata depois de reunidas as informações, determinando que Fors pague a taxa.
+
+Entrega em mãos ao detetive [[Isengard Stanton]] a pasta com os documentos sobre o alvo e pede que ele encontre hábitos nas ações descritas, mantendo postura ereta e voz grave, e retira-se com [[Fors Wall]] após receber a dedução do provável raio de atividade de [[Qilangos]] em [[Backlund]].

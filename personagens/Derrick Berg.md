@@ -37,3 +37,7 @@ Ao ouvir a descrição dos poderes exibidos por [[Qilangos]] por meio do item [[
 
 De volta à casa dos Berg, na [[Cidade de Prata]], registra em pele de cabra e pena a fórmula de [[Seq 9 - Bardo|Bardo]] que memorizou e a confere até ter certeza de que está correta. Não teme suspeitas dos escalões superiores da cidade, pois fórmulas, ingredientes e artefatos recolhidos em expedições costumam ser guardados em particular, e algumas fórmulas circulam por canais não oficiais e sustentam famílias fortes de geração em geração. Seguindo as instruções de [[Klein Moretti|O Tolo]], profere a oração de encantamento em [[Jotun]], língua antiga dotada das propriedades místicas exigidas por rituais e orações. Sua prece alcança a [[Névoa Cinza]] e faz piscar a estrela carmesim correspondente, levando [[Klein Moretti|O Tolo]] a planejar responder dez minutos antes da próxima Reunião.
 
+### A Ascensão a Bardo
+
+Consome a poção de [[Seq 9 - Bardo|Bardo]] e, no campo de treinamento da [[Cidade de Prata]], recebe a visão de [[Klein Moretti|O Tolo]] que o notifica do encontro; isola-se por mil batimentos cardíacos, é levado à [[Névoa Cinza]] e tem o Corpo Etérico reconhecido como de cor pura, sendo saudado como Bardo.
+

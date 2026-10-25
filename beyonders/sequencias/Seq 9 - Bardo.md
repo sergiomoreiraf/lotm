@@ -21,3 +21,5 @@ A Sequência inicial do [[Caminho do Sol]]. Sua fórmula foi obtida por [[Klein 
 ## Evolução narrativa
 
 [[Klein Moretti|O Tolo]] transmitiu a fórmula a [[Derrick Berg|O Sol]] durante a reunião do [[Clube de Tarô]], estruturada com nomes antigos e substitutos aplicáveis aos materiais da [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
+
+[[Derrick Berg]] consumiu a poção e passou a exibir Corpo Etérico de cor pura, semelhante à luz do amanhecer, sendo reconhecido por [[Klein Moretti|O Tolo]] como Bardo.
