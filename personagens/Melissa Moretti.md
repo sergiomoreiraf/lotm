@@ -59,6 +59,4 @@ Ao retorno tardio de [[Klein Moretti]], atribui a [[Roselle Gustav|Imperador Ros
 
 Retorna de uma aula prática da [[Escola Técnica de Tingen]] e opõe-se à contratação de uma criada, alegando não querer uma estranha presente durante as conversas da família.
 
-
-
-
+Cede à contratação após ter sua oposição vencida e redige uma lista rigorosa de critérios, convidando [[Elizabeth]] para auxiliá-la por sua experiência familiar com empregados. Comparece com os irmãos e a amiga à [[Associação de Assistência aos Servidores Familiares de Tingen]], onde adapta os planos ao notar o preparo culinário básico das candidatas, selecionando três opções para testes práticos, e mais tarde adverte [[Klein Moretti]] com seriedade a trabalhar com afinco caso almeje noivar com Elizabeth, destacando a ascendência nobre e a riqueza da família da amiga.

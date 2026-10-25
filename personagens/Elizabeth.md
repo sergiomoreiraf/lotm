@@ -5,7 +5,7 @@ tags:
 
 # Elizabeth
 
-Ex-colega de escola de [[Melissa Moretti]] e [[Selena Wood]], atualmente aluna da [[Escola Pública Ivos]]. Possui cabelos castanhos naturalmente cacheados e bochechas com gordura de bebê. Interessa-se por misticismo e adquiriu um [[Amuletos Místicos|amuleto de prata]] de [[Klein Moretti]] no mercado subterrâneo do Porto de Tingen para presentear Selena em seu aniversário.
+Ex-colega de escola de [[Melissa Moretti]] e [[Selena Wood]], atualmente aluna da [[Escola Pública Ivos]]. É filha de um importante empresário e de uma nobre, filha de barão. Possui cabelos castanhos naturalmente cacheados e bochechas com gordura de bebê. Interessa-se por misticismo e adquiriu um [[Amuletos Místicos|amuleto de prata]] de [[Klein Moretti]] no mercado subterrâneo do Porto de Tingen para presentear Selena em seu aniversário.
 
 ## Evolução narrativa
 
@@ -28,4 +28,8 @@ Procura [[Klein Moretti]] para uma consulta na Sala Ágata Vermelha do [[Clube d
 Adormece sobre a mesa da sala de adivinhação e tem seu sonho acessado por [[Klein Moretti]], presenciando-o intervir e dispersar a manifestação do cavaleiro fantasmagórico. Ao acordar, é tranquilizada com a garantia de que os pesadelos cessarão em até uma semana, paga a consulta com uma cédula de um [[Sistema Monetário do Reino Loen|soli]] e parte aliviada.
 
 Procura [[Klein Moretti]] na [[Residência da Família Moretti|Rua Daffodil, 2]] para relatar com entusiasmo que não voltou a ter pesadelos com o cavaleiro de armadura negra, confirmando o acerto da adivinhação, e parte em carruagem alugada para suas aulas.
+
+### Apoio à Família Moretti
+
+Visita a [[Residência da Família Moretti]] para ajudar [[Melissa Moretti]] na contratação de uma criada doméstica, compartilhando a experiência de sua própria residência abastada. Acompanha os irmãos Moretti à [[Associação de Assistência aos Servidores Familiares de Tingen]] na [[Cidade Tingen|Rua Champagne]] e diverte-se ao ouvir de [[Klein Moretti]] a proposta de usar radiestesia por pêndulo para eliminar as candidatas nos registros.
 

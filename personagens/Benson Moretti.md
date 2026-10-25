@@ -45,10 +45,8 @@ Ao retornar do trabalho, comenta com [[Klein Moretti]] que agora entende o preç
 
 Prepara o jantar da família e, diante da proposta de contratar uma criada, recomenda recorrer à [[Associação de Assistência aos Servidores Familiares de Tingen]], elogiando sua experiência e seus recursos no ramo.
 
+Acompanha os irmãos e [[Elizabeth]] à agência na [[Cidade Tingen|Rua Champagne]], onde atua como porta-voz da família, apresenta os critérios de [[Melissa Moretti]], contorna a limitação culinária das candidatas e negocia a redução da taxa de comissão de duas semanas para uma semana de salário das selecionadas para o teste prático.
+
 ### Preparação para o Concurso Público
 
 Recebe de [[Klein Moretti]] a dica confidencial sobre os planos de reforma do governo do [[Reino Loen]] para seleção por concurso público e decide manter sigilo e focar seus estudos noturnos em literatura clássica, matemática, lógica e leis básicas.
-
-
-
-

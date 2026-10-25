@@ -5,5 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 155 - Reunião Urgente
+- **Último Capítulo Processado:** Capítulo 156 - Melissa que Tem uma Visão de Longo Prazo
 
