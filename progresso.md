@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 161 - Mausoléu Invertido
+- **Último Capítulo Processado:** Capítulo 162 - Intensa Luz do Sol

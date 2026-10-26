@@ -17,6 +17,8 @@ Recebe os três [[Falcões Noturnos]] enviados pela [[Catedral de Santa Selena]]
 
 Tem as três assombrações purificadas pelos Falcões Noturnos — a casa de [[Noah]] e mais dois imóveis — sem que a causa seja localizada no local: a mera presença do [[Artefato Selado 3-0782]] dissipa as auras espectrais, enquanto o ritual executado por [[Klein Moretti]] serve para impressionar a população. Os moradores passam a tratar os Beyonders com respeito e devoção, e nenhum estranho é visto entrando na cidade nos dias anteriores, o que leva [[Klein Moretti]] a concluir que [[Azik]] agiu em segredo e que os espíritos cessariam por conta própria na quarta-feira.
 
+Durante a permanência da equipe, a luz do sol sobre a cidade intensifica-se anormalmente por alguns minutos, sem nuvens ou poeira no céu, efeito do [[Ritual Dualístico]] que [[Klein Moretti]] executa na [[Catedral de Morse]] para confeccionar [[Amuleto do Sol Ardente|Amuletos do Sol Ardente]]. Os Beyonders partem ao anoitecer, deixando o [[Padre Siur]] encarregado de registrar a situação e de telegrafar à [[Catedral de Santa Selena]] em caso de novo incidente paranormal.
+
 ## Habitantes Notáveis
 
 - [[Padre Siur]] — sacerdote da [[Igreja da Deusa da Noite Eterna]] no local.

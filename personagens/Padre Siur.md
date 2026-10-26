@@ -14,3 +14,5 @@ Relata à Igreja a onda de distúrbios paranormais da cidade — soluços e figu
 Diante dos moradores reunidos, desconfia que os três forasteiros sejam impostores ao vê-los exibir água benta, adagas de prata, [[Emblema Sagrado das Trevas|Emblemas Sagrados das Trevas]] e alho, mas acolhe a explicação de [[Leonard Mitchell]] de que os objetos servem para tranquilizar os cidadãos.
 
 Acompanha os Beyonders até a casa de [[Noah]] e lidera a retirada dos moradores para a catedral quando [[Leonard Mitchell]] exige silêncio absoluto para a investigação.
+
+É instruído pelos três [[Falcões Noturnos]], antes da partida, a registrar a situação da cidade e a enviar telegrama imediato à [[Catedral de Santa Selena]] caso ocorra novo incidente paranormal.

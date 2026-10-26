@@ -196,3 +196,5 @@ tags:
 - Que ligação existe entre o [[Castelo Antigo de Lamud]] e a [[Era Pálida]], já que [[Klein Moretti]] considera impossível datar a construção do castelo, mas descarta que ela seja anterior à era.
 - Como [[Azik]] produziu as assombrações da [[Cidade Morse]] sem ser visto por nenhum morador, e por que os espíritos cessariam por conta própria na quarta-feira mesmo sem a intervenção dos [[Falcões Noturnos]].
 - Se a queda da [[Morte]] pelos esforços dos Sete Deuses significou sua destruição ou apenas seu impedimento, e o que restou de seu culto no [[Continente Sul]].
+- O que [[Leonard Mitchell]] percebeu ao examinar o [[Artefato Selado 3-0782]] após o turno de [[Klein Moretti]] na [[Catedral de Morse]], já que demonstrou confusão e desnorteamento sem que o capitão notasse qualquer anormalidade no objeto.
+- Causa da doença súbita do [[Velho Neil]], que o levou a pedir folga: efeito do ritual que aplicou por conta própria, consequência de sua prática do [[Método de Atuação]] ou enfermidade comum.

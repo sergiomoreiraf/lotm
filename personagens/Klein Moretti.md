@@ -30,6 +30,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Ascensão do Sol e o Novo Ciclo de Reuniões]] — Retoma sem sucesso a busca das chaminés vermelhas, confirma a ascensão de O Sol a Bardo e fixa o intervalo constante das reuniões; intermedeia a entrega da fórmula de Telepata e a abertura de uma conta anônima para os pagamentos de Justiça.
 - [[O Sacrifício a Si Mesmo e a Comissão de Qilangos]] — Lê as novas páginas do diário, ouve o alerta sobre Qilangos e planeja sacrificar materiais a si mesmo para abastecer O Sol.
 - [[A Purificação de Morse e o Mausoléu Invertido]] — Purifica as assombrações de Morse, adivinha o mausoléu em pirâmide invertida e garante turnos individuais de guarda para confeccionar amuletos.
+- [[A Confecção dos Amuletos e a Nova Criada]] — Confecciona dois Amuletos do Sol Ardente na catedral de Morse, retorna a Tingen e conhece a nova criada da família, Bela.
 
 ## Eventos Arquivados
 
