@@ -28,3 +28,8 @@ Existem cinco circunstâncias fundamentais que propiciam a perda de controle de 
 
 4. **Avanço Prematuro:** Ingerir uma poção de sequência superior antes de digerir e compreender completamente os poderes da sequência anterior, gerando acúmulo de traços sutis de loucura na mente.
 5. **Feitiço da Percepção Espiritual:** Ceder à sedução misteriosa, sussurros e enfeitiçamentos ilusórios que são constantemente percebidos devido à alta sensibilidade espiritual dos Beyonders.
+
+## Contenção e Estabilização
+
+- Um Beyonder à beira da perda de controle ainda pode ser salvo se for contido a tempo; segundo [[Dunn Smith]], o procedimento consiste em controlá-lo e então aplicar [[Magia Ritualística]] para estabilizar sua condição e impedir que piore.
+- [[Klein Moretti]] propõe o [[Artefato Selado 3-0611]] como forma de conter o Beyonder antes de tentar estabilizá-lo.

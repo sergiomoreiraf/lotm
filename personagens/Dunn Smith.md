@@ -18,6 +18,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 - [[A Busca na Estação]] — Reúne os Falcões Noturnos e organiza a busca na estação de locomotivas a vapor após a dica sobre a partida de Trissy.
 - [[A Investigação do Porão de Lamud]] — Investiga o porão do Castelo de Lamud e compreende as revelações de Klein sobre os princípios de atuação.
 - [[A Cautela com a Igreja e a Petição de Klein]] — Autoriza a petição especial de Klein, escolta-o no encontro confidencial com Daxter e acolhe a fórmula de Telepata.
+- [[A Crise do Velho Neil e o Artefato 3-0611]] — Decide verificar a iminente perda de controle do Velho Neil, requisita o Artefato Selado 3-0611 e revela o passado amoroso do velho.
 
 ## Eventos Arquivados
 

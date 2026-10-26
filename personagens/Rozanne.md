@@ -26,3 +26,7 @@ Expressa surpresa ao saber que [[Klein Moretti]] se tornará um membro oficial e
 ### Encontro com Madame Daly
 
 Reencontra [[Daly]] antes de sua partida para [[Backlund]] e compartilha com [[Klein Moretti]] seu fascínio pela vida de uma Médium Espiritual itinerante, reafirmando seu temor dos perigos de se tornar uma Beyonder.
+
+### A Suspeita sobre o Velho Neil
+
+Relata a [[Klein Moretti]] que a casa do [[Velho Neil]] não tinha piano na primeira metade do ano e que o colega afirmara nunca ter conhecido uma dama com quem desejasse se casar, contradizendo a lembrança de uma falecida esposa musicista. Explica que não visita a casa desde o início de junho, quando [[Kenley]] se tornou [[Seq 9 - Sem Sono|Sem Sono]] e Viola deixou o cargo de escriturária, e teme que o velho tenha perdido o controle.

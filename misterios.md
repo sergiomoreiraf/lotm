@@ -130,7 +130,7 @@ tags:
 - Causa dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo.
 - Mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].
 - Origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
-- Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]].
+- Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]], e da figura quase sem forma surgida junto à porta, no limite da luz, cuja aura tinha a mesma cor da escuridão ao redor.
 - Objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
 - Origem e significado da visão obtida por [[Klein Moretti]] no Quarto Topázio: um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
 - Localização atual de [[Trissy]] após embarcar na locomotiva a vapor em [[Wienia]] rumo a [[Backlund]]: um telegrama da capital confirma que uma passageira a viu no vagão de primeira classe do primeiro trem, do qual desceu no meio da viagem, permanecendo desconhecido seu paradeiro.
@@ -197,4 +197,6 @@ tags:
 - Como [[Azik]] produziu as assombrações da [[Cidade Morse]] sem ser visto por nenhum morador, e por que os espíritos cessariam por conta própria na quarta-feira mesmo sem a intervenção dos [[Falcões Noturnos]].
 - Se a queda da [[Morte]] pelos esforços dos Sete Deuses significou sua destruição ou apenas seu impedimento, e o que restou de seu culto no [[Continente Sul]].
 - O que [[Leonard Mitchell]] percebeu ao examinar o [[Artefato Selado 3-0782]] após o turno de [[Klein Moretti]] na [[Catedral de Morse]], já que demonstrou confusão e desnorteamento sem que o capitão notasse qualquer anormalidade no objeto.
-- Causa da doença súbita do [[Velho Neil]], que o levou a pedir folga: efeito do ritual que aplicou por conta própria, consequência de sua prática do [[Método de Atuação]] ou enfermidade comum.
+- Causa do desvio na memória e na percepção do [[Velho Neil]]: ele afirma ter uma falecida esposa que adorava música e um piano em casa, mas [[Rozanne]] e [[Orianna|Sra. Orianna]] atestam que não havia piano na residência e que ele dizia nunca ter conhecido uma dama com quem quisesse se casar.
+- O que ocorre dentro da [[Residência do Velho Neil]]: o sino não é atendido, uma melodia de piano ecoa do interior e um líquido transparente se tinge de carmesim escuro sob a porta.
+- Se o [[Velho Neil]] está de fato à beira da [[Perda de Controle]] e se a contenção com o [[Artefato Selado 3-0611]] e a estabilização por [[Magia Ritualística]] conseguirão salvá-lo.

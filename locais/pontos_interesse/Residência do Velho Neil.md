@@ -13,6 +13,7 @@ O bangalô residencial localizado nos subúrbios do [[Cidade Tingen|Burgo Norte]
 ## Eventos no Local
 
 - O [[Velho Neil]] traz [[Klein Moretti]] à sua residência para realizar uma demonstração prática de magia ritualística, na qual preenche um pergaminho de pele de cabra estruturado como uma nota promissória de trinta libras para tentar quitar sua dívida acumulada.
+- [[Dunn Smith]], [[Klein Moretti]] e [[Royale Reideen]] chegam ao bangalô para verificar a crise do [[Velho Neil]]: o sino não recebe resposta, uma melodia de piano ecoa do interior e um líquido que passa de transparente a carmesim escuro escorre pela abertura sob a porta.
 
 ## Proprietários e Frequentadores
 
