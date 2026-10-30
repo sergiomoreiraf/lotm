@@ -16,3 +16,4 @@ Um dos vinte e dois caminhos Beyonder do divino. É o caminho mantido e controla
 ## Observações
 
 - Conforme revelado por [[Fan Estin]] a [[Roselle Gustav]], este caminho é mutuamente compatível com o caminho de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]], possibilitando a [[Troca de Caminhos]] a partir da [[Semideus|Sequência 4]].
+- A [[Semideus|Sequência 4]] deste caminho é capaz de executar a técnica mística de Vida Alquímica para a criação de formas corporais.

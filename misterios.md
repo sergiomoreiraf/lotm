@@ -197,6 +197,4 @@ tags:
 - Como [[Azik]] produziu as assombrações da [[Cidade Morse]] sem ser visto por nenhum morador, e por que os espíritos cessariam por conta própria na quarta-feira mesmo sem a intervenção dos [[Falcões Noturnos]].
 - Se a queda da [[Morte]] pelos esforços dos Sete Deuses significou sua destruição ou apenas seu impedimento, e o que restou de seu culto no [[Continente Sul]].
 - O que [[Leonard Mitchell]] percebeu ao examinar o [[Artefato Selado 3-0782]] após o turno de [[Klein Moretti]] na [[Catedral de Morse]], já que demonstrou confusão e desnorteamento sem que o capitão notasse qualquer anormalidade no objeto.
-- Causa do desvio na memória e na percepção do [[Velho Neil]]: ele afirma ter uma falecida esposa que adorava música e um piano em casa, mas [[Rozanne]] e [[Orianna|Sra. Orianna]] atestam que não havia piano na residência e que ele dizia nunca ter conhecido uma dama com quem quisesse se casar.
-- O que ocorre dentro da [[Residência do Velho Neil]]: o sino não é atendido, uma melodia de piano ecoa do interior e um líquido transparente se tinge de carmesim escuro sob a porta.
-- Se o [[Velho Neil]] está de fato à beira da [[Perda de Controle]] e se a contenção com o [[Artefato Selado 3-0611]] e a estabilização por [[Magia Ritualística]] conseguirão salvá-lo.
+- Até onde o [[Sábio Oculto]] tem capacidade de influenciar e sussurrar ativamente na mente de Beyonders do caminho de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] sem o conhecimento dos [[Falcões Noturnos]].

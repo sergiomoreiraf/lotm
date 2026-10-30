@@ -19,6 +19,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 - [[A Investigação do Porão de Lamud]] — Investiga o porão do Castelo de Lamud e compreende as revelações de Klein sobre os princípios de atuação.
 - [[A Cautela com a Igreja e a Petição de Klein]] — Autoriza a petição especial de Klein, escolta-o no encontro confidencial com Daxter e acolhe a fórmula de Telepata.
 - [[A Crise do Velho Neil e o Artefato 3-0611]] — Decide verificar a iminente perda de controle do Velho Neil, requisita o Artefato Selado 3-0611 e revela o passado amoroso do velho.
+- [[O Confronto e a Execução de Neil]] — Conduz a abordagem na residência do Velho Neil, neutraliza o amigo com o Artefato Selado 3-0611 e dispara a bala decisiva.
 
 ## Eventos Arquivados
 

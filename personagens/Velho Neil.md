@@ -15,6 +15,7 @@ Um funcionário civil dos [[Falcões Noturnos]] na [[Cidade Tingen]]. Ele já fo
 - [[A Adivinhação Não É Onipotente]] — Adverte Klein sobre os limites e os riscos de má interpretação da adivinhação.
 - [[O Reencontro no Mercado e o Chamado de Swain]] — Reencontra Klein no mercado quando Swain recruta ambos contra um Beyonder descontrolado e participa do combate no porto.
 - [[O Pesar da Atuação Tardia]] — Lamenta no Portão Chanis ter compreendido o método de atuação tarde demais para prosseguir em sua sequência.
+- [[A Queda e a Libertação]] — Sucumbe à corrupção do Sábio Oculto ao tentar ressuscitar Celeste e é abatido por misericórdia na própria residência.
 
 ## Eventos Arquivados
 

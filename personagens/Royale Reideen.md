@@ -26,3 +26,5 @@ Ao ser rendida por [[Klein Moretti]] no plantão do [[Portão Chanis]], recebe c
 ### A Crise do Velho Neil
 
 É chamada por [[Klein Moretti]] na sala de recreação para a visita ao [[Velho Neil]] e reage com alarme à suspeita de que o colega esteja à beira da [[Perda de Controle]], integrando a equipe que segue com [[Dunn Smith]] e o motorista [[Cesare Francis]] até a [[Residência do Velho Neil]].
+
+Acompanha a entrada na residência tomada pela bizarra anomalia de sangue e pelos, sacando sua arma ao lado de [[Dunn Smith]] e [[Klein Moretti]] após o uso do [[Artefato Selado 3-0611]]. Diante da lembrança de quando Neil a ajudou a redimir a vida de sua família, mantém a determinação como Falcão Noturno e dispara a [[Balas Antidemônios|bala de caça-demônio]] fatal junto ao capitão.

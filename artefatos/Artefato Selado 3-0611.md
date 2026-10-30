@@ -22,6 +22,7 @@ O Artefato Selado 3-0611, denominado Fios de Cabelo Pacificadores, é um item m�
 
 - É sugerido por [[Klein Moretti]] como meio de conter o [[Velho Neil]] diante da suspeita de que esteja à beira da [[Perda de Controle]], sendo aprovado por [[Dunn Smith]].
 - É retirado do [[Portão Chanis]] por [[Dunn Smith]], que o carrega com luvas pretas até a [[Residência do Velho Neil]], acompanhado de [[Klein Moretti]] e [[Royale Reideen]].
+- É jogado por [[Dunn Smith]] sobre o sangue vivo que cobria a residência do [[Velho Neil]], desarmando a agressividade e a mutação monstruosa do alvo através do toque direto com os fluidos corporais da criatura.
 
 ## Origem
 
