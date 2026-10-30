@@ -10,3 +10,5 @@ Funcionário civil da [[Companhia de Segurança Espinho Negro]] ligada aos [[Fal
 ## Evolução narrativa
 
 Conversa com [[Klein Moretti]] no arsenal da Companhia de Segurança ao entregar-lhe munições, comentando sobre seu receio em se tornar um Beyonder e compartilhando o conselho de um colega falecido de manter-se afastado de mistérios perigosos para prolongar a vida.
+
+Entrega cinquenta cartuchos de munição a [[Klein Moretti]] no arsenal após a morte do [[Velho Neil]], lamentando com pesar a perda do colega e expressando sua incredulidade diante do trágico destino dos [[Falcões Noturnos]].

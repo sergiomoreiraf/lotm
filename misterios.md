@@ -130,7 +130,7 @@ tags:
 - Causa dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo.
 - Mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].
 - Origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
-- Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]], e da figura quase sem forma surgida junto à porta, no limite da luz, cuja aura tinha a mesma cor da escuridão ao redor.
+- Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]], e da figura espiritual que tocava piano na residência de Neil e evaporou após sua morte.
 - Objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
 - Origem e significado da visão obtida por [[Klein Moretti]] no Quarto Topázio: um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
 - Localização atual de [[Trissy]] após embarcar na locomotiva a vapor em [[Wienia]] rumo a [[Backlund]]: um telegrama da capital confirma que uma passageira a viu no vagão de primeira classe do primeiro trem, do qual desceu no meio da viagem, permanecendo desconhecido seu paradeiro.

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 164 - Desgraçados Miseráveis
+- **Último Capítulo Processado:** Capítulo 165 - Epitáfio

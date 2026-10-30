@@ -17,3 +17,4 @@ Inicia o ensino de movimentação básica de pés e técnicas de aplicação de 
 
 Recusa ensinar a [[Klein Moretti]] o manejo de espada reta, espada larga, florete e lança, afirmando que tais armas foram eliminadas das linhas de frente e só pertencem a museus ou coleções particulares, e insiste que o foco deve ser o uso de armas de fogo. Ao ouvir a proposta de Klein de combinar armas brancas e de fogo em um esquadrão móvel de ataque surpresa, fica profundamente abalado, ordena dez séries extras de exercícios e depois cobre o rosto com uma das mãos, mantendo os olhos fechados.
 
+Interrompe o treino extenuante de [[Klein Moretti]] ao perceber seu esgotamento emocional e, ao saber da morte repentina de um amigo, recorda a dor irremediável de ter perdido 325 companheiros em cinco minutos na guerra sem jamais poder se vingar, incentivando Klein a seguir em frente pela juventude e oportunidades que ainda tem.
