@@ -12,6 +12,7 @@ Um artefato místico lendário onde estão gravados os nomes, fórmulas e caminh
 ## Características e Poderes
 
 - Contém os nomes, fórmulas e caminhos de progressão das poções Beyonder.
+- Foi inscrita com os nomes antigos das poções; os nomes das poções utilizados na modernidade derivam em parte de revelações divinas e em parte de experiências consolidadas pelos próprios Beyonders ao longo das gerações.
 - Segundo relatos de Dunn Smith, teria sido criada por deuses malignos, sendo sua investigação tratada sob o mais alto nível de resposta.
 
 ## Histórico e Aparições
@@ -24,4 +25,3 @@ Um artefato místico lendário onde estão gravados os nomes, fórmulas e caminh
 - Segundo [[Alger Wilson|O Enforcado]], os caminhos para a divindade gravados nelas correspondem aos caminhos de Sequência.
 - Em seu diário, [[Roselle Gustav]] questiona a razão do nome "Ardósia da Blasfêmia", indagando quem é o indivíduo ou entidade blasfemado e quem foi o responsável por sua criação.
 - O termo Sequência nasceu da revelação da primeira ardósia, ocorrida no final da [[Segunda Época]].
-

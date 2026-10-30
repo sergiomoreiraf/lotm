@@ -188,7 +188,7 @@ tags:
 - Identidade do contratante de [[Qilangos]] e do objeto que ele sonha obter em [[Backlund]] por meio da comissão que aceitou, e a razão de o êxito nessa missão elevá-lo à condição de um dos Cinco Reis Piratas.
 - Se a raiz do nome [[Feysac]] em [[Jotun]] indica um vínculo da nação com a casa imperial do [[Rei Gigante]], como especulou [[Derrick Berg]].
 - Como [[Leonard Mitchell]] já conhecia previamente o conceito místico de "digerir" poções antes das explicações de [[Klein Moretti]], e qual a razão de sua urgência pessoal ao afirmar que precisará se apressar.
-- Que informações confidenciais adicionais sobre a Igreja e o [[Método de Atuação]] serão reveladas a [[Klein Moretti]] por [[Crestet Cesimir]] após o juramento solene à [[Deusa da Noite Eterna]].
+- Qual o motivo institucional pelo qual a [[Igreja da Deusa da Noite Eterna]] mantém o [[Método de Atuação]] em segredo absoluto, restringindo a razão dessa ocultação apenas a arcebispos e diáconos de alto escalão.
 - Causa da súbita loucura e confusão mental genuína manifestada por [[Hood Eugen]] no [[Asilo Mental de Greenhill]], e se sua deterioração decorreu de [[Perda de Controle|perda de controle]] na atuação ou de contato com alguma influência externa desconhecida.
 - Natureza da singularidade que [[Leonard Mitchell]] afirma tornar impossível a descoberta de seu segredo mesmo durante uma missão conjunta, e por que ele se mostra seguro de que nem a intuição de [[Klein Moretti]] a revelará.
 - Se o professor [[Azik]] é um dos [[Descendentes da Morte]] ou firmou uma transação com a [[Morte]] para obter vida longa, como suspeita [[Klein Moretti]] ao reconhecer no mausoléu adivinhado o símbolo da divindade.

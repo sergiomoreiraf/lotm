@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 166 - Exame
+- **Último Capítulo Processado:** Capítulo 167 - Artefato Sagrado
