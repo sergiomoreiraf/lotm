@@ -25,9 +25,9 @@ Existem cinco circunstâncias fundamentais que propiciam a perda de controle de 
 1. **Ingestão Inadequada de Alto Grau:** Consumir poções de classificação muito alta ou extraordinárias sem a devida preparação.
 2. **Desvio de Caminho em Beyonders Naturais:** Indivíduos que nascem com percepção espiritual elevada (meio Beyonders de Sequência 9) consumirem poções fora do caminho correspondente às suas características fixas.
 3. **Consumo de Caminhos Incompatíveis:** Tentar avançar consumindo poções de sequências pertencentes a caminhos incompatíveis com a trajetória inicial, gerando poderes distorcidos, semi-insanidade e colapso irreversível no avanço (salvo a exceção controlada da [[Troca de Caminhos]] entre vias vizinhas a partir da [[Semideus|Sequência 4]]).
-
-4. **Avanço Prematuro:** Ingerir uma poção de sequência superior antes de digerir e compreender completamente os poderes da sequência anterior, gerando acúmulo de traços sutis de loucura na mente.
-5. **Feitiço da Percepção Espiritual:** Ceder à sedução misteriosa, sussurros e enfeitiçamentos ilusórios que são constantemente percebidos devido à alta sensibilidade espiritual dos Beyonders.
+4. **Descontrole Emocional e Desejos:** O descontrole de paixões como ganância e ciúme ou a incapacidade de manter emoções e impulsos em patamares razoáveis vulnerabiliza a mente à sedução de deuses do mal e demônios, acelerando o colapso interno. Excetuando-se sequências muito específicas, nenhum humano ou semideus é capaz de extinguir integralmente suas emoções.
+5. **Avanço Prematuro:** Ingerir uma poção de sequência superior antes de digerir e compreender completamente os poderes da sequência anterior, gerando acúmulo de traços sutis de loucura na mente.
+6. **Feitiço da Percepção Espiritual:** Ceder à sedução misteriosa, sussurros e enfeitiçamentos ilusórios que são constantemente percebidos devido à alta sensibilidade espiritual dos Beyonders.
 
 ## Contenção e Estabilização
 

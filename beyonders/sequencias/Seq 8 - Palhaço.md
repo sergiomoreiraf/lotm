@@ -16,10 +16,11 @@ As cartas de [[Sirius Arapis]] confirmam que a fórmula de Palhaço constava ent
 ## Ingredientes da Poção
 
 - **Principais:** 1 [[Cristal do Chifre Único de Cabra da Montanha Cinza Hornacis Amadurecida]], 1 [[Talo Completo de Rosa com Rosto Humano|talo completo de uma Rosa com Rosto Humano]].
-- **Suplementares:** 80ml de água pura, 5 gotas de suco de maçã espinhosa, 7g de pó de girassol de borda preta, 10g de pó de capim dourado, 3 gotas de cicuta venenosa.
+- **Suplementares:** 80ml de água pura (destilada repetidamente), 5 gotas de suco de maçã rasgada, 7g de pó de girassol de borda preta, 10g de pó de capim dourado, 3 gotas de cicuta venenosa.
 
 ## Poderes Conhecidos
 
+- **Domínio Corporal e Mímica Facial:** O avanço confere ao Beyonder controle preciso e milimétrico sobre as expressões faciais e os movimentos musculares de todo o corpo.
 - **Agilidade e Combate Acrobático:** Concede grande agilidade física, habilidades acrobáticas avançadas, saltos e a capacidade de rolar e esquivar-se rapidamente de ataques.
 - **Truques e Astúcia em Combate:** O Beyonder é habilidoso em lutar com truques físicos e táticos, demonstrando alta astúcia e improvisação durante o confronto.
 - **Ilusões e Substituição:** Capacidade de criar ilusões de si mesmo que se despedaçam como espelhos e de usar truques com chamas para escapar de ataques mortais, deixando apenas cinzas.

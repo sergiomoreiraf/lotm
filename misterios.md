@@ -12,14 +12,14 @@ tags:
 - Natureza da [[Névoa Cinza]], origem das estrelas carmesins e por que o ritual conectou as consciências de Klein, [[Audrey Hall]] e [[Alger Wilson]].
 - Origem dos murmúrios ouvidos ao recuperar a consciência e das quatro manchas pretas quadrangulares em sua mão.
 - Por que Klein sobreviveu quando a regra é a morte de todos os envolvidos, e como manteve a lucidez contra a invasão de sonho de [[Dunn Smith]].
-- Origem dos sussurros "Hornacis... Flegrea..." ouvidos após consumir a poção de [[Seq 9 - Vidente|Vidente]].
+- Origem dos sussurros "Hornacis... Flegrea..." ouvidos após consumir a poção de [[Seq 9 - Vidente|Vidente]] e novamente escutados por [[Klein Moretti]] ao ingerir a poção de [[Seq 8 - Palhaço|Palhaço]].
 - Por que a carta [[Klein Moretti|O Tolo]] invertida reaparece sistematicamente nas adivinhações sobre o destino do [[Caderno da Família Antigonus]].
 - Significado do símbolo no espaldar de sua cadeira no palácio da névoa cinza, combinando um Olho Sem Pupila e linhas contorcidas de forma incompleta e sobreposta.
 - Origem e design do palácio de bronze, mesa e cadeiras acima da névoa cinza: criação subconsciente de Klein ou reflexo de uma estrutura real?
 - Por que o ritual de quatro passos anti-horário e a ascensão à névoa cinza anulam e concedem imunidade temporária ao efeito assimilador do [[Artefato Selado 2-049]].
 - Novas funções e capacidades que o espaço acima da névoa cinza manifestará conforme [[Klein Moretti]] avançar para as Sequências 8, 7 ou superiores.
 - Se a materialização de objetos e a separação de seus componentes no espaço acima da névoa cinza produzem efeitos reais ou são apenas representações simbólicas, já que [[Klein Moretti]] separou uma gota de líquido dourado da cópia materializada do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
-- Efeito e riscos de [[Klein Moretti]] utilizar a fórmula da prece a si mesmo na [[Magia Ritualística]] invocando o nome honorífico d'[[Klein Moretti|O Tolo]]: a adivinhação com pêndulo Acima da Névoa Cinza indicou ausência de perigo, mas o ritual formou apenas uma [[Porta da Invocação]] disforme e inoperante por falta de espiritualidade, adiando nova tentativa para depois do avanço à [[Seq 8 - Palhaço|Sequência 8: Palhaço]].
+- Efeito e riscos de [[Klein Moretti]] utilizar a fórmula da prece a si mesmo na [[Magia Ritualística]] invocando o nome honorífico d'[[Klein Moretti|O Tolo]]: a adivinhação com pêndulo Acima da Névoa Cinza indicou ausência de perigo, mas o ritual formou apenas uma [[Porta da Invocação]] disforme e inoperante por falta de espiritualidade, viabilizando nova tentativa após a consumação de seu avanço a [[Seq 8 - Palhaço|Palhaço]].
 - Se a figura silenciosa de [[Dunn Smith]] que observa [[Klein Moretti]] em sonho após o ritual de auto-convocação é uma manifestação do poder de Pesadelo ou apenas um sonho comum; Klein interpreta o episódio como um pesadelo real.
 
 ## O Incidente do Caderno Antigonus
