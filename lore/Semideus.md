@@ -14,3 +14,7 @@ Na hierarquia da [[Igreja da Deusa da Noite Eterna]], os praticantes de Sequênc
 
 - **Santos:** Beyonders de Sequência 4 e Sequência 3.
 - **Anjos na Terra:** Beyonders de Sequência 2 e Sequência 1 (todo anjo já foi um santo).
+
+## Reino dos Semideuses e Influência Mística
+
+Determinadas faixas superiores dos caminhos de sequência contêm o que se denomina o Reino dos Semideuses. Beyonders de alta sequência exercem influência direta sobre praticantes de baixa sequência que compartilham a mesma trilha, sendo capazes de transmitir sussurros e uivos mentais carregados de intenções maliciosas — fenômeno acentuado em vias associadas a divindades malignas.

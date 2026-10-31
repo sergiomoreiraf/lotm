@@ -20,10 +20,13 @@ As cartas de [[Sirius Arapis]] confirmam que a fórmula de Palhaço constava ent
 
 ## Poderes Conhecidos
 
-- **Domínio Corporal e Mímica Facial:** O avanço confere ao Beyonder controle preciso e milimétrico sobre as expressões faciais e os movimentos musculares de todo o corpo.
-- **Agilidade e Combate Acrobático:** Concede grande agilidade física, habilidades acrobáticas avançadas, saltos e a capacidade de rolar e esquivar-se rapidamente de ataques.
+- **Domínio Corporal e Coordenação Extrema:** O avanço confere ao Beyonder controle preciso e milimétrico sobre as expressões faciais e os movimentos musculares de todo o corpo, além de imenso aumento de coordenação motora. O usuário consegue ajustar instantaneamente seu centro de gravidade usando a força da coluna, tendões e ligamentos, impedindo a perda de equilíbrio mesmo em posturas distorcidas e permitindo façanhas acrobáticas em combate.
+- **Agilidade e Combate Físico:** Concede expressiva melhoria na força, agilidade e velocidade, aproximando a capacidade física de praticantes experientes de combate sem exigir longos meses de treino técnico.
+- **Intuição Premonitória:** Manifestação das habilidades proféticas do [[Caminho do Vidente]] em combate, permitindo antecipar intuitivamente a próxima ação física de um adversário instantes antes de acontecer. Essas percepções são breves e passageiras, mas decisivas para transformar desvantagens em vitórias.
+- **Armas Improvisadas e Arremesso Letal:** Habilidade de arremessar objetos leves, como pedaços de papel macio ou cartas de tarô, transformando-os em projéteis rígidos e cortantes como adagas capazes de perfurar paredes.
+- **Ausência de Feitiços Rápidos:** Diferente de sequências especializadas em conjuração mágica, a poção de Palhaço não concede feitiços instantâneos inatos; poderes ilusórios complexos observados em membros da [[Ordem Secreta]] decorrem de Sequências Superiores (como a Sequência 7).
 - **Truques e Astúcia em Combate:** O Beyonder é habilidoso em lutar com truques físicos e táticos, demonstrando alta astúcia e improvisação durante o confronto.
 - **Ilusões e Substituição:** Capacidade de criar ilusões de si mesmo que se despedaçam como espelhos e de usar truques com chamas para escapar de ataques mortais, deixando apenas cinzas.
 - **Projéteis de Ar:** Capacidade de disparar projéteis de ar letais simulando armas de fogo com os dedos ("arma de dedo"), alternando entre tiros falsos e reais para confundir os oponentes.
-- **Controle Corporal e Equilíbrio:** Capacidade de bloquear os ouvidos para resistir a influências acústicas e poemas místicos.
-- **Desafio de Atuação:** [[Klein Moretti]] considera difícil atuar como Palhaço, já que [[Cidade Tingen|Tingen]] não possui circos fixos, apenas itinerantes, e cogita que a atuação possa assumir outras formas, lembrando que não havia circos nem palhaços quando a [[Ardósia da Blasfêmia]] foi revelada ao mundo.
+- **Controle Auditivo:** Capacidade de bloquear os ouvidos pelo controle muscular para resistir a influências acústicas e poemas místicos.
+- **Desafio de Atuação:** [[Klein Moretti]] considera difícil atuar como Palhaço, já que [[Cidade Tingen|Tingen]] não possui circos fixos, apenas itinerantes; contudo, a atuação independe do trabalho circense estrito, exigindo captar a essência de divertir e manter conduta perante as regras místicas sem cair no formalismo.

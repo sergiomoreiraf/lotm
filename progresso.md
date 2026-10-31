@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 168 - Palhaço
+- **Último Capítulo Processado:** Capítulo 169 - Novas Habilidades
