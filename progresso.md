@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 169 - Novas Habilidades
+- **Último Capítulo Processado:** Capítulo 170 - O Apito de Cobre de Azik

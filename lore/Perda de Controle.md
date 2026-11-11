@@ -34,3 +34,5 @@ Existem seis circunstâncias fundamentais que propiciam a perda de controle de u
 - Um Beyonder à beira da perda de controle ainda pode ser salvo se for contido a tempo; segundo [[Dunn Smith]], o procedimento consiste em controlá-lo e então aplicar [[Magia Ritualística]] para estabilizar sua condição e impedir que piore.
 - [[Klein Moretti]] propõe o [[Artefato Selado 3-0611]] como forma de conter o Beyonder antes de tentar estabilizá-lo.
 - Caso o indivíduo seja alvo de sedução ou sussurros diretos de entidades divinas malignas (como o [[Sábio Oculto]]), a mutação pode atingir um estágio irreversível no qual o corpo vira uma aberração viva antes mesmo que a mente perceba o colapso, restando apenas o abate por misericórdia.
+- Segundo [[Azik]], o corpo e o espírito de um Beyonder descontrolado entram em colapso e corrupção simultâneos ao se transformarem em monstro, inviabilizando canalizações e comunicações mediúnicas normais com a alma do falecido.
+- Descontrolados abatidos deixam para trás restos místicos ou itens extraordinários que as Igrejas recolhem e reutilizam como ingredientes Beyonder para novas poções.

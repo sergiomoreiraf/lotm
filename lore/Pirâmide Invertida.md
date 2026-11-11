@@ -17,3 +17,4 @@ Um mausoléu negro em forma de pirâmide invertida, quase totalmente enterrado e
 ## Registros
 
 - A adivinhação de [[Klein Moretti]] sobre a causa da assombração na casa de [[Noah]], na [[Cidade Morse]], projetou uma pirâmide invertida de pedra negra coberta por névoa, associada por Leonard à [[Morte]] e aos [[Descendentes da Morte]].
+- Ao tomar conhecimento da descrição da pirâmide invertida por meio de Klein, o professor [[Azik]] entra em transe sombrio e manifesta profunda familiaridade com a estrutura, embora sem conseguir recuperar memórias nítidas imediatas.

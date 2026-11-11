@@ -14,3 +14,5 @@ Relata que o Contra-Almirante Furacão se infiltrara em [[Backlund]] para cumpri
 Deduz que, cumprida a comissão, o pirata se tornaria igual a [[Nast]], o Rei dos Cinco Mares, transformando os [[Quatro Reis Piratas]] em cinco e reduzindo os [[Sete Grandes Piratas Almirantes]] a seis, e explica que os Reis Piratas são [[Semideus|Beyonders de alta sequência]] ou capazes de igualar sua força de combate com barcos Beyonders e itens misteriosos.
 
 Enfatiza ao Tolo os dois pontos-chave do relato — a permanência de [[Qilangos]] em [[Backlund]] e a importância do objeto — na esperança de que ele envie seu adorador, e contém a decepção diante da resposta evasiva; em seguida fornece a [[Audrey Hall|Justiça]] o perfil de hábitos do pirata.
+
+Desembarca nas margens do [[Rio Tussock]] nos portos de [[Backlund]], trajando as longas vestes sacerdotais da [[Igreja do Senhor das Tempestades]] enquanto observa o movimento barulhento dos trabalhadores portuários e constata seu retorno à capital após longo período de ausência.

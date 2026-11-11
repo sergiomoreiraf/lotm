@@ -47,5 +47,9 @@ Comunica a [[Klein Moretti]] por carta que viajará à [[Cidade Morse]] no domin
 
 Executa o incidente combinado sem ser visto por nenhum morador da [[Cidade Morse]]: as assombrações cessam por conta própria, e [[Klein Moretti]] conclui que os espíritos desapareceriam na quarta-feira mesmo sem a intervenção dos [[Falcões Noturnos]]. Sua ligação com a [[Morte]] passa a ser investigada por Klein, que cogita que ele seja um dos [[Descendentes da Morte]] ou tenha obtido vida longa por transação com a divindade.
 
+Recebe a visita de [[Klein Moretti]] em sua residência e esclarece que o espírito de um Beyonder descontrolado sofre mutação e colapso irreversíveis junto ao corpo, impedindo canalizações mediúnicas convencionais. Diante do relato da [[Pirâmide Invertida]] adivinhada em Morse, entra em transe sombrio e reconhece uma familiaridade inexplicável que ainda não consegue recordar com clareza.
+
+Comunica a Klein sua decisão de deixar [[Cidade Tingen|Tingen]] em breve para buscar seu passado em outros locais, temendo ter afugentado o manipulador com suas investigações. Para manterem comunicação e permitirem que Klein o avise caso o inimigo se exponha, entrega a ele o [[Apito de Cobre de Azik]], demonstrando a invocação e dispersão de um colossal mensageiro de ossos brancos oriundo do submundo.
+
 
 
