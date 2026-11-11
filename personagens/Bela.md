@@ -10,3 +10,5 @@ Uma jovem de menos de vinte anos, de cabelos pretos e olhos castanhos pequenos, 
 ## Evolução narrativa
 
 É escolhida por [[Benson Moretti]] e [[Melissa Moretti]] entre as três candidatas aprovadas no teste prático, com salário semanal de cinco soli que dobrará quando se tornar cozinheira; a preferência familiar deve-se à disposição para o trabalho, à vontade de aprender a cozinhar e à fé na [[Deusa da Noite Eterna]], já que as outras duas candidatas acreditavam no [[Senhor das Tempestades]].
+
+É flagrada por [[Klein Moretti]] lendo jornais nos intervalos de suas tarefas domésticas e recebe dele aprovação direta para continuar suas leituras nos momentos livres, com autorização para usar a lâmpada do quarto à noite e instruções para servir chá preto e pão branco habitualmente.
