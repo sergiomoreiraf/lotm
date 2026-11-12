@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 172 - Autópsia
+- **Último Capítulo Processado:** Capítulo 173 - Zumbificação

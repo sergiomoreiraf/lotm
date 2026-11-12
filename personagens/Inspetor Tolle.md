@@ -20,3 +20,5 @@ Conduz [[Klein Moretti]] de volta à [[Companhia de Segurança Espinho Negro]] a
 Reencontra [[Klein Moretti]] na [[Companhia de Segurança Espinho Negro]] com novas insígnias de inspetor de duas estrelas prateadas, comentando com bom humor sobre o contraste físico entre ambos e a rápida ascensão do colega.
 
 Conduz Klein de carruagem até a [[Residência de John Maynard]] no [[Burgo Indus Dourado]], compartilha detalhes do contexto político e familiar da vítima e isola o quarto de hóspedes para a perícia espiritual de Klein.
+
+Monta guarda na porta do aposento enquanto Klein realiza os procedimentos místicos, questiona a agitação ouvida do lado de fora, recebe o retrato do envolvimento amoroso da vítima e identifica imediatamente a mulher como [[Madame Sharon]], instruído a assumir os desdobramentos policiais da investigação.
