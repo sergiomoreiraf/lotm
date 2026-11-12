@@ -10,6 +10,14 @@ aliases:
 
 O principal risco associado ao consumo de poções Beyonder e à progressão no misticismo, caracterizado pela degradação mental ou física do indivíduo.
 
+## Graus de Degradação
+
+Antes do colapso total, o comprometimento de um Beyonder divide-se em níveis crescentes de severidade:
+
+- **Quase Insanidade:** O estágio mais brando, em que há alteração notável de comportamento ou personalidade (como se tornasse outra pessoa), mas o indivíduo preserva o pensamento lógico e a capacidade de agir racionalmente.
+- **Verdadeira Insanidade:** Estágio mais grave no qual o Beyonder perde o raciocínio lógico, torna-se maníaco e tem a comunicação racional comprometida ou inviabilizada. Se não contida ou tratada prontamente, essa condição evolui para o colapso físico.
+- **Perda de Controle:** Estágio terminal irreversível em que corpo e mente se degeneram em monstruosidade ou aberração, com total ausência de controle e colapso do espírito.
+
 ## Consequências e Resultados
 
 De acordo com as lições acumuladas pelos humanos ao longo das eras, a ingestão inadequada ou prematura de poções de alto grau leva a três resultados trágicos possíveis:

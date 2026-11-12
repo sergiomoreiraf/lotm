@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 174 - Madame Sharon
+- **Último Capítulo Processado:** Capítulo 175 - Dedução

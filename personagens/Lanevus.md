@@ -15,4 +15,4 @@ Foge de [[Cidade Tingen|Tingen]] sob a justificativa de supervisionar escavaçõ
 
 Sua aparência física divulgada nos jornais descreve uma testa rechonchuda, cabelos pretos, olhos castanhos, óculos de lentes arredondadas e um leve sorriso de tom zombeteiro. Revela-se que manteve um relacionamento com [[Megose]], deixando-a grávida antes de escapar da cidade.
 
-Revela-se por meio de [[Daxter Guderian]] que realizou três visitas a [[Hood Eugen]] no [[Asilo Mental de Greenhill]] antes do colapso mental do Beyonder, utilizando o pseudônimo "El".
+Revela-se por meio de [[Daxter Guderian]] que realizou três visitas a [[Hood Eugen]] no [[Asilo Mental de Greenhill]] antes do colapso mental do Beyonder, utilizando o pseudônimo "El", tendo a última ocorrido no início de julho. Sua conexão com círculos de Beyonders e seu prazer em fraudes levam [[Klein Moretti]] a suspeitar que ele seja um Beyonder do [[Caminho do Saqueador]], especificamente de [[Seq 8 - Trapaceiro|Sequência 8: Vigarista]].

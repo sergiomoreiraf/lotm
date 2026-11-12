@@ -3,6 +3,7 @@ tags:
   - caminho/sequencia
 aliases:
   - Trapaceiro
+  - Vigarista
 ---
 
 # Seq 8 - Trapaceiro
