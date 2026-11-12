@@ -15,6 +15,7 @@ O Clube de Tiro Zouteland, localizado no Nº 3 da Rua Zouteland, na [[Cidade Tin
 
 - [[Klein Moretti]] é autorizado a treinar tiro diariamente no local. Ele gasta trinta e cinco balas comuns de latão em treinamento prático antes de recarregar seu [[Revólver de Latão]] com balas antidemônios prateadas.
 - [[Klein Moretti]] e [[Daxter Guderian]] utilizam o pequeno estande de tiro nº 7 como ponto de encontro confidencial pré-agendado por correspondência codificada.
+- [[Klein Moretti]] e [[Daxter Guderian]] realizam um novo encontro no estande de tiro, onde Daxter relata as três visitas de [[Lanevus]] (sob o codinome "El") a [[Hood Eugen]] antes da loucura definitiva do paciente.
 
 ## Proprietários e Frequentadores
 

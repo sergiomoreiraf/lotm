@@ -24,3 +24,5 @@ Relata a Klein a conduta de [[Hood Eugen]] no asilo e a realização de uma reun
 ### A Entrega da Fórmula e a Loucura de Hood Eugen
 
 Aciona emergencialmente [[Klein Moretti]] através de um aviso aos mercenários no [[Hound Pub|Bar dos Cães de Caça]] e encontra-se com ele no estande de tiro, relatando sob forte ansiedade que [[Hood Eugen]] passou a manifestar loucura autêntica no [[Asilo Mental de Greenhill]]; entrega a Klein o manuscrito com a fórmula de [[Seq 8 - Telepata|Telepata]] obtida com o paciente, confirma que seus próprios sintomas auditivos diminuíram após atuar como Espectador e é orientado a investigar os contatos de Hood e consultar a cúpula dos [[Alquimistas da Psicologia]].
+
+Reúne-se novamente com [[Klein Moretti]] no [[Clube de Tiro Zouteland]], notando a postura confiante do Falcão Noturno. Confirma que a loucura de [[Hood Eugen]] é autêntica após múltiplos testes, cogita medicá-lo e revela que, além dos membros dos [[Alquimistas da Psicologia]], um visitante frequente sob o pseudônimo "El" manteve três encontros com Hood antes de sua insanidade, revelando-se ser [[Lanevus]].

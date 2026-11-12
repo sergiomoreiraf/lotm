@@ -16,6 +16,7 @@ Um bangalô de dois andares com campos, jardins, estábulo, fonte e caminho pavi
 - Torna-se a cena da morte de [[John Maynard|Maynard]], encontrado desfalecido e nu em um dos quartos de hóspedes não utilizados durante a noite.
 - O [[Inspetor Tolle]] e policiais locais isolam o perímetro e interrogam os hóspedes da recepção, conduzindo [[Klein Moretti]] para um exame mediúnico no segundo andar.
 - [[Klein Moretti]] realiza ritual de isolamento e adivinhação onírica no quarto de hóspedes, testemunhando o colapso de [[John Maynard|Maynard]] com uma mulher misteriosa antes do cadáver subitamente sentar-se na cama.
+- [[Klein Moretti]] descansa e realiza [[Cogitação]] em um dos quartos antes de partir com o [[Inspetor Tolle]], enquanto a viúva de Maynard confronta os policiais e acusa [[Madame Sharon]].
 
 ## Proprietários e Frequentadores
 

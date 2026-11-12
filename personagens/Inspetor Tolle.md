@@ -22,3 +22,5 @@ Reencontra [[Klein Moretti]] na [[Companhia de Segurança Espinho Negro]] com no
 Conduz Klein de carruagem até a [[Residência de John Maynard]] no [[Burgo Indus Dourado]], compartilha detalhes do contexto político e familiar da vítima e isola o quarto de hóspedes para a perícia espiritual de Klein.
 
 Monta guarda na porta do aposento enquanto Klein realiza os procedimentos místicos, questiona a agitação ouvida do lado de fora, recebe o retrato do envolvimento amoroso da vítima e identifica imediatamente a mulher como [[Madame Sharon]], instruído a assumir os desdobramentos policiais da investigação.
+
+Examina o cadáver de Maynard após a purificação e, aliviado por não constatar anomalias graves, pede que Klein aguarde em um quarto de repouso até o interrogatório de [[Madame Sharon]]. Colhe o depoimento da viúva, administra o escândalo público provocado pela esposa de Maynard e libera Klein para retornar à [[Companhia de Segurança Espinho Negro]].
