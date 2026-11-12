@@ -16,3 +16,7 @@ Acompanha o interrogatório inicial de [[Klein Moretti]] a [[Sir Deweyville]], c
 Fica apreensivo quando [[Sir Deweyville]] questiona os ruídos ouvidos por terceiros, aliviando-se quando [[Klein Moretti]] atribui o fenômeno à histeria coletiva para encobrir a atividade Beyonder.
 
 Conduz [[Klein Moretti]] de volta à [[Companhia de Segurança Espinho Negro]] após a conclusão do caso, expressando admiração e agradecimentos pelo profissionalismo do Falcão Noturno.
+
+Reencontra [[Klein Moretti]] na [[Companhia de Segurança Espinho Negro]] com novas insígnias de inspetor de duas estrelas prateadas, comentando com bom humor sobre o contraste físico entre ambos e a rápida ascensão do colega.
+
+Conduz Klein de carruagem até a [[Residência de John Maynard]] no [[Burgo Indus Dourado]], compartilha detalhes do contexto político e familiar da vítima e isola o quarto de hóspedes para a perícia espiritual de Klein.

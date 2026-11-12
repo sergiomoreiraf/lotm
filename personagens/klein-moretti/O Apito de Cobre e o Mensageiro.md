@@ -18,3 +18,7 @@ Recebe das mãos de Azik o [[Apito de Cobre de Azik]], item misterioso capaz de 
 Retorna ao [[Apartamento da Família Moretti]], incentiva a criada [[Bela]] a manter o hábito de leitura e realiza [[Cogitação]] para estabilizar a poção e conter suas emoções diante do trauma da perda de Neil. Durante o treino de combate, demonstra agilidade física equivalente a seis meses de treino em apenas quarenta minutos, sendo alertado por [[Gawain]] sobre a necessidade de dominar armas portáteis para o combate real.
 
 No domingo, assume o plantão no [[Portão Chanis]], é promovido formalmente a inspetor de polícia com salário semanal de dez libras por [[Dunn Smith]], e é imediatamente requisitado para conduzir um ritual mediúnico no caso do assassinato do parlamentar [[John Maynard|Maynard]].
+
+Veste seu novo uniforme policial de duas estrelas prateadas, arma-se com sua bengala e segue com o [[Inspetor Tolle]] em carruagem policial até a [[Residência de John Maynard]] no [[Burgo Indus Dourado]], aproveitando o trajeto para praticar a compostura e o humor típicos de [[Seq 8 - Palhaço|Palhaço]].
+
+No quarto de hóspedes isolado, cria uma parede de espiritualidade e executa adivinhação onírica sobre a causa da morte, vislumbrando um encontro amoroso entre Maynard e uma mulher desconhecida de traços delicados antes do colapso fatal do deputado; ao desenhar o retrato da suspeita e dissipar a barreira mística, é surpreendido pelo cadáver de Maynard sentando-se abruptamente na cama com saliva escorrendo e olhos arregalados.
