@@ -12,6 +12,8 @@ Fors Wall é uma autora de 23 anos, residente em [[Backlund]] e ex-médica de cl
 
 ## Evolução narrativa
 
+### Contatos e a Reunião Secreta
+
 Aborda o [[Visconde Glaint]] e é apresentada a [[Audrey Hall]] durante um sarau literário em sua mansão. No escritório privado de Glaint, demonstra seu poder Beyonder ao atravessar a porta trancada em forma incorpórea e destrancá-la pelo lado de fora. Revela que atua como Beyonder há mais de dois anos e propõe vender uma fórmula de poção de Sequência e seus materiais correspondentes em troca do resgate de sua parceira, que está presa aguardando veredito após utilizar métodos exagerados para convencer um bandido.
 
 Recorre ao [[Visconde Glaint]] para interceder por sua amiga [[Xio Derecha]], detida no Burgo Norte de [[Backlund]] após confrontar fisicamente um agiota do Burgo Leste que ameaçava a família de um devedor.
@@ -19,6 +21,8 @@ Recorre ao [[Visconde Glaint]] para interceder por sua amiga [[Xio Derecha]], de
 Apresenta [[Xio Derecha]] a [[Audrey Hall]] como uma excelente persuasora e acompanha o grupo até a [[Reunião Secreta de Backlund]], onde apresenta [[Sr. A]] como um Beyonder poderoso e líder do encontro; ao ver a lâmina triangular cair da perna de Xio, comenta que essas ferramentas servem para convencer os que não se convencem com facilidade a conversar com calma.
 
 Orienta [[Audrey Hall]] e o [[Visconde Glaint]] sobre o sistema de solicitações anônimas em lousas na [[Reunião Secreta de Backlund]] e compartilha caminhos de Sequência conhecidos, revelando que outrora sonhou em se tornar uma [[Boticário|Boticária]].
+
+### A Caçada a Qilangos
 
 É lembrada por [[Audrey Hall|Justiça]] como uma Beyonder com círculos úteis: ex-médica clínica e agora autora, mantém contatos no mundo literário, na indústria editorial e entre os médicos de classe média, o que a torna uma via valiosa para localizar pessoas em [[Backlund]].
 
@@ -29,3 +33,7 @@ Acompanha [[Xio Derecha]] à casa do detetive [[Isengard Stanton]] no Burgo Hill
 Acompanha [[Xio Derecha]] ao jardim público no Burgo Imperatriz de [[Backlund]] para o contato com a mensageira de [[Audrey Hall]], surpreendendo-se ao ver a golden retriever [[Susie]] e destruindo a carta anterior com seu cigarro para garantir o sigilo das mensagens.
 
 Ao acompanhar Xio até a residência de Darkholme no Burgo Leste, depara-se com o cadáver do líder de quadrilha barbaramente esquartejado e desprovido de cheiro de sangue. Percebendo a armadilha de [[Qilangos]] à espreita do lado de fora, utiliza a [[Pulseira Mística de Fors]] e invoca a passagem para o [[Mundo Espiritual]] em [[Hermes]] antigo, teletransportando a si mesma e a Xio em segurança até um cemitério distante. Revela que é uma crente moderada do [[Deus do Vapor e da Maquinaria]].
+
+### A Deliberação Policial
+
+Concorda com a estratégia de [[Xio Derecha]] de envolver a polícia para atrair forças oficiais contra [[Qilangos]], argumentando que compreender o verdadeiro objetivo do pirata na capital facilitará sua localização; em seguida, recusa invadir a mansão do conde Hall pelo alto risco de ser capturada por Beyonders a serviço da nobreza e aguarda com Xio a saída de [[Susie]] para despachar o aviso urgente.

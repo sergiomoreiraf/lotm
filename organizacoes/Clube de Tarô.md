@@ -31,6 +31,8 @@ Na reunião seguinte, [[Klein Moretti|O Tolo]] reconhece a ascensão de [[Derric
 
 Na mesma reunião, O Sol entrega a fórmula de Telepata obtida no mercado negro da [[Cidade de Prata]], e O Tolo a traduz e acrescenta os nomes alternativos dos ingredientes principais para Justiça, que paga trezentas libras adicionais e recebe os dados de uma conta anônima do [[Banco Backlund]]. O Sol adia a própria compensação até digerir o Bardo, e a conversa sobre a digestão revela ao clube que a Cidade de Prata ensina o [[Método de Atuação]] em suas aulas de educação geral.
 
+Na reunião regular seguinte às três da tarde, [[Audrey Hall|Justiça]] confirma que [[Klein Moretti|O Tolo]] recebeu a transferência bancária e relata que [[Qilangos]] assassinou um informante de seus investigadores, detalhando o plano de mobilizar a polícia e forças oficiais para encurralá-lo; diante disso, [[Alger Wilson|O Enforcado]] obtém a permissão de O Tolo para realizar um ritual e recitar seu nome honorífico caso descubra o item crucial e as reais intenções do pirata em [[Backlund]].
+
 ## Estrutura e Hierarquia
 
 - [[Klein Moretti|O Tolo]] — Fundador e testemunha dos comércios do clube.

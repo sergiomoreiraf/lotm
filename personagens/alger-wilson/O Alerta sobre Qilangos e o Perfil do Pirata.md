@@ -16,3 +16,5 @@ Deduz que, cumprida a comissão, o pirata se tornaria igual a [[Nast]], o Rei do
 Enfatiza ao Tolo os dois pontos-chave do relato — a permanência de [[Qilangos]] em [[Backlund]] e a importância do objeto — na esperança de que ele envie seu adorador, e contém a decepção diante da resposta evasiva; em seguida fornece a [[Audrey Hall|Justiça]] o perfil de hábitos do pirata.
 
 Desembarca nas margens do [[Rio Tussock]] nos portos de [[Backlund]], trajando as longas vestes sacerdotais da [[Igreja do Senhor das Tempestades]] enquanto observa o movimento barulhento dos trabalhadores portuários e constata seu retorno à capital após longo período de ausência.
+
+Na reunião seguinte do [[Clube de Tarô]], é informado por [[Audrey Hall|Justiça]] sobre o assassinato de Darkholme cometido por [[Qilangos]] e o risco de dispersão do alvo perante o cerco policial em andamento; aproveita a ocasião para solicitar a [[Klein Moretti|O Tolo]] a permissão de recitar seu nome honorífico em ritual caso descubra o propósito exato e o artefato almejado pelo pirata em [[Backlund]], recebendo a concessão divina.

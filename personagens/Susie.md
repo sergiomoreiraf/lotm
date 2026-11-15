@@ -40,3 +40,5 @@ Ouve no escritório as deliberações do conde Hall com membros do parlamento e 
 ### Mensageira Clandestina
 
 Atua como mensageira secreta entre [[Audrey Hall]], [[Xio Derecha]] e [[Fors Wall]], encontrando as investigadoras em um jardim municipal no Burgo Imperatriz de [[Backlund]]. Carrega os relatórios amarrados ao corpo em uma bolsa de couro e demonstra domínio vocal crescente ao dialogar com sua dona, abrindo zíperes e trancando portas com destreza.
+
+Durante uma de suas saídas secretas por uma fresta no muro da mansão, é importunada por um cão preto e salva pela intervenção autoritária de [[Xio Derecha]], recebendo uma correspondência urgente para [[Audrey Hall]] e contendo por pouco o impulso de agradecer verbalmente às investigadoras.
