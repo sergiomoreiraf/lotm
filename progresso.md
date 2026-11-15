@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 179 - Louvando o Sr. Tolo
+- **Último Capítulo Processado:** Capítulo 180 - O Ritual de Sacrifício

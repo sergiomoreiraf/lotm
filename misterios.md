@@ -46,7 +46,8 @@ tags:
 - Qual o paradeiro e o segredo das 22 cartas criadas por Roselle a partir da segunda [[Ardósia da Blasfêmia]], e qual a ligação com as cartas de Tarô?
 - Por que Roselle se arrependeu profundamente de não ter escolhido os caminhos de [[Caminho do Aprendiz|Aprendiz]], [[Caminho do Saqueador|Saqueador]] ou [[Caminho do Vidente|Vidente]] após os avisos de [[Zaratul]]?
 - Qual a identidade do ser "patético preso na escuridão entre tempestades" descoberto por Roselle, que só se aproxima da realidade nas luas cheias?
-- O que é e onde se localiza a misteriosa [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]] mencionada por Roselle e pelas lendas antigas?
+- O que é e onde se localiza a misteriosa [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]] no final do [[Mar Sonia]], buscada em segredo pela cúpula da [[Igreja do Senhor das Tempestades]], e como ela se conecta à [[Cidade de Prata]]?
+- Quais são as condições necessárias para conectar as estrelas carmesins e trazer novos membros para o palácio Acima da [[Névoa Cinza]]: a presença de um item especial ou a oração direta do nome honorífico de Klein?
 - Por que não existe petróleo bruto a ser encontrado neste mundo?
 - Qual a identidade da organização ancestral secreta detentora da segunda [[Ardósia da Blasfêmia]] cujo nome Roselle temeu registrar?
 - Quem foi a entidade blasfemada que deu nome à [[Ardósia da Blasfêmia]] e quem a criou?
