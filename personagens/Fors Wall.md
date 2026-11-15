@@ -25,3 +25,5 @@ Orienta [[Audrey Hall]] e o [[Visconde Glaint]] sobre o sistema de solicitaçõe
 Diante do retrato e das anotações de [[Audrey Hall|Justiça]] sobre [[Qilangos]], recusa-se a comprovar e deduzir o perfil do pirata, alegando ser apenas uma [[Seq 9 - Aprendiz|Aprendiz]] e não uma [[Árbitro|Árbitra]], e propõe que ela e [[Xio Derecha]] contratem um detetive profissional para a tarefa, cabendo a Fors pagar a taxa; avalia que [[Audrey Hall]] não é a adolescente ingênua dos rumores, mas alguém de coração meticuloso e observação calma.
 
 Acompanha [[Xio Derecha]] à casa do detetive [[Isengard Stanton]] no Burgo Hillston de [[Backlund]], levando materiais sobre o alvo com o nome de [[Qilangos]] removido e a descrição dos incidentes sobrenaturais alterada, e paga a consulta de trinta minutos que rende a delimitação do raio de atividade do pirata.
+
+Acompanha [[Xio Derecha]] ao jardim público no Burgo Imperatriz de [[Backlund]] para o contato com a mensageira de [[Audrey Hall]], surpreendendo-se ao ver a golden retriever [[Susie]] e destruindo a carta anterior com seu cigarro para garantir o sigilo das mensagens.

@@ -20,7 +20,8 @@ Recebe o [[Artefato Selado 2-049]] e o [[Caderno da Família Antigonus]], escolt
 
 ## Locais e Pontos de Interesse
 
-- **Burgo Imperatriz:** Um distrito luxuoso que abriga residências de famílias nobres e de alta classe, como a [[Vila da Família Hall]].
+- **Burgo Imperatriz:** Um distrito luxuoso que abriga residências de famílias nobres e de alta classe, como a [[Vila da Família Hall]], além de jardins municipais públicos patrocinados pela nobreza.
+- **Burgo do Porto:** Distrito portuário da capital onde foram notados desaparecimentos atípicos de vagabundos durante a caçada a [[Qilangos]].
 - **Burgo Norte:** Distrito que abriga instalações judiciais e a prisão temporária de Backlund e concentra, com a Ponte de Backlund, a maior população de vagabundos da capital.
 - **Burgo Leste:** Distrito populoso de classe trabalhadora onde operam gangues e agiotas.
 - **Burgo Hillston:** Distrito onde fica a casa escura e sombria do detetive [[Isengard Stanton]].

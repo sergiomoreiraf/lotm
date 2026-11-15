@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 175 - Dedução
+- **Último Capítulo Processado:** Capítulo 176 - Carta

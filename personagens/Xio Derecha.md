@@ -24,3 +24,5 @@ Na [[Reunião Secreta de Backlund]], manifesta desejo em obter a fórmula de [[S
 Examina o retrato e suas anotações e descobre que o alvo pode alterar a própria aparência, tornando inútil a memorização de seus traços faciais; aceita a sugestão de [[Fors Wall]] de contratar um detetive profissional para comprovar e deduzir o perfil do pirata depois de reunidas as informações, determinando que Fors pague a taxa.
 
 Entrega em mãos ao detetive [[Isengard Stanton]] a pasta com os documentos sobre o alvo e pede que ele encontre hábitos nas ações descritas, mantendo postura ereta e voz grave, e retira-se com [[Fors Wall]] após receber a dedução do provável raio de atividade de [[Qilangos]] em [[Backlund]].
+
+Encontra a cadela [[Susie]] em um jardim público no Burgo Imperatriz de [[Backlund]] e entrega-lhe o relatório com os primeiros resultados da investigação sobre [[Qilangos]], apontando o desaparecimento anômalo de vagabundos no Burgo do Porto.

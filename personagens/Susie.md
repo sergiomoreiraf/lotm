@@ -36,3 +36,7 @@ Observa o retorno de [[Audrey Hall]] da [[Reunião Secreta de Backlund]] com um 
 ### Espionagem e Relato Político
 
 Ouve no escritório as deliberações do conde Hall com membros do parlamento e relata a [[Audrey Hall]] o acordo entre o rei e o primeiro-ministro para suspender temporariamente a vingança contra o [[Feysac|Império Feysac]] em [[Império Balam|Balam]] e priorizar a aprovação da reforma do funcionalismo público por concurso antes de outubro, sendo recompensada com biscoitos caninos.
+
+### Mensageira Clandestina
+
+Atua como mensageira secreta entre [[Audrey Hall]], [[Xio Derecha]] e [[Fors Wall]], encontrando as investigadoras em um jardim municipal no Burgo Imperatriz de [[Backlund]]. Carrega os relatórios amarrados ao corpo em uma bolsa de couro e demonstra domínio vocal crescente ao dialogar com sua dona, abrindo zíperes e trancando portas com destreza.
