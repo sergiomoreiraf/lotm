@@ -26,3 +26,5 @@ Examina o retrato e suas anotações e descobre que o alvo pode alterar a própr
 Entrega em mãos ao detetive [[Isengard Stanton]] a pasta com os documentos sobre o alvo e pede que ele encontre hábitos nas ações descritas, mantendo postura ereta e voz grave, e retira-se com [[Fors Wall]] após receber a dedução do provável raio de atividade de [[Qilangos]] em [[Backlund]].
 
 Encontra a cadela [[Susie]] em um jardim público no Burgo Imperatriz de [[Backlund]] e entrega-lhe o relatório com os primeiros resultados da investigação sobre [[Qilangos]], apontando o desaparecimento anômalo de vagabundos no Burgo do Porto.
+
+Dirige-se com [[Fors Wall]] à residência de Darkholme no Burgo Leste para cobrar o andamento da investigação sobre os sem-teto e depara-se com o corpo do chefe de quadrilha desmembrado e exposto pela casa sem rastro de odor de sangue. Quase é emboscada por [[Qilangos]], sendo salva no último instante pelo teletransporte de emergência de Fors via [[Mundo Espiritual]], decidindo alertar [[Audrey Hall]] antes de acionar a polícia.

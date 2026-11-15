@@ -18,4 +18,5 @@ Segundo os registros confidenciais dos [[Falcões Noturnos]], as manifestações
 ## Referências e Usos
 
 - É explorado por Beyonders da Sequência [[Seq 9 - Vidente|Vidente]] em adivinhações simplificadas via [[Cogitação]].
+- Pode ser acessado diretamente por meio de certos artefatos místicos, como a [[Pulseira Mística de Fors]], onde o viajante visualiza formas indescritíveis, entidades transparentes e esplendores coloridos dotados de conhecimento ao atravessar o plano para teletransporte.
 

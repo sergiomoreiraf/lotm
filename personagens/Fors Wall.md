@@ -27,3 +27,5 @@ Diante do retrato e das anotações de [[Audrey Hall|Justiça]] sobre [[Qilangos
 Acompanha [[Xio Derecha]] à casa do detetive [[Isengard Stanton]] no Burgo Hillston de [[Backlund]], levando materiais sobre o alvo com o nome de [[Qilangos]] removido e a descrição dos incidentes sobrenaturais alterada, e paga a consulta de trinta minutos que rende a delimitação do raio de atividade do pirata.
 
 Acompanha [[Xio Derecha]] ao jardim público no Burgo Imperatriz de [[Backlund]] para o contato com a mensageira de [[Audrey Hall]], surpreendendo-se ao ver a golden retriever [[Susie]] e destruindo a carta anterior com seu cigarro para garantir o sigilo das mensagens.
+
+Ao acompanhar Xio até a residência de Darkholme no Burgo Leste, depara-se com o cadáver do líder de quadrilha barbaramente esquartejado e desprovido de cheiro de sangue. Percebendo a armadilha de [[Qilangos]] à espreita do lado de fora, utiliza a [[Pulseira Mística de Fors]] e invoca a passagem para o [[Mundo Espiritual]] em [[Hermes]] antigo, teletransportando a si mesma e a Xio em segurança até um cemitério distante. Revela que é uma crente moderada do [[Deus do Vapor e da Maquinaria]].
