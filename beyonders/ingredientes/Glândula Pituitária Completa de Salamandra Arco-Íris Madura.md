@@ -12,7 +12,7 @@ A glândula pituitária intacta colhida de um espécime maduro de salamandra arc
 
 ## Origem/Obtenção
 
-- Extraída de uma salamandra arco-íris adulta.
+- Extraída de uma salamandra arco-íris adulta. A criatura está praticamente extinta no mundo conhecido, restando apenas espécimes em ilhas primitivas isoladas no [[Mar da Névoa]], [[Oceano Berserk]] e [[Mar Sonia]], cujas rotas são guardadas em segredo. Há indícios de que ingredientes substitutos existam para a poção.
 
 ## Usos Conhecidos
 

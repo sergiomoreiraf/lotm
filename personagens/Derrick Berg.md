@@ -47,3 +47,5 @@ Entrega a fórmula da poção e, por não ter necessidade imediata, adia a compe
 
 Ouve sem compreender as referências a piratas e mares trazidas por [[Alger Wilson|O Enforcado]], concluindo que o mundo dos demais membros difere muito da [[Cidade de Prata]] por não se preocuparem com a maldição ou com as [[Coisas das Trevas]]; contém a curiosidade por respeito à instrução de [[Klein Moretti|O Tolo]] de não perguntar sobre os segredos alheios.
 
+Recebe de [[Klein Moretti|O Tolo]] a concessão formal para contatá-lo via ritual de oração caso necessite. Ao ser indagado por Audrey sobre a glândula de salamandra arco-íris, declara nunca tê-la visto exceto em livros didáticos; em seguida, questionado pelo Tolo sobre a fé de seu povo, confirma solenemente que a [[Cidade de Prata]] ainda crê no [[O Criador|Senhor que criou tudo, o Deus onipotente e onisciente]].
+

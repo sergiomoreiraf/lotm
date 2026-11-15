@@ -48,6 +48,7 @@ Este arquivo de MOC (Map of Content) mapeia e estrutura a hierarquia e as relaç
     - [[Cidade da Generosidade]]
 - [[Oceano Berserk]]
 - [[Mar da Névoa]]
+- [[Ilha Pasu]]
 
 ## Rios e Vias Fluviais
 

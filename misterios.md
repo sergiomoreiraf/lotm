@@ -59,7 +59,8 @@ tags:
 - A lenda de que o [[Sábio Oculto]] era uma lei de numerologia espiritual que ganhou vida e se corrompeu em deus maligno é verdadeira?
 - Por que a cúpula da [[Igreja da Deusa da Noite Eterna]] mantém sigilo estrito e impõe juramentos sobre as razões do [[Método de Atuação]]?
 - Quais são os outros caminhos compatíveis para [[Troca de Caminhos]] em Altas Sequências além dos já conhecidos, e quais seriam as vias vizinhas ao [[Caminho do Vidente]]?
-- Qual o segredo da [[Cidade de Prata]]: como preservaram o [[Método de Atuação]], por que seus mortos viram espíritos malignos se não forem executados por parentes e qual a divindade a quem oravam?
+- Qual o segredo da [[Cidade de Prata]]: como preservaram o [[Método de Atuação]], por que seus mortos viram espíritos malignos se não forem executados por parentes e por que foram abandonados pelo [[O Criador|Senhor que criou tudo]] em quem ainda creem?
+- Quais são os materiais substitutos para poções cujas criaturas originais foram quase extintas, como a [[Glândula Pituitária Completa de Salamandra Arco-Íris Madura|salamandra arco-íris]] do [[Caminho do Espectador]]?
 - Que horrores e perigos habitam atrás do [[Portão Chanis]] durante a noite para justificar a ordem de jamais abri-lo diante de ruídos externos?
 - Qual a verdadeira natureza do líquido dourado purificador extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] e quem era o homem de túnica branca tombado em sacrifício diante do altar?
 
