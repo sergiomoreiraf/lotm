@@ -5,10 +5,11 @@ tags:
 
 # Porta da Invocação
 
-A Porta da Invocação é uma formação ilusória e disforme que surge acima da [[Névoa Cinza]] quando [[Klein Moretti]] executa o ritual de auto-convocação para invocar [[Klein Moretti|O Tolo]].
+A Porta da Invocação é uma passagem ilusória e misteriosa que surge acima da [[Névoa Cinza]] quando [[Klein Moretti]] executa o ritual de invocação direcionado a si mesmo como [[Klein Moretti|O Tolo]].
 
 ## Mecânica
 
-- A formação nasce da espiritualidade do conjurador combinada à luz ondulante emitida pelo símbolo no espaldar de sua cadeira no palácio de bronze — um olho sem pupila, um símbolo de sigilo e linhas contorcidas de mudança.
-- A porta se apresenta como uma abertura balançante que parece querer ser aberta, exercendo forte atração sobre a vontade do conjurador e arrastando levemente a névoa sem limites e o palácio em sua direção.
-- Ela só se completa com espiritualidade suficiente: a tentativa de Klein formou apenas uma porta que não se abria por mais que fosse empurrada, e ele concluiu que precisaria de mais força espiritual para completá-la.
+- A formação nasce da espiritualidade do conjurador combinada à luz ondulante emitida pelo símbolo no espaldar de sua cadeira no palácio de bronze — o Olho Sem Pupila e as linhas contorcidas.
+- Quando abastecida com espiritualidade estabilizada de [[Seq 8 - Palhaço|Palhaço]], a porta forma-se por completo, gravada com os mesmos padrões místicos da cadeira do Tolo.
+- Ao ser desejada sua abertura pela vontade do conjurador, ondulações varrem o palácio divino e a porta se entreabre em som estridente de atrito, revelando uma escuridão sem fim repleta de figuras transparentes indescritíveis e raios lustrosos de conhecimento infinito.
+- Exerce uma força de atração irresistível que suga o [[Corpo Espiritual]] do conjurador através da fenda, projetando-o no mundo físico diante do foco do ritual na forma de uma invocação.
