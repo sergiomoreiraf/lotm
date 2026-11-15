@@ -89,12 +89,20 @@ Para cada entidade EXISTENTE lida:
 
 ## 8. Mistérios e hipóteses
 
-`misterios.md` participa do processamento, mas **nunca é lido por inteiro de forma indiscriminada**:
+`misterios.md` funciona estritamente como um **índice atômico de perguntas em aberto**, nunca como repositório de histórico, resumos de eventos ou desfechos de combate. Ele participa do processamento sob as seguintes regras:
 
 1. **Consulta direcionada (obrigatória):** para cada entidade com mudança de estado, faça busca textual pelo nome exato em `misterios.md` e leia apenas os trechos retornados.
 2. **Exceção — capítulos sistêmicos:** leia integralmente apenas quando o capítulo tratar predominantemente de regras gerais do misticismo, eras ou eventos globais sem âncora em entidade única.
-3. **Adicione** dúvidas, pistas e hipóteses (inclusive suspeitas do protagonista) como perguntas ou descrições atômicas.
-4. **Verifique** se mistérios anteriores foram elucidados: se sim, integre a resposta na nota da entidade e remova o item de `misterios.md`.
+3. **Formato Estrito (Pergunta Atômica):**
+   - Cada item deve ser formulado exclusivamente como uma **pergunta direta e concisa** (máximo de 1 a 2 frases curtas).
+   - **É terminantemente proibido** narrar o desenrolar das investigações, estratégias de combate, rotinas de personagens ou detalhes contextuais secundários. O contexto factual pertence às notas das entidades e aos resumos dos capítulos.
+4. **Critério de Elegibilidade (Evitar Trivialidades do Cotidiano):**
+   - **O que ENTRA:** Pontas soltas de enredo, discrepâncias místicas inexplicadas, conspirações em andamento, anomalias de destino, profecias/visões, termos ou cartas enigmáticas de Roselle e perguntas expressamente levantadas pelos personagens sobre o funcionamento do mundo ou perigos iminentes.
+   - **O que NÃO ENTRA (Trivialidades/Fluff):** Dúvidas puramente mundanas, superstições cômicas de personagens sem peso místico (ex: regras sobre tomar café tarde), hábitos banais de NPC secundário, ou itens cuja explicação já é evidente e autoexplicativa pela própria lógica comum. Se a dúvida diz respeito apenas ao funcionamento de um item ou feitiço específico e não aponta para um enigma maior, registre como dúvida/observação na nota da própria entidade, não em `misterios.md`.
+5. **Consolidação Incremental:**
+   - Se um capítulo trouxer novas pistas sobre um mistério já listado, **não adicione um novo tópico** nem um parágrafo narrativo longo. Apenas refine a pergunta existente para refletir a nova nuance.
+6. **Resolução e Poda:**
+   - Verifique sempre se mistérios anteriores foram elucidados no capítulo lido: se sim, integre o fato revelado na nota da entidade correspondente e **remova imediatamente** a pergunta de `misterios.md`.
 
 ## 9. Buffer temporário (checklist, sem conteúdo final)
 

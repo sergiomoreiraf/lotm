@@ -5,200 +5,71 @@ tags:
 
 # Mistérios em Aberto
 
-## Klein e a Transmigração
+> [!tip] Regra de Concisão
+> Este arquivo é um índice atômico de dúvidas em aberto, não um repositório narrativo. Cada item deve conter apenas uma pergunta direta (máximo de 1 a 2 frases curtas), sem relatar investigações, combates ou desfechos de capítulos.
 
-- Causa e circunstâncias da morte original de Klein, incluindo o ferimento cicatrizado na têmpora, o sangue reduzido e o fato de Melissa não ter ouvido o disparo do [[Revólver de Latão]].
-- Relação entre o [[Ritual de Aumento de Sorte]] realizado na Terra e a transmigração de Zhou Mingrui.
-- Natureza da [[Névoa Cinza]], origem das estrelas carmesins e por que o ritual conectou as consciências de Klein, [[Audrey Hall]] e [[Alger Wilson]].
-- Origem dos murmúrios ouvidos ao recuperar a consciência e das quatro manchas pretas quadrangulares em sua mão.
-- Por que Klein sobreviveu quando a regra é a morte de todos os envolvidos, e como manteve a lucidez contra a invasão de sonho de [[Dunn Smith]].
-- Origem dos sussurros "Hornacis... Flegrea..." ouvidos após consumir a poção de [[Seq 9 - Vidente|Vidente]] e novamente escutados por [[Klein Moretti]] ao ingerir a poção de [[Seq 8 - Palhaço|Palhaço]].
-- Por que a carta [[Klein Moretti|O Tolo]] invertida reaparece sistematicamente nas adivinhações sobre o destino do [[Caderno da Família Antigonus]].
-- Significado do símbolo no espaldar de sua cadeira no palácio da névoa cinza, combinando um Olho Sem Pupila e linhas contorcidas de forma incompleta e sobreposta.
-- Origem e design do palácio de bronze, mesa e cadeiras acima da névoa cinza: criação subconsciente de Klein ou reflexo de uma estrutura real?
-- Por que o ritual de quatro passos anti-horário e a ascensão à névoa cinza anulam e concedem imunidade temporária ao efeito assimilador do [[Artefato Selado 2-049]].
-- Novas funções e capacidades que o espaço acima da névoa cinza manifestará conforme [[Klein Moretti]] avançar para as Sequências 8, 7 ou superiores.
-- Se a materialização de objetos e a separação de seus componentes no espaço acima da névoa cinza produzem efeitos reais ou são apenas representações simbólicas, já que [[Klein Moretti]] separou uma gota de líquido dourado da cópia materializada do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
-- Efeito e riscos de [[Klein Moretti]] utilizar a fórmula da prece a si mesmo na [[Magia Ritualística]] invocando o nome honorífico d'[[Klein Moretti|O Tolo]]: a adivinhação com pêndulo Acima da Névoa Cinza indicou ausência de perigo, mas o ritual formou apenas uma [[Porta da Invocação]] disforme e inoperante por falta de espiritualidade, viabilizando nova tentativa após a consumação de seu avanço a [[Seq 8 - Palhaço|Palhaço]].
-- Se a figura silenciosa de [[Dunn Smith]] que observa [[Klein Moretti]] em sonho após o ritual de auto-convocação é uma manifestação do poder de Pesadelo ou apenas um sonho comum; Klein interpreta o episódio como um pesadelo real.
+## Klein, Transmigração e o Palácio da Névoa Cinza
 
-## O Incidente do Caderno Antigonus
+- Qual a causa da morte física original de Klein e por que ele sobreviveu ao ritual com o ferimento cicatrizado na têmpora, ao contrário de Welch e Naya?
+- Qual a conexão entre o [[Ritual de Aumento de Sorte]] na Terra e a transmigração de Zhou Mingrui?
+- Qual a origem da [[Névoa Cinza]], das estrelas carmesins e do palácio de bronze com o trono gigante e as mesas divinas?
+- Qual o significado do símbolo de Olho Sem Pupila e linhas contorcidas atrás da cadeira d'[[Klein Moretti|O Tolo]] e das constelações que se alteram sozinhas atrás dos membros do [[Clube de Tarô]]?
+- Qual a origem dos sussurros "Hornacis... Flegrea..." escutados por [[Klein Moretti]] ao consumir poções de [[Seq 9 - Vidente|Vidente]] e [[Seq 8 - Palhaço|Palhaço]]?
+- Por que a carta invertida d'[[Klein Moretti|O Tolo]] reaparece sistematicamente em adivinhações ligadas ao destino do [[Caderno da Família Antigonus]]?
+- Quais são os limites, perigos e reais efeitos de materialização e rituais de auto-oração executados no espaço Acima da Névoa Cinza?
 
-- Conteúdo secreto do [[Caderno da Família Antigonus]] da [[Quarta Época]] obtido por [[Welch McGovern]], e seu paradeiro após desaparecer da residência.
-- Natureza da força que levou Welch e [[Naya]] ao suicídio sem deixar vestígios físicos ou espirituais.
-- Segredos e sobrevivência dos habitantes da [[Nação da Noite Eterna]] no cume da [[Cadeia de Montanhas Hornacis]].
-- Causa da familiaridade inexplicável e do aparente esquecimento do professor [[Azik]] quanto ao nome da família Antigonus.
-- Motivo de a [[Igreja da Deusa da Noite Eterna]] ter destruído a [[Família Antigonus]] entre o final da [[Quarta Época]] e o início da época atual.
-- Contradição apontada por [[Leonard Mitchell]]: por que [[Klein Moretti]] sobreviveu e voltou para casa, e por que o caderno não foi destruído no local para apagar pistas.
-- Especulação de [[Leonard Mitchell]]: o caderno seria receptáculo do mal, e o corpo de [[Klein Moretti]] estaria sendo usado como incubação para a descida de uma existência mística.
-- Causa do foco invisível do caderno nas costas de [[Klein Moretti]] durante o resgate, gerando déjà vu espiritual e pesadelo com a carta d'[[Klein Moretti|O Tolo]] sorrindo e a frase em [[Hermes]].
-- Desarmonia no destino de [[Klein Moretti]] apontada por [[Azik]], evidenciada por três coincidências em dois meses: a descoberta do caderno, a estada de [[Ray Bieber]] em [[Cidade Tingen|Tingen]] e a intervenção no ritual de [[Selena Wood]].
-- Identidade e motivação da força oculta por trás do sequestro de [[Elliott]], confirmada em adivinhação Acima da Névoa Cinza e associada à chaminé vermelha escura, a um prado florido e a dobras no espaço.
-- Por que as adivinhações Acima da Névoa Cinza sobre a permanência de [[Ray Bieber]] e o ritual de [[Selena Wood]] mostraram imobilidade total do pêndulo, indicando contramedidas ativas do manipulador das coincidências.
-- Por que as adivinhações pelas pistas da poção de [[Seq 8 - Palhaço|Palhaço]] apontam para o [[Caderno da Família Antigonus]]: fórmula direta ou atrator místico para a [[Ordem Secreta]]?
-- Extensão dos conhecimentos místicos de [[Hanass Vincent]] que lhe permitiram adquirir o [[Caderno da Família Antigonus]] antes da morte súbita.
-- Mecanismos de acesso e localização precisa do tesouro oculto da [[Família Antigonus]] no pico da [[Cadeia de Montanhas Hornacis]], cuja chave foi confirmada como a ilustração do olho vertical do [[Artefato Selado 3-0625]].
-- Por que os antigos habitantes da [[Nação da Noite Eterna]] não usavam cemitérios e mantinham os mortos na cama por três dias, e a causa de seu desaparecimento repentino e simultâneo.
-- Origem da interferência mística que impediu temporariamente a localização de [[Ray Bieber]] antes de sua transformação no armazém do porto.
-- Habilidades, perigos e origem do [[Artefato Selado 2-049]] da [[Família Antigonus]], que exige movimentos físicos repetitivos contínuos para sinalizar a preservação da consciência e evitar danos fatais.
-- Natureza do efeito ou preço místico sofrido por [[Dunn Smith]] ao invocar cobras e contorções disformes sob a própria pele para paralisar [[Ray Bieber]].
+## As Coincidências e os Incidentes em Tingen
 
-## Misticismo e Sistema Beyonder
+- Qual a identidade e os objetivos do manipulador oculto por trás da série anormal de "coincidências" em [[Cidade Tingen|Tingen]] (o caderno Antigonus, a vinda de [[Ray Bieber]], o sequestro de [[Elliott]] e a casa da chaminé vermelha escura)?
+- Por que as adivinhações de Klein sobre esses eventos sofrem bloqueios e contramedidas ativas Acima da Névoa Cinza?
+- Onde se encontra o [[Caderno da Família Antigonus]] após desaparecer da casa de Welch e passar pelas mãos de [[Hanass Vincent]] e Ray Bieber?
+- Como localizar e acessar o tesouro da [[Família Antigonus]] no pico da [[Cadeia de Montanhas Hornacis]], cuja chave é a ilustração do olho vertical do [[Artefato Selado 3-0625]]?
+- Por que a [[Igreja da Deusa da Noite Eterna]] destruiu a [[Família Antigonus]] na transição da [[Quarta Época]] para a atual e como reteve apenas a fórmula de [[Seq 9 - Vidente|Vidente]], ocultando as sequências superiores?
+- O que ocorreu aos habitantes da [[Nação da Noite Eterna]] em Hornacis e qual a razão de seu sumiço simultâneo e de costumes funerários peculiares?
+- Qual o paradeiro do golpista [[Lanevus]] e das dez mil libras roubadas, e se ele atua como um [[Seq 8 - Trapaceiro|Vigarista]] Beyonder?
+- Qual a origem e causa da anomalia mística na gravidez de [[Megose]], cujo feto cantarola no ventre?
+- Qual a causa da loucura súbita de [[Hood Eugen]] no [[Asilo Mental de Greenhill]] e qual a ligação disso com as visitas de Lanevus?
+- Qual a causa real e as motivações ocultas na morte súbita do parlamentar [[John Maynard|Maynard]], cuja viúva [[Madame Sharon]] demonstrou extrema calma em sua aura espiritual?
+- Quem é o herético da [[Ordem Aurora]] infiltrado na polícia de [[Cidade Tingen]]?
 
-- Origem e conteúdo completo da [[Ardósia da Blasfêmia]], da qual derivam os nomes e fórmulas das poções; revelou-se a existência de ao menos duas versões, com os segredos retidos pelas sete igrejas ortodoxas.
-- Verdade e mecanismo por trás do princípio de que "fé e medo trazem problemas, e mais fé e mais medo trazem mais problemas".
-- Se o [[Mito da Criação]] é literal e historicamente real ou reflete um acordo político-teológico entre as principais Igrejas.
-- Propriedades e origem das criaturas extraordinárias cujos materiais compõem poções (ex: [[Sangue de Lula Lavos]], [[Cristal Aqua Estelar]]).
-- Por que o consumo de café após as três da tarde propicia a audição de sussurros de existências desconhecidas, conforme relatado por [[Velho Neil]].
-- Por que os caminhos de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] e [[Seq 7 - Médium Espiritual|Médium Espiritual]] são considerados incompletos na [[Igreja da Deusa da Noite Eterna]] em comparação ao caminho completo do [[Seq 9 - Sem Sono|Sem Sono]].
-- Verdadeira natureza dos sete deuses ortodoxos e por que não atuaram diretamente desde a [[Quinta Época]], exceto por raros oráculos.
-- Natureza e causa das agitações invisíveis e da sensação de ser observado por múltiplos pares de olhos quando [[Klein Moretti]] cogita ou ativa a [[Visão Espiritual]].
-- Origem, natureza e riscos da adivinhação com espelho mágico proposta por [[Hanass Vincent]], considerada insegura por [[Klein Moretti]].
-- Verdadeira motivação e afiliação de [[Lawson Darkwade]], o boticário de Tingen que forneceu um remédio de [[Lenburg]] para curar a pneumonia de [[Glacis]].
-- Localização e natureza da residência sagrada do [[O Criador|Criador]] citada pela [[Ordem Aurora]], e se corresponde à lendária [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]].
-- Causa pela qual a pele do pai de [[Jack]] projetou cacos pretos e por que ele desabou gritando que "estavam mentindo" ao escutar os sussurros atribuídos ao [[O Criador|Criador]].
-- Limites do controle de [[Klein Moretti]] sobre a [[Névoa Cinza]]: responde preces e transmite mensagens para [[Audrey Hall]] e [[Alger Wilson]], mas não utiliza diretamente os poderes do espaço para conceder feitiços ou manipular o mundo físico; ele cogita que a concessão de materiais ao responder orações e o sacrifício — inclusive sacrificar algo a si mesmo — permitam transferir objetos do mundo real para o espaço acima da névoa, hipótese que espera testar ao avançar para a Sequência 8.
-- Que segredo oculto sustenta a [[Política de Poções das Igrejas|política de poções]] das Sete Igrejas Maiores, que fornece ingredientes, fórmulas e demonstrações para as Sequências baixas e médias mas apenas poções prontas para as superiores.
-- Significado e origem das constelações místicas nas costas das cadeiras do [[Clube de Tarô]]: embora a constelação do Dragão Gigante atrás de [[Audrey Hall|Justiça]] tenha se confirmado como reflexo da origem do [[Caminho do Espectador]] na raça dos Dragões, resta desvendar a regra e a origem das demais constelações (como a Tempestade de Vento de [[Alger Wilson|O Enforcado]]); as estrelas atrás da cadeira de [[Derrick Berg|O Sol]] transformaram-se sozinhas no símbolo do Sol quando ele avançou de Sequência, sem intervenção de [[Klein Moretti]].
-- Causa pela qual as estrelas atrás da cadeira de um membro do [[Clube de Tarô]] se alteram sem a vontade de [[Klein Moretti]], como o símbolo do Sol surgido após o avanço de [[Derrick Berg|O Sol]], e se refletem a Sequência ou o caminho percorrido.
-- Natureza, origem e poderes do [[Livro de Bolso de Bronze]] com um olho vertical no meio, carregado pelo detetive [[Isengard Stanton]] em [[Backlund]], e se ele auxilia suas deduções ou apenas acompanha seus murmúrios.
-- Quais são os demais pares de caminhos compatíveis para [[Troca de Caminhos]] em [[Semideus|Altas Sequências]] além dos já revelados ([[Caminho do Sem Sono|Sem Sono]] / [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] e [[Caminho do Erudito|Erudito]] / [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]]), e se o [[Caminho do Vidente]] possui vias vizinhas intercambiáveis, suspeitando [[Klein Moretti]] que sejam o [[Caminho do Aprendiz]] ou o [[Caminho do Saqueador]].
-- Qual era o auxílio específico que o arcebispo [[Fan Estin]] buscava obter do Imperador [[Roselle Gustav]] ao procurá-lo na juventude.
-- Causa do aumento global na atividade e no surgimento de novas organizações secretas e Beyonders nas últimas décadas.
-- Nome verdadeiro, origem e classificação da [[Fome Rastejante]], o item mágico de [[Qilangos]] que exige a alma e a carne de uma pessoa viva em dias alternados e concede ao portador um repertório de poderes comparável ao de um [[Seq 5 - Pastor|Pastor]]; se é de fato um [[Artefatos Selados|Artefato Selado]] numerado e como a exigência de alimentação pode ser usada para rastrear seu dono.
-- Se a semelhança entre os poderes de um artefato e os de um Beyonder indica que os [[Artefatos Selados]] replicam classes e Sequências específicas, como suspeita [[Klein Moretti]] ao cogitar qual Sequência corresponde ao [[Artefato Selado 2-049]].
-- Se existe um limite para o número de almas que um [[Seq 5 - Pastor|Pastor]] pode engolir e pastorear, como suspeitam os habitantes da [[Cidade de Prata]], e se as almas internas podem ser substituídas.
+## Azik, Lamud e o Culto à Morte
 
-- Causa dos murmúrios disformes e das dores de cabeça de [[Klein Moretti]] durante a execução dos rituais a O Tolo, e o surgimento temporário dos quatro pontos pretos nas costas de sua mão.
-- Por que a [[Ordem Secreta]] detém a Sequência 8 do [[Caminho do Vidente]] ([[Seq 8 - Palhaço|Palhaço]]) enquanto a [[Igreja da Deusa da Noite Eterna]] não possui essa fórmula em seus arquivos locais.
-- Processo místico pelo qual a poção não absorvida de um Beyonder em [[Perda de Controle|perda de controle]] (como [[Ray Bieber]]) se condensa e separa fisicamente do corpo derretido como matéria-prima extraordinária.
-- Verdade por trás da lenda de que o [[Sábio Oculto]], originalmente uma lei natural e conceito de numerologia espiritual, ganhou vida e se tornou uma divindade maligna, corrompendo a [[Ordem Ascética de Moisés]].
-- Nível de Sequência e ingredientes principais da poção de [[Sacerdote da Luz]], e se a classe é o antigo nome do [[Seq 7 - Sumo Sacerdote do Sol]].
-- Quais são os ingredientes complementares da poção de [[Seq 4 - Sem Sombra]].
-- Por que o [[Eterno Sol Ardente]] é extremamente hostil ao [[Senhor das Tempestades]] e ao [[Deus do Conhecimento e da Sabedoria]].
-- O que significa "anjo branco puro", uma das informações captadas de [[Eterno Sol Ardente]] por [[Klein Moretti]].
-- Qual cidade há muito destruída usava a [[Bola de Cristal]] da casa de [[Derrick Berg]] para adorar sua divindade, e a qual divindade ela era dedicada.
-- Como a oração de um não-Beyonder da [[Cidade de Prata]] alcançou o espaço da [[Névoa Cinza]] por meio da [[Bola de Cristal]].
-- Natureza e significado do símbolo carmesim que surgiu no dorso da mão direita de [[Derrick Berg]] e nele se fundiu após a [[Bola de Cristal]] se despedaçar.
-- Identidade da "Magnífica Divindade" a quem o [[Povo das Trevas]] dirige suas orações, se ela corresponde a alguma divindade conhecida e por que não respondeu à prece de [[Derrick Berg]], atendida por [[Klein Moretti|O Tolo]].
-- Causa mística pela qual todos os mortos da [[Cidade de Prata]] se transformam em espíritos malignos, obrigando um membro da família a tirar a vida dos moribundos.
-- Se a [[Cidade de Prata]] é de fato a [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]], se foi separada do continente no final da [[Segunda Época]] e qual a relação disso com o cataclismo da [[Terceira Época]].
-- Se o "Deus onipotente e onisciente, o Senhor que tudo criou" citado por [[Derrick Berg]] corresponde ao [[O Criador|Criador]] e por que abandonou o [[Povo das Trevas]].
-- Diferença de escala temporal e de calendário entre a [[Cidade de Prata]] e o [[Reino Loen]], já que [[Klein Moretti]] desconhece a unidade de tempo usada por aquele povo.
-- Hipótese de [[Daly]] e [[Dunn Smith|Dunn]] sobre caminhos de Sequência não-lineares, cujas habilidades independentes de sequências baixas e médias se fundem na [[Semideus|Sequência 4]].
-- Por que a única forma de impedir que um morto da [[Cidade de Prata]] se torne um espírito maligno é que ele seja morto por alguém de sua própria linhagem, e qual vínculo místico de sangue opera nesse impedimento.
-- Se a [[Cidade de Prata]] e o [[Continente Norte]] compartilham a mesma história da [[Segunda Época]], como suspeita [[Klein Moretti]] ao ouvir os nomes das Sequências locais.
-- Como as aulas de educação geral da [[Cidade de Prata]] preservam o [[Método de Atuação]] e se esse conhecimento antecede a [[Idade das Trevas]] ou foi redescoberto no isolamento da cidade.
-- Se a Sequência 4 é de fato o teto de progressão dos Beyonders da [[Cidade de Prata]], limitados pela escassez de ingredientes, como suspeita [[Klein Moretti]].
-- Por que monstros mortos rendem fórmulas de poções: seriam eles humanos, Beyonders transformados?
-- Se as cidades de estilo arquitetônico estranho encontradas na fronteira da [[Cidade de Prata]] eram santuários de humanos remanescentes e a qual divindade eram dedicadas.
-- Se o [[Rei Gigante]] era um Gigante antigo e se o deus surgido na [[Terceira Época]] herdou a propriedade dele, como especula [[Klein Moretti]].
-- A qual caminho pertencem as Sequências [[Seq 7 - Asceta das Sombras|Asceta das Sombras]], [[Seq 6 - Bispo Vermelho]] e [[Seq 5 - Pastor]], e se formam com o [[Seq 9 - Suplicante de Segredos|Suplicante de Segredos]] e o [[Seq 8 - Ouvinte|Sussurro]] a cadeia completa da [[Ordem Aurora]].
-- Quais são as Sequências 3, 2 e 1 do [[Caminho do Gigante]], cujos nomes superiores são conhecidos apenas pelos anciãos do [[Conselho de Seis Membros]].
-- Perigos e horrores ocultos atrás do [[Portão Chanis]] durante a noite, que levaram [[Dunn Smith]] a ordenar severamente que o portão jamais seja aberto por ruídos externos.
-- Qual poção de Sequência específica e quais materiais Beyonder [[Fors Wall]] possui e pretende negociar em troca do resgate de sua parceira.
-- Qual a razão oculta pela qual a cúpula da [[Igreja da Deusa da Noite Eterna]] mantém sigilo estrito e impõe juramentos sagrados sobre o [[Método de Atuação]], reservando o conhecimento de suas justificativas apenas a arcebispos e diáconos de alto escalão.
-- Como a [[Igreja da Deusa da Noite Eterna]] reteve apenas a fórmula de [[Seq 9 - Vidente|Vidente]] após aniquilar a [[Família Antigonus]], que dominava a maior parte ou a totalidade do [[Caminho do Vidente]], mesmo possuindo médiuns com capacidade de interrogar os mortos.
-- Se a [[Igreja da Deusa da Noite Eterna]] omite os nomes e fórmulas de [[Seq 8 - Palhaço|Palhaço]] e Sequência 7 em seus registros confidenciais para impedir que seus Beyonders avancem pelo [[Caminho do Vidente]], e se membros desse caminho correm o risco de se tornarem espíritos vingativos da [[Família Antigonus]].
+- Qual a verdadeira identidade do professor [[Azik]] e a causa de seu ciclo secular de mortes, esquecimento e sonhos com épocas antigas?
+- O professor [[Azik]] é um dos [[Descendentes da Morte]] ou firmou pacto com a [[Morte]] caída do [[Continente Sul]]?
+- Qual a origem, poderes e natureza do [[Apito de Cobre de Azik]] e a identidade do mensageiro esquelético gigante de quatro metros invocado do submundo?
+- Quem roubou o crânio do espectro cavaleiro (filho de Azik) no [[Castelo Antigo de Lamud]] e o descartou reduzido a pó?
+- As [[Pirâmide Invertida|pirâmides invertidas]] no [[Império Balam]] e nas Terras Altas indicam que o culto à [[Morte]] ainda sobrevive de forma ativa no [[Continente Sul]]?
 
-## Segredos de Roselle Gustav
+## Segredos de Roselle Gustav e Eras Antigas
 
-- Quais condições necessárias para a descida de um Deus Maligno [[Roselle Gustav]] teme ter criado ao iniciar a Revolução Industrial e inaugurar a [[Era do Vapor e da Maquinaria]], e a qual divindade maligna se refere.
-- Em que sentido a história é algo facilmente manipulado, conforme sua anotação de 2 de agosto.
-- Mistérios por trás das vinte e duas cartas de papel criadas pelo Imperador [[Roselle Gustav]] e sua ligação com os vinte e dois caminhos do divino.
-- Por que o Imperador [[Roselle Gustav]] sentiu extremo arrependimento por não ter escolhido os caminhos de [[Caminho do Aprendiz|Aprendiz]], [[Caminho do Saqueador|Saqueador]] ou [[Caminho do Vidente|Vidente]] devido a um aviso de [[Zaratul]].
-- Ramificações completas e influência da misteriosa [[Família Zaratul]], sua possível sobrevivência e conexão contínua com a [[Ordem Secreta]].
-- Identidade e segredos do "sujeito patético perdido e preso na escuridão profunda em meio às tempestades" descoberto por Roselle, que só se aproxima da realidade nas luas cheias.
-- Localização e segredos da misteriosa [[Terra Esquecida pelos Deuses]] mencionada por Roselle em seu diário.
-- Por que o Imperador [[Roselle Gustav]] não estabeleceu um sistema de exames públicos para funcionários no [[Império Intis]], e se desviou seu foco para outras coisas mais tarde.
-- Identidade e segredos do navio [[Black King]] comandado por Roselle, e que tesouros ele alegou ter deixado nas extremidades do [[Mar da Névoa]].
-- Causa e natureza da infecção que acometeu [[Grimm]] durante a exploração na ilha sem nome no [[Mar da Névoa]].
-- Detalhes e objetivos da [[Ordem Ascética de Moisés]] ao fornecer uma sequência incompleta à Igreja, e o papel de [[Zaratul]] na disseminação do [[Método de Atuação|método de atuação]] para Roselle.
-- Verdadeira razão por trás do nome da [[Ardósia da Blasfêmia]]: quem foi a entidade blasfemada e quem a criou.
-- Natureza do perigoso Artefato Selado pertencente à [[Família Antigonus]] retido pela [[Igreja do Deus do Vapor e da Maquinaria|Igreja do Deus do Artesanato]], que [[Zaratul]] desejava roubar com auxílio de Roselle.
-- Por que não existe [[Petróleo Bruto]] a ser encontrado neste mundo, descoberta que causou grande confusão ao Imperador [[Roselle Gustav]].
-- Nome da antiga e misteriosa organização que influencia o mundo das sombras, na qual o Imperador [[Roselle Gustav]] cogitou ingressar em seu diário em 23 de dezembro.
-- Identidade da antiga organização que detinha a segunda [[Ardósia da Blasfêmia]] e o segredo inimaginável nela oculto, cujo nome [[Roselle Gustav]] não registrou por precaução.
-- Se o conjunto de vinte e duas cartas criado por [[Roselle Gustav]] a partir da segunda [[Ardósia da Blasfêmia]] ainda existe e onde se encontra.
+- Quais condições propícias para a descida de um Deus Maligno o Imperador [[Roselle Gustav]] teme ter criado ao iniciar a Revolução Industrial?
+- Qual o paradeiro e o segredo das 22 cartas criadas por Roselle a partir da segunda [[Ardósia da Blasfêmia]], e qual a ligação com as cartas de Tarô?
+- Por que Roselle se arrependeu profundamente de não ter escolhido os caminhos de [[Caminho do Aprendiz|Aprendiz]], [[Caminho do Saqueador|Saqueador]] ou [[Caminho do Vidente|Vidente]] após os avisos de [[Zaratul]]?
+- Qual a identidade do ser "patético preso na escuridão entre tempestades" descoberto por Roselle, que só se aproxima da realidade nas luas cheias?
+- O que é e onde se localiza a misteriosa [[Terra Esquecida pelos Deuses|Terra Abandonada dos Deuses]] mencionada por Roselle e pelas lendas antigas?
+- Por que não existe petróleo bruto a ser encontrado neste mundo?
+- Qual a identidade da organização ancestral secreta detentora da segunda [[Ardósia da Blasfêmia]] cujo nome Roselle temeu registrar?
+- Quem foi a entidade blasfemada que deu nome à [[Ardósia da Blasfêmia]] e quem a criou?
+- Qual a história e destino do [[Navio Fantasma da Era Tudor]] com a mensagem: "Todos morrerão, inclusive eu"?
 
-## Entidades, Personagens e Artefatos
+## Cosmologia, Seitas e Sistema Beyonder
 
-- Verdadeira natureza e perigos do [[Artefato Selado 0-08]], e os motivos pelos quais o ex-arcebispo [[Ince Zangwill]] foi corrompido e fugiu com ele.
-- Identidade e natureza da entidade ou presença oculta com quem [[Leonard Mitchell]] conversa em segredo.
-- Segredos e origem do [[Navio Fantasma da Era Tudor]], que navega sem tripulação visível e cujas paredes de madeira se reparam sozinhas.
-- Significado e origem da mensagem em [[Hermes]]: "Todos morrerão, inclusive eu".
-- Causa dos suicídios tardios e inexplicáveis ocorridos anos após a conclusão de investigações de misticismo.
-- Mistério do título de [[Imperador das Trevas]] e sua ligação com os governantes do [[Império Solomon]].
-- Origem e natureza do floco de cristal hexagonal que surgiu e foi absorvido pela carne da palma da mão de [[Alger Wilson]].
-- Identidade do par de olhos translúcidos e implacáveis sem sobrancelhas visto por Klein no vazio atrás de [[Velho Neil]] ao usar a [[Visão Espiritual]], e da figura espiritual que tocava piano na residência de Neil e evaporou após sua morte.
-- Objetivo da exploração do pirata [[Tenente-general Deweyville]] no extremo leste do [[Mar Sonia]] com seu navio [[Tulipa Negra]].
-- Origem e significado da visão obtida por [[Klein Moretti]] no Quarto Topázio: um palácio em ruínas no pico de uma montanha com um trono de pedra gigante e uma massa de vermes transparentes.
-- Localização atual de [[Trissy]] após embarcar na locomotiva a vapor em [[Wienia]] rumo a [[Backlund]]: um telegrama da capital confirma que uma passageira a viu no vagão de primeira classe do primeiro trem, do qual desceu no meio da viagem, permanecendo desconhecido seu paradeiro.
-- Identidade da pessoa associada a [[Trissy]] em [[Cidade Tingen]], que recebeu seu telegrama de alerta para ter cuidado.
-- Localização e real influência dos [[Alquimistas da Psicologia]], cujas pistas locais se perderam após [[Alger Wilson|O Enforcado]] afundar um de seus membros na [[Ilha Sonia]].
-- Causa pela qual a percepção espiritual inata e distorcida de [[Ademisaul]] identificou o "cheiro da morte" em [[Klein Moretti]] e por que seus olhos sangraram ao encarar sua aura mística.
-- Causa dos tremores antinaturais que acometiam o corpo de [[Trissy]] quando ainda se passava por uma jovem comum de vestido branco-acinzentado na Rua Daffodil, antes de sua identidade como o Instigador Tris transformado ser descoberta.
-- Origem e natureza do [[Artefato Selado 2-049]] como boneco de madeira vivo articulado com rosto de palhaço; por que sangue ou aura da [[Família Antigonus]] o faz entrar em estado berserk; por que assimila seres vivos em marionetes caso não sejam despertados a tempo; e o significado das duas rachaduras carmesim sob seus olhos ao ser reencapsulado após o combate.
-- Natureza dos segredos mantidos por [[Leonard Mitchell]], que revelou ter observado o [[Ritual de Aumento de Sorte]] de [[Klein Moretti]] e sua imunidade a 2-049, afirmando que existem pessoas especiais "como você... e eu".
-- Causa da mão pálida do cadáver do [[Intruso do Quarto de Klein|Palhaço]] da [[Ordem Secreta]] disparar na necropsia, agarrar o pulso de [[Klein Moretti]], repetir "Hornacis" e gerar a esfera de sangue azulado; e a natureza da marca no pulso que se condensou nessa esfera.
-- Origem, história e segredos das ruínas humanas de mais de mil anos na [[Cadeia de Montanhas Hornacis]] documentadas por [[John Joseph]] na [[Biblioteca de Deweyville]], e por que crescem ao aproximar-se do pico enquanto o cume carece inteiramente de construções, vinculando-se ao palácio do sonho de [[Klein Moretti]].
-- Origem mística dos símbolos da Noite Eterna e do culto milenar dos habitantes da [[Cadeia de Montanhas Hornacis]], cujas insígnias diferem do [[Emblema Sagrado das Trevas]].
-- Verdadeira dimensão da reputação e das atividades clandestinas de [[Lawson Darkwade]], que planeja abandonar a [[Loja de Ervas Populares de Lawson]] ao temer a atenção iminente dos [[Falcões Noturnos]], da [[Mente Coletiva da Maquinaria]] e dos [[Punidores Mandatários]].
-- Natureza do treinamento Beyonder e das fórmulas mágicas detidas por [[Lawson Darkwade]], que seu aprendiz [[Scharmaine]] tenta aprender sem sucesso.
-- Extensão dos rituais clandestinos de adivinhação sombria praticados por [[Hanass Vincent]] no [[Clube de Adivinhação]] e a origem de seu conhecimento sobre o encantamento que evoca o [[O Criador|Verdadeiro Criador]].
-- Causa exata da morte súbita de [[Hanass Vincent]] durante o sono no momento em que [[Dunn Smith]] invadiu seus sonhos, e sua relação com a visão da cruz gigantesca e do homem pregado de cabeça para baixo representativo do [[O Criador|Verdadeiro Criador]].
-- Qual é a Sequência 1 correspondente ao [[Caminho do Vidente]], que [[Klein Moretti]] ainda desconhece.
-- Se a transformação de homens em mulheres é a característica única da poção do caminho controlado pela [[Seita Demoníaca]], como especulou [[Dunn Smith]], e como [[Trissy]] se transformou tão rapidamente.
-- Por que o sangue de [[Sirius Arapis]] tornou-se preto e seu corpo sofreu mutações grotescas (verrugas, salivação pútrida e salto de mais de sete metros) durante o confronto com [[Klein Moretti]], evidenciando corrupção mística.
-- Identidade, localização e afiliação exata do [[Senhor Z|Sr. Z]], destinatário das cartas de [[Sirius Arapis]] a quem se prometeu o sacrifício dos habitantes de [[Cidade Tingen|Tingen]].
-- Por que o único olho do Gigante Enforcado no pêndulo de [[Sirius Arapis]] emanou um brilho vermelho e desferiu um ataque espiritual contra [[Klein Moretti]] durante o ritual mediúnico.
-- Contraste entre o símbolo visto no pêndulo de [[Sirius Arapis]] (o Gigante Enforcado com um único olho da [[Ordem Aurora]]) e a visão no sonho de [[Hanass Vincent]] (uma enorme cruz com a figura crucificada).
-- Identidade do proprietário e morador da casa com a chaminé vermelha escura vista nas adivinhações de [[Klein Moretti]], cuja busca foi encomendada ao [[Detetive Henry]] e prossegue sem resultado nas rondas de [[Cidade Tingen]].
-- Identidade do herético da [[Ordem Aurora]] infiltrado no departamento de polícia da [[Cidade Tingen]].
-- Causa pela qual o professor [[Azik]] perdeu a maior parte de suas memórias antes de ingressar na [[Backlund|Universidade de Backlund]] e a origem de seus sonhos com supostas vidas passadas (incluindo mausoléus com cadáveres de penas brancas, cavaleiros em combate, senhores feudais e enforcados); e se [[Azik]] sobrevive há séculos por meio de perdas cíclicas de memória.
-- Natureza da habilidade espiritual inata do professor [[Azik]] que lhe permite enxergar a desarmonia no destino alheio e perceber poderes extraordinários em [[Klein Moretti]].
-- Causa pela qual o [[Artefato Selado 3-0625]] (o [[Artefato Selado 3-0625|Boneco de Pano do Infortúnio]]), descrito como desprovido de vida própria, forçou a fenda do [[Portão Chanis]] e exibiu um papel com o símbolo de um olho vertical, deduzido como incitado pela permanência recente do [[Caderno da Família Antigonus]] no subsolo.
-- Por que [[Klein Moretti]] sofreu uma influência mística oculta ao sair da [[Companhia de Segurança Espinho Negro]] que o fez esquecer de relatar a [[Dunn Smith]] a ilustração do olho vertical, e se o boneco usou seu poder para mostrar a imagem especificamente a ele.
-- Se o azar recente de [[Selena Wood]] e a morte de seu professor de misticismo, [[Hanass Vincent]], possuem ligação direta com o fato de ela ter espiado e utilizado os encantamentos secretos do místico.
-- Causa pela qual o professor [[Azik]] recusa se juntar a organizações formais de Beyonders e teme a morte, preferindo manter uma vida pacífica enquanto busca compreender suas origens.
-- Significado da adivinhação de sonho de [[Klein Moretti]] sobre [[Azik]]: ser resgatado de um mar de sangue por uma mão de pele bronzeada e, em seguida, encontrar-se ao lado dele em um mausoléu imperial escuro e sombrio enquanto os caixões ao redor se abrem um a um.
-- Paradeiro atual de [[Lanevus]] e das mais de dez mil libras roubadas de investidores em [[Cidade Tingen|Tingen]] sob a falsa alegação de uma siderúrgica no [[Condado de Sivellaus]] na [[Cadeia de Montanhas Hornacis]].
-- Se o vínculo biológico de uma pessoa (como a filha de [[Lanevus]]) pode ser utilizado como meio ou objeto pertencente em adivinhações para localizar o paradeiro de um parente fugitivo.
-- Causa e origem da anomalia mística na gravidez de [[Megose]], cujo feto supostamente chuta, cantarola, assobia e canta para ajudá-la a dormir.
-- Maneira pela qual o paciente [[Hood Eugen]] no [[Asilo Mental de Greenhill]] foi capaz de analisar o médico [[Daxter Guderian]] e recrutá-lo para os [[Alquimistas da Psicologia]].
-- Extensão das atividades e a estrutura interna dos [[Alquimistas da Psicologia]] atuando infiltrados em instituições como o [[Asilo Mental de Greenhill]].
-- Identidade da mulher de mão esguia que tocou as costas da [[Sra. Lauwis]] na única cena anômala vista por [[Klein Moretti]] em seu ritual mediúnico, apontada como possível vetor do fator sobrenatural que desencadeou seu ataque cardíaco.
-- Qual divindade é representada pela [[Estatueta de Osso]] de cabelos cobertos de olhos levada por [[Trissy]], e que poder a estatueta concede.
-- Qual era o propósito do feitiço de [[Trissy]] ao recolher uma flor manchada com o sangue de [[Leonard Mitchell]] antes de queimá-la em cinzas na margem do [[Rio Tussock]].
-- Significado do jato de sangue que irrompe do [[Espelho de Prata do Edifício Alvo]] no momento em que os [[Falcões Noturnos]] se aproximam do prédio.
-- Causa da visão e do pânico de [[Ademisaul]], que presenciou em sonho premonitório um massacre repleto de cadáveres incluindo a si mesmo, e a razão de seu terror extremo ao ser interrogado por [[Klein Moretti]].
-- Motivo pelo qual um membro ainda não identificado dos [[Punidores Mandatários]], veterano que servira sob [[Swain]] por quase trinta anos, perdeu o controle nas proximidades do porto de [[Cidade Tingen|Tingen]]; a criatura foi morta por Swain sem que a causa fosse esclarecida.
-- Motivo do profundo abalo de [[Gawain]] diante da proposta de [[Klein Moretti]] de combinar armas brancas e de fogo em esquadrões móveis de ataque surpresa, possivelmente ligado ao trauma de sua ordem de cavalaria extinta.
-- Identidade, objetivos e afiliação do [[Sr. A]], poderoso Beyonder que lidera a [[Reunião Secreta de Backlund]], e o propósito do encontro de Beyonders independentes na capital; [[Audrey Hall|Justiça]] consulta o [[Clube de Tarô]] sobre seu histórico e [[Alger Wilson|O Enforcado]] considera grande a possibilidade de ele ser o Oráculo "Sr. A" da [[Ordem Aurora]].
-- Se as tatuagens corporais com os caracteres criados por [[Roselle Gustav]] conferem de fato vitalidade física e saúde ao usuário, como alegado pelo vendedor do diário, ou se acarretam perigos místicos desconhecidos.
-- Identidade e origem do espectro de armadura preta completa do [[Castelo Antigo de Lamud]], surgido do ressentimento do cadáver decapitado selado no porão oculto, identificado por [[Azik]] como seu próprio filho que na infância sonhava em se tornar cavaleiro.
-- Identidade e propósito do manipulador das coincidências que furtou o crânio do filho de [[Azik]] no [[Castelo Antigo de Lamud]], cujo rastro de sangue revelou que a cabeça foi descartada e reduzida a pó sob uma árvore.
-- Causa e origem do preço místico pago pelo professor [[Azik]] que o faz vagar pelo continente desde o final da [[Quarta Época]] em um ciclo de mortes e perdas de memória a cada poucas décadas, e como romper essa repetição antes do fim de sua vida atual.
-- Origem e natureza dos poderes místicos manifestados por [[Azik]], capazes de conjurar névoa negra, choro espectral e uma porta ilusória para o submundo com braços pálidos através de conexão de sangue.
+- Qual a verdadeira natureza dos Sete Deuses Ortodoxos e por que não atuam diretamente no mundo desde a [[Quinta Época]], manifestando-se apenas por oráculos?
+- Por que o [[Eterno Sol Ardente]] demonstra extrema hostilidade ao [[Senhor das Tempestades]] e ao [[Deus do Conhecimento e da Sabedoria]], e o que significa a revelação "anjo branco puro"?
+- A lenda de que o [[Sábio Oculto]] era uma lei de numerologia espiritual que ganhou vida e se corrompeu em deus maligno é verdadeira?
+- Por que a cúpula da [[Igreja da Deusa da Noite Eterna]] mantém sigilo estrito e impõe juramentos sobre as razões do [[Método de Atuação]]?
+- Quais são os outros caminhos compatíveis para [[Troca de Caminhos]] em Altas Sequências além dos já conhecidos, e quais seriam as vias vizinhas ao [[Caminho do Vidente]]?
+- Qual o segredo da [[Cidade de Prata]]: como preservaram o [[Método de Atuação]], por que seus mortos viram espíritos malignos se não forem executados por parentes e qual a divindade a quem oravam?
+- Que horrores e perigos habitam atrás do [[Portão Chanis]] durante a noite para justificar a ordem de jamais abri-lo diante de ruídos externos?
+- Qual a verdadeira natureza do líquido dourado purificador extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] e quem era o homem de túnica branca tombado em sacrifício diante do altar?
 
-- Se o [[Sangue Dourado do Deus]] extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] é de fato o sangue de uma divindade, de qual delas, e por que seu poder de purificação não se esgotou em décadas.
-- Limites da proteção do espaço da [[Névoa Cinza]]: até que ponto ele pode ser danificado ou rompido por poderes de nível angelical ou divino.
-- Identidade do homem de manto branco que caiu sem vida diante do altar de sacrifício no momento em que o líquido dourado se infundiu no [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]].
-- Objetivos e paradeiro de [[Qilangos]], o Contra-Almirante Furacão, um dos [[Sete Grandes Piratas Almirantes]], Beyonder de Sequência 6 do [[Caminho do Marinheiro]] que se infiltrou secretamente em [[Backlund]] e possui um item milagroso classificado como [[Artefatos Selados|Artefato Selado]]; a busca por seu paradeiro foi confiada a [[Audrey Hall|Justiça]], que mobiliza para isso a rede de [[Fors Wall]] e [[Xio Derecha]] e já entregou a esta última um retrato realista do pirata na [[Loja de Departamentos Philip]], pedindo que o localize sem alertá-lo. As anotações que acompanham o retrato advertem que ele pode alterar a própria aparência por tempo indeterminado, tornando a imagem apenas uma referência geral, e sugerem rastreá-lo pelo desaparecimento de vagabundos — a alimentação do item maligno com uma pessoa viva em dias alternados — e pela montagem de um perfil de hobbies e comportamentos únicos. O detetive [[Isengard Stanton]] delimitou seu provável raio de atividade junto à Ponte de Backlund, nas duas margens do [[Rio Tussock]], e um subordinado interrogado por [[Alger Wilson|O Enforcado]] revelou que ele cumpre uma comissão em troca de um item que o tornaria rapidamente um Beyonder de alta sequência, algo decisivo faltando-lhe ainda uma Sequência para alcançar a Sequência 4; o êxito o faria igual a [[Nast]], transformando os [[Quatro Reis Piratas]] em Cinco e reduzindo os [[Sete Grandes Piratas Almirantes]] a seis. Seu perfil de hábitos foi fornecido por [[Alger Wilson|O Enforcado]]: aprecia peixe cru, sobretudo marinho, bebidas fortes e mulheres, usa armas frias, evita armas de fogo e precisa nadar ou mergulhar a cada dois dias. As primeiras investigações de campo de Xio e Fors apontaram desaparecimentos suspeitos de vagabundos no Burgo do Porto de Backlund, embora reste confirmar se a anomalia se deve a Qilangos ou a deslocamentos rotineiros dos sem-teto. Ao notar a investigação sobre os mendigos, Qilangos rastreou e assassinou com extrema frieza o chefe de quadrilha Darkholme no Burgo Leste e emboscou Xio e Fors em sua residência, mas as duas escaparam de ser chacinadas graças à [[Pulseira Mística de Fors]], levando o pirata a crer que um Viajante interveio.
-- Identidade do contratante de [[Qilangos]] e do objeto que ele sonha obter em [[Backlund]] por meio da comissão que aceitou, e a razão de o êxito nessa missão elevá-lo à condição de um dos Cinco Reis Piratas.
-- Se a raiz do nome [[Feysac]] em [[Jotun]] indica um vínculo da nação com a casa imperial do [[Rei Gigante]], como especulou [[Derrick Berg]].
-- Como [[Leonard Mitchell]] já conhecia previamente o conceito místico de "digerir" poções antes das explicações de [[Klein Moretti]], e qual a razão de sua urgência pessoal ao afirmar que precisará se apressar.
-- Qual o motivo institucional pelo qual a [[Igreja da Deusa da Noite Eterna]] mantém o [[Método de Atuação]] em segredo absoluto, restringindo a razão dessa ocultação apenas a arcebispos e diáconos de alto escalão; [[Klein Moretti]] levanta a hipótese perturbadora de que o controle estrito sobre o avanço e as perdas de controle permita à Igreja reciclar sistematicamente ingredientes Beyonder deixados por membros que sucumbiram.
-- Causa da súbita loucura e confusão mental genuína manifestada por [[Hood Eugen]] no [[Asilo Mental de Greenhill]], e se sua deterioração decorreu de contato com o golpista [[Lanevus]] (que o visitou três vezes sob o codinome "El") ao arriscar-se deliberadamente por alguma tentação; e a razão pela qual os escalões superiores dos [[Alquimistas da Psicologia]] silenciaram completamente após receberem de [[Daxter Guderian]] os detalhes sobre o nome Lanevus.
-- Se o golpista [[Lanevus]] é um Beyonder e se pertence ao [[Caminho do Saqueador]] como um [[Seq 8 - Trapaceiro|Vigarista]], explicando seu prazer em fraudar e enganar investidores.
-- Natureza da singularidade que [[Leonard Mitchell]] afirma tornar impossível a descoberta de seu segredo mesmo durante uma missão conjunta, e por que ele se mostra seguro de que nem a intuição de [[Klein Moretti]] a revelará.
-- Se o professor [[Azik]] é um dos [[Descendentes da Morte]] ou firmou uma transação com a [[Morte]] para obter vida longa, como suspeita [[Klein Moretti]] ao reconhecer no mausoléu adivinhado o símbolo da divindade.
-- Se as [[Pirâmide Invertida|pirâmides invertidas]] do [[Império Balam]] e do [[Reino das Terras Altas]] indicam que o culto à [[Morte]] sobrevive no [[Continente Sul]], e se o ladrão do crânio do filho de [[Azik]] pertence a essa linhagem; a menção da estrutura desperta nele forte sensação de familiaridade mística nostálgica.
-- Que ligação existe entre o [[Castelo Antigo de Lamud]] e a [[Era Pálida]], já que [[Klein Moretti]] considera impossível datar a construção do castelo, mas descarta que ela seja anterior à era.
-- Como [[Azik]] produziu as assombrações da [[Cidade Morse]] sem ser visto por nenhum morador, e por que os espíritos cessariam por conta própria na quarta-feira mesmo sem a intervenção dos [[Falcões Noturnos]].
-- Se a queda da [[Morte]] pelos esforços dos Sete Deuses significou sua destruição ou apenas seu impedimento, e o que restou de seu culto no [[Continente Sul]].
-- O que [[Leonard Mitchell]] percebeu ao examinar o [[Artefato Selado 3-0782]] após o turno de [[Klein Moretti]] na [[Catedral de Morse]], já que demonstrou confusão e desnorteamento sem que o capitão notasse qualquer anormalidade no objeto.
-- Até onde o [[Sábio Oculto]] tem capacidade de influenciar e sussurrar ativamente na mente de Beyonders do caminho de [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] sem o conhecimento dos [[Falcões Noturnos]].
-- Se a [[Igreja da Deusa da Noite Eterna]] disponibiliza quase com exclusividade as fórmulas completas dos caminhos de [[Seq 9 - Sem Sono|Sem Sono]] e [[Seq 9 - Colecionador de Cadáveres|Colecionador de Cadáveres]] por o primeiro pertencer à Deusa e o segundo à [[Morte]] já caída, mantendo [[Seq 9 - Vidente|Vidente]] e [[Seq 9 - Espreitador de Mistérios|Espreitador de Mistérios]] apenas nas sequências iniciais para suporte e ocultando seus avanços superiores deliberadamente.
-- Origem, natureza e poderes do [[Apito de Cobre de Azik]] e a identidade do mensageiro esquelético gigante de quatro metros convocado das profundezas do submundo, item que Azik carregava consigo ao despertar sem memórias na [[Universidade de Backlund]]; confirmou-se por adivinhação que o apito induz zumbificação em cadáveres próximos devido à sua forte conexão com a [[Morte]].
-- Causa real e motivações ocultas na morte do parlamentar [[John Maynard|Maynard]] em sua residência na [[Cidade Tingen]]; embora uma adivinhação com moeda por [[Klein Moretti]] tenha descartado influência sobrenatural direta no infarto, a compostura perfeitamente calma e calculada revelada pela Visão Espiritual de [[Madame Sharon]] — em contraste gritante com seu choro assustado — sugere intenções premeditadas ou manipulação deliberada.
+## Conspirações Atuais e Personagens
+
+- Qual a verdadeira natureza e poderes do [[Artefato Selado 0-08]], e quais as razões da corrupção e fuga de [[Ince Zangwill]]?
+- Qual a entidade ou presença secreta com quem [[Leonard Mitchell]] conversa, e qual a natureza de sua singularidade pessoal que o faz se equiparar a Klein?
+- Onde está escondido o pirata [[Qilangos]] em [[Backlund]], quem é o seu contratante e qual o item que busca na capital para ascender a um dos Cinco Reis Piratas?
+- Qual a origem da luva mágica [[Fome Rastejante]] e como Qilangos obteve um item com poderes equivalentes ao de um [[Seq 5 - Pastor|Pastor]]?
+- Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e quem é seu cúmplice em Tingen?
+- Quem é o [[Senhor Z|Sr. Z]], destinatário das cartas de Sirius Arapis a quem foi prometido o massacre ritualístico dos habitantes de Tingen?
+- O líder da Reunião Secreta de Backlund, [[Sr. A]], é de fato um Oráculo da [[Ordem Aurora]]?
+- Qual a extensão das atividades e da rede de membros infiltrados dos [[Alquimistas da Psicologia]] em Backlund e Tingen?
