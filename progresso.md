@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 185 - Mundo Espiritual
+- **Último Capítulo Processado:** Capítulo 186 - A Morte de Hood Eugen

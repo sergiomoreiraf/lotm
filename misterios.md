@@ -28,7 +28,8 @@ tags:
 - O que ocorreu aos habitantes da [[Nação da Noite Eterna]] em Hornacis e qual a razão de seu sumiço simultâneo e de costumes funerários peculiares?
 - Qual o paradeiro do golpista [[Lanevus]] e das dez mil libras roubadas, e se ele atua como um [[Seq 8 - Trapaceiro|Vigarista]] Beyonder?
 - Qual a origem e causa da anomalia mística na gravidez de [[Megose]], cujo feto cantarola no ventre?
-- Qual entidade oculta associada ao altar com cruz apoia [[Lanevus]] e como ela induziu o colapso mental de [[Hood Eugen]]?
+- Qual o verdadeiro propósito de [[Lanevus]] ao articular um altar com a cruz do [[O Criador|Verdadeiro Criador]] e qual a sua ligação com a conspiração apocalíptica da [[Ordem Aurora]] em [[Cidade Tingen]]?
+- O que contém a carta confidencial entregue a [[Klein Moretti]] pela mão do mensageiro esquelético que se manifestou na carruagem dos [[Falcões Noturnos]]?
 - Qual a causa real e as motivações ocultas na morte súbita do parlamentar [[John Maynard|Maynard]], cuja viúva [[Madame Sharon]] demonstrou extrema calma em sua aura espiritual?
 - Quem é o herético da [[Ordem Aurora]] infiltrado na polícia de [[Cidade Tingen]]?
 

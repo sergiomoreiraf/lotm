@@ -34,6 +34,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Perda de Neil e os Desgraçados Miseráveis]] — Presencia a metamorfose monstruosa de seu mentor, hesita em disparar diante de suas memórias, testemunha sua morte trágica, supera o exame da Santa Catedral, consome a poção de Palhaço e testa suas novas habilidades corporais e intuição premonitória.
 - [[O Apito de Cobre e o Mensageiro]] — Recebe o apito de Azik, neutraliza o cadáver de Maynard, investiga a postura de Sharon, deduz com Daxter a conexão mística entre Lanevus e Hood Eugen e prepara o ritual do mensageiro de Daly.
 - [[O Estado Espiritual e a Auto-Convocação]] — Abre a Porta da Invocação acima da névoa, projeta seu Corpo Espiritual em Tingen, acessa o interior do Portão Chanis para retirar sedativos e infiltra-se no quarto de Hood Eugen.
+- [[A Morte de Hood Eugen e a Mensagem do Submundo]] — Escapa do mundo espiritual em colapso de Hood Eugen, testemunha sua execução por Dunn Smith e recebe uma carta do mensageiro esquelético.
 
 ## Eventos Arquivados
 
