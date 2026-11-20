@@ -13,6 +13,7 @@ Item mágico de nome verdadeiro desconhecido, designado pelo codinome **Fome Ras
 
 - Exige ser alimentado com a alma e a carne de uma pessoa viva em dias alternados; caso contrário, consome o próprio dono como substituto.
 - Concede ao portador um conjunto amplo de poderes: enlouquecer alvos, entrar nos sonhos de outras pessoas, invocar luz para purificar uma alma morta, cantar para se fortalecer e alterar a própria aparência.
+- Permite transformar radicalmente ossos, músculos e pele para replicar com perfeição o físico e trejeitos de terceiros, processo no qual a luva se contorce, revela linhas encurvadas em seu dorso e emite um fino véu de luz.
 - Quando ativada para combate iminente, sua superfície negra estremece como se viva e cobre-se com uma camada de escamas de ouro opaco, tornando os olhos do usuário de tom ouro pálido e indiferentes.
 - Seus efeitos são comparados aos de um [[Seq 5 - Pastor|Pastor]], Sequência 5 do [[Caminho do Suplicante de Segredos]], cuja característica é engolir almas e empregar as habilidades delas — o que levanta a suspeita de que outros [[Artefatos Selados]] repliquem poderes de Beyonders.
 

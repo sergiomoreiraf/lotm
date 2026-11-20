@@ -53,5 +53,7 @@ Comunica a Klein sua decisão de deixar [[Cidade Tingen|Tingen]] em breve para b
 
 Recebe através do mensageiro esquelético uma correspondência anônima de [[Klein Moretti]], na qual este o alerta sobre a presença de [[Qilangos]] e da luva [[Fome Rastejante]] em [[Backlund]] e solicita esclarecimentos teóricos sobre rituais de sacrifício.
 
+Responde a [[Klein Moretti]] detalhando os passos fundamentais de um ritual de sacrifício — incluindo símbolos do altar, encantamentos em línguas ancestrais e oferenda de materiais com espiritualidade — e adverte enfaticamente contra os perigos de deuses ou demônios malignos disfarçados de entidades inofensivas. Relata ter sentido forte familiaridade com os poderes de [[Seq 5 - Pastor|Pastor]] atribuídos a Qilangos e menciona continuar sua busca por memórias passadas em [[Backlund]], lidando com investigações policiais e bisbilhoteiros Beyonders em seu hotel.
+
 
 

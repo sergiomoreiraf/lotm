@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 186 - A Morte de Hood Eugen
+- **Último Capítulo Processado:** Capítulo 187 - Aviso de Azik

@@ -36,9 +36,9 @@ A auto-convocação dispensa a especificidade dos ingredientes, já que o alvo �
 
 ## Sacrifício e Concessão de Materiais
 
-Modalidade avançada de ritual, ainda não dominada por [[Klein Moretti]], que aparece associada à transferência de objetos entre o mundo real e o espaço acima da [[Névoa Cinza]]. Registros confidenciais dos [[Falcões Noturnos]] descrevem a [[Deusa da Noite Eterna]] concedendo itens sagrados a seus seguidores e itens descendo em rituais dedicados a deuses malignos ou diabos.
+Modalidade avançada de ritual que permite a transferência de objetos e espiritualidade entre planos e existências sobrenaturais. Exige a preparação cuidadosa do altar com os símbolos, ervas e minerais sagrados correspondentes à entidade invocada, além do uso de línguas com conexão natural — como antigo [[Hermes]], [[Jotun]], dragônito ou élfico — cujos encantamentos devem conter termos obrigatórios como "orar", "avisar", "oferecer", "reino", "portões" e "abrir".
 
-A hipótese de [[Klein Moretti]] é que a concessão de materiais ao responder orações e o sacrifício — inclusive sacrificar algo a si mesmo — permitam trazer ou entregar objetos materiais por essa via, algo que ele espera confirmar ao avançar de Sequência, já que hoje suas respostas se limitam a pensamentos com imagens e voz.
+Para conectar o altar ao domínio divino e formar um túnel estável, empregam-se materiais imbuídos de espiritualidade; caso a entidade tenha grande interesse, Ela própria pode abrir os portões de Seu reino diretamente, situação que denota extremo perigo de contato com deuses ou demônios malignos. [[Klein Moretti]] planeja adaptar a mecânica para um ritual de auto-oferenda com base em seus símbolos na [[Névoa Cinza]] (o olho sem pupila e as linhas contorcidas, regendo sigilo, mudança e sorte), visando transitar itens materiais entre a realidade e o palácio divino.
 
 ## Conforto de Espíritos e Comunicação com os Mortos
 
