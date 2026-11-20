@@ -14,3 +14,5 @@ Comparece ao baile promovido pelo [[Duque Negan]] em sua mansão no Burgo Impera
 Deduz imediatamente a possibilidade de tratar-se do pirata [[Qilangos]] disfarçado pelos poderes de [[Fome Rastejante]] e adverte reservadamente seu pai, o [[Conde Hall]], na varanda do refeitório.
 
 Tomada por inquietação quanto à segurança de seus familiares e desprovida da ajuda de sua cadela [[Susie]] no evento, tranca-se na pequena sala de oração do [[Duque Negan]] e recita em [[Hermes]] o nome honorífico de [[Klein Moretti|O Tolo]] para solicitar proteção divina.
+
+Repete as preces até ser atendida: a visão de uma cadeira antiga em meio à névoa e a voz do Tolo declarando estar ciente dissipam seu medo, e ela retorna ao refeitório com a postura recomposta para se juntar aos convidados.

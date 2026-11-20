@@ -13,3 +13,4 @@ A Porta da Invocação é uma passagem ilusória e misteriosa que surge acima da
 - Quando abastecida com espiritualidade estabilizada de [[Seq 8 - Palhaço|Palhaço]], a porta forma-se por completo, gravada com os mesmos padrões místicos da cadeira do Tolo.
 - Ao ser desejada sua abertura pela vontade do conjurador, ondulações varrem o palácio divino e a porta se entreabre em som estridente de atrito, revelando uma escuridão sem fim repleta de figuras transparentes indescritíveis e raios lustrosos de conhecimento infinito.
 - Exerce uma força de atração irresistível que suga o [[Corpo Espiritual]] do conjurador através da fenda, projetando-o no mundo físico diante do foco do ritual na forma de uma invocação.
+- Sem materiais infundidos com espiritualidade, o ritual de sacrifício dirigido a si mesmo ergue apenas uma estrutura semelhante à porta, incapaz de se abrir; a abertura depende da oferenda desses materiais, adquiridos em [[Mercados Clandestinos]].
