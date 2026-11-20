@@ -1,0 +1,12 @@
+---
+tags:
+  - resumo
+---
+
+# Resumo: Capítulo 183 - Uma Lição de Mediunidade
+
+Durante uma tranquila noite na residência da família Moretti, enquanto [[Benson Moretti]] e [[Melissa Moretti]] se dedicam aos estudos e à preparação acadêmica, as lâmpadas a gás da sala de estar oscilam e escurecem abruptamente. Aproveitando a distração dos irmãos diante da falha temporária da iluminação, [[Klein Moretti]] é tocado de surpresa pelo bizarro espírito mensageiro enviado por [[Daly|Daly Simone]] — que manifesta cinco dedos pálidos crescendo na ponta de uma língua guarnecida de dentes afiados. Klein recolhe a carta confidencial sob uma pilha de jornais e observa brevemente pela [[Visão Espiritual]] o espírito se retrair e desaparecer através do chão antes que as luzes se restabeleçam normalmente.
+
+A correspondência de Daly responde formalmente às indagações de Klein sobre a viabilidade de aplicar rituais de mediunidade a alvos vivos. A Médium Espiritual esclarece que, ao contrário dos espíritos puros deixados pelos mortos, os vivos impõem resistência consciente à intrusão psíquica; para contorná-la, torna-se necessário subjugar a vontade do sujeito por força espiritual ou debilitá-la com o auxílio de sedativos, como a essência Amanta e a poção Olho do Espírito. Daly adverte enfaticamente sobre a canalização de Beyonders insanos: no plano místico, anomalias mentais são contagiosas, e o contato desprotegido entre o Corpo do Coração e da Mente do conjurador e os pensamentos caóticos do paciente pode transmitir a mesma insanidade. Citando a metáfora psicológica da mente como uma ilha cercada pelo mar do subconsciente e pelo oceano do subconsciente coletivo — concepção dos [[Alquimistas da Psicologia]] repudiada por [[Dunn Smith]] —, ela recomenda a aplicação prévia de um Agente Sedativo para preservar a lucidez e o raciocínio durante o interrogatório psíquico de um [[Seq 7 - Psiquiatra|Psiquiatra]] enlouquecido.
+
+Após destruir a carta com chamas espirituais no banheiro, Klein repete o ritual de auto-convocação para resgatar o [[Amuleto do Sol Ardente]] do palácio divino acima da [[Névoa Cinza]] de volta ao seu quarto. Concluindo a noite sem receber o retorno de sua carta a [[Azik]], Klein desperta na manhã seguinte de terça-feira e segue para a [[Companhia de Segurança Espinho Negro]], decidido a solicitar a [[Dunn Smith]] o acesso ao Agente Sedativo e aos compostos necessários atrás do [[Portão Chanis]] para conduzir o exame mediúnico em [[Hood Eugen]].
