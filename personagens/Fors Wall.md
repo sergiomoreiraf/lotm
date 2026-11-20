@@ -37,3 +37,5 @@ Ao acompanhar Xio até a residência de Darkholme no Burgo Leste, depara-se com 
 ### A Deliberação Policial
 
 Concorda com a estratégia de [[Xio Derecha]] de envolver a polícia para atrair forças oficiais contra [[Qilangos]], argumentando que compreender o verdadeiro objetivo do pirata na capital facilitará sua localização; em seguida, recusa invadir a mansão do conde Hall pelo alto risco de ser capturada por Beyonders a serviço da nobreza e aguarda com Xio a saída de [[Susie]] para despachar o aviso urgente.
+
+Envia com [[Xio Derecha]] denúncia anônima detalhada à polícia para deflagrar a caçada oficial a [[Qilangos]] por meio dos [[Punidores Mandatários]]. Abandona o endereço anterior e esconde-se com Xio em aposento no Burgo Cherwood, temendo as abordagens de organizações oficiais contra Beyonders não autorizados e confidenciando sua aflição com delírios enigmáticos que costuma escutar durante as noites de lua cheia.

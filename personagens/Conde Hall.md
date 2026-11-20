@@ -12,3 +12,5 @@ Um nobre de alta patente do [[Reino Loen]], pai de [[Audrey Hall]], proprietári
 ## Evolução narrativa
 
 Acompanha sua filha, [[Audrey Hall]], de carruagem até o [[Porto Pritz]] para assistir ao lançamento oficial do encouraçado de ferro [[O Pritz]].
+
+Comparece ao grande baile na [[Mansão do Duque Negan]] no Burgo Imperatriz de [[Backlund]]. É abordado reservadamente por sua filha, [[Audrey Hall]], que o adverte sobre discrepâncias comportamentais no [[Barão Gramir]] e a suspeita de tratar-se do pirata [[Qilangos]] infiltrado, assumindo uma postura solene para deliberar a situação com outros nobres.

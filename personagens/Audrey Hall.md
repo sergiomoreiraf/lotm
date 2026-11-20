@@ -19,6 +19,7 @@ Audrey Hall é uma jovem nobre, filha de um conde da influente família Hall, re
 - [[A Página do Diário e a Pergunta sobre Telepata]] — Reaparece na reunião com uma página do diário de Roselle e pergunta a O Sol pela fórmula de Telepata; recebe a fórmula, paga trezentas libras adicionais e obtém os dados de uma conta anônima do Banco Backlund.
 - [[A Investigação de Qilangos e o Perfil do Alvo]] — Resumo da caçada a Qilangos e coleta do perfil de hábitos do pirata com O Enforcado.
 - [[A Digestão do Espectador e a Pista de Balam]] — Completa a digestão de Espectador, avalia o relatório da caçada a Qilangos e responde à correspondência de Alfred Hall no Continente Sul.
+- [[O Baile e a Oração ao Tolo]] — Identifica o disfarce de Qilangos no baile do Duque Negan, alerta o Conde Hall e ora ao Tolo.
 
 ## Eventos Arquivados
 

@@ -28,3 +28,5 @@ Tem hábitos marcantes: aprecia peixe, sobretudo marinho, que corta e come cru; 
 Descobre a investigação sobre os desaparecimentos de vagabundos e rastreia o chefe de quadrilha Darkholme até sua residência no Burgo Leste de [[Backlund]], assassinando-o e esquartejando seu corpo friamente antes de montar uma emboscada na casa em frente. Ao se preparar para abater [[Fors Wall]] e [[Xio Derecha]] ativando escamas de ouro opaco na [[Fome Rastejante]], vê os alvos desaparecerem misteriosamente no ar e supõe a intervenção de um Viajante.
 
 Infiltra-se em um imóvel nobre com estábulo e jardim no Burgo Hillston, em [[Backlund]]. Após despir e render um morador inconsciente, ativa a luva [[Fome Rastejante]] — cujas costas exibem linhas contorcidas sob um véu luminoso — e transmuta seus ossos, músculos e feições para assumir a identidade exata da vítima.
+
+Quebra o pescoço do nobre rendido — o [[Barão Gramir]] —, esconde seu cadáver no guarda-roupa e apropria-se de suas roupas, colônia e do convite aristocrático. Valendo-se dessa identidade e de carruagem própria, infiltra-se com sucesso no grande baile promovido pelo [[Duque Negan]] em sua mansão no Burgo Imperatriz.

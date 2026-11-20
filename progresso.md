@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 187 - Aviso de Azik
+- **Último Capítulo Processado:** Capítulo 188 - Baile

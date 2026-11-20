@@ -36,3 +36,5 @@ Dirige-se com [[Fors Wall]] à residência de Darkholme no Burgo Leste para cobr
 ### Estratégia de Cerco Policial
 
 Propõe a [[Fors Wall]] denunciar a morte de Darkholme à polícia para mobilizar os Beyonders oficiais e forçar [[Qilangos]] a cometer erros sob perseguição pública, visando capturar apenas seu rastro e a recompensa sem confrontá-lo diretamente; em seguida, vigia a mansão do conde Hall e entrega a correspondência de emergência a [[Susie]] após intervir para espantar um cão que a perseguia.
+
+Envia com [[Fors Wall]] carta anônima à polícia relatando os vestígios da cena do crime e apontando [[Qilangos]] como suspeito, gerando o repasse do caso aos [[Punidores Mandatários]] e o alerta geral entre as equipes oficiais. Para evitar interrogatórios hostis e escapar do pirata, refugia-se com Fors em um apartamento no Burgo Cherwood, lamentando o risco de perder a oportunidade de capturar o fugitivo e financiar a fórmula de [[Seq 8 - Xerife|Xerife]] para recuperar o legado de sua família.
