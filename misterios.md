@@ -16,7 +16,7 @@ tags:
 - Qual o significado do símbolo de Olho Sem Pupila e linhas contorcidas atrás da cadeira d'[[Klein Moretti|O Tolo]] e das constelações que se alteram sozinhas atrás dos membros do [[Clube de Tarô]]?
 - Qual a origem dos sussurros "Hornacis... Flegrea..." escutados por [[Klein Moretti]] ao consumir poções de [[Seq 9 - Vidente|Vidente]] e [[Seq 8 - Palhaço|Palhaço]]?
 - Por que a carta invertida d'[[Klein Moretti|O Tolo]] reaparece sistematicamente em adivinhações ligadas ao destino do [[Caderno da Família Antigonus]]?
-- Quais são os limites práticos e a extensão das capacidades do [[Corpo Espiritual]] ao ser convocado da [[Névoa Cinza]] para o mundo físico através da [[Porta da Invocação]]?
+- Quais a mecânica e os rituais necessários para que o Sr. Tolo conceda itens materiais do espaço Acima da [[Névoa Cinza]] diretamente a fiéis e membros do [[Clube de Tarô]]?
 
 ## As Coincidências e os Incidentes em Tingen
 

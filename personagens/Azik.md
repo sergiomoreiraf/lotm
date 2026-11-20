@@ -51,5 +51,7 @@ Recebe a visita de [[Klein Moretti]] em sua residência e esclarece que o espír
 
 Comunica a Klein sua decisão de deixar [[Cidade Tingen|Tingen]] em breve para buscar seu passado em outros locais, temendo ter afugentado o manipulador com suas investigações. Para manterem comunicação e permitirem que Klein o avise caso o inimigo se exponha, entrega a ele o [[Apito de Cobre de Azik]], demonstrando a invocação e dispersão de um colossal mensageiro de ossos brancos oriundo do submundo.
 
+Recebe através do mensageiro esquelético uma correspondência anônima de [[Klein Moretti]], na qual este o alerta sobre a presença de [[Qilangos]] e da luva [[Fome Rastejante]] em [[Backlund]] e solicita esclarecimentos teóricos sobre rituais de sacrifício.
+
 
 
