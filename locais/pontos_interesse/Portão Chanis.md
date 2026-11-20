@@ -16,11 +16,14 @@ Guarda também as cinzas e restos mortais de [[Santa Selena]], uma Beyonder de a
 
 A área interna armazena fórmulas de poções, materiais mágicos, prisioneiros sobrenaturais, registros semestrais compilados pela Santa Catedral sobre eventos sobrenaturais de diversas dioceses e itens místicos.
 
+Sua arquitetura interior é composta por uma passarela larga pavimentada com antigas lajes de pedra, ladeada por portas pesadas que identificam seções como Ingredientes, Poções e Informações. Ao fundo da passagem, escadas de pedra descem para níveis subterrâneos inferiores onde ficam selados os [[Artefatos Selados]]. A atmosfera interna é marcada por chamas azuis estáveis em castiçais de prata e por uma emanação fria constante que causa calafrios na espiritualidade de quem ingressa; sob a [[Visão Espiritual]], revela-se uma densa e intrincada malha de finas linhas pretas tricotadas que constituem a força de vedação mágica do recinto. A guarda permanente no interior é mantida voluntariamente por cinco [[Falcões Noturnos]] veteranos vestidos em túnicas pretas clássicas e portando lanternas de celeiro.
+
 ## Eventos no Local
 
 - Palco da reunião onde [[Dunn Smith]] e [[Klein Moretti]] assinam o contrato de contratação civil de Klein.
 - Palco da escala de guarda de [[Klein Moretti]] no sábado, onde [[Dunn Smith]] ordena que o portão jamais seja aberto a partir de barulhos externos, devendo ser aberto apenas pelo lado de dentro.
 - Palco da anomalia do [[Artefato Selado 3-0625]], cujas defesas místicas e cinzas de [[Santa Selena]] arrastaram o artefato de volta para a contenção após ele forçar uma fenda incitado pela influência recente do [[Caderno da Família Antigonus]].
+- Palco da primeira entrada de [[Klein Moretti]] além do portão mediante requisição formal aprovada por [[Dunn Smith]] e registrada por [[Seeka Tron]], recolhendo Agente Sedativo, extrato de Amanta e remédio Olho do Espírito na Sala de Poções para conduzir mediunidade em [[Hood Eugen]].
 
 ## Proprietários e Frequentadores
 

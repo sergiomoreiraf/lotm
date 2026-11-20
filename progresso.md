@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 183 - Uma Lição de Mediunidade
+- **Último Capítulo Processado:** Capítulo 184 - Atrás do Portão
