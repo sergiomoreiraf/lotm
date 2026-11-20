@@ -23,3 +23,5 @@ Tiveram a autorização formal de [[Klein Moretti|O Tolo]] concedida a [[Audrey 
 Tiveram a presença de membros confirmada na [[Cidade Tingen]], onde o psiquiatra [[Daxter Guderian]] e o paciente [[Hood Eugen]] atuam no [[Asilo Mental de Greenhill]]. Daxter foi recrutado por Hood Eugen e aceitou estabelecer uma cooperação limitada como informante velado para [[Klein Moretti]] e os [[Falcões Noturnos]].
  
 Realizaram uma pequena reunião de troca de itens e experiências no [[Condado de Awwa]]. Por terem sido fundados nos últimos trezentos anos, seus membros de média sequência desconhecem os princípios fundamentais do [[Método de Atuação]]. Suas teorias descrevem a consciência individual como uma ilha, o subconsciente como o mar subjacente e o subconsciente coletivo como o oceano ao redor, concepções consideradas heréticas e malignas pelos escalões da [[Igreja da Deusa da Noite Eterna]].
+
+Foram apontados por [[Lanevus]] durante sua abordagem a [[Hood Eugen]] como uma organização fraca e incapaz de fornecer apoio suficiente para o avanço a altas sequências, sendo descritos pelo golpista como vinculados, em certo sentido, à mesma presença oculta que o apoiava.

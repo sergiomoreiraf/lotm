@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 184 - Atrás do Portão
+- **Último Capítulo Processado:** Capítulo 185 - Mundo Espiritual
