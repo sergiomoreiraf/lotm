@@ -69,8 +69,9 @@ tags:
 
 - Qual a verdadeira natureza e poderes do [[Artefato Selado 0-08]], e quais as razões da corrupção e fuga de [[Ince Zangwill]]?
 - Qual a entidade ou presença secreta com quem [[Leonard Mitchell]] conversa, e qual a natureza de sua singularidade pessoal que o faz se equiparar a Klein?
-- O que motivou [[Qilangos]] a assassinar o [[Barão Gramir]] e se infiltrar no baile do [[Duque Negan]] em [[Backlund]], e qual o item que ele busca na capital?
 - O que representam os delírios misteriosos ouvidos por [[Fors Wall]] durante as noites de lua cheia e que perigos acarretam à sua sanidade?
+- O que contém a carta com o mistério de Deus criado pelo Imperador [[Roselle Gustav]] prometida como paga a [[Qilangos]]?
+- Quem encomendou a [[Qilangos]] o assassinato do [[Duque Negan]] e por que a paga seria uma carta?
 - Qual a origem da luva mágica [[Fome Rastejante]] e como Qilangos obteve um item com poderes equivalentes ao de um [[Seq 5 - Pastor|Pastor]]?
 - Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e quem é seu cúmplice em Tingen?
 - Quem é o [[Senhor Z|Sr. Z]], destinatário das cartas de Sirius Arapis a quem foi prometido o massacre ritualístico dos habitantes de Tingen?

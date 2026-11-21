@@ -12,3 +12,5 @@ tags:
 Na [[Catedral do Vento Sagrado]], no Burgo Cherwood de [[Backlund]], revisa relatórios de investigação sobre o [[Qilangos|Contra-Almirante Furacão]] quando a névoa cinzenta invade seu campo de visão e o Tolo lhe apresenta uma cena censurada da prece de Justiça: o pirata infiltrado no baile do [[Duque Negan]] sob a identidade do [[Barão Gramir]], com a suspeita de usar o poder de alteração de aparência da [[Fome Rastejante]].
 
 Saúda o Tolo e, sozinho outra vez, mede o poder da divindade por manifestar-se dentro de um templo consagrado ao [[Senhor das Tempestades]]; decide então procurar o cardeal [[Ace Snake]], Arcebispo da diocese de [[Backlund]], para que a Igreja assuma a caçada, disposto a matar Qilangos pessoalmente ou a garantir que ele esteja realmente morto.
+
+Chega à [[Mansão do Duque Negan]] entre os Beyonders que acompanham o arcebispo [[Ace Snake]] e os [[Punidores Mandatários]], tarde demais: as janelas quebradas e os Beyonders deixando o local confirmam que o [[Qilangos|Contra-Almirante Furacão]] escapara.

@@ -13,3 +13,4 @@ Uma sequência Beyonder associada à [[Igreja da Deusa da Noite Eterna]]. É a S
 
 - **Invasão e Controle de Sonhos:** Habilidade de entrar em sonhos de outros indivíduos de forma oculta, guiar pensamentos e extrair informações dos alvos adormecidos.
 - **Entrelaçamento entre Sonho e Realidade:** Tende a sofrer de lapsos de memória e esquecimento involuntário devido à constante sobreposição entre sonhos e realidade, exigindo esforço contínuo para diferenciar o real do fictício.
+- **Corpo Preso ao Sonho:** Ao arrastar um alvo para um sonho, o Beyonder desta sequência não pode mover o próprio corpo — restrição que não se aplica ao estado Pesadelo obtido por itens mágicos que replicam a habilidade, cujo portador age livremente enquanto o alvo permanece preso na ilusão.

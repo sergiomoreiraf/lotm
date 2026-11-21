@@ -36,6 +36,7 @@ Cronologia geral dos eventos históricos documentados ao longo da leitura de _Lo
 - **1336:** Aprovada a [[Lei dos Pobres de 1336]], que limita a cinco dias a permanência de carentes em casas de trabalho do [[Reino Loen]].
 - **Data Indeterminada (Recente):** Ocorre a revogação da [[Lei dos Grãos]] após protestos nas ruas.
 - **Data Indeterminada (Recente):** O navio de carga Alfalfa sofre um saque do pirata [[Nast]] e, em seguida, um motim de loucura mística no [[Oceano Berserk]], episódio conhecido como a [[Tragédia da Alfalfa]].
+- **Data Indeterminada (Recente):** Ocorre a [[Tentativa de Assassinato do Duque Negan]]: [[Qilangos]] ataca o duque durante um baile em [[Backlund]], descobre que o alvo é um Beyonder e foge; a [[Igreja do Senhor das Tempestades]] chega ao local tarde demais.
 
 ## Cidade de Prata (Localização Desconhecida)
 

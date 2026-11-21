@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 189 - Orações e Respostas
+- **Último Capítulo Processado:** Capítulo 190 - Variedade de Habilidades
