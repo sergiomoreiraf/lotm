@@ -17,6 +17,7 @@ Item mágico de nome verdadeiro desconhecido, designado pelo codinome **Fome Ras
 - Torna-se transparente quando ativada, de modo que a luva é indetectável a olho nu e ao toque.
 - Quando ativada para combate iminente, sua superfície negra estremece como se viva e cobre-se com uma camada de escamas de ouro opaco, tornando os olhos do usuário de tom ouro pálido e indiferentes; também pode assumir escamas de ouro escuro, com as íris do portador ficando pálidas e verticais.
 - O portador pode empregar simultaneamente seus próprios poderes Beyonder e as habilidades da alma que estiver controlando.
+- Canaliza o poder de [[Sacerdote da Luz]] guardado em uma das almas: a luva emite uma luz radiante como ouro puro e faz descer do céu um pilar de brilho ardente que desintegra mortos-vivos e evapora mãos espectrais.
 - Seus efeitos são comparados aos de um [[Seq 5 - Pastor|Pastor]], Sequência 5 do [[Caminho do Suplicante de Segredos]], cuja característica é engolir almas e empregar as habilidades delas — o que levanta a suspeita de que outros [[Artefatos Selados]] repliquem poderes de Beyonders.
 
 ## Limitações frente a um Pastor
@@ -32,6 +33,7 @@ Item mágico de nome verdadeiro desconhecido, designado pelo codinome **Fome Ras
 - [[Alger Wilson|O Enforcado]] relata no [[Clube de Tarô]] que [[Qilangos]] passou a dispor de um repertório quase irrestrito de poderes desde que colocou as mãos no item, tornando-se um alvo muito difícil de enfrentar.
 - A necessidade de alimentá-lo com uma pessoa viva em dias alternados é apontada por [[Audrey Hall|Justiça]] como uma das pistas mais importantes para localizar [[Qilangos]].
 - É manifestado por [[Qilangos]] durante a emboscada contra [[Fors Wall]] e [[Xio Derecha]] no Burgo Leste de [[Backlund]], exibindo escamas de ouro opaco na luva antes de as presas escaparem por teletransporte.
+- É acionada por [[Qilangos]] contra os esqueletos de quatro metros que o emboscam em [[Backlund]], dissipando um deles com o pilar de luz do [[Sacerdote da Luz]] antes de o pirata ser cercado por mais de cem monstros idênticos.
 
 ## Nível de Periculosidade
 

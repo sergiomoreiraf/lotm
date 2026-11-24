@@ -9,4 +9,4 @@ Grupo formado pelos sete piratas almirantes mais poderosos dos mares conhecidos.
 
 ## Integrantes Conhecidos
 
-- [[Qilangos]] — Codinome Contra-Almirante Furacão.
+- [[Qilangos]] — Codinome Contra-Almirante Furacão; morto em [[Backlund]] por um atacante desconhecido.

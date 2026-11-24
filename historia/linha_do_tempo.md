@@ -37,6 +37,7 @@ Cronologia geral dos eventos históricos documentados ao longo da leitura de _Lo
 - **Data Indeterminada (Recente):** Ocorre a revogação da [[Lei dos Grãos]] após protestos nas ruas.
 - **Data Indeterminada (Recente):** O navio de carga Alfalfa sofre um saque do pirata [[Nast]] e, em seguida, um motim de loucura mística no [[Oceano Berserk]], episódio conhecido como a [[Tragédia da Alfalfa]].
 - **Data Indeterminada (Recente):** Ocorre a [[Tentativa de Assassinato do Duque Negan]]: [[Qilangos]] ataca o duque durante um baile em [[Backlund]], descobre que o alvo é um Beyonder e foge; a [[Igreja do Senhor das Tempestades]] chega ao local tarde demais.
+- **Data Indeterminada (Recente):** Ocorre a [[Morte de Qilangos]]: o Contra-Almirante Furacão é morto por um atacante desconhecido após escapar do baile, com a suspeita de um Beyonder de alta sequência do caminho da [[Morte]].
 
 ## Cidade de Prata (Localização Desconhecida)
 

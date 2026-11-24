@@ -17,7 +17,7 @@ Alger Wilson é um homem de manto azul-escuro com bordados de raios, que navega 
 - [[O Interrogatório no Porto Pritz]] — Interroga um pirata em Porto Pritz e descobre a comissão que Qilangos cumpre em Backlund.
 - [[A Reunião e a Sondagem sobre a Atuação]] — Sonda O Sol sobre os pontos importantes do método de atuação durante a reunião do Clube de Tarô.
 - [[O Alerta sobre Qilangos e o Perfil do Pirata]] — Revela o objeto que Qilangos busca em Backlund, deduz sua ascensão entre os Reis Piratas e fornece o perfil de hábitos do alvo.
-- [[A Denúncia do Tolo e a Busca pelo Cardeal]] — Recebe do Tolo a cena da oração de Justiça sobre o disfarce de Qilangos e decide procurar o cardeal Ace Snake.
+- [[A Denúncia do Tolo e a Busca pelo Cardeal]] — Recebe do Tolo a cena da oração de Justiça sobre o disfarce de Qilangos, procura o cardeal Ace Snake e testemunha a morte do pirata, atribuída por ele a um adorador do Tolo.
 
 ## Eventos Arquivados
 

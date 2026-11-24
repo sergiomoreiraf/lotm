@@ -24,7 +24,7 @@ Recebe o [[Artefato Selado 2-049]] e o [[Caderno da Família Antigonus]], escolt
 - **Burgo do Porto:** Distrito portuário da capital onde foram notados desaparecimentos atípicos de vagabundos durante a caçada a [[Qilangos]].
 - **Burgo Norte:** Distrito que abriga instalações judiciais e a prisão temporária de Backlund e concentra, com a Ponte de Backlund, a maior população de vagabundos da capital.
 - **Burgo Leste:** Distrito populoso de classe trabalhadora onde operam gangues e agiotas.
-- **Burgo Hillston:** Distrito onde fica a casa escura e sombria do detetive [[Isengard Stanton]].
+- **Burgo Hillston:** Distrito onde fica a casa escura e sombria do detetive [[Isengard Stanton]] e que concentra o centro financeiro da capital.
 - **Burgo Cherwood:** Distrito ribeirinho do [[Rio Tussock]], vizinho ao Burgo Oeste. Abriga a [[Catedral do Vento Sagrado]], antiga sede da [[Igreja do Senhor das Tempestades]].
 - **Burgo Oeste:** Distrito da capital às margens do [[Rio Tussock]], também referido como Oeste de Backlund e distinto do homônimo de [[Cidade Tingen]].
 - **Ponte de Backlund:** Área da capital com a maior concentração de vagabundos, apontada por [[Isengard Stanton]] como centro do provável raio de atividade de [[Qilangos]].
