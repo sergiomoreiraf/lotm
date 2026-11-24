@@ -17,6 +17,8 @@ Organiza e sedia um grande baile de gala em sua mansão no Burgo Imperatriz, atr
 
 Usa com preferência o uniforme da marinha em ocasiões formais, em memória de décadas de serviço militar ilustre; engordou muito desde então, e seus olhos cinza outrora afiados tornaram-se turvos e cheios de desejo, embora conserve cabelo preto espesso e poucas rugas. Reage sem pânico à tentativa de assassinato de [[Qilangos]] durante seu baile e o enfrenta pessoalmente, revelando-se um Beyonder de força considerável.
 
+Reúne-se em seu escritório particular com o cardeal [[Ace Snake]], o primeiro-ministro [[Aguesid Negan]] e outros, concluindo que o assassino de [[Qilangos]] é um Beyonder de alta sequência desconhecido, talvez amparado por uma organização oculta que pode ter representantes entre os convidados do baile, e determina apurar sua identidade, seus propósitos em [[Backlund]] e o motivo do crime. Também concede a [[Audrey Hall]] sua propriedade de férias na [[Baía de Desi]] como parte da recompensa e concorda em manter em segredo a participação dela.
+
 ## Poderes e Recursos
 
 - **Aprisionar:** ergue uma parede transparente e viscosa ao redor do alvo, que fica imóvel como um inseto em âmbar.

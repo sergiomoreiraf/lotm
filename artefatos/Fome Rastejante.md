@@ -7,7 +7,7 @@ aliases:
 
 # Fome Rastejante
 
-Item mágico de nome verdadeiro desconhecido, designado pelo codinome **Fome Rastejante** pelas pessoas que tiveram contato com ele. Encontra-se em poder do pirata [[Qilangos]], o Contra-Almirante Furacão.
+Item mágico de nome verdadeiro desconhecido, designado pelo codinome **Fome Rastejante** pelas pessoas que tiveram contato com ele. Esteve em poder do pirata [[Qilangos]], o Contra-Almirante Furacão, até sua morte.
 
 ## Características e Poderes
 
@@ -34,6 +34,7 @@ Item mágico de nome verdadeiro desconhecido, designado pelo codinome **Fome Ras
 - A necessidade de alimentá-lo com uma pessoa viva em dias alternados é apontada por [[Audrey Hall|Justiça]] como uma das pistas mais importantes para localizar [[Qilangos]].
 - É manifestado por [[Qilangos]] durante a emboscada contra [[Fors Wall]] e [[Xio Derecha]] no Burgo Leste de [[Backlund]], exibindo escamas de ouro opaco na luva antes de as presas escaparem por teletransporte.
 - É acionada por [[Qilangos]] contra os esqueletos de quatro metros que o emboscam em [[Backlund]], dissipando um deles com o pilar de luz do [[Sacerdote da Luz]] antes de o pirata ser cercado por mais de cem monstros idênticos.
+- Após a morte de [[Qilangos]], é tomada pelo assassino de identidade desconhecida, conforme relato do [[Conde Hall]].
 
 ## Nível de Periculosidade
 
@@ -41,4 +42,5 @@ Item mágico de nome verdadeiro desconhecido, designado pelo codinome **Fome Ras
 
 ## Portadores Conhecidos
 
-- [[Qilangos]] — Portador atual.
+- [[Qilangos]] — Portador até sua morte.
+- Assassino não identificado — Portador após a morte de [[Qilangos]].

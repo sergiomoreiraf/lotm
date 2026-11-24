@@ -20,6 +20,7 @@ Audrey Hall é uma jovem nobre, filha de um conde da influente família Hall, re
 - [[A Investigação de Qilangos e o Perfil do Alvo]] — Resumo da caçada a Qilangos e coleta do perfil de hábitos do pirata com O Enforcado.
 - [[A Digestão do Espectador e a Pista de Balam]] — Completa a digestão de Espectador, avalia o relatório da caçada a Qilangos e responde à correspondência de Alfred Hall no Continente Sul.
 - [[O Baile e a Oração ao Tolo]] — Identifica o disfarce de Qilangos no baile do Duque Negan, alerta o Conde Hall, ora ao Tolo e, depois, suspeita que o Clube de Tarô tenha matado o pirata.
+- [[A Recompensa e o Segredo da Justiça]] — Deduz a autoria do Tolo na morte de Qilangos, recebe a recompensa e decide ocultar sua identidade de Justiça.
 
 ## Eventos Arquivados
 

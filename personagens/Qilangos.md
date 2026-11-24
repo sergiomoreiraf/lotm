@@ -38,3 +38,5 @@ Provoca a queda do lustre de cristal do salão com lâminas de vento para disper
 Despista os perseguidores com o vento após cruzar um lago artificial e planeja simular uma fuga pela vala do [[Rio Tussock]] antes de virar para o centro financeiro da capital, mas é emboscado: seu campo de visão satura-se em cores pastel, mãos pálidas sobem da água escura e esqueletos de quatro metros com chamas negras nas órbitas o cercam.
 
 Desintegra um dos esqueletos com o poder do [[Sacerdote da Luz]] canalizado pela luva [[Fome Rastejante]], mas mais de cem monstros idênticos surgem ao seu redor. Morre em menos de vinte segundos, com o rosto apodrecendo, a carne se desprendendo em líquido amarelo-esverdeado e restando apenas uma caveira, sem que o autor do ataque seja identificado.
+
+Sua morte é anunciada pela imprensa de [[Backlund]] como obra do guarda-costas do [[Duque Negan]], e as recompensas por ela — oferecidas pelo [[Reino Loen]], pela [[Império Intis|República Intis]], pelo [[Feysac|Império Feysac]] e por outras organizações — chegam a cerca de quarenta mil libras.

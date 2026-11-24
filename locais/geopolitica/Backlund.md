@@ -22,7 +22,7 @@ Recebe o [[Artefato Selado 2-049]] e o [[Caderno da Família Antigonus]], escolt
 
 - **Burgo Imperatriz:** Um distrito luxuoso que abriga residências de famílias nobres e de alta classe, como a [[Vila da Família Hall]] e a [[Mansão do Duque Negan]], além de jardins municipais públicos patrocinados pela nobreza.
 - **Burgo do Porto:** Distrito portuário da capital onde foram notados desaparecimentos atípicos de vagabundos durante a caçada a [[Qilangos]].
-- **Burgo Norte:** Distrito que abriga instalações judiciais e a prisão temporária de Backlund e concentra, com a Ponte de Backlund, a maior população de vagabundos da capital.
+- **Burgo Norte:** Distrito que abriga instalações judiciais e a prisão temporária de Backlund e concentra, com a Ponte de Backlund, a maior população de vagabundos da capital. Nele fica o hotel onde [[Azik]] se hospeda durante suas buscas.
 - **Burgo Leste:** Distrito populoso de classe trabalhadora onde operam gangues e agiotas.
 - **Burgo Hillston:** Distrito onde fica a casa escura e sombria do detetive [[Isengard Stanton]] e que concentra o centro financeiro da capital.
 - **Burgo Cherwood:** Distrito ribeirinho do [[Rio Tussock]], vizinho ao Burgo Oeste. Abriga a [[Catedral do Vento Sagrado]], antiga sede da [[Igreja do Senhor das Tempestades]].

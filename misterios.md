@@ -72,7 +72,8 @@ tags:
 - O que representam os delírios misteriosos ouvidos por [[Fors Wall]] durante as noites de lua cheia e que perigos acarretam à sua sanidade?
 - O que contém a carta com o mistério de Deus criado pelo Imperador [[Roselle Gustav]] prometida como paga a [[Qilangos]]?
 - Quem encomendou a [[Qilangos]] o assassinato do [[Duque Negan]] e por que a paga seria uma carta?
-- Quem matou o [[Qilangos|Contra-Almirante Furacão]] em [[Backlund]] e por qual motivo?
+- Quem matou o [[Qilangos|Contra-Almirante Furacão]] em [[Backlund]] — um adorador do [[Klein Moretti|Sr. Tolo]], o professor [[Azik]] ou outro Beyonder — e por qual motivo?
+- Qual é a luva fina como pele humana que [[Azik]] examina em [[Backlund]], por que ele sente já tê-la usado antes e se ela é a [[Fome Rastejante]] tomada de [[Qilangos]]?
 - Qual a origem da luva mágica [[Fome Rastejante]] e como Qilangos obteve um item com poderes equivalentes ao de um [[Seq 5 - Pastor|Pastor]]?
 - Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e quem é seu cúmplice em Tingen?
 - Quem é o [[Senhor Z|Sr. Z]], destinatário das cartas de Sirius Arapis a quem foi prometido o massacre ritualístico dos habitantes de Tingen?

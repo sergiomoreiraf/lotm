@@ -57,5 +57,7 @@ Responde a [[Klein Moretti]] detalhando os passos fundamentais de um ritual de s
 
 Recebe outro aviso anônimo de [[Klein Moretti]], entregue pelo mensageiro esquelético: o de que [[Qilangos]] se infiltrou no baile do [[Duque Negan]] disfarçado de [[Barão Gramir]].
 
+Hospeda-se em um hotel no Burgo Norte de [[Backlund]] e examina sob a luz de um lampião a gás uma luva muito fina, semelhante a pele humana, que pareceria uma mão verdadeira se preenchida de carne e sangue; após contemplá-la longamente, tem o rosto contorcido pela dor e murmura que parece já tê-la usado antes.
+
 
 

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 191 - A Morte do Contra-Almirante Furacão
+- **Último Capítulo Processado:** Capítulo 192 - Atenção
