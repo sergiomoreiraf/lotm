@@ -39,3 +39,9 @@ Ao acompanhar Xio até a residência de Darkholme no Burgo Leste, depara-se com 
 Concorda com a estratégia de [[Xio Derecha]] de envolver a polícia para atrair forças oficiais contra [[Qilangos]], argumentando que compreender o verdadeiro objetivo do pirata na capital facilitará sua localização; em seguida, recusa invadir a mansão do conde Hall pelo alto risco de ser capturada por Beyonders a serviço da nobreza e aguarda com Xio a saída de [[Susie]] para despachar o aviso urgente.
 
 Envia com [[Xio Derecha]] denúncia anônima detalhada à polícia para deflagrar a caçada oficial a [[Qilangos]] por meio dos [[Punidores Mandatários]]. Abandona o endereço anterior e esconde-se com Xio em aposento no Burgo Cherwood, temendo as abordagens de organizações oficiais contra Beyonders não autorizados e confidenciando sua aflição com delírios enigmáticos que costuma escutar durante as noites de lua cheia.
+
+### O Desfecho da Caçada
+
+A caminho da agência do Banco de Varvat no Burgo Cherwood, é surpreendida pelo anúncio de jornaleiro sobre a morte de [[Qilangos]] em [[Backlund]] e confirma a notícia no Jornal de Tussock, avaliando que apenas [[Xio Derecha]] ficaria sob o foco dos [[Punidores Mandatários]] e dos [[Falcões Noturnos]], por ter feito a denúncia, enquanto ela própria permanece como autora de best-sellers.
+
+Decide não procurar [[Audrey Hall|Justiça]] por iniciativa própria, aguardando que a cliente a contate por causa dos detalhes ocultos em torno da morte do pirata, e considera que a decisão de Qilangos de agir às pressas e cair na emboscada decorreu em parte do trabalho das duas, esperando receber ao menos metade da recompensa.

@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 192 - Atenção
+- **Último Capítulo Processado:** Capítulo 193 - Chegando ao Fim

@@ -21,3 +21,5 @@ Durante a adivinhação onírica conduzida por [[Klein Moretti]], revela-se que 
 Reanima como zumbi atraído pela aura do [[Apito de Cobre de Azik]] e tenta atacar Klein, sendo derrubado por um golpe de bengala nas costelas e posto em sono temporário com o Amuleto do Sono; em seguida, tem a corrupção purificada definitivamente por um ritual dedicado à [[Deusa da Noite Eterna]], que o devolve ao descanso eterno.
 
 Uma adivinhação subsequente realizada por [[Klein Moretti]] com uma moeda de latão confirma a ausência de fatores sobrenaturais diretos em seu falecimento, indicando infarto fulminante.
+
+Sua viúva [[Viúva de Maynard]], filha do líder do [[Partido Novo]], recusa a conclusão do departamento de polícia e contrata a [[Companhia de Segurança Espinho Negro]] para investigar [[Madame Sharon]] por conta própria.

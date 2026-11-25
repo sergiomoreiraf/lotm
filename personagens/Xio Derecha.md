@@ -38,3 +38,9 @@ Dirige-se com [[Fors Wall]] à residência de Darkholme no Burgo Leste para cobr
 Propõe a [[Fors Wall]] denunciar a morte de Darkholme à polícia para mobilizar os Beyonders oficiais e forçar [[Qilangos]] a cometer erros sob perseguição pública, visando capturar apenas seu rastro e a recompensa sem confrontá-lo diretamente; em seguida, vigia a mansão do conde Hall e entrega a correspondência de emergência a [[Susie]] após intervir para espantar um cão que a perseguia.
 
 Envia com [[Fors Wall]] carta anônima à polícia relatando os vestígios da cena do crime e apontando [[Qilangos]] como suspeito, gerando o repasse do caso aos [[Punidores Mandatários]] e o alerta geral entre as equipes oficiais. Para evitar interrogatórios hostis e escapar do pirata, refugia-se com Fors em um apartamento no Burgo Cherwood, lamentando o risco de perder a oportunidade de capturar o fugitivo e financiar a fórmula de [[Seq 8 - Xerife|Xerife]] para recuperar o legado de sua família.
+
+### O Desfecho da Caçada
+
+Ao lado de [[Fors Wall]], é surpreendida pelo anúncio da morte de [[Qilangos]] em [[Backlund]], compra um exemplar do Jornal de Tussock e estranha que o pirata tenha sido abatido antes de concluída a apuração de seus motivos, cogitando que os [[Punidores Mandatários]], os [[Falcões Noturnos]], a [[Mente Coletiva da Maquinaria]] e os militares tenham cooperado em uma emboscada.
+
+Decide evitar a esfera de influência da delegacia que acionou e aguardar o pagamento de [[Audrey Hall|Justiça]], mantendo o plano de usar os recursos na fórmula de [[Seq 8 - Xerife|Xerife]].

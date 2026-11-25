@@ -30,6 +30,7 @@ tags:
 - Qual a origem e causa da anomalia mística na gravidez de [[Megose]], cujo feto cantarola no ventre?
 - Qual o verdadeiro propósito de [[Lanevus]] ao articular um altar com a cruz do [[O Criador|Verdadeiro Criador]] e qual a sua ligação com a conspiração apocalíptica da [[Ordem Aurora]] em [[Cidade Tingen]]?
 - Qual a causa real e as motivações ocultas na morte súbita do parlamentar [[John Maynard|Maynard]], cuja viúva [[Madame Sharon]] demonstrou extrema calma em sua aura espiritual?
+- Quais crimes a [[Viúva de Maynard]] espera provar contra [[Madame Sharon]] ao contratar uma investigação particular na [[Companhia de Segurança Espinho Negro]]?
 - Quem é o herético da [[Ordem Aurora]] infiltrado na polícia de [[Cidade Tingen]]?
 
 ## Azik, Lamud e o Culto à Morte

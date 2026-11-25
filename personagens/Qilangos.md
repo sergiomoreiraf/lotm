@@ -40,3 +40,5 @@ Despista os perseguidores com o vento após cruzar um lago artificial e planeja 
 Desintegra um dos esqueletos com o poder do [[Sacerdote da Luz]] canalizado pela luva [[Fome Rastejante]], mas mais de cem monstros idênticos surgem ao seu redor. Morre em menos de vinte segundos, com o rosto apodrecendo, a carne se desprendendo em líquido amarelo-esverdeado e restando apenas uma caveira, sem que o autor do ataque seja identificado.
 
 Sua morte é anunciada pela imprensa de [[Backlund]] como obra do guarda-costas do [[Duque Negan]], e as recompensas por ela — oferecidas pelo [[Reino Loen]], pela [[Império Intis|República Intis]], pelo [[Feysac|Império Feysac]] e por outras organizações — chegam a cerca de quarenta mil libras.
+
+A repercussão alcança [[Cidade Tingen|Tingen]] na manhã seguinte, e os jornais o tratam como o primeiro dos [[Sete Grandes Piratas Almirantes]] abatido por um governo, com dez mil libras oferecidas pela autoria do feito e prêmios equivalentes da [[Império Intis|República Intis]], do [[Feysac|Império Feysac]], de [[Feynapotter]] e de organizações mercantes.
