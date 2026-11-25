@@ -22,4 +22,6 @@ Reanima como zumbi atraído pela aura do [[Apito de Cobre de Azik]] e tenta atac
 
 Uma adivinhação subsequente realizada por [[Klein Moretti]] com uma moeda de latão confirma a ausência de fatores sobrenaturais diretos em seu falecimento, indicando infarto fulminante.
 
+A conclusão é revista quando a mesma afirmação, repetida acima da [[Névoa Cinza]], retorna positiva: sua morte decorreu de influências sobrenaturais, e a resposta anterior havia sido influenciada ou interrompida. [[Klein Moretti]] passa a suspeitar que o crime visava remover um futuro membro da Câmara dos Comuns do [[Partido Novo|Novo Partido]].
+
 Sua viúva [[Viúva de Maynard]], filha do líder do [[Partido Novo]], recusa a conclusão do departamento de polícia e contrata a [[Companhia de Segurança Espinho Negro]] para investigar [[Madame Sharon]] por conta própria.

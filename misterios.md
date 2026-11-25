@@ -29,9 +29,10 @@ tags:
 - Qual o paradeiro do golpista [[Lanevus]] e das dez mil libras roubadas, e se ele atua como um [[Seq 8 - Trapaceiro|Vigarista]] Beyonder?
 - Qual a origem e causa da anomalia mística na gravidez de [[Megose]], cujo feto cantarola no ventre?
 - Qual o verdadeiro propósito de [[Lanevus]] ao articular um altar com a cruz do [[O Criador|Verdadeiro Criador]] e qual a sua ligação com a conspiração apocalíptica da [[Ordem Aurora]] em [[Cidade Tingen]]?
-- Qual a causa real e as motivações ocultas na morte súbita do parlamentar [[John Maynard|Maynard]], cuja viúva [[Madame Sharon]] demonstrou extrema calma em sua aura espiritual?
+- Quem causou sobrenaturalmente a morte do parlamentar [[John Maynard|Maynard]] — a própria [[Madame Sharon]], uma Beyonder confirmada, ou alguém que a apoia — e por que a primeira adivinhação de [[Klein Moretti]] foi bloqueada?
 - Quais crimes a [[Viúva de Maynard]] espera provar contra [[Madame Sharon]] ao contratar uma investigação particular na [[Companhia de Segurança Espinho Negro]]?
 - Por que o quarto de [[Madame Sharon]] exala um afrodisíaco usado como perfume, capaz de afetar o corpo de quem entra?
+- Qual divindade representa a [[Estátua de Deusa com Cabelos de Olhos]] escondida no cofre de [[Madame Sharon]] e qual sua ligação com a [[Seita Demoníaca]]?
 - Quem é o herético da [[Ordem Aurora]] infiltrado na polícia de [[Cidade Tingen]]?
 
 ## Azik, Lamud e o Culto à Morte
@@ -78,7 +79,7 @@ tags:
 - O que o professor [[Azik]] se lembrou ao obter a [[Fome Rastejante]] e por que sente já tê-la usado antes?
 - Qual a origem da luva mágica [[Fome Rastejante]] e como Qilangos obteve um item com poderes equivalentes ao de um [[Seq 5 - Pastor|Pastor]]?
 - Como [[Azik]] conseguirá vedar a [[Fome Rastejante]] antes que ela consuma seu próprio portador?
-- Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e quem é seu cúmplice em Tingen?
+- Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e se sua cúmplice em Tingen é [[Madame Sharon]]?
 - Quem é o [[Senhor Z|Sr. Z]], destinatário das cartas de Sirius Arapis a quem foi prometido o massacre ritualístico dos habitantes de Tingen?
 - O líder da Reunião Secreta de Backlund, [[Sr. A]], é de fato um Oráculo da [[Ordem Aurora]]?
 - Qual a extensão das atividades e da rede de membros infiltrados dos [[Alquimistas da Psicologia]] em Backlund e Tingen?

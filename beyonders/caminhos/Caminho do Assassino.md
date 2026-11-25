@@ -1,11 +1,15 @@
 ---
 tags:
   - caminho
+aliases:
+  - Caminho da Demônia
 ---
 
 # Caminho do Assassino
 
 Caminho Beyonder associado à [[Seita Demoníaca]] e à [[Ordem da Teosofia]]. É um caminho focado em agilidade, furtividade, manipulação de desejos malignos e transformações místicas.
+
+Também é designado como caminho da Demônia por [[Klein Moretti]], que suspeita que [[Madame Sharon]] compartilhe a mesma linhagem de [[Trissy]].
 
 ## Sequências Descobertas
 

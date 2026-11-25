@@ -26,3 +26,9 @@ Torna-se alvo de uma investigação particular: a [[Viúva de Maynard]], inconfo
 É descrita pela irmã de Maynard como mulher de grande influência em Tingen, cujos amantes teriam pressionado o departamento de polícia a declarar que o parlamentar morrera de bebida em excesso e de indulgência contínua no prazer sexual.
 
 Passa a ser seguida por subordinados de um chefe de quadrilha contratado por [[Klein Moretti]] e, na noite de um banquete do [[Partido Conservador]], tem a [[Residência de Madame Sharon|casa]] invadida por ele; em seu quarto, o cheiro de um afrodisíaco usado como perfume deixa o invasor tonto antes que ele se acalme com [[Cogitação]].
+
+### O Cofre e o Ídolo Oculto
+
+É confirmada como Beyonder pela adivinhação de [[Klein Moretti]] acima da [[Névoa Cinza]], depois de o mesmo teste falhar no mundo real. Em seu quarto guarda uma pintura a óleo inacabada de si mesma nua, ao lado das telas, paletas, pincéis e de um espelho de corpo inteiro, e em um cofre de aço de um metro de altura mantém barras de ouro, dinheiro, joias, documentos selados e a fotografia em preto e branco de um jovem de feições muito semelhantes às suas.
+
+No compartimento oculto do cofre, voltado para a parede, esconde pomadas, fragrâncias, ervas em pó e a [[Estátua de Deusa com Cabelos de Olhos]]. A descoberta leva Klein a suspeitar que ela pertença ao mesmo caminho Beyonder de [[Trissy]] — o que explicaria a permanência prolongada da Instigadora em [[Cidade Tingen|Tingen]] — e a supor que a morte de [[John Maynard|Maynard]] tenha servido para remover um futuro membro da Câmara dos Comuns do [[Partido Novo|Novo Partido]].

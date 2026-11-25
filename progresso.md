@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 194 - Infiltração
+- **Último Capítulo Processado:** Capítulo 195 - Klein, O Especialista em Arrombamento
