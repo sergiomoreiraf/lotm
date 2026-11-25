@@ -57,7 +57,8 @@ Responde a [[Klein Moretti]] detalhando os passos fundamentais de um ritual de s
 
 Recebe outro aviso anônimo de [[Klein Moretti]], entregue pelo mensageiro esquelético: o de que [[Qilangos]] se infiltrou no baile do [[Duque Negan]] disfarçado de [[Barão Gramir]].
 
+### A Fome Rastejante e a Morte de Qilangos
+
 Hospeda-se em um hotel no Burgo Norte de [[Backlund]] e examina sob a luz de um lampião a gás uma luva muito fina, semelhante a pele humana, que pareceria uma mão verdadeira se preenchida de carne e sangue; após contemplá-la longamente, tem o rosto contorcido pela dor e murmura que parece já tê-la usado antes.
 
-
-
+Responde a uma carta de [[Klein Moretti]] com uma única frase — que obteve a [[Fome Rastejante]] e se lembrou de algo —, confirmando ser o assassino de [[Qilangos]] e um Beyonder de alta sequência. Não revela o que recordou e recebe de volta a advertência de que a luva anseia por carne, sangue e alma de humanos vivos, precisando de um método de vedação seguro.

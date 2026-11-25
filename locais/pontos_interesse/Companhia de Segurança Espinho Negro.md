@@ -19,6 +19,7 @@ A Companhia de Segurança Espinho Negro é uma empresa de segurança privada loc
 - O departamento de polícia aprova o pedido do capitão e transfere dois policiais que se depararam com incidentes sobrenaturais para atuarem como escriturários da companhia.
 - [[Klein Moretti]] comparece ao escritório num sábado e apresenta a [[Dunn Smith]], na sala do capitão, o pedido especial de avanço com base na digestão completa da poção de [[Seq 9 - Vidente|Vidente]].
 - A [[Viúva de Maynard]] contrata a companhia, na área da recepção, para rastrear e vigiar [[Madame Sharon]] e reunir provas de seus crimes, sendo atendida por [[Dunn Smith]] na presença de [[Klein Moretti]] e [[Rozanne]].
+- O contrato de vigilância de Madame Sharon é redigido por [[Rozanne]] e assinado mediante depósito de vinte libras, cabendo a [[Klein Moretti]] executar o serviço.
 
 ## Proprietários e Frequentadores
 

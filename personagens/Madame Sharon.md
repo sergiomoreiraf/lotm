@@ -11,10 +11,18 @@ Considerada a viúva mais bela da [[Cidade Tingen]], é uma socialite influente 
 
 ## Evolução narrativa
 
+### A Morte de Maynard
+
 Envolve-se secretamente com o parlamentar [[John Maynard|Maynard]] em um quarto de hóspedes durante uma recepção na [[Residência de John Maynard]], momento em que o político sofre fortes dores no peito e falece.
 
 Seu retrato é desenhado por meio de magia ritualística por [[Klein Moretti]] a partir das memórias espirituais do cadáver e imediatamente reconhecido pelo [[Inspetor Tolle]], tornando-se a principal testemunha e suspeita na apuração das circunstâncias da morte de Maynard.
 
 Presta depoimento à polícia alegando ter consumido álcool com Maynard, cedido ao descontrole íntimo e fugido apavorada para seu quarto de hóspedes ao presenciar o ataque cardíaco do parlamentar. Sob a observação da Visão Espiritual de [[Klein Moretti]], finge fragilidade e pavor diante das acusações da [[Viúva de Maynard]], mas sua aura revela calma absoluta e racionalidade fria sob o tom azul de suas emoções.
 
+### A Vigilância da Viúva
+
 Torna-se alvo de uma investigação particular: a [[Viúva de Maynard]], inconformada com a conclusão do departamento de polícia, contrata a [[Companhia de Segurança Espinho Negro]] para rastreá-la e vigiá-la em busca de provas de seus crimes.
+
+É descrita pela irmã de Maynard como mulher de grande influência em Tingen, cujos amantes teriam pressionado o departamento de polícia a declarar que o parlamentar morrera de bebida em excesso e de indulgência contínua no prazer sexual.
+
+Passa a ser seguida por subordinados de um chefe de quadrilha contratado por [[Klein Moretti]] e, na noite de um banquete do [[Partido Conservador]], tem a [[Residência de Madame Sharon|casa]] invadida por ele; em seu quarto, o cheiro de um afrodisíaco usado como perfume deixa o invasor tonto antes que ele se acalme com [[Cogitação]].

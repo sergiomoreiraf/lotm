@@ -15,6 +15,7 @@ Um pub localizado na Rua Besik, na [[Cidade Tingen]], utilizado como canal secre
 - Indicado por [[Dunn Smith]] a [[Klein Moretti]] como o ponto de contato inicial para comunicar sua decisão de ingresso na equipe civil.
 - Palco da visita de [[Klein Moretti]], que observa apostas de caça de ratos por cães nas gaiolas do bar e contata [[Wright]] para aceitar a proposta de emprego.
 - Utilizado por [[Daxter Guderian]] para contratar mercenários locais e transmitir com urgência a [[Wright]] uma carta confidencial endereçada a [[Klein Moretti]].
+- Palco do acordo de [[Klein Moretti]] com um chefe de quadrilha local: por cinco libras, os subordinados do criminoso passam a vigiar [[Madame Sharon]] e a registrar sua rotina diária em desenhos e símbolos.
 
 ## Proprietários e Frequentadores
 

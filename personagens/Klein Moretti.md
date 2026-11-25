@@ -36,7 +36,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Estado Espiritual e a Auto-Convocação]] — Abre a Porta da Invocação acima da névoa, projeta seu Corpo Espiritual em Tingen, acessa o interior do Portão Chanis para retirar sedativos e infiltra-se no quarto de Hood Eugen.
 - [[A Morte de Hood Eugen e a Mensagem do Submundo]] — Escapa do mundo espiritual em colapso de Hood Eugen, testemunha sua execução por Dunn Smith e recebe uma carta do mensageiro esquelético.
 - [[A Resposta de Azik e o Ritual de Sacrifício]] — Recebe os princípios técnicos do ritual de sacrifício por correspondência de Azik, identifica seus símbolos místicos de O Tolo e assume investigações sobre Lanevus.
-- [[O Fim da Caçada e a Missão da Viúva]] — Acompanha a repercussão da morte de Qilangos na imprensa, encerra sua frente de apuração sobre Lanevus e reconhece a viúva de Maynard ao contratar a vigilância de Sharon.
+- [[O Fim da Caçada e a Missão da Viúva]] — Acompanha a repercussão da morte de Qilangos na imprensa, encerra sua frente de apuração sobre Lanevus, reconhece a viúva de Maynard ao contratar a vigilância de Sharon, assume a missão de monitorá-la e invade a casa dela durante um banquete.
 
 ## Eventos Arquivados
 
