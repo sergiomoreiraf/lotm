@@ -32,3 +32,9 @@ Passa a ser seguida por subordinados de um chefe de quadrilha contratado por [[K
 É confirmada como Beyonder pela adivinhação de [[Klein Moretti]] acima da [[Névoa Cinza]], depois de o mesmo teste falhar no mundo real. Em seu quarto guarda uma pintura a óleo inacabada de si mesma nua, ao lado das telas, paletas, pincéis e de um espelho de corpo inteiro, e em um cofre de aço de um metro de altura mantém barras de ouro, dinheiro, joias, documentos selados e a fotografia em preto e branco de um jovem de feições muito semelhantes às suas.
 
 No compartimento oculto do cofre, voltado para a parede, esconde pomadas, fragrâncias, ervas em pó e a [[Estátua de Deusa com Cabelos de Olhos]]. A descoberta leva Klein a suspeitar que ela pertença ao mesmo caminho Beyonder de [[Trissy]] — o que explicaria a permanência prolongada da Instigadora em [[Cidade Tingen|Tingen]] — e a supor que a morte de [[John Maynard|Maynard]] tenha servido para remover um futuro membro da Câmara dos Comuns do [[Partido Novo|Novo Partido]].
+
+### A Percepção da Invasão
+
+Retorna à casa em um vestido preto, dispensa as servas e sobe ao segundo andar. Ao abrir a porta do quarto, seus olhos se concentram em fios finos quase transparentes, sem o brilho da espiritualidade e semelhantes a cabelos alterados patologicamente, todos rasgados e caídos no chão; semicerrando os olhos, volta o foco para o grosso cofre de metal cinza.
+
+É apontada por [[Klein Moretti]] como membro da [[Seita Demoníaca]], suspeita reforçada pelo reconhecimento da estátua do cofre como imagem da [[Demônia Primordial]], e [[Dunn Smith]] a considera provavelmente de uma Sequência superior a 7.

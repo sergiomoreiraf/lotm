@@ -15,6 +15,8 @@ Na [[Quarta Época]], era conhecida como Família Demoníaca e contava com reduz
 
 Permanece ativa desde a última Época, mantendo a reputação de disseminar catástrofes e massacres rituais.
 
+A [[Estátua de Deusa com Cabelos de Olhos]] guardada no cofre de [[Madame Sharon]] é reconhecida por [[Dunn Smith]] como a imagem da [[Demônia Primordial]], e a descoberta leva [[Klein Moretti]] a apontar a socialite como membro da seita.
+
 ## Funcionamento e Regras
 
 - **Estrutura de Liderança:** Todos os escalões superiores da organização são compostos exclusivamente por mulheres para obter o favor de sua divindade. Para preservar a hegemonia feminina, matavam os pais de seus filhos e abandonavam os bebês do sexo masculino.

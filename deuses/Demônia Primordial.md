@@ -11,6 +11,12 @@ Uma existência secreta e divindade proibida adorada pela [[Seita Demoníaca]].
 
 - É especulada por [[Alger Wilson|O Enforcado]] como uma das possíveis identidades secretas ou formas antigas de [[Klein Moretti|O Tolo]].
 
+## Aparência
+
+- É representada como uma mulher extremamente bela, de cabelos muito compridos até os tornozelos, cada fio grosso como uma cobra venenosa e com olhos nas pontas.
+- Essa imagem é reconhecida por [[Dunn Smith]] na descrição da [[Estátua de Deusa com Cabelos de Olhos]] encontrada no cofre de [[Madame Sharon]].
+- [[Klein Moretti]] a compara a outros deuses malignos de aparência antropomórfica, como o [[Sábio Oculto]] e o [[O Criador|Verdadeiro Criador]], em contraste com os símbolos sem imagem real dos deuses ortodoxos.
+
 ## Dogmas e Culto
 
 - **Origem e Papel:** Seus fiéis acreditam que ela nasceu do Caos, sendo a primeira criação emanada do corpo do Criador e a herdeira direta de sua essência.

@@ -32,7 +32,6 @@ tags:
 - Quem causou sobrenaturalmente a morte do parlamentar [[John Maynard|Maynard]] — a própria [[Madame Sharon]], uma Beyonder confirmada, ou alguém que a apoia — e por que a primeira adivinhação de [[Klein Moretti]] foi bloqueada?
 - Quais crimes a [[Viúva de Maynard]] espera provar contra [[Madame Sharon]] ao contratar uma investigação particular na [[Companhia de Segurança Espinho Negro]]?
 - Por que o quarto de [[Madame Sharon]] exala um afrodisíaco usado como perfume, capaz de afetar o corpo de quem entra?
-- Qual divindade representa a [[Estátua de Deusa com Cabelos de Olhos]] escondida no cofre de [[Madame Sharon]] e qual sua ligação com a [[Seita Demoníaca]]?
 - Quem é o herético da [[Ordem Aurora]] infiltrado na polícia de [[Cidade Tingen]]?
 
 ## Azik, Lamud e o Culto à Morte
@@ -62,6 +61,7 @@ tags:
 - Por que o [[Eterno Sol Ardente]] demonstra extrema hostilidade ao [[Senhor das Tempestades]] e ao [[Deus do Conhecimento e da Sabedoria]], e o que significa a revelação "anjo branco puro"?
 - A lenda de que o [[Sábio Oculto]] era uma lei de numerologia espiritual que ganhou vida e se corrompeu em deus maligno é verdadeira?
 - Por que a cúpula da [[Igreja da Deusa da Noite Eterna]] mantém sigilo estrito e impõe juramentos sobre as razões do [[Método de Atuação]]?
+- Por que os deuses ortodoxos são representados apenas por símbolos, sem imagem real, enquanto os deuses malignos possuem aparências antropomórficas?
 - Quais são os outros caminhos compatíveis para [[Troca de Caminhos]] em Altas Sequências além dos já conhecidos, e quais seriam as vias vizinhas ao [[Caminho do Vidente]]?
 - Qual o segredo da [[Cidade de Prata]]: como preservaram o [[Método de Atuação]], por que seus mortos viram espíritos malignos se não forem executados por parentes e por que foram abandonados pelo [[O Criador|Senhor que criou tudo]] em quem ainda creem?
 - Quais são os materiais substitutos para poções cujas criaturas originais foram quase extintas, como a [[Glândula Pituitária Completa de Salamandra Arco-Íris Madura|salamandra arco-íris]] do [[Caminho do Espectador]]?
@@ -79,7 +79,7 @@ tags:
 - O que o professor [[Azik]] se lembrou ao obter a [[Fome Rastejante]] e por que sente já tê-la usado antes?
 - Qual a origem da luva mágica [[Fome Rastejante]] e como Qilangos obteve um item com poderes equivalentes ao de um [[Seq 5 - Pastor|Pastor]]?
 - Como [[Azik]] conseguirá vedar a [[Fome Rastejante]] antes que ela consuma seu próprio portador?
-- Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e se sua cúmplice em Tingen é [[Madame Sharon]]?
+- Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e se sua cúmplice em Tingen é [[Madame Sharon]], apontada como membro da [[Seita Demoníaca]]?
 - Quem é o [[Senhor Z|Sr. Z]], destinatário das cartas de Sirius Arapis a quem foi prometido o massacre ritualístico dos habitantes de Tingen?
 - O líder da Reunião Secreta de Backlund, [[Sr. A]], é de fato um Oráculo da [[Ordem Aurora]]?
 - Qual a extensão das atividades e da rede de membros infiltrados dos [[Alquimistas da Psicologia]] em Backlund e Tingen?

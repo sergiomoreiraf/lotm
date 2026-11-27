@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 195 - Klein, O Especialista em Arrombamento
+- **Último Capítulo Processado:** Capítulo 196 - Espelho do Médium Espiritual

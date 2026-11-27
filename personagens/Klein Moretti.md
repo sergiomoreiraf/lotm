@@ -38,6 +38,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[A Resposta de Azik e o Ritual de Sacrifício]] — Recebe os princípios técnicos do ritual de sacrifício por correspondência de Azik, identifica seus símbolos místicos de O Tolo e assume investigações sobre Lanevus.
 - [[O Fim da Caçada e a Missão da Viúva]] — Acompanha a repercussão da morte de Qilangos na imprensa, encerra sua frente de apuração sobre Lanevus, reconhece a viúva de Maynard ao contratar a vigilância de Sharon, assume a missão de monitorá-la e invade a casa dela durante um banquete.
 - [[O Segredo no Cofre de Sharon]] — Confirma por adivinhação que Sharon é uma Beyonder e encontra no cofre dela um compartimento oculto com um ídolo demoníaco.
+- [[A Caçada a Madame Sharon]] — Abandona a infiltração com o retorno da moradora, leva a Dunn a identificação da Demônia Primordial e integra a equipe que parte para capturá-la.
 
 ## Eventos Arquivados
 

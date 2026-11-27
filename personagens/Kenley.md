@@ -33,4 +33,10 @@ Preocupa-se que o efeito purificador do emblema afete o cavalo da carruagem e co
 
 Cronometra o tempo restante de tolerância ao emblema e propõe resolver as assombrações antes de revezar a guarda, aprovando o plano de [[Klein Moretti]] de turnos individuais após recusar o cálculo de rotação.
 
+### A Caçada a Madame Sharon
+
+É escolhido por [[Dunn Smith]] entre os membros disponíveis para completar a equipe de três que permite requisitar um Artefato Selado, preterindo [[Frye]] por o alvo estar ligado à [[Seita Demoníaca]] e ter pouco a ver com espíritos mortos.
+
+Recebe do capitão o [[Artefato Selado 3-0217|Espelho do Médium Espiritual]], confessa ser sua primeira operação tão perigosa e segue tenso para a Rua Osna, emprestando sua bengala a [[Klein Moretti]].
+
 
