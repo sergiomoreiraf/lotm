@@ -20,9 +20,12 @@ A residência de [[Madame Sharon]] fica na Rua Osna, no Burgo Leste da [[Cidade 
 - É abandonada às pressas por [[Klein Moretti]] quando [[Madame Sharon]] retorna de carruagem; ele deixa o local pelo cano de água e pelo muro oposto sem fechar o ferrolho da porta da varanda.
 - Ao voltar, [[Madame Sharon]] dispensa as servas e encontra os fios quase transparentes da parede de espiritualidade rasgados no chão do quarto, voltando o olhar para o cofre.
 - Cerca de vinte minutos depois, [[Dunn Smith]], [[Klein Moretti]] e [[Kenley]] chegam à rua e encontram a casa em silêncio; a adivinhação de pêndulo de Klein indica perigo de nível médio no interior.
+- É invadida pelos [[Falcões Noturnos]]: enquanto [[Dunn Smith]] induz sono à distância, [[Klein Moretti]] e [[Kenley]] alcançam a sacada e caem em uma emboscada no quarto, onde [[Madame Sharon]] usa um espelho de corpo inteiro como ilusão e imobiliza Klein com fios invisíveis.
 
 ## Proprietários e Frequentadores
 
 - [[Madame Sharon]] (moradora).
 - Criada de Madame Sharon (funcionária).
 - [[Klein Moretti]] (invasor).
+- [[Kenley]] (invasor).
+- [[Dunn Smith]] (atacante externo).

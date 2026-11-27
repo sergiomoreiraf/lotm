@@ -18,12 +18,14 @@ O Artefato Selado 3-0217, denominado Espelho do Médium Espiritual, é um item m
 - **Manifestação Automática:** Se ninguém olhar para o espelho e houver luz no ambiente, uma imagem surge automaticamente a cada três horas.
 - **Ausência de Vida:** Não possui nenhuma característica de vida.
 - **Método de Vedação:** Deve ser armazenado em escuridão absoluta.
+- **Aura Ominosa:** Ao contato físico, provoca contração aguda na percepção espiritual, transmitindo a sensação de uma passagem para uma dimensão hostil.
 
 ## Histórico e Aparições
 
 - Pertencia originalmente a um médium espiritual e era um espelho comum até que seu dono cometeu suicídio ao olhar para ele.
 - O primeiro investigador que olhou no espelho viu uma garota soluçando de cabelos longos e, em seguida, viu a garota saindo do espelho.
 - É requisitado por [[Dunn Smith]] no [[Portão Chanis]] para a caçada a [[Madame Sharon]] e entregue a [[Kenley]] para uso operacional, sendo transportado embrulhado em um pano preto grosso.
+- Durante a invasão à [[Residência de Madame Sharon]], [[Kenley]] mira o artefato destampado contra um espelho de corpo inteiro e enxerga o próprio reflexo, fazendo surgir uma cópia sinistra de si mesmo no interior do objeto.
 
 ## Nível de Periculosidade
 

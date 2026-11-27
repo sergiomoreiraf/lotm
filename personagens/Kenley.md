@@ -39,4 +39,6 @@ Cronometra o tempo restante de tolerância ao emblema e propõe resolver as asso
 
 Recebe do capitão o [[Artefato Selado 3-0217|Espelho do Médium Espiritual]], confessa ser sua primeira operação tão perigosa e segue tenso para a Rua Osna, emprestando sua bengala a [[Klein Moretti]].
 
+Escala a residência com [[Klein Moretti]] e entra no quarto empunhando o revólver e o espelho destampado. Ao mirar em [[Madame Sharon]], é enganado pelo arranjo dos espelhos e vê o próprio reflexo projetado no artefato, fazendo surgir uma figura sinistra de si mesmo dentro do espelho.
+
 

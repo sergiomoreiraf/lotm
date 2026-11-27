@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 196 - Espelho do Médium Espiritual
+- **Último Capítulo Processado:** Capítulo 197 - Operação

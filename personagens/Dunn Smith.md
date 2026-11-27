@@ -22,7 +22,7 @@ Um inspetor de polícia do [[Reino Loen]] atuando na [[Cidade Tingen]]. Possui c
 - [[O Confronto e a Execução de Neil]] — Conduz a abordagem na residência do Velho Neil, neutraliza o amigo com o Artefato Selado 3-0611 e dispara a bala decisiva.
 - [[O Interrogatório no Asilo e a Fraude de Lanevus]] — Autoriza a requisição de sedativos no Portão Chanis e coordena a infiltração sigilosa no Asilo Mental de Greenhill.
 - [[O Encerramento da Caçada e a Missão de Sharon]] — Suspende a linha secundária da apuração sobre Lanevus, aceita o pedido de vigilância a Madame Sharon apresentado pela viúva de Maynard e transfere o caso a Klein, suspendendo seu treinamento de combate.
-- [[A Requisição do Espelho e a Caçada]] — Confirma a ligação de Sharon com a Seita Demoníaca, requisita o Artefato Selado 3-0217 e lidera a equipe de captura.
+- [[A Requisição do Espelho e a Caçada]] — Requisita o Artefato Selado 3-0217 contra Madame Sharon, coordena a equipe e aplica indução onírica à distância para apoiar a invasão.
 
 ## Eventos Arquivados
 

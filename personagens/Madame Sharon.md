@@ -38,3 +38,5 @@ No compartimento oculto do cofre, voltado para a parede, esconde pomadas, fragr�
 Retorna à casa em um vestido preto, dispensa as servas e sobe ao segundo andar. Ao abrir a porta do quarto, seus olhos se concentram em fios finos quase transparentes, sem o brilho da espiritualidade e semelhantes a cabelos alterados patologicamente, todos rasgados e caídos no chão; semicerrando os olhos, volta o foco para o grosso cofre de metal cinza.
 
 É apontada por [[Klein Moretti]] como membro da [[Seita Demoníaca]], suspeita reforçada pelo reconhecimento da estátua do cofre como imagem da [[Demônia Primordial]], e [[Dunn Smith]] a considera provavelmente de uma Sequência superior a 7.
+
+Protegida contra o sono induzido por [[Dunn Smith]] pela presença da [[Estátua de Deusa com Cabelos de Olhos|estátua sagrada]], prepara uma emboscada em seu quarto. Usa o espelho de corpo inteiro como chamariz ilusório na cadeira de balanço e, ao induzir [[Kenley]] a mirar o artefato contra o próprio reflexo, surge ao lado da armadilha e imobiliza [[Klein Moretti]] com fios invisíveis.
