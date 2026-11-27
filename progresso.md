@@ -5,4 +5,5 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 198 - Apropriando-se da Singularidade
+- **Último Capítulo Processado:** Capítulo 199 - Uma Bala para a Morte
+

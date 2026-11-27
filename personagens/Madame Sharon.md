@@ -7,7 +7,7 @@ aliases:
 
 # Madame Sharon
 
-Considerada a viúva mais bela da [[Cidade Tingen]], é uma socialite influente disputada nos círculos sociais locais e convidada frequente de banquetes tanto do Partido Conservador quanto do Partido Novo. Segunda esposa do falecido Barão Khoy, mantém, junto ao seu enteado, relações estreitas com nobres e altos funcionários públicos de [[Backlund]].
+Considerada a viúva mais bela da [[Cidade Tingen]], é uma socialite influente disputada nos círculos sociais locais e convidada frequente de banquetes tanto do Partido Conservador quanto do Partido Novo. Segunda esposa do falecido Barão Khoy, mantém, junto ao seu enteado, relações estreitas com nobres e altos funcionários públicos de [[Backlund]]. Foi desmascarada como Beyonder da [[Seita Demoníaca]] e morta em combate pelos [[Falcões Noturnos]].
 
 ## Evolução narrativa
 
@@ -42,3 +42,10 @@ Retorna à casa em um vestido preto, dispensa as servas e sobe ao segundo andar.
 Protegida contra o sono induzido por [[Dunn Smith]] pela presença da [[Estátua de Deusa com Cabelos de Olhos|estátua sagrada]], prepara uma emboscada em seu quarto. Usa o espelho de corpo inteiro como chamariz ilusório na cadeira de balanço e, ao induzir [[Kenley]] a mirar o artefato contra o próprio reflexo, surge ao lado da armadilha e imobiliza [[Klein Moretti]] com fios invisíveis.
 
 Diante dos disparos de [[Klein Moretti]], escapa do dano fragmentando o espelho de corpo inteiro em um substituto ilusório e ataca com adagas, fios restritivos e lanças de gelo. Incinera com chamas negras a entidade espectral liberada pelo [[Artefato Selado 3-0217|Espelho do Médium Espiritual]] e, ao recolher um caco de vidro do chão, captura o reflexo de [[Kenley]] e golpeia o fragmento com fogo sombrio, consumindo os órgãos vitais do oponente de dentro para fora.
+
+### A Queda e a Canalização Espiritual
+
+Encurralada por cartas de tarô que bloqueiam sua fuga e paralisada pelo reflexo decadente do [[Artefato Selado 3-0217|Espelho do Médium Espiritual]], fecha-se em um caixão de gelo para purgar aflições. Ao emergir, é subjugada pelo controle de [[Dunn Smith]] e morta por três disparos de [[Balas Antidemônios|balas de caça-demônio]] na cabeça efetuados por [[Klein Moretti]] com o esgotamento de seus substitutos de espelho.
+
+Seu espírito é canalizado por [[Klein Moretti]] através de adivinhação por sonhos, revelando que entregou o tomo de bronze com a poção de [[Seq 7 - Bruxa|Bruxa]] a [[Trissy]] e que recebia instruções de uma sacerdotisa de manto branco, segundo a qual o sexo feminino busca alcançar a santidade e a salvação da [[Demônia Primordial]] frente ao fim dos dias, enquanto os homens representam um caminho correlato de guerra.
+

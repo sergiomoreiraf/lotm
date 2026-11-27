@@ -39,6 +39,7 @@ Zhou Mingrui transmigrou para o corpo de Klein Moretti, um cidadão do [[Reino L
 - [[O Fim da Caçada e a Missão da Viúva]] — Acompanha a repercussão da morte de Qilangos na imprensa, encerra sua frente de apuração sobre Lanevus, reconhece a viúva de Maynard ao contratar a vigilância de Sharon, assume a missão de monitorá-la e invade a casa dela durante um banquete.
 - [[O Segredo no Cofre de Sharon]] — Confirma por adivinhação que Sharon é uma Beyonder e encontra no cofre dela um compartimento oculto com um ídolo demoníaco.
 - [[A Caçada a Madame Sharon]] — Abandona a infiltração inicial, confirma a ligação da socialite com a Demônia Primordial e enfrenta Sharon em combate no quarto com Kenley.
+- [[A Morte de Madame Sharon e o Segredo da Bruxa]] — Neutraliza Sharon com o espelho e disparos certeiros, presta homenagens a Kenley e obtém segredos da Seita da Demônia em ritual mediúnico.
 
 ## Eventos Arquivados
 

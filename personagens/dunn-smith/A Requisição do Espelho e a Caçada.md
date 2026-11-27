@@ -14,3 +14,6 @@ Ouve o relato de Klein sobre a fotografia do jovem parecido com a socialite e so
 Como a suspeita é provavelmente de uma Sequência superior a 7, convoca [[Kenley]] para que três membros possam solicitar um Artefato Selado e escolhe o 3-0217 por Madame Sharon pertencer à Seita Demoníaca e ter pouco a ver com espíritos mortos. Retira o espelho do porão embrulhado em pano preto grosso, encarrega Kenley de usá-lo e lidera o trio até a Rua Osna, onde aguarda a adivinhação de Klein.
 
 Apoia a dedução de Klein de que Sharon permaneceu na casa e opta por conter a suspeita à distância, iniciando uma indução ao sono antes da investida. Puxa Klein e Kenley para um sonho compartilhado sob a lua carmesim para avisar que o alvo adormeceu e autorizar a invasão, permanecendo em transe no exterior da residência para sustentar o controle mental.
+
+Rompe a janela do quarto e avista o cadáver de [[Kenley]], assumindo com pesar a culpa por ter sido enganado pela fuga de Sharon do sonho. Utiliza seu poder de indução onírica com grande esforço físico para paralisar a socialite recém-saída do casulo de gelo, viabilizando sua execução por Klein, e fecha os olhos do companheiro falecido desenhando a lua carmesim no peito antes de guardar a sala para o ritual mediúnico.
+

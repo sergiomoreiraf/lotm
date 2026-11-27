@@ -31,8 +31,6 @@ tags:
 - Qual o verdadeiro propósito de [[Lanevus]] ao articular um altar com a cruz do [[O Criador|Verdadeiro Criador]] e qual a sua ligação com a conspiração apocalíptica da [[Ordem Aurora]] em [[Cidade Tingen]]?
 - Quem causou sobrenaturalmente a morte do parlamentar [[John Maynard|Maynard]] — a própria [[Madame Sharon]], uma Beyonder da [[Seita Demoníaca]], ou alguém que a apoia?
 - Por que a presença da [[Estátua de Deusa com Cabelos de Olhos|estátua da Demônia Primordial]] perturba adivinhações próximas?
-- Quais crimes a [[Viúva de Maynard]] espera provar contra [[Madame Sharon]] ao contratar uma investigação particular na [[Companhia de Segurança Espinho Negro]]?
-- Por que o quarto de [[Madame Sharon]] exala um afrodisíaco usado como perfume, capaz de afetar o corpo de quem entra?
 - Quem é o herético da [[Ordem Aurora]] infiltrado na polícia de [[Cidade Tingen]]?
 
 ## Azik, Lamud e o Culto à Morte
@@ -68,6 +66,7 @@ tags:
 - Quais são os materiais substitutos para poções cujas criaturas originais foram quase extintas, como a [[Glândula Pituitária Completa de Salamandra Arco-Íris Madura|salamandra arco-íris]] do [[Caminho do Espectador]]?
 - Que horrores e perigos habitam atrás do [[Portão Chanis]] durante a noite para justificar a ordem de jamais abri-lo diante de ruídos externos?
 - Qual a verdadeira natureza do líquido dourado purificador extraído do [[Artefato Selado 3-0782|Emblema Sagrado do Sol Mutante]] e quem era o homem de túnica branca tombado em sacrifício diante do altar?
+- Qual é o caminho Beyonder correlato e semelhante ao da [[Seita Demoníaca]], descrito em seus ensinamentos como sinônimo de guerra e associado ao sexo masculino?
 
 ## Conspirações Atuais e Personagens
 
@@ -80,7 +79,7 @@ tags:
 - O que o professor [[Azik]] se lembrou ao obter a [[Fome Rastejante]] e por que sente já tê-la usado antes?
 - Qual a origem da luva mágica [[Fome Rastejante]] e como Qilangos obteve um item com poderes equivalentes ao de um [[Seq 5 - Pastor|Pastor]]?
 - Como [[Azik]] conseguirá vedar a [[Fome Rastejante]] antes que ela consuma seu próprio portador?
-- Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, e se sua cúmplice em Tingen é [[Madame Sharon]], apontada como membro da [[Seita Demoníaca]]?
+- Para onde fugiu a Instigadora [[Trissy]] (transformada em mulher) após saltar do trem a caminho de Backlund, agora que seu contato em Tingen, [[Madame Sharon]], foi eliminada?
 - Quem é o [[Senhor Z|Sr. Z]], destinatário das cartas de Sirius Arapis a quem foi prometido o massacre ritualístico dos habitantes de Tingen?
 - O líder da Reunião Secreta de Backlund, [[Sr. A]], é de fato um Oráculo da [[Ordem Aurora]]?
 - Qual a extensão das atividades e da rede de membros infiltrados dos [[Alquimistas da Psicologia]] em Backlund e Tingen?

@@ -27,6 +27,7 @@ O Artefato Selado 3-0217, denominado Espelho do Médium Espiritual, é um item m
 - É requisitado por [[Dunn Smith]] no [[Portão Chanis]] para a caçada a [[Madame Sharon]] e entregue a [[Kenley]] para uso operacional, sendo transportado embrulhado em um pano preto grosso.
 - Durante a invasão à [[Residência de Madame Sharon]], [[Kenley]] mira o artefato destampado contra um espelho de corpo inteiro e enxerga o próprio reflexo, fazendo surgir uma cópia sinistra de si mesmo no interior do objeto.
 - Ao ser recolhido e apontado por [[Klein Moretti]] contra [[Madame Sharon]], projeta uma mulher de vestido branco que emerge para atacar a socialite, sendo destruída logo em seguida por chamas negras.
+- Arremessado por [[Klein Moretti]] com o reflexo voltado para [[Madame Sharon]], projeta uma face contorcida, ensanguentada e em decomposição da própria socialite, infligindo-lhe dor extrema e forçando-a a consumir energia para se encapsular em gelo e chamas negras.
 
 ## Nível de Periculosidade
 
