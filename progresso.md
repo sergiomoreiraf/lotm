@@ -5,4 +5,4 @@ tags:
 
 # Progresso de Leitura: Lord of the Mysteries
 
-- **Último Capítulo Processado:** Capítulo 197 - Operação
+- **Último Capítulo Processado:** Capítulo 198 - Apropriando-se da Singularidade

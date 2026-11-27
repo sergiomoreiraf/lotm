@@ -41,4 +41,6 @@ Recebe do capitão o [[Artefato Selado 3-0217|Espelho do Médium Espiritual]], c
 
 Escala a residência com [[Klein Moretti]] e entra no quarto empunhando o revólver e o espelho destampado. Ao mirar em [[Madame Sharon]], é enganado pelo arranjo dos espelhos e vê o próprio reflexo projetado no artefato, fazendo surgir uma figura sinistra de si mesmo dentro do espelho.
 
+Sob a influência adversa de seu próprio reflexo no artefato, passa a estrangular a si mesmo com violência até ser acalmado pelo feitiço de réquiem disparado por [[Klein Moretti]]. Ao despertar em transe com a face obscurecida, salta sobre [[Madame Sharon]] imune às chamas e estacas da inimiga, mas tem seu reflexo capturado em um caco do espelho quebrado e sofre uma maldição fulminante, expelindo sangue e seus órgãos internos em chamas negras.
+
 

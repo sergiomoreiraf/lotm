@@ -29,8 +29,8 @@ tags:
 - Qual o paradeiro do golpista [[Lanevus]] e das dez mil libras roubadas, e se ele atua como um [[Seq 8 - Trapaceiro|Vigarista]] Beyonder?
 - Qual a origem e causa da anomalia mística na gravidez de [[Megose]], cujo feto cantarola no ventre?
 - Qual o verdadeiro propósito de [[Lanevus]] ao articular um altar com a cruz do [[O Criador|Verdadeiro Criador]] e qual a sua ligação com a conspiração apocalíptica da [[Ordem Aurora]] em [[Cidade Tingen]]?
-- Quem causou sobrenaturalmente a morte do parlamentar [[John Maynard|Maynard]] — a própria [[Madame Sharon]], uma Beyonder da [[Seita Demoníaca]], ou alguém que a apoia 
-— Por que a presença da [[Estátua de Deusa com Cabelos de Olhos|estátua da Demônia Primordial]] perturba adivinhações próximas?
+- Quem causou sobrenaturalmente a morte do parlamentar [[John Maynard|Maynard]] — a própria [[Madame Sharon]], uma Beyonder da [[Seita Demoníaca]], ou alguém que a apoia?
+- Por que a presença da [[Estátua de Deusa com Cabelos de Olhos|estátua da Demônia Primordial]] perturba adivinhações próximas?
 - Quais crimes a [[Viúva de Maynard]] espera provar contra [[Madame Sharon]] ao contratar uma investigação particular na [[Companhia de Segurança Espinho Negro]]?
 - Por que o quarto de [[Madame Sharon]] exala um afrodisíaco usado como perfume, capaz de afetar o corpo de quem entra?
 - Quem é o herético da [[Ordem Aurora]] infiltrado na polícia de [[Cidade Tingen]]?

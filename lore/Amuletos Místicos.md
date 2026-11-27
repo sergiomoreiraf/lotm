@@ -23,3 +23,5 @@ Acessórios forjados em metais específicos e inscritos com símbolos místicos 
 
 Posteriormente, Klein fabrica peças adicionais em prata pura com formatos variados — um semicircular dos Sonhos, dois retangulares do Sono e dois triangulares de Réquiem —, utilizando o Amuleto dos Sonhos sob o comando "Carmesim" para ingressar no sonho de [[Elizabeth]] na Sala Ágata Vermelha do [[Clube de Adivinhação]].
 
+Durante o confronto na [[Residência de Madame Sharon]], Klein aciona o Amuleto do Sono no chão para induzir torpor em área contra Sharon e [[Kenley]] — contando com sua singularidade de reter consciência em sonhos para despertar antes —, e utiliza o Amuleto de Réquiem com chamas azul-gelo para dispersar o pânico, aliviar Kenley e ampliar sua percepção intuitiva de [[Seq 8 - Palhaço|Palhaço]].
+
